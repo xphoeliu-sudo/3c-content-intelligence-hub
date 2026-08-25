@@ -14,16 +14,9 @@ BASE = os.path.dirname(__file__)
 DATA = os.path.join(BASE, "data.json")
 
 H = {
-    "User-Agent": "Mozilla/5.0 (3C Content Intelligence Hub/2.0)"
+    "User-Agent": "Mozilla/5.0 (3C Content Intelligence Hub/3.0)"
 }
 
-# =========================
-# Configuration
-# =========================
-
-# Alibaba Cloud Model Studio / Qwen
-# For China (Beijing), the legacy endpoint remains supported.
-# You can later switch to a workspace-specific endpoint if needed.
 QWEN_BASE_URL = os.getenv(
     "DASHSCOPE_BASE_URL",
     "https://dashscope.aliyuncs.com/compatible-mode/v1"
@@ -34,8 +27,6 @@ QWEN_MODEL = os.getenv(
     "qwen3.5-plus"
 )
 
-# Maximum number of items sent to AI.
-# Feed data can still contain up to 100 items.
 MAX_AI_ITEMS = 60
 MAX_FEED_ITEMS = 100
 
@@ -110,10 +101,6 @@ FEEDS = [
 ]
 
 
-# =========================
-# Helpers
-# =========================
-
 def pdate(e):
     for k in ("published", "updated"):
         if e.get(k):
@@ -131,10 +118,6 @@ def clean_text(text):
         "html.parser"
     ).get_text(" ", strip=True)
 
-
-# =========================
-# Fetch RSS
-# =========================
 
 def fetch():
     out = []
@@ -204,10 +187,6 @@ def fetch():
     return out
 
 
-# =========================
-# AI Analysis
-# =========================
-
 def ai(items):
 
     from openai import OpenAI
@@ -221,7 +200,6 @@ def ai(items):
         )
         return None
 
-    # Reduce noise and token usage.
     ai_items = items[:MAX_AI_ITEMS]
 
     client = OpenAI(
@@ -230,94 +208,189 @@ def ai(items):
     )
 
     prompt = f"""
-You are the daily 3C content intelligence analyst
-for HUAWEI overseas content operations.
+You are a senior 3C competitive content intelligence analyst
+supporting HUAWEI overseas product marketing and e-commerce teams.
 
-Analyse the collected competitor and industry content below.
+Your job is NOT to produce a general technology news summary.
+
+Your priority is to identify how major 3C competitors are
+developing products, presenting products, marketing products,
+and evolving their e-commerce content.
 
 Prioritise:
 1. Apple
 2. Samsung
 3. Garmin
 
-Also identify useful signals from Google, Xiaomi,
-Sony, Bose, YouTube and Reddit.
+Also use useful signals from Google, Xiaomi, Sony, Bose,
+YouTube and Reddit.
 
-Produce ONLY valid JSON.
+Analyse the collected items and produce ONLY valid JSON.
 
-Required structure:
+Use exactly this structure:
 
 {{
-  "signals": [
+  "productMoves": [
     {{
       "brand": "",
       "market": "",
-      "type": "",
+      "date": "",
       "priority": "HIGH|MEDIUM|LOW",
-      "title": "",
-      "summary": "",
-      "implication": "",
+      "product": "",
+      "moveType": "",
+      "whatChanged": "",
+      "whyItMatters": "",
       "url": ""
     }}
   ],
 
-  "seo": [
+  "marketingMoves": [
     {{
-      "keywordPattern": "",
       "brand": "",
       "market": "",
-      "signal": "",
-      "opportunity": ""
+      "date": "",
+      "priority": "HIGH|MEDIUM|LOW",
+      "campaignType": "",
+      "whatTheyDid": "",
+      "creativeApproach": "",
+      "whyItMatters": "",
+      "url": ""
     }}
   ],
 
-  "actions": [
-    {{
-      "priority": "P1|P2|P3",
-      "action": "",
-      "why": "",
-      "examples": ""
-    }}
-  ],
-
-  "contentMix": [
+  "ecommerceMoves": [
     {{
       "brand": "",
-      "education": 0,
-      "campaign": 0,
-      "product": 0,
-      "seo": 0
+      "market": "",
+      "date": "",
+      "priority": "HIGH|MEDIUM|LOW",
+      "pageType": "",
+      "structureOrMessaging": "",
+      "consumerBenefit": "",
+      "whyItMatters": "",
+      "url": ""
+    }}
+  ],
+
+  "huaweiActions": [
+    {{
+      "priority": "P1|P2|P3",
+      "area": "PRODUCT|MARKETING|ECOMMERCE|CONTENT",
+      "observation": "",
+      "recommendedAction": "",
+      "example": ""
     }}
   ]
 }}
 
-Rules:
+ANALYSIS PRIORITIES
 
-- Source facts must be traceable to the supplied URLs.
+PRODUCT MOVES:
+Focus on:
+- New products
+- Product launches
+- New features
+- AI features
+- Hardware innovation
+- Materials and design
+- Health and fitness capabilities
+- Audio technology
+- Camera technology
+- Battery and charging
+- Software/product experience
+- Product positioning
+- New product variants
+- Product ecosystem development
+
+Do NOT merely repeat product specifications.
+Identify what is genuinely new or strategically notable.
+
+MARKETING MOVES:
+Focus on:
+- New campaigns
+- Product launch campaigns
+- Brand films
+- Social campaigns
+- Video formats
+- Influencer/KOL activity
+- Community storytelling
+- Seasonal campaigns
+- Local-market campaigns
+- Product storytelling
+- New creative concepts
+- New ways of demonstrating product benefits
+
+Prioritise HOW the product is marketed rather than simply
+reporting that a campaign exists.
+
+E-COMMERCE MOVES:
+This is a high-priority category.
+
+Look for:
+- PDP structure changes
+- Hero section changes
+- Selling-point sequencing
+- Product comparison
+- Product selector
+- Scenario storytelling
+- Feature modules
+- Video modules
+- Interactive modules
+- How-to modules
+- Technical explanation
+- Benefit-led copy
+- Product cards
+- Comparison tables
+- FAQ
+- Cross-selling
+- Bundling
+- CTA strategy
+- New page navigation
+- New ways of explaining complex technology
+
+Important:
+Only classify something as an e-commerce move when the source
+actually provides evidence of an e-commerce/product-page change.
+Do NOT invent PDP changes from a normal product launch article.
+
+HUAWEI ACTIONS:
+Turn the strongest observations into practical recommendations
+for HUAWEI overseas content operations.
+
+Recommendations should be specific and usable by:
+- Product page teams
+- E-commerce content teams
+- Social/content teams
+- Video teams
+- Product marketing teams
+
+Examples of useful recommendations:
+- Introduce a scenario-led PDP module
+- Move a technical feature closer to its consumer benefit
+- Use a short demonstration video instead of static specification copy
+- Build a stronger pre/during/post-use storytelling structure
+- Add a product comparison module
+- Localise campaign storytelling for specific markets
+
+Do NOT make generic recommendations such as
+"create more engaging content".
+
+GENERAL RULES:
+- Source facts must be traceable to supplied URLs.
 - Never invent metrics, launches, features or campaign results.
 - Strategic implications are analysis, not facts.
-- Keep the analysis concise.
 - Use professional British English.
-- Focus on:
-  launches,
-  campaigns,
-  PDP/product messaging,
-  SEO/how-to,
-  video/social formats,
-  AI,
-  health,
-  fitness,
-  audio,
-  community,
-  local-market storytelling.
-- Keep no more than 10 signals.
-- Keep no more than 10 SEO items.
-- Keep no more than 8 actions.
-- contentMix should contain only brands for which meaningful
-  content signals exist.
-- If the data is insufficient, return fewer items rather
-  than inventing information.
-- Do NOT wrap the JSON in Markdown code fences.
+- Be concise and information-dense.
+- Keep no more than 8 productMoves.
+- Keep no more than 8 marketingMoves.
+- Keep no more than 8 ecommerceMoves.
+- Keep no more than 6 huaweiActions.
+- Only include genuinely useful signals.
+- If there is insufficient evidence, return fewer items.
+- Do not force every brand into every category.
+- Avoid generic technology news.
+- Avoid repetitive items about the same product.
+- Do not include a separate SEO section.
 
 ITEMS:
 
@@ -336,8 +409,8 @@ ITEMS:
             input=prompt,
         )
 
-        # Print actual usage when available.
         if getattr(res, "usage", None):
+
             usage = res.usage
 
             input_tokens = getattr(
@@ -367,7 +440,6 @@ ITEMS:
 
         txt = res.output_text.strip()
 
-        # Remove accidental Markdown code fences.
         txt = re.sub(
             r"^```json\s*",
             "",
@@ -392,10 +464,6 @@ ITEMS:
 
         return None
 
-
-# =========================
-# Main
-# =========================
 
 def main():
 
@@ -423,7 +491,6 @@ def main():
         .isoformat()
     )
 
-    # If AI succeeds
     if result:
 
         result["updatedAt"] = now
@@ -435,12 +502,15 @@ def main():
         old = {}
 
         if os.path.exists(DATA):
+
             try:
+
                 with open(
                     DATA,
                     encoding="utf-8"
                 ) as f:
                     old = json.load(f)
+
             except Exception:
                 old = {}
 
@@ -466,7 +536,6 @@ def main():
             "AI analysis completed successfully."
         )
 
-    # If AI fails, keep the dashboard alive
     else:
 
         if os.path.exists(DATA):
