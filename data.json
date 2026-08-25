@@ -1,215 +1,267 @@
 {
-  "updatedAt": "2026-08-25T11:45:26.452861+08:00",
-  "timezone": "Asia/Kuala_Lumpur",
-  "markets": [
-    "Global",
-    "Malaysia",
-    "UK",
-    "Indonesia",
-    "Japan"
-  ],
   "signals": [
     {
-      "brand": "Samsung",
-      "market": "Malaysia",
-      "type": "Launch",
+      "brand": "Apple",
+      "market": "United States",
+      "type": "Product Launch",
       "priority": "HIGH",
-      "title": "Galaxy Event August 2026 is set for 27 August",
-      "summary": "Samsung Malaysia says the event will introduce the newest addition to the Galaxy S26 family, framing the launch around camera, AI and the latest One UI.",
-      "implication": "For HUAWEI launches, establish one experience narrative before splitting the product into individual feature stories.",
-      "url": "https://news.samsung.com/my/invitation-galaxy-event-august-2026"
+      "title": "Apple Upgrade hardware leasing programme launches",
+      "summary": "Apple introduced a new hardware leasing programme available online and in stores, enabling easier access to devices.",
+      "implication": "Competitors may need to emphasise financing flexibility to maintain accessibility against premium pricing.",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/"
+    },
+    {
+      "brand": "Apple",
+      "market": "European Union",
+      "type": "Regulatory",
+      "priority": "HIGH",
+      "title": "Apple announces changes for apps in the European Union",
+      "summary": "Apple announced changes to business terms for apps in the EU following collaboration with the European Commission.",
+      "implication": "Regulatory compliance messaging must be precise to avoid reputational risk in key markets.",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/"
     },
     {
       "brand": "Samsung",
       "market": "Global",
-      "type": "Health / AI",
+      "type": "PDP Messaging",
       "priority": "HIGH",
-      "title": "Samsung is turning health AI into a connected-care story",
-      "summary": "Samsung's recent Newsroom content frames AI around simpler, more connected health care rather than presenting AI only as a standalone feature.",
-      "implication": "Lead with the consumer outcome and everyday health scenario; let the underlying AI technology support the story.",
-      "url": "https://news.samsung.com/global/"
+      "title": "Samsung promotes easier switch to Galaxy Z Fold8",
+      "summary": "Content focuses on reducing friction for users switching to the new Galaxy Z Fold8 device.",
+      "implication": "Migration guides and data transfer tools are critical conversion levers for foldable segments.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOWVZdkJJVGFySFB5RFIyeUlfbmx0dHZMTGhxTUtQMnpCd01GcDZmNlp4aEhNd0VxWmdUa2VKbmhra3ZzOFphaU9kcV9UZkQ2UUFRak5xWlJSVTRMV3FlVUQ3dFdqSkxDaFFSX3M3UGYzUmlMcThUbWYwQUZLVXl0dUttVFpJSnZE?oc=5"
     },
     {
       "brand": "Samsung",
-      "market": "Malaysia",
+      "market": "Global",
       "type": "Campaign",
       "priority": "MEDIUM",
-      "title": "Samsung continues experience-led foldable storytelling",
-      "summary": "Recent Malaysia Newsroom content emphasises the foldable range as an experience and lifestyle proposition, supported by product films and launch storytelling.",
-      "implication": "Track the balance between product proof and lifestyle storytelling when planning HUAWEI launch assets.",
-      "url": "https://news.samsung.com/my/"
+      "title": "Samsung showcases gaming solutions at Gamescom 2026",
+      "summary": "Samsung plans an immersive exhibition highlighting wide-ranging gaming solutions at Gamescom 2026.",
+      "implication": "Gaming ecosystems remain a key battleground for hardware differentiation beyond specs.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVHBYM1ZNY3JJZ0J5SXRLZ2EzaFg4aVBkVTAwQVRzcHhTRnhGV3hucG00MEhGVFBITkJrMk8zZzhldUlSaDZYSWx1dHR5NkxPSnc3aG9Ca2NoX0lxdnJzWXJsbHNmT2YyZUZ6VmpYRGJjanR3WXFTeDNVdVdTaUVIdVpfSGV4UUs2MGNYSDNhTmdsRU1EbmphMkp0UVpZNXdiM2hXY3hTd1h2UFp0ZHFUODIyRndCenhkTnQtaEd1dXlOZw?oc=5"
     },
     {
       "brand": "Garmin",
       "market": "Global",
-      "type": "SEO / Education",
+      "type": "Health Research",
       "priority": "HIGH",
-      "title": "Garmin keeps publishing searchable sport and buying education",
-      "summary": "Recent Garmin Blog topics include daily suggested workouts, golf-watch selection, CIRQA fitness tracking, Outdoor Maps+ and product-selection questions.",
-      "implication": "Build a durable HUAWEI search-content matrix around How to, What is and Which watch is right for me.",
-      "url": "https://www.garmin.com/en-CA/blog/"
+      "title": "REACT study evaluates impact of daily movement on arterial health",
+      "summary": "Garmin published findings from the REACT study linking daily movement to arterial health improvements.",
+      "implication": "Science-backed health claims enhance credibility for wearable marketing beyond basic tracking.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPazRPTzZpT2ZiY0VIWnNhb3ZRcHNhT1ZYUUVFY3ZhTVVWWlhadmhNLW16MS14MDlJLUh5Qk5mZkd4WGF4M3gxQXZ5dmVvd015T2NucXRtS2dhMGtvazFzQjBmMGVzcm9WM2x3aE1aZVpSYnVfWjBELXJHOEFVYXRzZ3prVTE3b0NvcFQ5OUFVeGlTZ201MVVDOEtDR3hzU3Z0M0pvcG1yNjZydU0?oc=5"
     },
     {
       "brand": "Garmin",
-      "market": "Malaysia",
-      "type": "Local Campaign",
-      "priority": "HIGH",
-      "title": "Garmin Malaysia localises brand storytelling around community and movement",
-      "summary": "Garmin Malaysia's 'Celebrate Lokal' campaign connects local creativity, community and everyday movement with the brand.",
-      "implication": "Local cultural storytelling can make a global wearable proposition feel more relevant in APAC markets.",
-      "url": "https://www.garmin.com.my/news/"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Malaysia",
-      "type": "Retail Experience",
+      "market": "Global",
+      "type": "Education",
       "priority": "MEDIUM",
-      "title": "Garmin uses flagship retail as a product-education and community hub",
-      "summary": "Garmin's Southeast Asia retail activity combines products, education, community events and sport-specific experiences.",
-      "implication": "Consider content that connects product education with community and real-world sport participation, not only product pages.",
-      "url": "https://www.garmin.com/en-PH/newsroom/press-release/news-2026-aug-megamall/"
+      "title": "Guidance on training with purpose versus basic ride tracking",
+      "summary": "Content educates users on transitioning from basic tracking to purposeful training methodologies.",
+      "implication": "Educational content drives engagement by positioning devices as coaching tools.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ3lBY1Rod1JvN3VVVU1UeWJQOVViUE00WjlYdnhaUTRQVXVGTTVPeHd5Z204MnQxNmxzdXEwMU9peFdQN2phQk84ZGI1Q09NSEluNXdsSWl6VU94NnpHQlNpejZuQkdwMG9udFVlelliZTBTZDl0czgwQ2pHX1pjOWIyZHFjSEUxRng3cGQ1UlVZNGIyUmp3Tk1Ddm5fYzFlVlMycw?oc=5"
+    },
+    {
+      "brand": "Google",
+      "market": "Global",
+      "type": "AI Feature",
+      "priority": "HIGH",
+      "title": "Pixel 11 Pro introduces AI tech support agent",
+      "summary": "The Pixel 11 Pro now includes a dedicated AI agent for technical support assistance.",
+      "implication": "AI utility in customer support is becoming a tangible product feature differentiator.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV2VPUFU0b0R3TFVwSmdaaGpKUWNMWUNTWjBMSlRjVUc2dDRIazdmSU5DRTdzdG9FbFM5LTUtcDBJeU9UVGcyYWhBdmxLMTFlcHNvQ0dKc2RWTkZveTF0LWVQQWNVcWdUMWw0NjdKamlaNXRiYkUtaEFsUGFya25lTk1xV0E4Q2c1UDFOYjF1MGtkMXJoMTZta0Zn?oc=5"
     },
     {
       "brand": "Apple",
       "market": "Global",
-      "type": "AI / Product Storytelling",
+      "type": "Ecosystem",
       "priority": "MEDIUM",
-      "title": "Apple continues benefit-first AI and product storytelling",
-      "summary": "Apple Newsroom remains a core source for tracking how Apple frames intelligence, health, devices and everyday experiences.",
-      "implication": "Monitor language shifts around AI, health and assistance; benchmark headline simplicity and benefit-first hierarchy.",
-      "url": "https://www.apple.com/newsroom/"
+      "title": "Apple Maps to power navigation for Ford UEV Platform",
+      "summary": "Apple Maps will be integrated directly into Ford's UEV Platform via MapKit for Automotive SDK.",
+      "implication": "Automotive integration content should highlight seamless cross-device navigation experiences.",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/"
+    },
+    {
+      "brand": "Bose",
+      "market": "Global",
+      "type": "Review",
+      "priority": "LOW",
+      "title": "RTINGS lists best earbuds for gaming of 2026",
+      "summary": "Industry reviewers are categorising earbuds specifically for gaming performance in 2026.",
+      "implication": "Gaming audio is a distinct niche requiring specific performance messaging.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43WU9USXVxN0w1UFo0Y1MtUWZIZXhPM3UtTHNQNG5ZaHRkX0NNWUJPN0VBWE1IWVhZNDFMNFYyNzZkRXlWMElaa0FHdlFzaVg0Vk5HbWQ1V3EtU19Kcjl0OGpLYVo0MlotUlBkT0ZB?oc=5"
+    },
+    {
+      "brand": "Xiaomi",
+      "market": "Global",
+      "type": "Supply Chain",
+      "priority": "MEDIUM",
+      "title": "Xiaomi launches Xring O3 chip with TSMC 3nm production",
+      "summary": "Xiaomi announced a new chip produced via TSMC's 3nm process, signalling advanced semiconductor capability.",
+      "implication": "Chipset partnerships are key narrative points for performance leadership claims.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10X1ZZTXZhVUx2WlhwM1hzSXBncDJLQkljUXpKSzFIMGtPSnBOSDJUVjZWYVUzZ05UR3FZV2RvZDNxQW9VQ2lrQkprRktEVVA5MFNPMl9oNHRGTDJQVUhGZlphMk51YTJ4UElNQWFjaDR0Q2M?oc=5"
     }
   ],
   "seo": [
     {
-      "keywordPattern": "how to + feature",
-      "brand": "Garmin",
-      "market": "Global",
-      "signal": "Persistent education strategy",
-      "opportunity": "HUAWEI feature tutorials"
+      "keywordPattern": "phone leasing programme",
+      "brand": "Apple",
+      "market": "United States",
+      "signal": "Apple Upgrade launch",
+      "opportunity": "Create content comparing financing options and total cost of ownership."
     },
     {
-      "keywordPattern": "what is + feature",
-      "brand": "Garmin",
-      "market": "Global",
-      "signal": "Feature education",
-      "opportunity": "Searchable feature explainers"
-    },
-    {
-      "keywordPattern": "which smartwatch is right for me",
-      "brand": "Garmin",
-      "market": "Global",
-      "signal": "High-intent buying education",
-      "opportunity": "Scenario-based HUAWEI watch guides"
-    },
-    {
-      "keywordPattern": "AI + health / care",
+      "keywordPattern": "switch to Galaxy Z Fold8",
       "brand": "Samsung",
       "market": "Global",
-      "signal": "Experience-led AI narrative",
-      "opportunity": "Outcome-led HUAWEI health AI storytelling"
+      "signal": "Switch ease messaging",
+      "opportunity": "Develop step-by-step migration guides for foldable device users."
     },
     {
-      "keywordPattern": "local + movement / community",
+      "keywordPattern": "arterial health tracking",
       "brand": "Garmin",
-      "market": "Malaysia",
-      "signal": "Local campaign storytelling",
-      "opportunity": "APAC-localised HUAWEI movement stories"
+      "market": "Global",
+      "signal": "REACT study",
+      "opportunity": "Publish blog posts linking wearable data to long-term health outcomes."
+    },
+    {
+      "keywordPattern": "Pixel 11 Pro AI support",
+      "brand": "Google",
+      "market": "Global",
+      "signal": "AI tech support agent",
+      "opportunity": "Highlight AI-driven customer service capabilities in product descriptions."
+    },
+    {
+      "keywordPattern": "best gaming earbuds 2026",
+      "brand": "Bose",
+      "market": "Global",
+      "signal": "RTINGS review",
+      "opportunity": "Optimise product pages for low-latency audio and gaming certifications."
+    },
+    {
+      "keywordPattern": "Apple Arcade sports games",
+      "brand": "Apple",
+      "market": "Global",
+      "signal": "Madden NFL 27 addition",
+      "opportunity": "Cross-promote hardware with exclusive gaming content bundles."
+    },
+    {
+      "keywordPattern": "Xiaomi 3nm chip TSMC",
+      "brand": "Xiaomi",
+      "market": "Global",
+      "signal": "Xring O3 launch",
+      "opportunity": "Create technical explainers on chipset efficiency and performance gains."
+    },
+    {
+      "keywordPattern": "Pixel manufacturing China",
+      "brand": "Google",
+      "market": "Global",
+      "signal": "Production move report",
+      "opportunity": "Address supply chain transparency in corporate responsibility content."
+    },
+    {
+      "keywordPattern": "Apple Maps Ford integration",
+      "brand": "Apple",
+      "market": "Global",
+      "signal": "Ford UEV Platform",
+      "opportunity": "Showcase automotive interoperability features in ecosystem videos."
+    },
+    {
+      "keywordPattern": "Sony headphones deal 2026",
+      "brand": "Sony",
+      "market": "Global",
+      "signal": "Price promotions",
+      "opportunity": "Monitor competitor pricing trends for timely promotional campaigns."
     }
   ],
   "actions": [
     {
       "priority": "P1",
-      "action": "Expand the HUAWEI WATCH How-to matrix",
-      "why": "Competitor education content continues to occupy concrete search intent.",
-      "examples": "How to set up sharp turn alert; How to use Climb Planner; How to use Body Readiness"
+      "action": "Develop financing programme messaging",
+      "why": "Apple Upgrade launch indicates shifting consumer preference for leasing over outright purchase.",
+      "examples": "Landing pages comparing monthly costs, trade-in value calculators."
     },
     {
       "priority": "P1",
-      "action": "Create scenario-based buying guides",
-      "why": "Competitors repeatedly answer product-selection questions.",
-      "examples": "Which HUAWEI WATCH is right for running, cycling, golf or skiing?"
-    },
-    {
-      "priority": "P1",
-      "action": "Build an AI experience narrative for launches",
-      "why": "Samsung increasingly sells AI through everyday outcomes.",
-      "examples": "From AI feature to daily health/training companion"
+      "action": "Highlight AI utility in support",
+      "why": "Google Pixel 11 Pro AI agent sets expectation for intelligent device assistance.",
+      "examples": "Demo videos of AI troubleshooting, chatbot integration highlights."
     },
     {
       "priority": "P2",
-      "action": "Develop APAC-localised movement stories",
-      "why": "Garmin Malaysia is using local culture and community to make a global proposition locally relevant.",
-      "examples": "Malaysia / Indonesia community movement stories tied to watch benefits"
+      "action": "Publish health research findings",
+      "why": "Garmin REACT study shows value in science-backed health claims.",
+      "examples": "White papers on Huawei Health data accuracy, partnerships with research institutions."
     },
     {
       "priority": "P2",
-      "action": "Develop data-led editorial formats",
-      "why": "Competitor health and fitness brands use research and proprietary data to create authority.",
-      "examples": "Running, cycling, sleep or wellness trend reports where data is supportable"
+      "action": "Create switcher friction-reduction guides",
+      "why": "Samsung focuses on ease of switching to reduce adoption barriers.",
+      "examples": "One-click data transfer tutorials, iOS to HarmonyOS migration guides."
+    },
+    {
+      "priority": "P3",
+      "action": "Develop gaming audio content strategy",
+      "why": "RTINGS and Bose signals indicate growing niche for gaming-specific audio.",
+      "examples": "Latency test videos, gamer influencer collaborations."
     },
     {
       "priority": "P2",
-      "action": "Build a competitive video-hook library",
-      "why": "Product films and short-form video increasingly carry the first consumer impression.",
-      "examples": "3-second hook, problem-solution, life moment, before/after, coach-style education"
+      "action": "Showcase automotive ecosystem stories",
+      "why": "Apple Maps Ford integration highlights importance of car connectivity.",
+      "examples": "HarmonyOS Cockpit demonstration videos, partner manufacturer spotlights."
+    },
+    {
+      "priority": "P3",
+      "action": "Clarify regulatory compliance content",
+      "why": "Apple EU and Brazil changes show heightened regulatory scrutiny.",
+      "examples": "FAQ sections on data privacy, regional compliance badges on PDPs."
+    },
+    {
+      "priority": "P3",
+      "action": "Expand sports content partnerships",
+      "why": "Apple MLB and MLS content drives services engagement.",
+      "examples": "Local league sponsorships, fitness challenge campaigns tied to sports events."
     }
   ],
   "contentMix": [
     {
       "brand": "Apple",
-      "education": 18,
-      "campaign": 35,
-      "product": 42,
-      "seo": 12
+      "education": 30,
+      "campaign": 40,
+      "product": 20,
+      "seo": 10
     },
     {
       "brand": "Samsung",
-      "education": 31,
-      "campaign": 48,
-      "product": 37,
-      "seo": 24
+      "education": 20,
+      "campaign": 40,
+      "product": 30,
+      "seo": 10
     },
     {
       "brand": "Garmin",
-      "education": 62,
-      "campaign": 27,
-      "product": 34,
-      "seo": 55
+      "education": 60,
+      "campaign": 10,
+      "product": 20,
+      "seo": 10
+    },
+    {
+      "brand": "Google",
+      "education": 40,
+      "campaign": 20,
+      "product": 30,
+      "seo": 10
+    },
+    {
+      "brand": "Bose",
+      "education": 10,
+      "campaign": 30,
+      "product": 50,
+      "seo": 10
     }
   ],
-  "sourceHealth": [
-    {
-      "source": "Apple Newsroom",
-      "type": "Official",
-      "status": "Connected"
-    },
-    {
-      "source": "Samsung Newsroom",
-      "type": "Official",
-      "status": "Connected"
-    },
-    {
-      "source": "Garmin Blog / Newsroom",
-      "type": "Official",
-      "status": "Connected"
-    },
-    {
-      "source": "Google News discovery",
-      "type": "Discovery",
-      "status": "Connected"
-    },
-    {
-      "source": "YouTube RSS discovery",
-      "type": "Discovery",
-      "status": "Connected"
-    },
-    {
-      "source": "Reddit discovery",
-      "type": "Discovery",
-      "status": "Connected"
-    }
-  ],
+  "updatedAt": "2026-08-25T12:02:20.437878+08:00",
+  "timezone": "Asia/Kuala_Lumpur",
   "feedItems": [
     {
       "brand": "Apple",
@@ -218,7 +270,7 @@
       "title": "Apple announces changes for apps in the European Union",
       "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
       "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "published": "2026-08-25T03:45:22.767404+00:00"
+      "published": "2026-08-25T03:59:15.288567+00:00"
     },
     {
       "brand": "Apple",
@@ -227,7 +279,7 @@
       "title": "Apple opens Advanced Manufacturing Center in Houston",
       "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
       "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
-      "published": "2026-08-25T03:45:22.767518+00:00"
+      "published": "2026-08-25T03:59:15.288698+00:00"
     },
     {
       "brand": "Apple",
@@ -236,7 +288,7 @@
       "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
       "summary": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.",
       "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
-      "published": "2026-08-25T03:45:22.767600+00:00"
+      "published": "2026-08-25T03:59:15.288801+00:00"
     },
     {
       "brand": "Apple",
@@ -245,7 +297,7 @@
       "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
       "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”",
       "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
-      "published": "2026-08-25T03:45:22.767680+00:00"
+      "published": "2026-08-25T03:59:15.288902+00:00"
     },
     {
       "brand": "Apple",
@@ -254,7 +306,7 @@
       "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
       "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
       "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
-      "published": "2026-08-25T03:45:22.767753+00:00"
+      "published": "2026-08-25T03:59:15.288998+00:00"
     },
     {
       "brand": "Apple",
@@ -263,7 +315,7 @@
       "title": "Apple reports third quarter results",
       "summary": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
       "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
-      "published": "2026-08-25T03:45:22.767821+00:00"
+      "published": "2026-08-25T03:59:15.289091+00:00"
     },
     {
       "brand": "Apple",
@@ -272,7 +324,7 @@
       "title": "Apple Upgrade launches in the United States",
       "summary": "Apple Upgrade — a new hardware leasing program — is now available on the Apple Store online, in the Apple Store app, and at Apple Store locations in the United States.",
       "url": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
-      "published": "2026-08-25T03:45:22.767883+00:00"
+      "published": "2026-08-25T03:59:15.289178+00:00"
     },
     {
       "brand": "Apple",
@@ -281,7 +333,7 @@
       "title": "Apple Maps to power navigation experience for Ford UEV Platform",
       "summary": "Apple and Ford announced Apple Maps will be integrated directly into Ford’s UEV Platform through the MapKit for Automotive SDK.",
       "url": "https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/",
-      "published": "2026-08-25T03:45:22.767945+00:00"
+      "published": "2026-08-25T03:59:15.289268+00:00"
     },
     {
       "brand": "Apple",
@@ -290,7 +342,7 @@
       "title": "Major League Soccer returns to Apple TV tomorrow",
       "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
       "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
-      "published": "2026-08-25T03:45:22.768002+00:00"
+      "published": "2026-08-25T03:59:15.289354+00:00"
     },
     {
       "brand": "Apple",
@@ -299,7 +351,7 @@
       "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
       "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
       "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
-      "published": "2026-08-25T03:45:22.768090+00:00"
+      "published": "2026-08-25T03:59:15.289439+00:00"
     },
     {
       "brand": "Apple",
@@ -308,7 +360,7 @@
       "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
       "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
       "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
-      "published": "2026-08-25T03:45:22.768180+00:00"
+      "published": "2026-08-25T03:59:15.289569+00:00"
     },
     {
       "brand": "Apple",
@@ -317,7 +369,7 @@
       "title": "Apple scores record 89 Emmy Award nominations",
       "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
       "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
-      "published": "2026-08-25T03:45:22.768247+00:00"
+      "published": "2026-08-25T03:59:15.289657+00:00"
     },
     {
       "brand": "Apple",
@@ -326,7 +378,7 @@
       "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
       "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
       "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-      "published": "2026-08-25T03:45:22.768306+00:00"
+      "published": "2026-08-25T03:59:15.289742+00:00"
     },
     {
       "brand": "Apple",
@@ -335,7 +387,7 @@
       "title": "Apple Creator Studio gets smarter, faster, and more connected",
       "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
       "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
-      "published": "2026-08-25T03:45:22.768369+00:00"
+      "published": "2026-08-25T03:59:15.289829+00:00"
     },
     {
       "brand": "Apple",
@@ -344,7 +396,7 @@
       "title": "Apple announces changes to iOS in Brazil",
       "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
       "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "published": "2026-08-25T03:45:22.768426+00:00"
+      "published": "2026-08-25T03:59:15.289912+00:00"
     },
     {
       "brand": "Samsung",
@@ -660,6 +712,38 @@
       "summary": "Please help me decide between a Pixel Watch 4 and Pixel Watch 5 Reddit",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONEMxSmplMU9CdlZub3BSOFFYZmc2blB1cDdsV3h4WHNfa0hQcHVGNXdVVXNMZjdXMXJ0aDNieTJmdVRHR0ZuR3R6b25FU3lMOVhzcllWYmh5RHNZanB0NmxQS1FrZVZQOFdiLVBodS1EZ09aa0NyUmxEZGlPa0RlWnNRd3NGOWRPYlRoZ2p0aDJaTDI4ZWdFS2RBSUNQdENEbXdCS0N3?oc=5",
       "published": "2026-08-24T10:39:22+00:00"
+    }
+  ],
+  "sourceHealth": [
+    {
+      "source": "Apple Newsroom",
+      "type": "Official",
+      "status": "Connected"
+    },
+    {
+      "source": "Samsung Newsroom",
+      "type": "Official",
+      "status": "Connected"
+    },
+    {
+      "source": "Garmin Blog / Newsroom",
+      "type": "Official",
+      "status": "Connected"
+    },
+    {
+      "source": "Google News discovery",
+      "type": "Discovery",
+      "status": "Connected"
+    },
+    {
+      "source": "YouTube RSS discovery",
+      "type": "Discovery",
+      "status": "Connected"
+    },
+    {
+      "source": "Reddit discovery",
+      "type": "Discovery",
+      "status": "Connected"
     }
   ]
 }
