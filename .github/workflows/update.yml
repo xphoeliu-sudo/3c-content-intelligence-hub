@@ -15,7 +15,7 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Refresh intelligence
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
         run: python update.py
       - name: Commit
         run: |
