@@ -1,0 +1,213 @@
+{
+  "updatedAt": "2026-08-24T12:05:00+08:00",
+  "timezone": "Asia/Kuala_Lumpur",
+  "markets": [
+    "Global",
+    "Malaysia",
+    "UK",
+    "Indonesia",
+    "Japan"
+  ],
+  "signals": [
+    {
+      "brand": "Samsung",
+      "market": "Malaysia",
+      "type": "Launch",
+      "priority": "HIGH",
+      "title": "Galaxy Event August 2026 is set for 27 August",
+      "summary": "Samsung Malaysia says the event will introduce the newest addition to the Galaxy S26 family, framing the launch around camera, AI and the latest One UI.",
+      "implication": "For HUAWEI launches, establish one experience narrative before splitting the product into individual feature stories.",
+      "url": "https://news.samsung.com/my/invitation-galaxy-event-august-2026"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Global",
+      "type": "Health / AI",
+      "priority": "HIGH",
+      "title": "Samsung is turning health AI into a connected-care story",
+      "summary": "Samsung's recent Newsroom content frames AI around simpler, more connected health care rather than presenting AI only as a standalone feature.",
+      "implication": "Lead with the consumer outcome and everyday health scenario; let the underlying AI technology support the story.",
+      "url": "https://news.samsung.com/global/"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Malaysia",
+      "type": "Campaign",
+      "priority": "MEDIUM",
+      "title": "Samsung continues experience-led foldable storytelling",
+      "summary": "Recent Malaysia Newsroom content emphasises the foldable range as an experience and lifestyle proposition, supported by product films and launch storytelling.",
+      "implication": "Track the balance between product proof and lifestyle storytelling when planning HUAWEI launch assets.",
+      "url": "https://news.samsung.com/my/"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Global",
+      "type": "SEO / Education",
+      "priority": "HIGH",
+      "title": "Garmin keeps publishing searchable sport and buying education",
+      "summary": "Recent Garmin Blog topics include daily suggested workouts, golf-watch selection, CIRQA fitness tracking, Outdoor Maps+ and product-selection questions.",
+      "implication": "Build a durable HUAWEI search-content matrix around How to, What is and Which watch is right for me.",
+      "url": "https://www.garmin.com/en-CA/blog/"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Malaysia",
+      "type": "Local Campaign",
+      "priority": "HIGH",
+      "title": "Garmin Malaysia localises brand storytelling around community and movement",
+      "summary": "Garmin Malaysia's 'Celebrate Lokal' campaign connects local creativity, community and everyday movement with the brand.",
+      "implication": "Local cultural storytelling can make a global wearable proposition feel more relevant in APAC markets.",
+      "url": "https://www.garmin.com.my/news/"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Malaysia",
+      "type": "Retail Experience",
+      "priority": "MEDIUM",
+      "title": "Garmin uses flagship retail as a product-education and community hub",
+      "summary": "Garmin's Southeast Asia retail activity combines products, education, community events and sport-specific experiences.",
+      "implication": "Consider content that connects product education with community and real-world sport participation, not only product pages.",
+      "url": "https://www.garmin.com/en-PH/newsroom/press-release/news-2026-aug-megamall/"
+    },
+    {
+      "brand": "Apple",
+      "market": "Global",
+      "type": "AI / Product Storytelling",
+      "priority": "MEDIUM",
+      "title": "Apple continues benefit-first AI and product storytelling",
+      "summary": "Apple Newsroom remains a core source for tracking how Apple frames intelligence, health, devices and everyday experiences.",
+      "implication": "Monitor language shifts around AI, health and assistance; benchmark headline simplicity and benefit-first hierarchy.",
+      "url": "https://www.apple.com/newsroom/"
+    }
+  ],
+  "seo": [
+    {
+      "keywordPattern": "how to + feature",
+      "brand": "Garmin",
+      "market": "Global",
+      "signal": "Persistent education strategy",
+      "opportunity": "HUAWEI feature tutorials"
+    },
+    {
+      "keywordPattern": "what is + feature",
+      "brand": "Garmin",
+      "market": "Global",
+      "signal": "Feature education",
+      "opportunity": "Searchable feature explainers"
+    },
+    {
+      "keywordPattern": "which smartwatch is right for me",
+      "brand": "Garmin",
+      "market": "Global",
+      "signal": "High-intent buying education",
+      "opportunity": "Scenario-based HUAWEI watch guides"
+    },
+    {
+      "keywordPattern": "AI + health / care",
+      "brand": "Samsung",
+      "market": "Global",
+      "signal": "Experience-led AI narrative",
+      "opportunity": "Outcome-led HUAWEI health AI storytelling"
+    },
+    {
+      "keywordPattern": "local + movement / community",
+      "brand": "Garmin",
+      "market": "Malaysia",
+      "signal": "Local campaign storytelling",
+      "opportunity": "APAC-localised HUAWEI movement stories"
+    }
+  ],
+  "actions": [
+    {
+      "priority": "P1",
+      "action": "Expand the HUAWEI WATCH How-to matrix",
+      "why": "Competitor education content continues to occupy concrete search intent.",
+      "examples": "How to set up sharp turn alert; How to use Climb Planner; How to use Body Readiness"
+    },
+    {
+      "priority": "P1",
+      "action": "Create scenario-based buying guides",
+      "why": "Competitors repeatedly answer product-selection questions.",
+      "examples": "Which HUAWEI WATCH is right for running, cycling, golf or skiing?"
+    },
+    {
+      "priority": "P1",
+      "action": "Build an AI experience narrative for launches",
+      "why": "Samsung increasingly sells AI through everyday outcomes.",
+      "examples": "From AI feature to daily health/training companion"
+    },
+    {
+      "priority": "P2",
+      "action": "Develop APAC-localised movement stories",
+      "why": "Garmin Malaysia is using local culture and community to make a global proposition locally relevant.",
+      "examples": "Malaysia / Indonesia community movement stories tied to watch benefits"
+    },
+    {
+      "priority": "P2",
+      "action": "Develop data-led editorial formats",
+      "why": "Competitor health and fitness brands use research and proprietary data to create authority.",
+      "examples": "Running, cycling, sleep or wellness trend reports where data is supportable"
+    },
+    {
+      "priority": "P2",
+      "action": "Build a competitive video-hook library",
+      "why": "Product films and short-form video increasingly carry the first consumer impression.",
+      "examples": "3-second hook, problem-solution, life moment, before/after, coach-style education"
+    }
+  ],
+  "contentMix": [
+    {
+      "brand": "Apple",
+      "education": 18,
+      "campaign": 35,
+      "product": 42,
+      "seo": 12
+    },
+    {
+      "brand": "Samsung",
+      "education": 31,
+      "campaign": 48,
+      "product": 37,
+      "seo": 24
+    },
+    {
+      "brand": "Garmin",
+      "education": 62,
+      "campaign": 27,
+      "product": 34,
+      "seo": 55
+    }
+  ],
+  "sourceHealth": [
+    {
+      "source": "Apple Newsroom",
+      "type": "Official",
+      "status": "Connected"
+    },
+    {
+      "source": "Samsung Newsroom",
+      "type": "Official",
+      "status": "Connected"
+    },
+    {
+      "source": "Garmin Blog / Newsroom",
+      "type": "Official",
+      "status": "Connected"
+    },
+    {
+      "source": "Google News discovery",
+      "type": "Discovery",
+      "status": "Connected"
+    },
+    {
+      "source": "YouTube RSS discovery",
+      "type": "Discovery",
+      "status": "Connected"
+    },
+    {
+      "source": "Reddit discovery",
+      "type": "Discovery",
+      "status": "Connected"
+    }
+  ]
+}
