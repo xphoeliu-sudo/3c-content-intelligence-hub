@@ -1,0 +1,206 @@
+{
+  "Apple": {
+    "Malaysia": {
+      "Wearables": [
+        "https://www.apple.com/my/watch/"
+      ],
+      "Phones": [
+        "https://www.apple.com/my/iphone/"
+      ],
+      "Audio": [
+        "https://www.apple.com/my/airpods/"
+      ],
+      "Tablets": [
+        "https://www.apple.com/my/ipad/"
+      ]
+    },
+    "UK": {
+      "Wearables": [
+        "https://www.apple.com/uk/watch/"
+      ],
+      "Phones": [
+        "https://www.apple.com/uk/iphone/"
+      ],
+      "Audio": [
+        "https://www.apple.com/uk/airpods/"
+      ],
+      "Tablets": [
+        "https://www.apple.com/uk/ipad/"
+      ]
+    },
+    "Germany": {
+      "Wearables": [
+        "https://www.apple.com/de/watch/"
+      ],
+      "Phones": [
+        "https://www.apple.com/de/iphone/"
+      ],
+      "Audio": [
+        "https://www.apple.com/de/airpods/"
+      ],
+      "Tablets": [
+        "https://www.apple.com/de/ipad/"
+      ]
+    },
+    "Mexico": {
+      "Wearables": [
+        "https://www.apple.com/mx/watch/"
+      ],
+      "Phones": [
+        "https://www.apple.com/mx/iphone/"
+      ],
+      "Audio": [
+        "https://www.apple.com/mx/airpods/"
+      ],
+      "Tablets": [
+        "https://www.apple.com/mx/ipad/"
+      ]
+    },
+    "China": {
+      "Wearables": [
+        "https://www.apple.com.cn/watch/"
+      ],
+      "Phones": [
+        "https://www.apple.com.cn/iphone/"
+      ],
+      "Audio": [
+        "https://www.apple.com.cn/airpods/"
+      ],
+      "Tablets": [
+        "https://www.apple.com.cn/ipad/"
+      ]
+    },
+    "Saudi Arabia": {
+      "Wearables": [
+        "https://www.apple.com/sa/watch/"
+      ],
+      "Phones": [
+        "https://www.apple.com/sa/iphone/"
+      ],
+      "Audio": [
+        "https://www.apple.com/sa/airpods/"
+      ],
+      "Tablets": [
+        "https://www.apple.com/sa/ipad/"
+      ]
+    }
+  },
+  "Samsung": {
+    "Malaysia": {
+      "Wearables": [
+        "https://www.samsung.com/my/watches/"
+      ],
+      "Phones": [
+        "https://www.samsung.com/my/smartphones/"
+      ],
+      "Audio": [
+        "https://www.samsung.com/my/audio-sound/galaxy-buds/"
+      ],
+      "Tablets": [
+        "https://www.samsung.com/my/tablets/"
+      ]
+    },
+    "UK": {
+      "Wearables": [
+        "https://www.samsung.com/uk/watches/"
+      ],
+      "Phones": [
+        "https://www.samsung.com/uk/smartphones/"
+      ],
+      "Audio": [
+        "https://www.samsung.com/uk/audio-sound/galaxy-buds/"
+      ],
+      "Tablets": [
+        "https://www.samsung.com/uk/tablets/"
+      ]
+    },
+    "Germany": {
+      "Wearables": [
+        "https://www.samsung.com/de/watches/"
+      ],
+      "Phones": [
+        "https://www.samsung.com/de/smartphones/"
+      ],
+      "Audio": [
+        "https://www.samsung.com/de/audio-sound/galaxy-buds/"
+      ],
+      "Tablets": [
+        "https://www.samsung.com/de/tablets/"
+      ]
+    },
+    "Mexico": {
+      "Wearables": [
+        "https://www.samsung.com/mx/watches/"
+      ],
+      "Phones": [
+        "https://www.samsung.com/mx/smartphones/"
+      ],
+      "Audio": [
+        "https://www.samsung.com/mx/audio-sound/galaxy-buds/"
+      ],
+      "Tablets": [
+        "https://www.samsung.com/mx/tablets/"
+      ]
+    },
+    "China": {
+      "Wearables": [
+        "https://www.samsung.com.cn/watches/"
+      ],
+      "Phones": [
+        "https://www.samsung.com.cn/smartphones/"
+      ],
+      "Audio": [
+        "https://www.samsung.com.cn/audio-sound/galaxy-buds/"
+      ],
+      "Tablets": [
+        "https://www.samsung.com.cn/tablets/"
+      ]
+    },
+    "Saudi Arabia": {
+      "Wearables": [
+        "https://www.samsung.com/sa/watches/"
+      ],
+      "Phones": [
+        "https://www.samsung.com/sa/smartphones/"
+      ],
+      "Audio": [
+        "https://www.samsung.com/sa/audio-sound/galaxy-buds/"
+      ],
+      "Tablets": [
+        "https://www.samsung.com/sa/tablets/"
+      ]
+    }
+  },
+  "Garmin": {
+    "Malaysia": {
+      "Wearables": [
+        "https://www.garmin.com.my/products/wearables/"
+      ]
+    },
+    "UK": {
+      "Wearables": [
+        "https://www.garmin.com/en-GB/c/wearables-smartwatches/"
+      ]
+    },
+    "Germany": {
+      "Wearables": [
+        "https://www.garmin.com/de-DE/c/wearables-smartwatches/"
+      ]
+    },
+    "Mexico": {
+      "Wearables": [
+        "https://www.garmin.com/es-MX/c/wearables-smartwatches/"
+      ]
+    },
+    "China": {
+      "Wearables": [
+        "https://www.garmin.com.cn/products/wearables/"
+      ]
+    },
+    "Saudi Arabia": {
+      "Wearables": [
+        "https://www.garmin.com/en-SA/c/wearables-smartwatches/"
+      ]
+    }
+  }
+}
