@@ -4,7 +4,7 @@
   "market": "Malaysia",
   "category": "Wearables",
   "pageType": "PDP",
-  "capturedAt": "2026-08-26T03:33:33.257288+00:00",
+  "capturedAt": "2026-08-26T08:33:07.958986+00:00",
   "title": "Online Store | Shop | Garmin Malaysia",
   "h1": "",
   "headings": [
@@ -15,16 +15,7 @@
     "Shop ｜Online Store"
   ],
   "videos": [],
-  "images": [
-    "https://www.garmin.com.my/m/tw/g/distributors/logo-garmin.jpg",
-    "https://res.garmin.com/asia/my/buy/online/logo-lazada.jpg",
-    "https://res.garmin.com/asia/my/buy/online/logo-shopee.jpg",
-    "https://res.garmin.com/asia/my/buy/online/logo-aeco.jpg",
-    "https://res.garmin.com/asia/my/buy/online/logo-convergent.jpg"
-  ],
-  "modules": [
-    "content"
-  ],
+  "modules": [],
   "text": "Online Store | Shop | Garmin Malaysia Shop ｜Online Store Brand Store Store Locator Online Store You may choose to purchase Garmin products from the Garmin e-commerce store or from any of our recommended e-commerce stores listed below. Garmin e-commerce store Premium e-commerce stores Software update and maintenance. Service Locations",
   "textHash": "92156b0f39b5025a29865eeaa1cb7aa1a2bab86e"
 }
