@@ -14,7 +14,14 @@ BASE = os.path.dirname(__file__)
 DATA = os.path.join(BASE, "data.json")
 
 H = {
-    "User-Agent": "Mozilla/5.0 (3C Content Intelligence Hub/3.0)"
+    "User-Agent": (
+        "Mozilla/5.0 "
+        "(Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 "
+        "(KHTML, like Gecko) "
+        "Chrome/147.0 Safari/537.36 "
+        "3C-Wearables-Intelligence/4.0"
+    )
 }
 
 QWEN_BASE_URL = os.getenv(
@@ -29,102 +36,280 @@ QWEN_MODEL = os.getenv(
 
 MAX_AI_ITEMS = 60
 MAX_FEED_ITEMS = 100
+MAX_PDP_PAGES = 6
 
+
+# ============================================================
+# WEARABLE CONTENT KEYWORDS
+# ============================================================
+
+WEARABLE_KEYWORDS = [
+    "apple watch",
+    "watch series",
+    "watch se",
+    "watch ultra",
+    "galaxy watch",
+    "galaxy watch ultra",
+    "galaxy watch classic",
+    "garmin watch",
+    "garmin smartwatch",
+    "fēnix",
+    "fenix",
+    "forerunner",
+    "venu",
+    "instinct",
+    "vívoactive",
+    "vivoactive",
+    "tactix",
+    "quatix",
+    "enduro",
+    "lily",
+    "smartwatch",
+    "smart watch",
+    "wearable",
+    "fitness watch",
+    "sports watch",
+    "gps watch",
+    "health watch",
+    "running watch",
+    "fitness tracker",
+    "watchos",
+    "wear os",
+    "galaxy wearable",
+]
+
+
+def is_wearable(title, summary=""):
+
+    text = (
+        (title or "") +
+        " " +
+        (summary or "")
+    ).lower()
+
+    return any(
+        keyword.lower() in text
+        for keyword in WEARABLE_KEYWORDS
+    )
+
+
+# ============================================================
+# FEEDS
+# ============================================================
 
 FEEDS = [
+
+    # ---------------- Apple ----------------
+
     (
         "Apple",
         "Global",
         "Official",
         "https://www.apple.com/newsroom/rss-feed.rss",
     ),
+
     (
-        "Samsung",
-        "Global",
-        "Discovery",
-        "https://news.google.com/rss/search?q=site%3Anews.samsung.com%2Fglobal%20Samsung%20AI%20OR%20Galaxy%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-    ),
-    (
-        "Samsung",
+        "Apple",
         "Malaysia",
         "Official",
-        "https://news.google.com/rss/search?q=site%3Anews.samsung.com%2Fmy%20Samsung%20Galaxy%20when%3A1d&hl=en-US&gl=MY&ceid=MY%3Aen",
+        "https://www.apple.com/my/newsroom/rss-feed.rss",
     ),
+
+    # ---------------- Samsung ----------------
+
+    (
+        "Samsung",
+        "Global",
+        "Discovery",
+        "https://news.google.com/rss/search?q="
+        "site%3Anews.samsung.com%2Fglobal "
+        "(Galaxy%20Watch%20OR%20wearable%20OR%20smartwatch)"
+        "%20when%3A7d"
+        "&hl=en-US&gl=US&ceid=US%3Aen",
+    ),
+
+    (
+        "Samsung",
+        "Malaysia",
+        "Discovery",
+        "https://news.google.com/rss/search?q="
+        "site%3Anews.samsung.com%2Fmy "
+        "(Galaxy%20Watch%20OR%20wearable%20OR%20smartwatch)"
+        "%20when%3A7d"
+        "&hl=en-US&gl=MY&ceid=MY%3Aen",
+    ),
+
+    (
+        "Samsung",
+        "UK",
+        "Discovery",
+        "https://news.google.com/rss/search?q="
+        "Samsung%20Galaxy%20Watch%20UK"
+        "%20when%3A7d"
+        "&hl=en-GB&gl=GB&ceid=GB%3Aen",
+    ),
+
+    (
+        "Samsung",
+        "Germany",
+        "Discovery",
+        "https://news.google.com/rss/search?q="
+        "Samsung%20Galaxy%20Watch%20Germany"
+        "%20when%3A7d"
+        "&hl=de&gl=DE&ceid=DE%3Ade",
+    ),
+
+    # ---------------- Garmin ----------------
+
     (
         "Garmin",
         "Global",
         "Discovery",
-        "https://news.google.com/rss/search?q=site%3Agarmin.com%2Fen-CA%2Fblog%20Garmin%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+        "https://news.google.com/rss/search?q="
+        "site%3Agarmin.com "
+        "(Garmin%20watch%20OR%20smartwatch%20OR%20fēnix%20OR%20Forerunner%20OR%20Venu)"
+        "%20when%3A7d"
+        "&hl=en-US&gl=US&ceid=US%3Aen",
     ),
+
     (
         "Garmin",
         "Malaysia",
         "Discovery",
-        "https://news.google.com/rss/search?q=site%3Agarmin.com.my%2Fnews%20Garmin%20when%3A7d&hl=en-US&gl=MY&ceid=MY%3Aen",
+        "https://news.google.com/rss/search?q="
+        "Garmin%20Malaysia%20watch"
+        "%20when%3A7d"
+        "&hl=en-US&gl=MY&ceid=MY%3Aen",
     ),
+
     (
-        "Google",
-        "Global",
+        "Garmin",
+        "UK",
         "Discovery",
-        "https://news.google.com/rss/search?q=Google%20Pixel%20AI%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+        "https://news.google.com/rss/search?q="
+        "Garmin%20UK%20watch"
+        "%20when%3A7d"
+        "&hl=en-GB&gl=GB&ceid=GB%3Aen",
     ),
+
     (
-        "Xiaomi",
-        "Global",
+        "Garmin",
+        "Germany",
         "Discovery",
-        "https://news.google.com/rss/search?q=Xiaomi%20smartphone%20wearable%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-    ),
-    (
-        "Sony",
-        "Global",
-        "Discovery",
-        "https://news.google.com/rss/search?q=Sony%20headphones%20camera%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-    ),
-    (
-        "Bose",
-        "Global",
-        "Discovery",
-        "https://news.google.com/rss/search?q=Bose%20audio%20headphones%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-    ),
-    (
-        "YouTube",
-        "Global",
-        "Discovery",
-        "https://news.google.com/rss/search?q=Apple%20Samsung%20Garmin%20YouTube%20campaign%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-    ),
-    (
-        "Reddit",
-        "Global",
-        "Discovery",
-        "https://news.google.com/rss/search?q=site%3Areddit.com%20Apple%20Samsung%20Garmin%20watch%20audio%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+        "https://news.google.com/rss/search?q="
+        "Garmin%20Germany%20watch"
+        "%20when%3A7d"
+        "&hl=de&gl=DE&ceid=DE%3Ade",
     ),
 ]
 
 
+# ============================================================
+# OFFICIAL WEARABLE PAGES
+# ============================================================
+
+PDP_PAGES = [
+
+    {
+        "brand": "Apple",
+        "market": "Malaysia",
+        "pageType": "Wearables category",
+        "url": "https://www.apple.com/my/watch/",
+    },
+
+    {
+        "brand": "Apple",
+        "market": "Malaysia",
+        "pageType": "E-commerce lineup",
+        "url": "https://www.apple.com/my/shop/buy-watch",
+    },
+
+    {
+        "brand": "Samsung",
+        "market": "Malaysia",
+        "pageType": "Wearables category",
+        "url": "https://www.samsung.com/my/watches/",
+    },
+
+    {
+        "brand": "Samsung",
+        "market": "Malaysia",
+        "pageType": "Galaxy Watch category",
+        "url": "https://www.samsung.com/my/watches/galaxy-watch/",
+    },
+
+    {
+        "brand": "Garmin",
+        "market": "Global",
+        "pageType": "Smartwatch category",
+        "url": "https://www.garmin.com/en-US/c/wearables-smartwatches/",
+    },
+]
+
+
+# ============================================================
+# HELPERS
+# ============================================================
+
 def pdate(e):
+
     for k in ("published", "updated"):
+
         if e.get(k):
+
             try:
-                return parsedate_to_datetime(e[k]).isoformat()
+                return parsedate_to_datetime(
+                    e[k]
+                ).isoformat()
+
             except Exception:
                 pass
 
-    return dt.datetime.now(dt.timezone.utc).isoformat()
+    return dt.datetime.now(
+        dt.timezone.utc
+    ).isoformat()
 
 
 def clean_text(text):
+
     return BeautifulSoup(
         text or "",
         "html.parser"
-    ).get_text(" ", strip=True)
+    ).get_text(
+        " ",
+        strip=True
+    )
 
+
+def normalise_space(text):
+
+    return re.sub(
+        r"\s+",
+        " ",
+        text or ""
+    ).strip()
+
+
+def hash_text(text):
+
+    return hashlib.sha256(
+        text.encode("utf-8")
+    ).hexdigest()
+
+
+# ============================================================
+# FEED FETCH
+# ============================================================
 
 def fetch():
+
     out = []
     seen = set()
 
     for brand, market, kind, url in FEEDS:
+
         try:
+
             r = requests.get(
                 url,
                 headers=H,
@@ -133,9 +318,11 @@ def fetch():
 
             r.raise_for_status()
 
-            feed = feedparser.parse(r.content)
+            feed = feedparser.parse(
+                r.content
+            )
 
-            for e in feed.entries[:15]:
+            for e in feed.entries[:20]:
 
                 title = clean_text(
                     e.get("title", "")
@@ -145,14 +332,29 @@ def fetch():
                     e.get("summary", "")
                 )
 
-                link = e.get("link", "")
+                link = e.get(
+                    "link",
+                    ""
+                )
+
+                # ----------------------------------------
+                # Wearables only
+                # ----------------------------------------
+
+                if not is_wearable(
+                    title,
+                    summary
+                ):
+                    continue
 
                 key = hashlib.sha1(
                     (
-                        brand
-                        + market
-                        + title
-                    ).lower().encode("utf-8")
+                        brand +
+                        market +
+                        title
+                    ).lower().encode(
+                        "utf-8"
+                    )
                 ).hexdigest()
 
                 if key in seen:
@@ -166,13 +368,14 @@ def fetch():
                         "market": market,
                         "source_kind": kind,
                         "title": title,
-                        "summary": summary[:900],
+                        "summary": summary[:1000],
                         "url": link,
                         "published": pdate(e),
                     }
                 )
 
         except Exception as ex:
+
             print(
                 "feed error:",
                 brand,
@@ -181,26 +384,213 @@ def fetch():
             )
 
     print(
-        f"Fetched {len(out)} unique feed items."
+        f"Fetched {len(out)} unique "
+        f"wearables feed items."
     )
 
     return out
 
 
-def ai(items):
+# ============================================================
+# PDP FETCH
+# ============================================================
+
+def fetch_pdp_pages():
+
+    results = []
+
+    for page in PDP_PAGES[:MAX_PDP_PAGES]:
+
+        try:
+
+            r = requests.get(
+                page["url"],
+                headers=H,
+                timeout=25
+            )
+
+            r.raise_for_status()
+
+            soup = BeautifulSoup(
+                r.text,
+                "html.parser"
+            )
+
+            # Remove non-content elements
+            for tag in soup([
+                "script",
+                "style",
+                "noscript",
+                "svg"
+            ]):
+                tag.decompose()
+
+            text = soup.get_text(
+                " ",
+                strip=True
+            )
+
+            text = normalise_space(
+                text
+            )
+
+            # Keep the snapshot reasonably small
+            text = text[:30000]
+
+            results.append(
+                {
+                    "brand": page["brand"],
+                    "market": page["market"],
+                    "pageType": page["pageType"],
+                    "url": page["url"],
+                    "contentHash": hash_text(text),
+                    "text": text,
+                }
+            )
+
+            print(
+                "PDP fetched:",
+                page["brand"],
+                page["market"],
+                page["pageType"]
+            )
+
+        except Exception as ex:
+
+            print(
+                "PDP error:",
+                page["brand"],
+                page["url"],
+                str(ex)
+            )
+
+    print(
+        f"Fetched {len(results)} monitored PDP pages."
+    )
+
+    return results
+
+
+# ============================================================
+# PDP DIFF
+# ============================================================
+
+def create_pdp_changes(
+    current_pages,
+    old_data
+):
+
+    old_pages = {
+        x.get("url"): x
+        for x in old_data.get(
+            "pdpSnapshots",
+            []
+        )
+    }
+
+    changes = []
+
+    for current in current_pages:
+
+        old = old_pages.get(
+            current["url"]
+        )
+
+        if not old:
+
+            # First run:
+            # establish baseline but don't
+            # claim that this is a change.
+            continue
+
+        if (
+            old.get("contentHash")
+            ==
+            current.get("contentHash")
+        ):
+            continue
+
+        old_text = old.get(
+            "text",
+            ""
+        )
+
+        new_text = current.get(
+            "text",
+            ""
+        )
+
+        old_words = set(
+            old_text.split()
+        )
+
+        new_words = set(
+            new_text.split()
+        )
+
+        added = list(
+            new_words - old_words
+        )
+
+        removed = list(
+            old_words - new_words
+        )
+
+        # Keep diff compact for AI
+        added_text = " ".join(
+            added[:250]
+        )
+
+        removed_text = " ".join(
+            removed[:250]
+        )
+
+        changes.append(
+            {
+                "brand": current["brand"],
+                "market": current["market"],
+                "pageType": current["pageType"],
+                "url": current["url"],
+                "changeDetected": True,
+                "addedText": added_text,
+                "removedText": removed_text,
+            }
+        )
+
+    print(
+        f"Detected {len(changes)} PDP changes."
+    )
+
+    return changes
+
+
+# ============================================================
+# AI ANALYSIS
+# ============================================================
+
+def ai(
+    items,
+    pdp_changes
+):
 
     from openai import OpenAI
 
-    key = os.getenv("DASHSCOPE_API_KEY")
+    key = os.getenv(
+        "DASHSCOPE_API_KEY"
+    )
 
     if not key:
+
         print(
             "DASHSCOPE_API_KEY is not configured. "
             "Skipping AI analysis."
         )
+
         return None
 
-    ai_items = items[:MAX_AI_ITEMS]
+    ai_items = items[
+        :MAX_AI_ITEMS
+    ]
 
     client = OpenAI(
         api_key=key,
@@ -208,200 +598,357 @@ def ai(items):
     )
 
     prompt = f"""
-You are a senior 3C competitive content intelligence analyst
-supporting HUAWEI overseas product marketing and e-commerce teams.
+You are a senior competitive content intelligence analyst
+supporting HUAWEI overseas wearable product marketing,
+e-commerce and content operations.
 
-Your job is NOT to produce a general technology news summary.
+IMPORTANT SCOPE
 
-Your priority is to identify how major 3C competitors are
-developing products, presenting products, marketing products,
-and evolving their e-commerce content.
+This intelligence report is ONLY about wearables:
+
+- smartwatches
+- sports watches
+- fitness watches
+- health watches
+- wearable health products
 
 Prioritise:
+
 1. Apple
 2. Samsung
 3. Garmin
 
-Also use useful signals from Google, Xiaomi, Sony, Bose,
-YouTube and Reddit.
+The goal is NOT to create a technology news summary.
 
-Analyse the collected items and produce ONLY valid JSON.
+The goal is to understand:
+
+WHAT competitors are doing
+→ HOW they communicate it
+→ WHAT changed in their product/e-commerce storytelling
+→ WHY it matters
+→ WHAT HUAWEI should learn or do
+
+Use professional British English.
+
+Return ONLY valid JSON.
 
 Use exactly this structure:
 
 {{
-  "productMoves": [
+  "signals": [
     {{
       "brand": "",
       "market": "",
-      "date": "",
+      "type": "PRODUCT|MARKETING|ECOMMERCE|CONTENT",
       "priority": "HIGH|MEDIUM|LOW",
-      "product": "",
-      "moveType": "",
-      "whatChanged": "",
-      "whyItMatters": "",
+      "title": "",
+      "summary": "",
+      "implication": "",
       "url": ""
     }}
   ],
 
-  "marketingMoves": [
-    {{
-      "brand": "",
-      "market": "",
-      "date": "",
-      "priority": "HIGH|MEDIUM|LOW",
-      "campaignType": "",
-      "whatTheyDid": "",
-      "creativeApproach": "",
-      "whyItMatters": "",
-      "url": ""
-    }}
-  ],
-
-  "ecommerceMoves": [
-    {{
-      "brand": "",
-      "market": "",
-      "date": "",
-      "priority": "HIGH|MEDIUM|LOW",
-      "pageType": "",
-      "structureOrMessaging": "",
-      "consumerBenefit": "",
-      "whyItMatters": "",
-      "url": ""
-    }}
-  ],
-
-  "huaweiActions": [
+  "actions": [
     {{
       "priority": "P1|P2|P3",
-      "area": "PRODUCT|MARKETING|ECOMMERCE|CONTENT",
+      "action": "",
+      "why": "",
+      "examples": ""
+    }}
+  ],
+
+  "contentMix": [
+    {{
+      "brand": "",
+      "education": 0,
+      "campaign": 0,
+      "product": 0,
+      "seo": 0
+    }}
+  ],
+
+  "contentStrategy": [
+    {{
+      "brand": "",
+      "theme": "",
+      "strength": 0,
+      "observation": ""
+    }}
+  ],
+
+  "marketInsights": [
+    {{
+      "brand": "",
+      "market": "",
       "observation": "",
-      "recommendedAction": "",
-      "example": ""
+      "implication": ""
+    }}
+  ],
+
+  "pdpChanges": [
+    {{
+      "brand": "",
+      "market": "",
+      "product": "",
+      "change": "",
+      "before": "",
+      "after": "",
+      "implication": "",
+      "url": ""
     }}
   ]
 }}
 
-ANALYSIS PRIORITIES
+============================================================
+SIGNALS
+============================================================
 
-PRODUCT MOVES:
+Only include genuinely useful competitive signals.
+
+PRODUCT:
+
 Focus on:
-- New products
-- Product launches
-- New features
+
+- new smartwatch launches
+- new wearable products
+- major feature launches
 - AI features
-- Hardware innovation
-- Materials and design
-- Health and fitness capabilities
-- Audio technology
-- Camera technology
-- Battery and charging
-- Software/product experience
-- Product positioning
-- New product variants
-- Product ecosystem development
+- health features
+- fitness features
+- training features
+- sports features
+- navigation
+- battery
+- materials
+- sensors
+- software experience
+- ecosystem integration
+- product positioning
 
-Do NOT merely repeat product specifications.
-Identify what is genuinely new or strategically notable.
+Do NOT simply repeat specifications.
 
-MARKETING MOVES:
-Focus on:
-- New campaigns
-- Product launch campaigns
-- Brand films
-- Social campaigns
-- Video formats
-- Influencer/KOL activity
-- Community storytelling
-- Seasonal campaigns
-- Local-market campaigns
-- Product storytelling
-- New creative concepts
-- New ways of demonstrating product benefits
+Ask:
 
-Prioritise HOW the product is marketed rather than simply
-reporting that a campaign exists.
+"What is strategically new?"
 
-E-COMMERCE MOVES:
-This is a high-priority category.
+============================================================
+MARKETING
+============================================================
+
+Identify:
+
+- launch campaigns
+- brand campaigns
+- product films
+- social campaigns
+- influencer activity
+- KOL activity
+- seasonal activity
+- local-market campaigns
+- community storytelling
+- new creative formats
+- new ways of demonstrating wearable benefits
+
+Focus on HOW the product is marketed.
+
+============================================================
+CONTENT
+============================================================
+
+Identify emerging communication patterns.
+
+Examples:
+
+- health → actionable health guidance
+- fitness → performance improvement
+- sport → real-time assistance
+- AI → personal coaching
+- battery → freedom / less charging
+- GPS → confidence / safety
+- sensors → consumer outcome
+- technical feature → everyday scenario
+
+Do not merely repeat feature names.
+
+============================================================
+ECOMMERCE
+============================================================
+
+Only classify something as ECOMMERCE when there is actual evidence
+of an e-commerce or product-page change.
 
 Look for:
-- PDP structure changes
-- Hero section changes
-- Selling-point sequencing
-- Product comparison
-- Product selector
-- Scenario storytelling
-- Feature modules
-- Video modules
-- Interactive modules
-- How-to modules
-- Technical explanation
-- Benefit-led copy
-- Product cards
-- Comparison tables
+
+- hero messaging
+- headline changes
+- module sequencing
+- product comparison
+- product selector
+- scenario modules
+- feature modules
+- video modules
+- technical explanation
+- benefit-led copy
+- product cards
+- comparison tables
+- CTA
+- cross-selling
+- bundling
+- navigation
 - FAQ
-- Cross-selling
-- Bundling
-- CTA strategy
-- New page navigation
-- New ways of explaining complex technology
+- new merchandising structure
 
-Important:
-Only classify something as an e-commerce move when the source
-actually provides evidence of an e-commerce/product-page change.
-Do NOT invent PDP changes from a normal product launch article.
+Do NOT invent PDP changes from a normal news article.
 
-HUAWEI ACTIONS:
-Turn the strongest observations into practical recommendations
-for HUAWEI overseas content operations.
+============================================================
+PDP CHANGE DATA
+============================================================
 
-Recommendations should be specific and usable by:
-- Product page teams
-- E-commerce content teams
-- Social/content teams
-- Video teams
-- Product marketing teams
+The supplied PDP changes are detected through page snapshots.
 
-Examples of useful recommendations:
-- Introduce a scenario-led PDP module
-- Move a technical feature closer to its consumer benefit
-- Use a short demonstration video instead of static specification copy
-- Build a stronger pre/during/post-use storytelling structure
-- Add a product comparison module
-- Localise campaign storytelling for specific markets
+If the supplied data indicates a real change:
 
-Do NOT make generic recommendations such as
-"create more engaging content".
+Explain:
 
-GENERAL RULES:
-- Source facts must be traceable to supplied URLs.
-- Never invent metrics, launches, features or campaign results.
+1. What changed
+2. Before
+3. After
+4. Why the change matters competitively
+
+If the diff looks like a technical or irrelevant page change,
+do NOT report it.
+
+============================================================
+HUAWEI ACTIONS
+============================================================
+
+Create practical recommendations.
+
+Good examples:
+
+- Reframe a technical feature around a consumer outcome.
+- Add a scenario-led PDP module.
+- Build a short demonstration video.
+- Strengthen pre/during/post-workout storytelling.
+- Add a product comparison module.
+- Create a sport-specific content series.
+- Localise product storytelling by market.
+- Turn a complex health feature into a simple consumer explanation.
+
+Avoid:
+
+"Create more engaging content."
+
+Recommendations must be usable by:
+
+- e-commerce teams
+- PDP teams
+- content teams
+- social teams
+- video teams
+- product marketing teams
+
+============================================================
+CONTENT MIX
+============================================================
+
+Give directional scores from 0 to 100.
+
+education:
+How much recent content is product/feature education.
+
+campaign:
+How much is campaign/creative marketing.
+
+product:
+How much is product launch/product-led content.
+
+seo:
+Keep this only as a small legacy field.
+Do NOT generate SEO recommendations.
+
+The values are directional, not market share.
+
+============================================================
+CONTENT STRATEGY
+============================================================
+
+Identify the strongest recurring themes for each brand.
+
+Possible themes:
+
+Health
+Fitness
+Training
+Running
+Cycling
+Outdoor
+Adventure
+AI
+Personalisation
+Lifestyle
+Safety
+Ecosystem
+Design
+Battery
+Navigation
+Recovery
+
+Give strength 0-100.
+
+============================================================
+MARKET INSIGHTS
+============================================================
+
+Only report meaningful market differences.
+
+Do not invent localisation.
+
+============================================================
+GENERAL RULES
+============================================================
+
+- Trace factual claims to supplied URLs.
+- Never invent metrics.
+- Never invent campaign results.
+- Never invent PDP changes.
 - Strategic implications are analysis, not facts.
-- Use professional British English.
-- Be concise and information-dense.
-- Keep no more than 8 productMoves.
-- Keep no more than 8 marketingMoves.
-- Keep no more than 8 ecommerceMoves.
-- Keep no more than 6 huaweiActions.
-- Only include genuinely useful signals.
-- If there is insufficient evidence, return fewer items.
+- Keep concise.
+- No more than 12 signals.
+- No more than 6 HUAWEI actions.
+- No more than 10 PDP changes.
+- No more than 9 content strategy entries.
+- No more than 12 market insights.
 - Do not force every brand into every category.
-- Avoid generic technology news.
-- Avoid repetitive items about the same product.
-- Do not include a separate SEO section.
+- Do not include generic technology news.
+- Avoid repetitive items.
+- Wearables only.
 
-ITEMS:
+============================================================
+FEED ITEMS
+============================================================
 
-{json.dumps(ai_items, ensure_ascii=False)}
+{json.dumps(
+    ai_items,
+    ensure_ascii=False
+)}
+
+============================================================
+PDP CHANGES
+============================================================
+
+{json.dumps(
+    pdp_changes,
+    ensure_ascii=False
+)}
 """
 
     try:
 
         print(
-            f"Sending {len(ai_items)} items to "
-            f"{QWEN_MODEL}..."
+            f"Sending {len(ai_items)} feed items "
+            f"and {len(pdp_changes)} PDP changes "
+            f"to {QWEN_MODEL}..."
         )
 
         res = client.responses.create(
@@ -409,7 +956,11 @@ ITEMS:
             input=prompt,
         )
 
-        if getattr(res, "usage", None):
+        if getattr(
+            res,
+            "usage",
+            None
+        ):
 
             usage = res.usage
 
@@ -453,7 +1004,11 @@ ITEMS:
             txt
         )
 
-        return json.loads(txt)
+        result = json.loads(
+            txt
+        )
+
+        return result
 
     except Exception as ex:
 
@@ -465,10 +1020,135 @@ ITEMS:
         return None
 
 
+# ============================================================
+# NORMALISE AI OUTPUT FOR DASHBOARD
+# ============================================================
+
+def normalise_result(
+    result,
+    pdp_changes
+):
+
+    if not result:
+        return None
+
+    result.setdefault(
+        "signals",
+        []
+    )
+
+    result.setdefault(
+        "actions",
+        []
+    )
+
+    result.setdefault(
+        "contentMix",
+        []
+    )
+
+    result.setdefault(
+        "contentStrategy",
+        []
+    )
+
+    result.setdefault(
+        "marketInsights",
+        []
+    )
+
+    result.setdefault(
+        "pdpChanges",
+        []
+    )
+
+    # ----------------------------------------
+    # Keep only actual PDP changes
+    # ----------------------------------------
+
+    valid_pdp_urls = {
+        x["url"]
+        for x in pdp_changes
+    }
+
+    result["pdpChanges"] = [
+        x
+        for x in result["pdpChanges"]
+        if x.get("url") in valid_pdp_urls
+    ]
+
+    # ----------------------------------------
+    # Limit output
+    # ----------------------------------------
+
+    result["signals"] = result[
+        "signals"
+    ][:12]
+
+    result["actions"] = result[
+        "actions"
+    ][:6]
+
+    result["pdpChanges"] = result[
+        "pdpChanges"
+    ][:10]
+
+    result["contentStrategy"] = result[
+        "contentStrategy"
+    ][:9]
+
+    result["marketInsights"] = result[
+        "marketInsights"
+    ][:12]
+
+    return result
+
+
+# ============================================================
+# SOURCE HEALTH
+# ============================================================
+
+def build_source_health():
+
+    sources = []
+
+    for brand, market, kind, url in FEEDS:
+
+        sources.append(
+            {
+                "source": (
+                    f"{brand} · "
+                    f"{market}"
+                ),
+                "type": kind,
+                "status": "MONITORED",
+            }
+        )
+
+    for page in PDP_PAGES:
+
+        sources.append(
+            {
+                "source": (
+                    f"{page['brand']} · "
+                    f"{page['market']}"
+                ),
+                "type": page["pageType"],
+                "status": "MONITORED",
+            }
+        )
+
+    return sources
+
+
+# ============================================================
+# MAIN
+# ============================================================
+
 def main():
 
     print(
-        "=== 3C Content Intelligence Hub ==="
+        "=== 3C Wearables Intelligence Hub ==="
     )
 
     print(
@@ -476,48 +1156,116 @@ def main():
         QWEN_MODEL
     )
 
+    # ----------------------------------------
+    # Load existing data
+    # ----------------------------------------
+
+    old = {}
+
+    if os.path.exists(DATA):
+
+        try:
+
+            with open(
+                DATA,
+                encoding="utf-8"
+            ) as f:
+
+                old = json.load(f)
+
+        except Exception as ex:
+
+            print(
+                "Could not read existing data:",
+                str(ex)
+            )
+
+            old = {}
+
+    # ----------------------------------------
+    # Fetch feeds
+    # ----------------------------------------
+
     items = fetch()
 
-    result = ai(items)
+    # ----------------------------------------
+    # Fetch PDP pages
+    # ----------------------------------------
+
+    current_pdp_pages = fetch_pdp_pages()
+
+    # ----------------------------------------
+    # Detect PDP changes
+    # ----------------------------------------
+
+    pdp_changes = create_pdp_changes(
+        current_pdp_pages,
+        old
+    )
+
+    # ----------------------------------------
+    # AI
+    # ----------------------------------------
+
+    result = ai(
+        items,
+        pdp_changes
+    )
 
     now = (
         dt.datetime
-        .now(dt.timezone.utc)
+        .now(
+            dt.timezone.utc
+        )
         .astimezone(
             dt.timezone(
-                dt.timedelta(hours=8)
+                dt.timedelta(
+                    hours=8
+                )
             )
         )
         .isoformat()
     )
 
+    # ----------------------------------------
+    # Successful AI result
+    # ----------------------------------------
+
     if result:
+
+        result = normalise_result(
+            result,
+            pdp_changes
+        )
 
         result["updatedAt"] = now
 
-        result["timezone"] = "Asia/Kuala_Lumpur"
-
-        result["feedItems"] = items[:MAX_FEED_ITEMS]
-
-        old = {}
-
-        if os.path.exists(DATA):
-
-            try:
-
-                with open(
-                    DATA,
-                    encoding="utf-8"
-                ) as f:
-                    old = json.load(f)
-
-            except Exception:
-                old = {}
-
-        result["sourceHealth"] = old.get(
-            "sourceHealth",
-            []
+        result["timezone"] = (
+            "Asia/Kuala_Lumpur"
         )
+
+        result["feedItems"] = items[
+            :MAX_FEED_ITEMS
+        ]
+
+        result["pdpSnapshots"] = [
+            {
+                "brand": x["brand"],
+                "market": x["market"],
+                "pageType": x["pageType"],
+                "url": x["url"],
+                "contentHash": x["contentHash"],
+                "text": x["text"],
+            }
+            for x in current_pdp_pages
+        ]
+
+        result["sourceHealth"] = (
+            build_source_health()
+        )
+
+        # Legacy compatibility
+        result["seo"] = []
 
         with open(
             DATA,
@@ -536,29 +1284,50 @@ def main():
             "AI analysis completed successfully."
         )
 
+        print(
+            "Dashboard data written to:",
+            DATA
+        )
+
+    # ----------------------------------------
+    # AI failure
+    # ----------------------------------------
+
     else:
 
-        if os.path.exists(DATA):
+        print(
+            "AI analysis failed."
+        )
 
-            try:
-
-                with open(
-                    DATA,
-                    encoding="utf-8"
-                ) as f:
-                    old = json.load(f)
-
-            except Exception:
-                old = {}
-
-        else:
-            old = {}
+        # Preserve previous AI analysis.
+        # Still update feed and PDP snapshots
+        # so the next run has fresh data.
 
         old["updatedAt"] = now
 
-        old["timezone"] = "Asia/Kuala_Lumpur"
+        old["timezone"] = (
+            "Asia/Kuala_Lumpur"
+        )
 
-        old["feedItems"] = items[:MAX_FEED_ITEMS]
+        old["feedItems"] = items[
+            :MAX_FEED_ITEMS
+        ]
+
+        old["pdpSnapshots"] = [
+            {
+                "brand": x["brand"],
+                "market": x["market"],
+                "pageType": x["pageType"],
+                "url": x["url"],
+                "contentHash": x["contentHash"],
+                "text": x["text"],
+            }
+            for x in current_pdp_pages
+        ]
+
+        old["sourceHealth"] = (
+            build_source_health()
+        )
 
         with open(
             DATA,
@@ -574,8 +1343,7 @@ def main():
             )
 
         print(
-            "AI analysis failed. "
-            "Existing dashboard data preserved."
+            "Existing AI analysis preserved."
         )
 
 
