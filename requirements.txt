@@ -1,0 +1,4 @@
+requests>=2.32.0
+feedparser>=6.0.11
+beautifulsoup4>=4.12.3
+openai>=1.100.0

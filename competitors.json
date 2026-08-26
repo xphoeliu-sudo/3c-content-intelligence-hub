@@ -1,0 +1,53 @@
+{
+  "Apple": {
+    "Global": {
+      "Wearables": [
+        "https://www.apple.com/watch/"
+      ]
+    },
+    "Malaysia": {
+      "Wearables": [
+        "https://www.apple.com/my/watch/"
+      ]
+    },
+    "UK": {
+      "Wearables": [
+        "https://www.apple.com/uk/watch/"
+      ]
+    }
+  },
+  "Samsung": {
+    "Global": {
+      "Wearables": [
+        "https://www.samsung.com/global/galaxy-watches/"
+      ]
+    },
+    "Malaysia": {
+      "Wearables": [
+        "https://www.samsung.com/my/watches/"
+      ]
+    },
+    "UK": {
+      "Wearables": [
+        "https://www.samsung.com/uk/watches/"
+      ]
+    }
+  },
+  "Garmin": {
+    "Global": {
+      "Wearables": [
+        "https://www.garmin.com/en-US/c/wearables-smartwatches/"
+      ]
+    },
+    "Malaysia": {
+      "Wearables": [
+        "https://www.garmin.com.my/products/wearables/"
+      ]
+    },
+    "UK": {
+      "Wearables": [
+        "https://www.garmin.com/en-GB/c/wearables-smartwatches/"
+      ]
+    }
+  }
+}

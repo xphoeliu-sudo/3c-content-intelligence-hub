@@ -1,0 +1,1595 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<title>3C Content Intelligence Hub · Huawei Edition</title>
+
+<style>
+:root{
+  --bg:#080a0d;
+  --panel:#11151a;
+  --panel2:#171c22;
+  --panel3:#1d232b;
+  --text:#f5f7fa;
+  --muted:#8f9aa8;
+  --line:#29313b;
+  --accent:#d8ff3e;
+  --red:#ff7272;
+  --amber:#ffc857;
+  --blue:#78a9ff;
+  --green:#73e2a0;
+}
+
+*{box-sizing:border-box}
+
+body{
+  margin:0;
+  background:var(--bg);
+  color:var(--text);
+  font:14px/1.55 Inter,system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+
+.wrap{
+  max-width:1400px;
+  margin:auto;
+  padding:28px 24px 70px;
+}
+
+a{
+  color:inherit;
+  text-decoration:none;
+}
+
+/* HEADER */
+
+header{
+  display:flex;
+  justify-content:space-between;
+  gap:25px;
+  align-items:flex-end;
+  border-bottom:1px solid var(--line);
+  padding-bottom:24px;
+}
+
+.kicker{
+  font-size:11px;
+  letter-spacing:.16em;
+  color:var(--accent);
+  font-weight:850;
+}
+
+.title{
+  font-size:38px;
+  font-weight:900;
+  line-height:1.05;
+  margin:8px 0 10px;
+  letter-spacing:-.025em;
+}
+
+.sub{
+  color:var(--muted);
+  max-width:850px;
+  font-size:14px;
+}
+
+.updated{
+  color:var(--muted);
+  font-size:12px;
+  text-align:right;
+  white-space:nowrap;
+}
+
+/* FILTERS */
+
+.filter-area{
+  margin:20px 0 8px;
+}
+
+.filter-label{
+  font-size:10px;
+  color:var(--muted);
+  text-transform:uppercase;
+  letter-spacing:.12em;
+  margin:13px 0 7px;
+  font-weight:800;
+}
+
+.filters{
+  display:flex;
+  gap:7px;
+  flex-wrap:wrap;
+}
+
+.filters button{
+  background:var(--panel);
+  border:1px solid var(--line);
+  color:var(--text);
+  padding:7px 12px;
+  border-radius:999px;
+  cursor:pointer;
+  font-size:12px;
+}
+
+.filters button:hover{
+  border-color:#5a6572;
+}
+
+.filters button.active{
+  color:var(--accent);
+  border-color:var(--accent);
+  background:#141a13;
+}
+
+/* STATS */
+
+.stats{
+  display:grid;
+  grid-template-columns:repeat(6,1fr);
+  gap:10px;
+  margin-top:18px;
+}
+
+.stat{
+  background:var(--panel);
+  border:1px solid var(--line);
+  border-radius:16px;
+  padding:15px;
+  min-height:92px;
+}
+
+.num{
+  font-size:27px;
+  font-weight:900;
+  letter-spacing:-.02em;
+}
+
+.label{
+  font-size:10px;
+  color:var(--muted);
+  text-transform:uppercase;
+  letter-spacing:.08em;
+  margin-top:3px;
+}
+
+/* SECTION */
+
+.section{
+  margin-top:18px;
+}
+
+.section-title{
+  display:flex;
+  justify-content:space-between;
+  align-items:end;
+  margin-bottom:10px;
+}
+
+.section-title h2{
+  font-size:18px;
+  margin:0;
+}
+
+.section-title span{
+  font-size:11px;
+  color:var(--muted);
+}
+
+/* EXECUTIVE */
+
+.executive{
+  display:grid;
+  grid-template-columns:1.4fr 1fr 1fr;
+  gap:12px;
+}
+
+.exec-card{
+  background:var(--panel);
+  border:1px solid var(--line);
+  border-radius:17px;
+  padding:18px;
+}
+
+.exec-card .brand{
+  font-size:11px;
+  color:var(--accent);
+  font-weight:850;
+  letter-spacing:.1em;
+  text-transform:uppercase;
+}
+
+.exec-card h3{
+  font-size:16px;
+  margin:8px 0 7px;
+}
+
+.exec-card p{
+  margin:0;
+  color:#c5cbd3;
+  font-size:13px;
+}
+
+.impact{
+  display:inline-block;
+  margin-top:12px;
+  font-size:10px;
+  padding:3px 8px;
+  border-radius:999px;
+  border:1px solid var(--line);
+  color:var(--muted);
+}
+
+.impact.high{
+  color:var(--red);
+  border-color:#61383d;
+}
+
+.impact.medium{
+  color:var(--amber);
+  border-color:#5e4d28;
+}
+
+/* GRID */
+
+.grid{
+  display:grid;
+  grid-template-columns:1.35fr .95fr;
+  gap:15px;
+  margin-top:15px;
+}
+
+.grid.equal{
+  grid-template-columns:1fr 1fr;
+}
+
+/* PANELS */
+
+.panel{
+  background:var(--panel);
+  border:1px solid var(--line);
+  border-radius:17px;
+  padding:19px;
+}
+
+.panel h2{
+  font-size:16px;
+  margin:0 0 14px;
+}
+
+/* SIGNAL */
+
+.signal{
+  background:var(--panel2);
+  border:1px solid var(--line);
+  border-radius:13px;
+  padding:14px;
+  margin:9px 0;
+}
+
+.top{
+  display:flex;
+  justify-content:space-between;
+  gap:10px;
+  align-items:center;
+}
+
+.brand{
+  font-weight:800;
+}
+
+.tag{
+  font-size:10px;
+  border:1px solid var(--line);
+  border-radius:999px;
+  padding:2px 7px;
+  color:var(--muted);
+}
+
+.high{
+  color:var(--red);
+  border-color:#61383d;
+}
+
+.medium{
+  color:var(--amber);
+  border-color:#5e4d28;
+}
+
+.low{
+  color:var(--green);
+  border-color:#31583f;
+}
+
+.signal h3{
+  font-size:15px;
+  margin:8px 0 5px;
+}
+
+.muted{
+  color:var(--muted);
+}
+
+.small{
+  color:var(--muted);
+  font-size:12px;
+}
+
+.imp{
+  border-top:1px solid var(--line);
+  margin-top:10px;
+  padding-top:10px;
+}
+
+/* MOVES */
+
+.move{
+  display:grid;
+  grid-template-columns:90px 1fr;
+  gap:12px;
+  padding:12px 0;
+  border-bottom:1px solid var(--line);
+}
+
+.move:last-child{
+  border-bottom:0;
+}
+
+.move-brand{
+  font-weight:850;
+}
+
+.move-type{
+  color:var(--muted);
+  font-size:10px;
+  margin-top:2px;
+  text-transform:uppercase;
+}
+
+.move-title{
+  font-weight:760;
+}
+
+.move-summary{
+  color:var(--muted);
+  margin-top:3px;
+  font-size:12px;
+}
+
+.move-link{
+  display:inline-block;
+  margin-top:6px;
+  color:var(--accent);
+  font-size:11px;
+}
+
+/* ACTION BOARD */
+
+.action{
+  padding:13px 0;
+  border-bottom:1px solid var(--line);
+}
+
+.action:last-child{
+  border-bottom:0;
+}
+
+.action-top{
+  display:flex;
+  justify-content:space-between;
+  gap:8px;
+}
+
+.action-name{
+  font-weight:800;
+}
+
+.action-priority{
+  font-size:10px;
+  border:1px solid var(--line);
+  border-radius:999px;
+  padding:2px 7px;
+  color:var(--accent);
+}
+
+.action-why{
+  color:var(--muted);
+  font-size:12px;
+  margin-top:5px;
+}
+
+.action-example{
+  font-size:11px;
+  margin-top:6px;
+  color:#c7cdd5;
+}
+
+/* PDP */
+
+.pdp{
+  background:var(--panel2);
+  border:1px solid var(--line);
+  border-radius:13px;
+  padding:14px;
+  margin:9px 0;
+}
+
+.pdp-head{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:10px;
+}
+
+.pdp-brand{
+  font-weight:850;
+}
+
+.change{
+  font-size:10px;
+  color:var(--accent);
+  border:1px solid #506020;
+  border-radius:999px;
+  padding:3px 8px;
+}
+
+.pdp h3{
+  margin:8px 0 5px;
+  font-size:14px;
+}
+
+.before-after{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:8px;
+  margin-top:10px;
+}
+
+.ba{
+  background:var(--panel3);
+  border-radius:9px;
+  padding:9px;
+}
+
+.ba-label{
+  font-size:9px;
+  color:var(--muted);
+  text-transform:uppercase;
+  letter-spacing:.08em;
+}
+
+.ba-text{
+  margin-top:3px;
+  font-size:11px;
+}
+
+/* RADAR */
+
+.radar-row{
+  display:grid;
+  grid-template-columns:90px 1fr;
+  align-items:center;
+  gap:12px;
+  margin:13px 0;
+}
+
+.radar-brand{
+  font-weight:800;
+}
+
+.radar-bars{
+  display:flex;
+  flex-direction:column;
+  gap:4px;
+}
+
+.radar-line{
+  display:grid;
+  grid-template-columns:70px 1fr;
+  align-items:center;
+  gap:7px;
+}
+
+.radar-line span{
+  color:var(--muted);
+  font-size:10px;
+}
+
+.bar{
+  height:7px;
+  border-radius:99px;
+  background:#252c33;
+  overflow:hidden;
+}
+
+.fill{
+  height:100%;
+  background:var(--accent);
+  border-radius:99px;
+}
+
+/* MARKET */
+
+.market{
+  padding:11px 0;
+  border-bottom:1px solid var(--line);
+}
+
+.market:last-child{
+  border-bottom:0;
+}
+
+.market-head{
+  display:flex;
+  justify-content:space-between;
+  gap:10px;
+}
+
+.market-name{
+  font-weight:800;
+}
+
+.market-signal{
+  margin-top:3px;
+  color:var(--muted);
+  font-size:12px;
+}
+
+/* SOURCE */
+
+.source{
+  display:flex;
+  justify-content:space-between;
+  gap:8px;
+  padding:9px 0;
+  border-bottom:1px solid var(--line);
+}
+
+.source:last-child{
+  border-bottom:0;
+}
+
+.ok{
+  color:var(--accent);
+}
+
+/* EMPTY */
+
+.empty{
+  padding:20px 0;
+  color:var(--muted);
+  font-size:12px;
+}
+
+/* FOOTER */
+
+.footer{
+  margin-top:24px;
+  font-size:11px;
+  color:var(--muted);
+  border-top:1px solid var(--line);
+  padding-top:15px;
+}
+
+/* RESPONSIVE */
+
+@media(max-width:1150px){
+  .stats{
+    grid-template-columns:repeat(3,1fr);
+  }
+
+  .executive{
+    grid-template-columns:1fr 1fr;
+  }
+}
+
+@media(max-width:900px){
+  .grid,
+  .grid.equal{
+    grid-template-columns:1fr;
+  }
+}
+
+@media(max-width:650px){
+  .wrap{
+    padding:20px 14px 50px;
+  }
+
+  header{
+    flex-direction:column;
+    align-items:flex-start;
+  }
+
+  .updated{
+    text-align:left;
+  }
+
+  .title{
+    font-size:30px;
+  }
+
+  .stats{
+    grid-template-columns:repeat(2,1fr);
+  }
+
+  .executive{
+    grid-template-columns:1fr;
+  }
+
+  .before-after{
+    grid-template-columns:1fr;
+  }
+
+  .move{
+    grid-template-columns:75px 1fr;
+  }
+}
+</style>
+</head>
+
+<body>
+
+<div class="wrap">
+
+<header>
+  <div>
+    <div class="kicker">HUAWEI EDITION · 3C INTELLIGENCE V4</div>
+    <div class="title">3C Content Intelligence Hub</div>
+    <div class="sub">
+      Monitor Apple, Samsung and Garmin wearables across Global, Malaysia and UK — tracking product content, marketing moves, PDP/PCP changes and messaging patterns, then turning competitive signals into actionable HUAWEI opportunities.
+    </div>
+  </div>
+
+  <div class="updated" id="updated">
+    Loading…
+  </div>
+</header>
+
+
+<!-- FILTERS -->
+
+<div class="filter-area">
+
+  <div class="filter-label">Competitor</div>
+
+  <div class="filters" id="brandFilters">
+    <button class="active" data-v="ALL">All</button>
+    <button data-v="Apple">Apple</button>
+    <button data-v="Samsung">Samsung</button>
+    <button data-v="Garmin">Garmin</button>
+  </div>
+
+  <div class="filter-label">Market</div>
+
+  <div class="filters" id="marketFilters">
+    <button class="active" data-v="ALL">All markets</button>
+    <button data-v="Global">Global</button>
+    <button data-v="Malaysia">Malaysia</button>
+    <button data-v="UK">UK</button>
+  </div>
+
+</div>
+
+
+<!-- STATS -->
+
+<div class="scope-note">
+  <b>Monitoring scope</b> · Apple · Samsung · Garmin · Wearables only · Global · Malaysia · UK
+</div>
+
+<div class="stats">
+
+  <div class="stat">
+    <div class="num" id="s">—</div>
+    <div class="label">Priority signals</div>
+  </div>
+
+  <div class="stat">
+    <div class="num" id="m">—</div>
+    <div class="label">Content moves</div>
+  </div>
+
+  <div class="stat">
+    <div class="num" id="p">—</div>
+    <div class="label">PDP / PCP changes</div>
+  </div>
+
+  <div class="stat">
+    <div class="num" id="a">—</div>
+    <div class="label">HUAWEI opportunities</div>
+  </div>
+
+  <div class="stat">
+    <div class="num" id="markets">3</div>
+    <div class="label">Markets monitored</div>
+  </div>
+
+  <div class="stat">
+    <div class="num">Daily</div>
+    <div class="label">Refresh cadence</div>
+  </div>
+
+</div>
+
+
+<!-- EXECUTIVE OVERVIEW -->
+
+<div class="section">
+
+  <div class="section-title">
+    <h2>Executive Overview</h2>
+    <span>What matters most right now</span>
+  </div>
+
+  <div class="executive" id="executive"></div>
+
+</div>
+
+
+<!-- MAIN -->
+
+<div class="grid">
+
+  <section class="panel">
+
+    <h2>🔥 Competitive Signals</h2>
+
+    <div id="signals"></div>
+
+  </section>
+
+
+  <section class="panel">
+
+    <h2>💡 HUAWEI Opportunity Board</h2>
+
+    <div id="actions"></div>
+
+  </section>
+
+</div>
+
+
+<!-- CONTENT MOVES + PDP -->
+
+<div class="grid">
+
+  <section class="panel">
+
+    <h2>📡 Competitor Content Moves</h2>
+
+    <div id="moves"></div>
+
+  </section>
+
+
+  <section class="panel">
+
+    <h2>🖥 Wearable PDP / PCP Watch</h2>
+
+    <div id="pdp"></div>
+
+  </section>
+
+</div>
+
+
+<!-- STRATEGY -->
+
+<div class="grid equal">
+
+  <section class="panel">
+
+    <h2>📊 Content Strategy Radar</h2>
+
+    <div id="radar"></div>
+
+    <div class="small">
+      Directional view of recent communication emphasis.
+      Values become more reliable as historical records accumulate. This view focuses on wearable content, product and campaign emphasis; SEO is intentionally excluded.
+    </div>
+
+  </section>
+
+
+  <section class="panel">
+
+    <h2>🌍 Market Intelligence</h2>
+
+    <div id="market"></div>
+
+  </section>
+
+</div>
+
+
+<!-- SOURCES -->
+
+<div class="grid equal">
+
+  <section class="panel">
+
+    <h2>📡 Source Health</h2>
+
+    <div id="sources"></div>
+
+  </section>
+
+
+  <section class="panel">
+
+    <h2>🧭 How to Read This Dashboard</h2>
+
+    <div class="small">
+
+      <b>1. Executive Overview</b><br>
+      Start here to understand the biggest competitive shifts.
+      <br><br>
+
+      <b>2. Competitive Signals</b><br>
+      Review individual competitor actions and why they matter.
+      <br><br>
+
+      <b>3. Wearable PDP / PCP Watch</b><br>
+      Focus on changes to product storytelling, page structure and feature emphasis.
+      <br><br>
+
+      <b>4. Content Strategy Radar</b><br>
+      Identify what competitors are increasingly talking about.
+      <br><br>
+
+      <b>5. HUAWEI Opportunity Board</b><br>
+      Convert competitor movements into practical content opportunities.
+
+    </div>
+
+  </section>
+
+</div>
+
+
+<div class="footer">
+  Competitive intelligence is based on available discovery sources and monitored pages.
+  Discovery is not exhaustive. Always verify source facts against the original page
+  before external publication.
+</div>
+
+</div>
+
+
+<script>
+
+let D = {};
+let brandFilter = 'ALL';
+let marketFilter = 'ALL';
+
+
+/* -----------------------------
+   HELPERS
+----------------------------- */
+
+function arr(v){
+  return Array.isArray(v) ? v : [];
+}
+
+function esc(v){
+  if(v === undefined || v === null) return '';
+  return String(v)
+    .replace(/&/g,'&amp;')
+    .replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;')
+    .replace(/'/g,'&#039;');
+}
+
+function selected(x){
+
+  const brandOK =
+    brandFilter === 'ALL' ||
+    x.brand === brandFilter;
+
+  const marketOK =
+    marketFilter === 'ALL' ||
+    x.market === marketFilter;
+
+  return brandOK && marketOK;
+}
+
+function priorityClass(priority){
+
+  const p = String(priority || '').toLowerCase();
+
+  if(p.includes('high')) return 'high';
+  if(p.includes('medium')) return 'medium';
+
+  return 'low';
+}
+
+function getTitle(x){
+
+  return x.title ||
+         x.name ||
+         x.headline ||
+         x.action ||
+         'Untitled signal';
+
+}
+
+
+/* -----------------------------
+   EXECUTIVE OVERVIEW
+----------------------------- */
+
+function renderExecutive(){
+
+  const signals = arr(D.signals).filter(selected);
+
+  const brands = ['Apple','Samsung','Garmin'];
+
+  const cards = brands.map(brand => {
+
+    const items = signals.filter(x => x.brand === brand);
+
+    if(!items.length){
+
+      return `
+      <div class="exec-card">
+        <div class="brand">${brand}</div>
+        <h3>No major signal detected</h3>
+        <p>
+          No high-confidence wearable signal is currently available
+          for the selected filters.
+        </p>
+      </div>`;
+    }
+
+    const high =
+      items.find(x =>
+        String(x.priority || '').toLowerCase().includes('high')
+      ) || items[0];
+
+    return `
+    <div class="exec-card">
+
+      <div class="brand">${esc(brand)}</div>
+
+      <h3>${esc(getTitle(high))}</h3>
+
+      <p>
+        ${esc(
+          high.implication ||
+          high.summary ||
+          'Recent competitive activity detected.'
+        )}
+      </p>
+
+      <span class="impact ${priorityClass(high.priority)}">
+        ${(high.priority || 'SIGNAL').toUpperCase()}
+      </span>
+
+    </div>`;
+
+  }).join('');
+
+  document.getElementById('executive').innerHTML = cards;
+
+}
+
+
+/* -----------------------------
+   SIGNALS
+----------------------------- */
+
+function renderSignals(){
+
+  const sig =
+    arr(D.signals)
+      .filter(selected)
+      .slice(0,30);
+
+  document.getElementById('s').textContent = sig.length;
+
+  if(!sig.length){
+
+    document.getElementById('signals').innerHTML =
+      `<div class="empty">No signals match the selected filters.</div>`;
+
+    return;
+  }
+
+  document.getElementById('signals').innerHTML = sig.map(x => `
+
+    <article class="signal">
+
+      <div class="top">
+
+        <span class="brand">
+          ${esc(x.brand || 'Unknown')}
+          ·
+          ${esc(x.market || 'Global')}
+          ${x.type ? ' · ' + esc(x.type) : ''}
+        </span>
+
+        <span class="tag ${priorityClass(x.priority)}">
+          ${esc(x.priority || 'Signal')}
+        </span>
+
+      </div>
+
+      <h3>${esc(getTitle(x))}</h3>
+
+      <div class="muted">
+        ${esc(x.summary || '')}
+      </div>
+
+      ${
+        x.implication
+        ?
+        `<div class="imp">
+          <b>Why it matters</b><br>
+          ${esc(x.implication)}
+        </div>`
+        : ''
+      }
+
+      ${
+        x.url
+        ?
+        `<div style="margin-top:8px">
+          <a class="small" href="${esc(x.url)}" target="_blank">
+            Open source ↗
+          </a>
+        </div>`
+        : ''
+      }
+
+    </article>
+
+  `).join('');
+
+}
+
+
+/* -----------------------------
+   ACTION BOARD
+----------------------------- */
+
+function renderActions(){
+
+  const actions = arr(D.actions);
+
+  document.getElementById('a').textContent = actions.length;
+
+  if(!actions.length){
+
+    document.getElementById('actions').innerHTML =
+      `<div class="empty">
+        No HUAWEI opportunity has been generated yet.
+      </div>`;
+
+    return;
+  }
+
+  document.getElementById('actions').innerHTML =
+    actions.slice(0,15).map(x => `
+
+      <div class="action">
+
+        <div class="action-top">
+
+          <div class="action-name">
+            ${esc(x.action || x.title || 'Recommended action')}
+          </div>
+
+          <div class="action-priority">
+            ${esc(x.priority || 'NOW')}
+          </div>
+
+        </div>
+
+        <div class="action-why">
+          ${esc(x.why || x.reason || '')}
+        </div>
+
+        ${
+          x.examples
+          ?
+          `<div class="action-example">
+            <b>Execution:</b> ${esc(x.examples)}
+          </div>`
+          : ''
+        }
+
+      </div>
+
+    `).join('');
+
+}
+
+
+/* -----------------------------
+   CONTENT MOVES
+----------------------------- */
+
+function renderMoves(){
+
+  const signals =
+    arr(D.signals)
+      .filter(selected)
+      .slice(0,20);
+
+  document.getElementById('m').textContent = signals.length;
+
+  if(!signals.length){
+
+    document.getElementById('moves').innerHTML =
+      `<div class="empty">No content moves detected.</div>`;
+
+    return;
+  }
+
+  document.getElementById('moves').innerHTML =
+    signals.map(x => `
+
+      <div class="move">
+
+        <div>
+
+          <div class="move-brand">
+            ${esc(x.brand || 'Unknown')}
+          </div>
+
+          <div class="move-type">
+            ${esc(x.type || 'CONTENT')}
+          </div>
+
+        </div>
+
+        <div>
+
+          <div class="move-title">
+            ${esc(getTitle(x))}
+          </div>
+
+          <div class="move-summary">
+            ${esc(x.summary || '')}
+          </div>
+
+          ${
+            x.url
+            ?
+            `<a class="move-link"
+                href="${esc(x.url)}"
+                target="_blank">
+                View source ↗
+             </a>`
+            : ''
+          }
+
+        </div>
+
+      </div>
+
+    `).join('');
+
+}
+
+
+/* -----------------------------
+   PDP / PCP WATCH
+----------------------------- */
+
+/*
+  This section is deliberately backward-compatible.
+
+  If update.py later creates:
+
+  D.pdpChanges = [
+    {
+      brand,
+      market,
+      product,
+      change,
+      before,
+      after,
+      implication,
+      url
+    }
+  ]
+
+  the dashboard will automatically display it.
+
+  Until then it shows a useful placeholder instead of breaking.
+*/
+
+function renderPDP(){
+  const changes = arr(D.pageChanges || D.pdpChanges).filter(selected).slice(0,20);
+  const inventory = arr(D.pageInventory).filter(selected);
+  document.getElementById('p').textContent = changes.length;
+  if(!changes.length){
+    document.getElementById('pdp').innerHTML = `
+      <div class="empty">
+        <b>${inventory.length ? 'Monitoring is live.' : 'Wearable PDP / PCP monitoring framework ready.'}</b>
+        <br><br>
+        ${inventory.length ? `${inventory.length} pages are currently monitored. Verified day-to-day changes will appear here after a second snapshot is available.` : 'No verified PDP / PCP changes are currently available.'}
+        <br><br>
+        The monitor tracks page structure, headings, modules, CTAs, video and product storytelling changes.
+      </div>`;
+    return;
+  }
+  document.getElementById('pdp').innerHTML = changes.map(x => `
+    <div class="pdp">
+      <div class="pdp-head">
+        <div class="pdp-brand">${esc(x.brand || '')} · ${esc(x.market || 'Global')} · ${esc(x.category || '')}</div>
+        <div class="change">${esc(x.priority || 'CHANGE')}</div>
+      </div>
+      <h3>${esc(x.title || x.product || 'Product page')}</h3>
+      <div class="small">${esc(x.pageType || 'PAGE')} · ${esc(x.change || x.summary || fieldsSummary(x))}</div>
+      ${(x.before || x.after || x.oldTitle || x.newTitle) ? `
+      <div class="before-after">
+        <div class="ba"><div class="ba-label">Before</div><div class="ba-text">${esc(x.before || x.oldTitle || '—')}</div></div>
+        <div class="ba"><div class="ba-label">After</div><div class="ba-text">${esc(x.after || x.newTitle || '—')}</div></div>
+      </div>` : ''}
+      ${x.implication ? `<div class="imp"><b>Competitive implication</b><br>${esc(x.implication)}</div>` : ''}
+      ${x.url ? `<div style="margin-top:8px"><a class="small" href="${esc(x.url)}" target="_blank">Open page ↗</a></div>` : ''}
+    </div>`).join('');
+}
+
+function fieldsSummary(x){
+  const parts=[];
+  if(arr(x.addedModules).length) parts.push('+'+arr(x.addedModules).join(', '));
+  if(arr(x.removedModules).length) parts.push('-'+arr(x.removedModules).join(', '));
+  if(arr(x.addedHeadings).length) parts.push('new messaging / headings');
+  if(Number((x.videoDelta || {}).added || 0)>0) parts.push('new video');
+  if(!parts.length && arr(x.fieldsChanged).length) parts.push(arr(x.fieldsChanged).join(', '));
+  return parts.join(' · ') || 'Page structure or content changed';
+}
+
+
+/* -----------------------------
+   CONTENT STRATEGY RADAR
+----------------------------- */
+
+function renderRadar(){
+
+  const mix = arr(D.contentMix);
+
+  if(!mix.length){
+
+    document.getElementById('radar').innerHTML =
+      `<div class="empty">
+        Strategy data will appear after more records are collected.
+      </div>`;
+
+    return;
+  }
+
+  document.getElementById('radar').innerHTML =
+    mix.map(x => `
+
+      <div class="radar-row">
+
+        <div class="radar-brand">
+          ${esc(x.brand)}
+        </div>
+
+        <div class="radar-bars">
+
+          ${radarLine('Education',x.education)}
+          ${radarLine('Campaign',x.campaign)}
+          ${radarLine('Product',x.product)}
+          ${radarLine('AI',x.ai)}
+
+        </div>
+
+      </div>
+
+    `).join('');
+
+}
+
+function radarLine(name,value){
+
+  value = Number(value || 0);
+
+  return `
+
+    <div class="radar-line">
+
+      <span>${name}</span>
+
+      <div class="bar">
+
+        <div class="fill"
+             style="width:${Math.min(100,Math.max(0,value))}%">
+        </div>
+
+      </div>
+
+    </div>
+
+  `;
+
+}
+
+
+/* -----------------------------
+   MARKET INTELLIGENCE
+----------------------------- */
+
+function renderMarket(){
+
+  const signals =
+    arr(D.signals)
+      .filter(selected);
+
+  const markets = {};
+
+  signals.forEach(x => {
+
+    const market = x.market || 'Global';
+
+    if(!markets[market]){
+      markets[market] = [];
+    }
+
+    markets[market].push(x);
+
+  });
+
+  const keys = Object.keys(markets);
+
+  if(!keys.length){
+
+    document.getElementById('market').innerHTML =
+      `<div class="empty">No market-level signals available.</div>`;
+
+    return;
+  }
+
+  document.getElementById('market').innerHTML =
+    keys.map(market => {
+
+      const items = markets[market];
+
+      const top =
+        items.find(x =>
+          String(x.priority || '')
+            .toLowerCase()
+            .includes('high')
+        ) || items[0];
+
+      return `
+
+        <div class="market">
+
+          <div class="market-head">
+
+            <div class="market-name">
+              ${esc(market)}
+            </div>
+
+            <div class="small">
+              ${items.length} signal${items.length > 1 ? 's' : ''}
+            </div>
+
+          </div>
+
+          <div class="market-signal">
+            ${esc(
+              top.summary ||
+              top.title ||
+              'Recent competitor activity detected.'
+            )}
+          </div>
+
+        </div>
+
+      `;
+
+    }).join('');
+
+}
+
+
+/* -----------------------------
+   SOURCE HEALTH
+----------------------------- */
+
+function renderSources(){
+
+  const sources = arr(D.sourceHealth);
+
+  if(!sources.length){
+
+    document.getElementById('sources').innerHTML =
+      `<div class="empty">Source status unavailable.</div>`;
+
+    return;
+  }
+
+  document.getElementById('sources').innerHTML =
+    sources.map(x => `
+
+      <div class="source">
+
+        <span>
+
+          ${esc(x.source)}
+
+          <span class="small">
+            · ${esc(x.type || '')}
+          </span>
+
+        </span>
+
+        <span class="ok">
+          ${esc(x.status || 'OK')}
+        </span>
+
+      </div>
+
+    `).join('');
+
+}
+
+
+/* -----------------------------
+   UPDATED TIME
+----------------------------- */
+
+function renderUpdated(){
+
+  if(!D.updatedAt){
+
+    document.getElementById('updated').textContent =
+      'Live intelligence dashboard';
+
+    return;
+  }
+
+  try{
+
+    document.getElementById('updated').textContent =
+      'Updated ' +
+      new Date(D.updatedAt).toLocaleString(
+        'en-GB',
+        {
+          timeZone:'Asia/Kuala_Lumpur',
+          dateStyle:'medium',
+          timeStyle:'short'
+        }
+      ) +
+      ' MYT';
+
+  }catch(e){
+
+    document.getElementById('updated').textContent =
+      'Recently updated';
+
+  }
+
+}
+
+
+/* -----------------------------
+   MASTER RENDER
+----------------------------- */
+
+function render(){
+
+  renderUpdated();
+
+  renderExecutive();
+
+  renderSignals();
+
+  renderActions();
+
+  renderMoves();
+
+  renderPDP();
+
+  renderRadar();
+
+  renderMarket();
+
+  renderSources();
+
+}
+
+
+/* -----------------------------
+   FILTERS
+----------------------------- */
+
+document
+  .querySelectorAll('#brandFilters button')
+  .forEach(button => {
+
+    button.onclick = () => {
+
+      document
+        .querySelectorAll('#brandFilters button')
+        .forEach(x =>
+          x.classList.remove('active')
+        );
+
+      button.classList.add('active');
+
+      brandFilter = button.dataset.v;
+
+      render();
+
+    };
+
+  });
+
+
+document
+  .querySelectorAll('#marketFilters button')
+  .forEach(button => {
+
+    button.onclick = () => {
+
+      document
+        .querySelectorAll('#marketFilters button')
+        .forEach(x =>
+          x.classList.remove('active')
+        );
+
+      button.classList.add('active');
+
+      marketFilter = button.dataset.v;
+
+      render();
+
+    };
+
+  });
+
+
+/* -----------------------------
+   LOAD DATA
+----------------------------- */
+
+Promise.all([
+  fetch('data.json?ts=' + Date.now()).then(r => r.ok ? r.json() : {}),
+  fetch('page_changes.json?ts=' + Date.now()).then(r => r.ok ? r.json() : []).catch(() => []),
+  fetch('page_inventory.json?ts=' + Date.now()).then(r => r.ok ? r.json() : []).catch(() => [])
+])
+  .then(([data, pageChanges, pageInventory]) => {
+    D = data || {};
+    D.pageChanges = arr(D.pageChanges).length ? D.pageChanges : (Array.isArray(pageChanges) ? pageChanges : []);
+    D.pageInventory = arr(D.pageInventory).length ? D.pageInventory : (Array.isArray(pageInventory) ? pageInventory : []);
+    render();
+  })
+
+  .catch(error => {
+
+    console.error(error);
+
+    document.getElementById('updated').textContent =
+      'Data loading error';
+
+    document.getElementById('signals').innerHTML = `
+
+      <div class="empty">
+
+        Unable to load <b>data.json</b>.
+
+        <br><br>
+
+        Please check that data.json exists in the same
+        GitHub Pages directory as index.html.
+
+      </div>
+
+    `;
+
+  });
+
+</script>
+
+</body>
+</html>
