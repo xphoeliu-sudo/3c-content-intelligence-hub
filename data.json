@@ -1,350 +1,536 @@
 {
-  "productMoves": [
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "date": "2026-08-26",
-      "priority": "HIGH",
-      "product": "Mac Studio & Mac mini (M5/M6)",
-      "moveType": "Product Launch",
-      "whatChanged": "Introduced M5 Ultra and M6 chips with specific focus on 'monumental leap in AI performance' and AI compute capabilities.",
-      "whyItMatters": "Signals a shift in PC marketing from raw speed to AI-ready hardware, setting a benchmark for on-device AI processing that competitors must match.",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/"
-    },
+  "signals": [
     {
       "brand": "Garmin",
       "market": "Global",
-      "date": "2026-08-26",
+      "type": "PRODUCT",
       "priority": "HIGH",
-      "product": "fenix 9 & fenix 9 Pro",
-      "moveType": "Product Launch",
-      "whatChanged": "Announced next-generation GPS smartwatches, continuing the premium outdoor multisport lineage.",
-      "whyItMatters": "Direct competitor to Huawei Watch Ultimate/GT Pro series; reinforces Garmin's dominance in the high-end fitness wearable segment.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaU1FU3h0RHN4UTkwWXBBQW05RFV5LXVuVlNUSjFBQ1lkMXcyOWlXUXU5NHU1dGpjcV9pX1dtNFBTeVZ5a3pMVmt0MG1YN3VKMGdmVWwyLTFYSllBNEdnU2hYYXZNMnpOMDd6UTJVemIxSjZMYURiSEh6dllGekg3ekxoU1VDSnBHeFBydFJtRHRTSVZWd3lXOVl2ZkNwa1hZN0Z4LWFjSmNobDR1UHJYdHUybVN2dW9abWFhemhaa01pQQ?oc=5"
+      "title": "Garmin Fenix 9 Series Launch with Satellite SOS and Enhanced Mapping",
+      "summary": "Garmin announced the Fenix 9 and Fenix 9 Pro, featuring satellite emergency messaging without a smartphone, faster maps, and smarter training metrics. Available in 43mm, 47mm, and 51mm sizes.",
+      "implication": "Garmin is solidifying its dominance in the premium outdoor segment. Huawei's outdoor watches must emphasise comparable safety features (e.g. two-way satellite messaging) to compete in the high-end adventure category.",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYUwxam0tWlNkOGRFa3cyN2Y2WldWNFBVWFpkZ29lNV9FUktlQjNzUVE4X0FVT0J5TVlDMVEwZjh2NEs5NDc1bEVoeGt5YnU0cDBTbFhCVG5BSFZ0QUdjS0xuYXZDN1NzLVl5enFSZEZFREZJV3h2MkRXSlU0ZzVnN0xkc2RsMjhBV0swMTh1Z29mZFVYdmNDVzVGSm1tNHJZYzE1SzJ1dVNPcnF4SkhEbGliUlNnWTdHbGFvZG9Mbi1rTVVCdnNuYUdpNDk0Y09wQWVnWE11WEFXSGdKeFE?oc=5"
     },
-    {
-      "brand": "Google",
-      "market": "Global",
-      "date": "2026-08-25",
-      "priority": "MEDIUM",
-      "product": "Pixel 11 Pro Fold",
-      "moveType": "Product Review/Positioning",
-      "whatChanged": "Reviews highlight 'Exceptional Cameras' but 'Average Performance', positioning the device as a media consumption tool over a power user device.",
-      "whyItMatters": "Opportunity for Huawei Mate X series to differentiate on performance and productivity capabilities in the foldable segment.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdXMtVXM0czVkbWxMZlFaYVVvSXpfdDhvVXg0cDBDTzZiSXFuT09IUG9YZVVKM2wxMjlLMVUta0xKcDE2RlY3VlVPc2YwZ3owU1NGQl9NMElpOEFyUG05YWZGQWFRT0RjMjE0OFJ4WHpZbWJOLWFKUmZSa0FVT1pld3R6QV9saWx3VTZPUmtqeE8tSXI5ejEyeHR5X29Wb0NxRC1hWXRLRDhwWkJrYldDbW1rbjR5QQ?oc=5"
-    },
-    {
-      "brand": "Bose",
-      "market": "Global",
-      "date": "2026-08-25",
-      "priority": "MEDIUM",
-      "product": "QuietComfort 2nd Gen Headphones",
-      "moveType": "Product Iteration",
-      "whatChanged": "Released second generation QuietComfort headphones with comparisons to Ultra model, focusing on comfort and noise cancellation heritage.",
-      "whyItMatters": "Reinforces brand equity in audio comfort; Huawei FreeBuds Studio needs to emphasise similar comfort metrics in overseas marketing.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWHJEcnpmODZ4Y1JidlFrYzhvdWRWcnMwaUZta3BmRmhfZUdDU3J6UG90c0hSSGN1czFxdnlQNHZiMTJxeWJzZ0pRRWJILWFKVm1VM29GX01yU3FZSURHQXFzRjJweHBPU19iaUJzdTRHUXdYUWtuWG9ILS1fajhuelVQSk5BTGxlamZXUkRaelg?oc=5"
-    },
-    {
-      "brand": "Sony",
-      "market": "Global",
-      "date": "2026-08-25",
-      "priority": "LOW",
-      "product": "Xperia 10 VIII",
-      "moveType": "Product Launch",
-      "whatChanged": "Launched mid-range phone with 'few upgrades' and reused design, maintaining MicroSD slot.",
-      "whyItMatters": "Indicates Sony is conserving innovation for flagships; Huawei Nova series can capitalise on offering more significant mid-tier feature upgrades.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcFE5eUFVMjB5OXVJVmh0WUtJOVNOSzB6ZWRsRWhHRDdVOVU5YTJORHBxV0hpMDUtczVabUsxM0RYVGpQQ3EtV0JuVmoxX3NlOHRBRWFxLVFBUGI0czZCUHhibUFHa0d4OHc1alhzczhuNG94VFZOQnlIOXV2MTFuZkNXanpReFpQM0R3VWx1TmhTMlROWXlZYnJTX1hUandnaWF4a3JBY1pmaVdFaVhJMHVjN19aajFrUzRod2dsS1A?oc=5"
-    }
-  ],
-  "marketingMoves": [
     {
       "brand": "Samsung",
-      "market": "Global",
-      "date": "2026-08-25",
+      "market": "UK",
+      "type": "PRODUCT",
       "priority": "HIGH",
-      "campaignType": "Brand Exhibition",
-      "whatTheyDid": "Opened 'Design Is an Act of Love' Exhibition at Design Miami Seoul 2026.",
-      "creativeApproach": "Elevating hardware design to an emotional and artistic concept rather than just technical specification.",
-      "whyItMatters": "Shifts brand perception towards lifestyle and art; Huawei should consider similar design-led storytelling for flagship launches in key markets.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORkhZU2g2R3BtOGVEcW15WWI0V0NDb2N0MlN1d0dGdDRTaEJTazQ1YkxFX2ZVX2tvbmhXNjYzZGQxWjBoQ2lIWGlGTFRyckRhS3d5UG1teUJjOUkxNUtTNDRMa3pHeEZvT05JOV9tVm9EZUlPOXB4U3dMZHRmSndISzFvWWFRb0FsbDJJSFhfMkR2U3RibWZkMTZEOW4yMVhpREd2a3I3VTZWYjM0cktTR1BEQW80dWxyNGR6bVRXSQ?oc=5"
+      "title": "Samsung Galaxy Watch Ultra 2 Positioned Against Apple Watch Ultra 3",
+      "summary": "Direct comparisons are being drawn between the Galaxy Watch Ultra 2 and Apple Watch Ultra 3, focusing on adventure capabilities and durability.",
+      "implication": "Samsung is actively challenging Apple's hold on the premium rugged smartwatch market. Huawei should ensure its Ultimate/Pro models are included in these 'best adventure watch' comparisons through targeted PR.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdHhZb196YV9fdG9jcnlpajlLVjRpTDIyenBwMzhNa3BLd3V3SUsxT01Yaml0akZ2MFNqRlJPb1NtZGpoU2xwZGh5NHhIVjVuOF9OTDZQZjBFYldzakRoT0ljclhqVDdQRWFob0VGd2F0ZUVfZGw2SkFzTF85OUFLNERvdW1fRTljam9CaUh3MkdQWngzNXlUN1J3dnM2dU1zSlBtT0NDQ01DTHdKTTROVEtMVGltVnhIQnQ4WEVTMGdCd1pmNFFNcVg0VDB0THA4?oc=5"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "type": "PRODUCT",
+      "priority": "MEDIUM",
+      "title": "One UI 9 Watch Update Brings New Features to Existing Devices",
+      "summary": "Samsung is rolling out One UI 9 Watch, adding new functionalities to existing Galaxy Watch models, extending product lifecycle value.",
+      "implication": "Software longevity is a key selling point. Huawei should highlight HarmonyOS update roadmaps on PDPs to reassure customers about long-term device support.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRE1aWlp2bFBjS1RGNURLdDN6SFl4eXJ0VmhESHZOYVFtN0pwdVZMMU1PLXNIOU44WUtVUUtKLVQ5dVRrWUEycEtsdU56WVVkZkxOeUJWcF9EX3hycER4azZhbXBvRHZYOWFpQ1ZqM08yWDMzWGoxVXJOcUFLd2hyRG9Sa1dWUkdqVUtQRG5VbTNqX1FmMmYw?oc=5"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "type": "CONTENT",
+      "priority": "HIGH",
+      "title": "Samsung AI Models Translating Wearable Data into Health Insights",
+      "summary": "Marketing narrative shifts from raw sensor data to AI-interpreted health guidance, described as 'Doctor on Wrist'.",
+      "implication": "Competitors are simplifying complex health data into actionable advice. Huawei Health needs to move beyond displaying metrics to offering AI-driven interpretations and next-step recommendations.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQk9RcjRJLTl0MmFHVFZwNnl6SzZWNVd0dG92bTFkVlRNdTBGNmpJMU9HLTdYc2ZVU21QbE9BUlI0VTVjbF9rOHplZ1dkVzkxQXRtMWRtMktlNFZRVVBRTlplWEdkT2E0YmF2d3pfOHJ0elJWQXV1QW5OMl9GRmpJTUZuOHIza0xKc2VFeXY4cHVUd3NNckx5dXo1V3VWeGhDRmlxSFZMRUpEaXI3d2dsa19n?oc=5"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Germany",
+      "type": "PRODUCT",
+      "priority": "MEDIUM",
+      "title": "Garmin Fenix 9 Enables Satellite Emergency Calls Without Smartphone",
+      "summary": "Highlighting the ability to send SOS messages via satellite independently, a key differentiator for outdoor safety.",
+      "implication": "Safety independence is a critical purchase driver for outdoor users. Huawei should validate and prominently display its own satellite connectivity capabilities on outdoor product pages.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQTJ4RUx2eFBqZkQyb2dhSC00bUZmZUNQYjdzMVdiR2J2M3duQTBnemdrdzJudkpkaGtGZHh4d3d4YnVMTTJFSDVjb1YzQ0lHWmc5bHRYbFItZ0JZazlIU1JHMjJaZUxvVHIxYmpLZ044Zi1DaS1PelFkX3dmVldmYXVPeU9GX2FZOHBNYkp4Mi11VUhzNDllMlJpUnpWVHVubzBmX3RfVVNSVExfalBFUElabGRyUUhUSThqSUZ6YUNrQ21KWVE?oc=5"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "type": "PRODUCT",
+      "priority": "MEDIUM",
+      "title": "Persistent Criticism Regarding Galaxy Watch Battery Life",
+      "summary": "Multiple reviews (IMTEST, BornCity) note that despite new chips, battery endurance remains a weakness compared to competitors.",
+      "implication": "Battery life is a key vulnerability for Samsung. Huawei should aggressively market its multi-day battery life in direct comparison modules on e-commerce sites.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMW9XVkJ3T1BZUFdIbEItcUMtMDBzTkhuZFg4ZFY0WGg2Z3RIa2R1eThDZDd4VWxVSnRNeFJtM0JhdW1vb1lhWjgwcEJCdFU5ZVB2VThpTUw1QUlpcTFvUzc1aTg0RkVtRzdhb0Q1X0VXangwbzFfdXJmczJjR3dSeFQxNV9BS2g5dFdtSTJjaFhaRl9P?oc=5"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "type": "CONTENT",
+      "priority": "MEDIUM",
+      "title": "Garmin Fenix 9 Messaging Focuses on Performance and Exploration",
+      "summary": "Tagline 'perform better and venture farther' emphasises capability expansion rather than just health tracking.",
+      "implication": "Garmin owns the 'performance' narrative. Huawei should segment content to separate 'health wellness' from 'sport performance' to avoid diluting the message.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44VkpjbEpiYkNaRTZ1OFRhd2VWRUpqZEdrSXJ5Z0xJM3p0YWRlaW1kODNFWWhmT25WVV82Y00xMkJLNzlsRk9wYUhzS3ktbzZVMzRZc3VYR1E0NWQ2d2tqS0ptZjdxLUFYTTRxMUFoVWNKOEJ3Y3BMdUNR?oc=5"
+    },
+    {
+      "brand": "Samsung",
+      "market": "UK",
+      "type": "ECOMMERCE",
+      "priority": "MEDIUM",
+      "title": "Aggressive Promotional Bundling and Tariff Offers",
+      "summary": "Retailers offering free Galaxy Watches with phone tariffs or significant discounts to drive volume.",
+      "implication": "Price promotion is driving Samsung's volume. Huawei should explore carrier partnerships or bundle watches with phones/tablets to increase perceived value.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUXZJcW04VHZYQTZDTjVrQXR2OGJaQ3VRWDlkQXNmOGE2TmRWT1k0QldESUMwTHFwMzV3S184ajE5R0ZoZm5jQ294ZndqQUxORHhmZmlYN0JhSWUtU2QtVkNZNEl5ZFFmY1V0WTdPVzItSXNYaVY0cU91dThYNl8zTENfcDhqSm9hT24yaEtES1RTN2owOEozS3BzNHLSAaIBQVVfeXFMTlpyYk95X2xZaFN5d0FZRjRRcG1iaWFiZi1zZ3JUM1BlUlg0bFk4X0JmQUpqalY1VjdrZF9uckdmcW4zWlFYWkMtSUoyZmJkdzNxenJmb0s5X1JZN1V5cUNlMmsyeUFTbGFNTjNLNDN3MVlGWVJSdTNsNXAzUHlhQWhQcXRaUVZwahooN2N6azhCQ0JaU2RpU1FMUkttX2RhRURR?oc=5"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "type": "MARKETING",
+      "priority": "LOW",
+      "title": "Samsung Health Narrative Shifts to 'Doctor on Wrist'",
+      "summary": "Marketing copy increasingly uses medical-adjacent language to describe health monitoring capabilities.",
+      "implication": "Health authority is being claimed by Samsung. Huawei must ensure compliance while communicating medical-grade accuracy in its health features.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRlRSU01VT19mSkoxYzFXZV9UZHFpaXpsbzIyUjhwWjBadzRPNDRJWk95S1N0eXRWNmZYX2pkSzlCcTlKY1J4QWEtb0FLUnZDWWlhaFZDRGpWS2dnYW1DVWtZcHl2c3FXMUJNQmxXb3pYSFFnbzZiajVjdlpKQ1pKbnRFak0wLVU?oc=5"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Germany",
+      "type": "MARKETING",
+      "priority": "MEDIUM",
+      "title": "Garmin Maintains Best-Seller Status in Outdoor Category",
+      "summary": "Reports indicate Garmin leads best-seller lists for months, showing strong brand loyalty in the sports segment.",
+      "implication": "Garmin's community trust is high. Huawei should leverage user-generated content and athlete testimonials to build similar social proof.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeHdSWnpNNlBZWUZHZXY1V29QQ2tzSEk3TUlEUEQwalhrdDFVYVB0VDdQN05ETXprVmUwbWNZR2RBa3pHTG52bldnck9mWFpDMWw0bWNFTUpBT2FkQjBua2JHWmNRaVdzQjQwQ1g3bzR3YUlXS1ByRnFsN3BCdEN5X2lPWVgwX1NfWFZja0l3S0NfMk9VNC1JMXFRenpHSlNWLXhEemM3T3dmYVdSdVd0RGRB?oc=5"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "type": "PRODUCT",
+      "priority": "LOW",
+      "title": "Pixel Watch 5 Introduces On-Device AI",
+      "summary": "Google's competitor also leveraging AI for local processing, increasing pressure on Samsung and others to match AI capabilities.",
+      "implication": "AI is becoming table stakes for premium smartwatches. Huawei's on-device AI capabilities need clear consumer-facing explanations.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQi1LQUQ1aDhIdUtRTlJuZURfYkpYcGFHNW41VUVEcmJ1dkJXOEtlYmVUY0d3cm5ROWlyOXF3UUdNSldBTWs1NGZPSHp3a1czeTN1cUJmYVlHRmh2cXR0S1N1Y28wU1RZaEZqdzZSZnZwM252dXVLSDlrbkc3NUMzaHJIWBotZjg3Wk1iNg?oc=5"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "type": "CONTENT",
+      "priority": "LOW",
+      "title": "Media Comparisons Focus on Training and Map Speed",
+      "summary": "Reviews highlight faster maps and smarter training as key Fenix 9 upgrades over previous generations.",
+      "implication": "Performance metrics matter more than aesthetic changes for Garmin users. Huawei should prioritise technical demos of GPS accuracy and map loading speeds in content.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONmZiRXF4MEdFZEUtSkJuVXBuck1JVlZ0X2lmZXRYcW9mTUR1ejd6VVNwbGdUck05NnI5U0ZFRFU3eTF5VjU3RXJqamlBNTFtaUtVRkhJMms1TXNNckt3TEJ4WWYtX0h4Zi1zc043Njh1elp5QjctanUyUXFlVmM1dEd5V3BRejVXQjRZU2xkc0VQbmhCWDd0cnRERW5wTmxzRHpFZlQxU1lTMVFUaWV6RFowYXR4U0tmWDQ4?oc=5"
+    }
+  ],
+  "actions": [
+    {
+      "priority": "P1",
+      "action": "Create a 'Battery Freedom' Comparison Module on PDPs",
+      "why": "Samsung is receiving negative press for battery life. Huawei's multi-day battery is a key differentiator that needs visual proof.",
+      "examples": "Add a chart comparing typical usage days vs. competitors. Include a video showing a week of usage without charging."
+    },
+    {
+      "priority": "P1",
+      "action": "Develop Satellite Safety Storytelling for Outdoor Watches",
+      "why": "Garmin Fenix 9 is marketing satellite SOS without smartphone as a major feature. Huawei must match this safety narrative.",
+      "examples": "Create scenario-based videos showing emergency usage in remote areas. Highlight 'No Phone Needed' clearly on product cards."
+    },
+    {
+      "priority": "P2",
+      "action": "Reframe AI Health Features as Actionable Guidance",
+      "why": "Samsung and Google are moving from data display to AI interpretation ('Doctor on Wrist'). Huawei needs to show outcomes, not just metrics.",
+      "examples": "Change copy from 'Monitors Sleep' to 'AI Sleep Coach Improves Rest'. Add post-workout recovery advice modules."
+    },
+    {
+      "priority": "P2",
+      "action": "Implement Software Longevity Badges on E-commerce Pages",
+      "why": "Samsung One UI 9 updates show commitment to existing devices. Customers worry about obsolescence.",
+      "examples": "Add a 'Supported Until 20XX' badge on PDPs. Create a FAQ section detailing update history for previous models."
+    },
+    {
+      "priority": "P3",
+      "action": "Launch Sport-Specific Content Series",
+      "why": "Garmin dominates 'performance' while Samsung owns 'health'. Huawei needs to carve out specific sport niches (e.g. Running, Golf).",
+      "examples": "Produce 'Huawei Watch GT for Runners' video series. Partner with mid-tier athletes for authentic training logs."
+    },
+    {
+      "priority": "P3",
+      "action": "Explore Carrier Bundling for Premium Models",
+      "why": "Samsung is driving volume through tariff bundles and free watch offers in the UK and Germany.",
+      "examples": "Negotiate 'Free Watch with Flagship Phone' deals. Create bundle SKUs for online stores."
+    }
+  ],
+  "contentMix": [
+    {
+      "brand": "Samsung",
+      "education": 40,
+      "campaign": 30,
+      "product": 30,
+      "seo": 10
+    },
+    {
+      "brand": "Garmin",
+      "education": 50,
+      "campaign": 20,
+      "product": 30,
+      "seo": 15
+    },
+    {
+      "brand": "Apple",
+      "education": 30,
+      "campaign": 40,
+      "product": 30,
+      "seo": 10
+    }
+  ],
+  "contentStrategy": [
+    {
+      "brand": "Samsung",
+      "theme": "Health",
+      "strength": 90,
+      "observation": "Heavily focused on AI-driven health insights and medical-adjacent messaging."
+    },
+    {
+      "brand": "Samsung",
+      "theme": "Ecosystem",
+      "strength": 80,
+      "observation": "Integration with Galaxy phones and One UI is a core pillar of their storytelling."
+    },
+    {
+      "brand": "Garmin",
+      "theme": "Adventure",
+      "strength": 95,
+      "observation": "Consistent messaging around exploration, durability, and satellite safety."
+    },
+    {
+      "brand": "Garmin",
+      "theme": "Training",
+      "strength": 90,
+      "observation": "Deep focus on performance metrics, maps, and coaching for serious athletes."
+    },
+    {
+      "brand": "Apple",
+      "theme": "Lifestyle",
+      "strength": 85,
+      "observation": "Positioned as a fashion and health accessory integrated into daily life."
+    },
+    {
+      "brand": "Apple",
+      "theme": "Safety",
+      "strength": 75,
+      "observation": "Strong emphasis on crash detection and emergency SOS in Ultra models."
+    }
+  ],
+  "marketInsights": [
+    {
+      "brand": "Samsung",
+      "market": "UK",
+      "observation": "High volume of comparison content against Apple and Google.",
+      "implication": "UK consumers are highly research-driven; comparison tables on Huawei UK site are essential."
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "observation": "Strong sensitivity to battery life and price-performance ratio.",
+      "implication": "German marketing should emphasise endurance and value over pure specs."
+    },
+    {
+      "brand": "Garmin",
+      "market": "Germany",
+      "observation": "Dominates best-seller lists in outdoor categories.",
+      "implication": "Huawei needs targeted outdoor campaigns to disrupt Garmin's loyalty in DACH region."
     },
     {
       "brand": "Garmin",
       "market": "Global",
-      "date": "2026-08-19",
-      "priority": "MEDIUM",
-      "campaignType": "Scientific Research",
-      "whatTheyDid": "Published REACT study evaluating impact of daily movement on arterial health.",
-      "creativeApproach": "Using peer-reviewed scientific data to validate health tracking features.",
-      "whyItMatters": "Builds trust in health metrics; Huawei Health should amplify partnerships with medical institutions to validate TruSense data.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPazRPTzZpT2ZiY0VIWnNhb3ZRcHNhT1ZYUUVFY3ZhTVVWWlhadmhNLW16MS14MDlJLUh5Qk5mZkd4WGF4M3gxQXZ5dmVvd015T2NucXRtS2dhMGtvazFzQjBmMGVzcm9WM2x3aE1aZVpSYnVfWjBELXJHOEFVYXRzZ3prVTE3b0NvcFQ5OUFVeGlTZ201MVVDOEtDR3hzU3Z0M0pvcG1yNjZydU0?oc=5"
+      "observation": "Fenix 9 launch reinforces premium positioning with satellite features.",
+      "implication": "Huawei Ultimate series must match satellite capabilities to compete globally at high price points."
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "observation": "Software updates (One UI 9) used to extend product lifecycle perception.",
+      "implication": "HarmonyOS update communication needs to be more visible to counter this."
     },
     {
       "brand": "Apple",
-      "market": "Global",
-      "date": "2026-08-26",
-      "priority": "MEDIUM",
-      "campaignType": "Content Ecosystem",
-      "whatTheyDid": "Unveiled September 'Friday Night Baseball' and Leagues Cup schedules on Apple TV.",
-      "creativeApproach": "Integrating live sports deeply into the hardware ecosystem to drive services subscription.",
-      "whyItMatters": "Demonstrates value of ecosystem lock-in; Huawei Video/Petal Search should explore local sports content partnerships to increase stickiness.",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/"
+      "market": "UK",
+      "observation": "Watch Ultra 3 remains the benchmark for rugged smartwatches.",
+      "implication": "Huawei Ultimate should be directly compared to Ultra 3 in durability tests."
     },
     {
-      "brand": "Google",
+      "brand": "Samsung",
+      "market": "UK",
+      "observation": "Promotional bundling is driving conversion during launch windows.",
+      "implication": "Huawei should prepare tactical offers for key shopping periods."
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "observation": "Content focuses on 'performing better' rather than just tracking.",
+      "implication": "Huawei TruSport algorithms should be marketed as coaching tools, not just data."
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "observation": "AI health models are being translated into consumer-friendly language.",
+      "implication": "Huawei Health AI explanations need simplification for mass market understanding."
+    },
+    {
+      "brand": "Garmin",
       "market": "Global",
-      "date": "2026-08-26",
-      "priority": "MEDIUM",
-      "campaignType": "AI Partnership",
-      "whatTheyDid": "Expanded football footprint with AI partnerships at five European giants.",
-      "creativeApproach": "Leveraging AI technology within popular sports contexts to demonstrate utility.",
-      "whyItMatters": "Normalises AI features through sports use cases; Huawei could apply AI storytelling to football or running communities in Europe.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZnRkUWt5eE5YUGhwNTdvd3NnVnoxRkU4VHVMUWx6VU5RMGtZQWhLTHJxVFpaZi1Ld0NfN2d0Q0dwYTRydDNoaHNfWENPcTZEdV94VHJIZzB3MXpyc1J4Z055UUdYb01sZVFGV0NNZDAwU2s1ZmF0aVVXWUxudDZMTEtEUExhTmlXclprbHZRUERIM0R2aWJyaWRuNFpZNlpNVERCQmM3QlZPeHFyazdZ?oc=5"
+      "observation": "Multiple watch sizes (43-51mm) cater to diverse wrist sizes.",
+      "implication": "Huawei should ensure size variety is clear in product selectors."
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "observation": "Battery criticism persists despite new chipsets.",
+      "implication": "This is a strategic opportunity for Huawei to win on endurance claims."
+    },
+    {
+      "brand": "Garmin",
+      "market": "Germany",
+      "observation": "Satellite SOS without smartphone is a key purchase driver.",
+      "implication": "Safety independence is a non-negotiable feature for premium outdoor segments."
     }
   ],
-  "ecommerceMoves": [
-    {
-      "brand": "Apple",
-      "market": "United States",
-      "date": "2026-08-26",
-      "priority": "HIGH",
-      "pageType": "Store/Checkout",
-      "structureOrMessaging": "Launched 'Apple Upgrade' hardware leasing program directly on Apple Store online and app.",
-      "consumerBenefit": "Allows customers to upgrade hardware more frequently with predictable monthly costs.",
-      "whyItMatters": "Reduces barrier to entry for premium devices; Huawei Store should test similar financing or upgrade subscription messaging on PDPs.",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/"
-    },
-    {
-      "brand": "Bose",
-      "market": "Global",
-      "date": "2026-08-25",
-      "priority": "MEDIUM",
-      "pageType": "Product Page",
-      "structureOrMessaging": "Aggressive price cuts ($100 off QuietComfort Ultra, 35% off small speakers) highlighted in retail channels.",
-      "consumerBenefit": "Immediate cost savings on premium audio gear.",
-      "whyItMatters": "Competitors using price elasticity to clear inventory; Huawei Audio should monitor these pulses for timely counter-promotions.",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KaDFNY2V5ZHlRbEJVVHo1TzRRQTBYektjRTFFWWhzS0NtUThORE9kWTBQWWJxeDJnbHl5SWRaekg1UkowNU1fdllqOVJpOFp2VVJ4LU9vQ2F4cWdPNmdNU1RVOEc0QQ?oc=5"
-    },
-    {
-      "brand": "Google",
-      "market": "Global",
-      "date": "2026-08-25",
-      "priority": "MEDIUM",
-      "pageType": "Support/Help",
-      "structureOrMessaging": "New Device Help Feature using AI to troubleshoot issues before repair store trips.",
-      "consumerBenefit": "Self-service resolution reduces friction and cost for users.",
-      "whyItMatters": "Integrates support into the product experience; Huawei Support pages should integrate AI diagnostics to reduce return rates.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR1VXdUs0UXFXMmRjdjF4Y3pqeUpoaUt0MmsxZWNHVDdjWnVvSEZlbHJKSzZFMDZQUHlGZ0VtNGhweEFRNmJwQ3RRZmRWZmNLWW9VQnFkd3kyNWlUUGpqUmxWcU55NG9wd1E2OVUxbWdOMjdVOUY0SW9YR1AyRzJrSmRNSnA0eEZMTXlqU2E4R0ZxR0hFcHlpNDY5dUNlOEk2SF9ZMDRwRkxrSmxIQy1VZExRVkZRX3ZJMFpYVlA3NA?oc=5"
-    }
-  ],
-  "huaweiActions": [
-    {
-      "priority": "P1",
-      "area": "ECOMMERCE",
-      "observation": "Apple launched a hardware leasing program ('Apple Upgrade') directly on their online store.",
-      "recommendedAction": "Introduce a 'Upgrade Programme' or financing calculator module near the CTA on flagship PDPs in key overseas markets to reduce purchase friction.",
-      "example": "Add a 'Monthly Cost' toggle next to the full price on Mate 60/70 Pro product pages."
-    },
-    {
-      "priority": "P1",
-      "area": "MARKETING",
-      "observation": "Garmin uses scientific studies (REACT) to validate health claims, while Samsung uses emotional design storytelling.",
-      "recommendedAction": "Develop a 'Science of Health' content series for Huawei Health, partnering with local institutions to validate TruSense metrics.",
-      "example": "Publish a whitepaper or video series on 'How Huawei Watch GT Validates Sleep Data' featuring medical partners."
-    },
-    {
-      "priority": "P2",
-      "area": "PRODUCT",
-      "observation": "Apple is explicitly marketing 'AI Compute' and 'AI Performance' as key hardware specs for M6/M5 chips.",
-      "recommendedAction": "Revise PC and Tablet product messaging to explicitly quantify on-device AI capabilities (e.g., TOPS) rather than generic 'AI Ready' claims.",
-      "example": "Update MateBook PDPs to show specific AI task performance benchmarks compared to previous generations."
-    },
-    {
-      "priority": "P2",
-      "area": "CONTENT",
-      "observation": "Google is integrating AI troubleshooting directly into device help features to prevent repair trips.",
-      "recommendedAction": "Create interactive AI-driven troubleshooting guides on the Support site that mimic the 'self-heal' narrative.",
-      "example": "Embed a 'Diagnose My Device' AI chatbot on the product support page that suggests fixes before offering repair services."
-    },
-    {
-      "priority": "P3",
-      "area": "MARKETING",
-      "observation": "Samsung is elevating design perception through art exhibitions ('Design Is an Act of Love').",
-      "recommendedAction": "Shift flagship launch events in Europe to include design-led installations or collaborations with local artists.",
-      "example": "Partner with a design museum in Paris or Milan for the next Pura launch to showcase camera aesthetics."
-    },
-    {
-      "priority": "P3",
-      "area": "ECOMMERCE",
-      "observation": "Bose is using aggressive, specific price cuts ($100 off, 35% off) to drive audio sales.",
-      "recommendedAction": "Implement dynamic promotional banners on the Audio category page that highlight specific savings amounts rather than percentages.",
-      "example": "Change '20% Off' to 'Save £50 on FreeBuds Studio' in the UK store during competitive windows."
-    }
-  ],
-  "updatedAt": "2026-08-26T10:47:41.871228+08:00",
+  "pdpChanges": [],
+  "updatedAt": "2026-08-26T11:36:13.431301+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "feedItems": [
     {
-      "brand": "Apple",
-      "market": "Global",
-      "source_kind": "Official",
-      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-      "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "published": "2026-08-26T02:45:38.418204+00:00"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "source_kind": "Official",
-      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
-      "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design.",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "published": "2026-08-26T02:45:38.418328+00:00"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "source_kind": "Official",
-      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "published": "2026-08-26T02:45:38.418427+00:00"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "source_kind": "Official",
-      "title": "Apple announces changes for apps in the European Union",
-      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "published": "2026-08-26T02:45:38.418516+00:00"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "source_kind": "Official",
-      "title": "Apple opens Advanced Manufacturing Center in Houston",
-      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
-      "published": "2026-08-26T02:45:38.418609+00:00"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "source_kind": "Official",
-      "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
-      "summary": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
-      "published": "2026-08-26T02:45:38.418700+00:00"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "source_kind": "Official",
-      "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
-      "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
-      "published": "2026-08-26T02:45:38.418793+00:00"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "source_kind": "Official",
-      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
-      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
-      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
-      "published": "2026-08-26T02:45:38.418882+00:00"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "source_kind": "Official",
-      "title": "Apple reports third quarter results",
-      "summary": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
-      "published": "2026-08-26T02:45:38.418995+00:00"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "source_kind": "Official",
-      "title": "Apple Upgrade launches in the United States",
-      "summary": "Apple Upgrade — a new hardware leasing program — is now available on the Apple Store online, in the Apple Store app, and at Apple Store locations in the United States.",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
-      "published": "2026-08-26T02:45:38.419081+00:00"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "source_kind": "Official",
-      "title": "Apple Maps to power navigation experience for Ford UEV Platform",
-      "summary": "Apple and Ford announced Apple Maps will be integrated directly into Ford’s UEV Platform through the MapKit for Automotive SDK.",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/",
-      "published": "2026-08-26T02:45:38.419165+00:00"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "source_kind": "Official",
-      "title": "Major League Soccer returns to Apple TV tomorrow",
-      "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
-      "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
-      "published": "2026-08-26T02:45:38.419249+00:00"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "source_kind": "Official",
-      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
-      "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
-      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
-      "published": "2026-08-26T02:45:38.419333+00:00"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "source_kind": "Official",
-      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
-      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
-      "published": "2026-08-26T02:45:38.419427+00:00"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "source_kind": "Official",
-      "title": "Apple scores record 89 Emmy Award nominations",
-      "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
-      "published": "2026-08-26T02:45:38.419520+00:00"
+      "brand": "Samsung",
+      "market": "UK",
+      "source_kind": "Discovery",
+      "title": "Samsung Galaxy Watch 9 vs. Galaxy Watch Ultra 2: Is the $320 Upgrade Actually Worth It? - PCMag UK",
+      "summary": "Samsung Galaxy Watch 9 vs. Galaxy Watch Ultra 2: Is the $320 Upgrade Actually Worth It? PCMag UK",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTlRaDN6aEhKbWF3bWRhZFoyWDNmcVg3c3Vnd0owMTItZVVyQmVjWWxIWkgzNHJqMHNKRFFvRXN4bWt1Rm9DWk1aSzB4MXVWMU15bV85UTg4NGs3Tzc1Z3VxVGxMX2N3X0RxV3BXckU0VmYxRHpYYXpyQzJVU2w3NU03YTVJZXpZZEFjMlo4TVpIbWxvNE9IX0tDb3VwcUhXVnlLcmhfaEt4SURLRk5NMWxtOU4yN2M1djdTQkZsWmFkN2NUWkE?oc=5",
+      "published": "2026-08-24T20:16:26+00:00"
     },
     {
       "brand": "Samsung",
-      "market": "Global",
+      "market": "UK",
       "source_kind": "Discovery",
-      "title": "[Invitation] Design Miami Seoul 2026: Opening of Samsung’s ‘Design Is an Act of Love’ Exhibition - samsung.com",
-      "summary": "[Invitation] Design Miami Seoul 2026: Opening of Samsung’s ‘Design Is an Act of Love’ Exhibition samsung.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORkhZU2g2R3BtOGVEcW15WWI0V0NDb2N0MlN1d0dGdDRTaEJTazQ1YkxFX2ZVX2tvbmhXNjYzZGQxWjBoQ2lIWGlGTFRyckRhS3d5UG1teUJjOUkxNUtTNDRMa3pHeEZvT05JOV9tVm9EZUlPOXB4U3dMZHRmSndISzFvWWFRb0FsbDJJSFhfMkR2U3RibWZkMTZEOW4yMVhpREd2a3I3VTZWYjM0cktTR1BEQW80dWxyNGR6bVRXSQ?oc=5",
-      "published": "2026-08-25T04:00:00+00:00"
+      "title": "Samsung Galaxy Watch Ultra 2 review: Samsung's best fitness watch yet - Women's Health",
+      "summary": "Samsung Galaxy Watch Ultra 2 review: Samsung's best fitness watch yet Women's Health",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckV1NUR0STRzekQza1NHRThVaVVSUkJLd2lPbURaOGVKM0ozTHVjNmE4U2hreUZRVTlma2EwS2FZbXN2TmNvNXVVOHo2QUVqb01NT1BZdXNMT1VWdkp4M1k4Y0ZzUWZ4SG9qZTR6ZXVIYVNycFpfOVhvYjVLNU5pU2hlTHlOZ0V0V0hRTWRrNTJHV1BKa2ZpcWwxZw?oc=5",
+      "published": "2026-08-24T10:46:38+00:00"
     },
     {
       "brand": "Samsung",
-      "market": "Malaysia",
-      "source_kind": "Official",
-      "title": "Articles - samsung.com",
-      "summary": "Articles samsung.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hR1NPdDlFYlFVTnpMVHZUdGt0X2ljQXpMZTVpR190enV5ejBEbExPeEJFTGJ0eUZqU0xtN09fRUNyR2l6eGNaUDlzZkFQYW9GNGlNNGRXT0M?oc=5",
-      "published": "2026-08-26T00:31:00+00:00"
+      "market": "UK",
+      "source_kind": "Discovery",
+      "title": "These are the 3 best Samsung smartwatches we've tested for battery life, budget and outdoor adventures - Tom's Guide",
+      "summary": "These are the 3 best Samsung smartwatches we've tested for battery life, budget and outdoor adventures Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wX002T1NMaE9nb3J6YUczRTE3bWNyLWVwM1ZiVHhsNGo1Q3ZLNFg5blFGRG4yaWJQczRfUXZMeDZ2bmQyNExmY0xtQkJYN3NNcUJWcmhXTFA2UWV6S2tSOGIyNHNPUQ?oc=5",
+      "published": "2026-08-20T15:51:57+00:00"
     },
     {
-      "brand": "Garmin",
-      "market": "Global",
+      "brand": "Samsung",
+      "market": "UK",
       "source_kind": "Discovery",
-      "title": "How to go from basic ride tracking to training with purpose - Garmin",
-      "summary": "How to go from basic ride tracking to training with purpose Garmin",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ3lBY1Rod1JvN3VVVU1UeWJQOVViUE00WjlYdnhaUTRQVXVGTTVPeHd5Z204MnQxNmxzdXEwMU9peFdQN2phQk84ZGI1Q09NSEluNXdsSWl6VU94NnpHQlNpejZuQkdwMG9udFVlelliZTBTZDl0czgwQ2pHX1pjOWIyZHFjSEUxRng3cGQ1UlVZNGIyUmp3Tk1Ddm5fYzFlVlMycw?oc=5",
-      "published": "2026-08-24T17:08:17+00:00"
+      "title": "Samsung Galaxy Watch 9 vs. Watch 8: Should You Upgrade? - PCMag UK",
+      "summary": "Samsung Galaxy Watch 9 vs. Watch 8: Should You Upgrade? PCMag UK",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMmgta2dzUHRLUHpCVmFPVnVyUFNSMmI5WnhDQmRiNmpmT1QzSF93Nk9SQkFLaUlDVk9MNHRJWi1pbDkyOXZ3cVZ1MmVvaUFMMTJmdHRfTURhMFIwdEs3TEJ3VjRxRzFFTGRIczBieThSdHJUTHVyXzBGQWs1VlFESVNWS29oQXctcURGYVA1LU5QRll3NUNFUENjQ21FT2ZlMDVNUzREVlVOOEdr?oc=5",
+      "published": "2026-08-24T19:43:40+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "UK",
+      "source_kind": "Discovery",
+      "title": "The 11 best smartwatches you can buy in 2026 - Trusted Reviews",
+      "summary": "The 11 best smartwatches you can buy in 2026 Trusted Reviews",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FamZEdV9aYkFRWXgza1B3UG80SnpPeHY5dmRubE9jMFAtM3p0VVZKVXBkdHNleVZUaUR1NThtM2RLY0dZMlkwMGstT3dHNUIwd0FmQ1pFSFpjakIzSjRpUE5KWjNkTkhhajJV?oc=5",
+      "published": "2026-08-20T15:57:51+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "UK",
+      "source_kind": "Discovery",
+      "title": "Time running out for Samsung fans to snap up free Galaxy Watch worth £379 - Manchester Evening News",
+      "summary": "Time running out for Samsung fans to snap up free Galaxy Watch worth £379 Manchester Evening News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUXZJcW04VHZYQTZDTjVrQXR2OGJaQ3VRWDlkQXNmOGE2TmRWT1k0QldESUMwTHFwMzV3S184ajE5R0ZoZm5jQ294ZndqQUxORHhmZmlYN0JhSWUtU2QtVkNZNEl5ZFFmY1V0WTdPVzItSXNYaVY0cU91dThYNl8zTENfcDhqSm9hT24yaEtES1RTN2owOEozS3BzNHLSAaIBQVVfeXFMTlpyYk95X2xZaFN5d0FZRjRRcG1iaWFiZi1zZ3JUM1BlUlg0bFk4X0JmQUpqalY1VjdrZF9uckdmcW4zWlFYWkMtSUoyZmJkdzNxenJmb0s5X1JZN1V5cUNlMmsyeUFTbGFNTjNLNDN3MVlGWVJSdTNsNXAzUHlhQWhQcXRaUVZwelloN2N6azhCQ0JaU2RpU1FMUkttX2RhRURR?oc=5",
+      "published": "2026-08-24T19:30:00+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "UK",
+      "source_kind": "Discovery",
+      "title": "Samsung Galaxy Watch Ultra 2 vs. Apple Watch Ultra 3: Which Is the Best Adventure Companion? - PCMag UK",
+      "summary": "Samsung Galaxy Watch Ultra 2 vs. Apple Watch Ultra 3: Which Is the Best Adventure Companion? PCMag UK",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdHhZb196YV9fdG9jcnlpajlLVjRpTDIyenBwMzhNa3BLd3V3SUsxT01Yaml0akZ2MFNqRlJPb1NtZGpoU2xwZGh5NHhIVjVuOF9OTDZQZjBFYldzakRoT0ljclhqVDdQRWFob0VGd2F0ZUVfZGw2SkFzTF85OUFLNERvdW1fRTljam9CaUh3MkdQWngzNXlUN1J3dnM2dU1zSlBtT0NDQ01DTHdKTTROVEtMVGltVnhIQnQ4WEVTMGdCd1pmNFFNcVg0VDB0THA4?oc=5",
+      "published": "2026-08-24T20:33:53+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "UK",
+      "source_kind": "Discovery",
+      "title": "Best Android smartwatch — top picks from Google, Garmin and Samsung - Tom's Guide",
+      "summary": "Best Android smartwatch — top picks from Google, Garmin and Samsung Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBWlFXcjFqN2dJQ3RMOHVMWVBVaEt0YTB6OFozcUNaalp3T2wzR1pEQUhndXZPaXl0MHNULVF0SHU0WnE1UVhja0Ffa0prWTBEb2s2dHZuQUZvU0FjZGhWSlctY2JHUmViTU9yX0xJUQ?oc=5",
+      "published": "2026-08-20T15:43:14+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "UK",
+      "source_kind": "Discovery",
+      "title": "Google Pixel Watch 5 vs. Galaxy Watch 9: Is Samsung's Dominance Finally Over? - PCMag UK",
+      "summary": "Google Pixel Watch 5 vs. Galaxy Watch 9: Is Samsung's Dominance Finally Over? PCMag UK",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNU5hUTQ3V2diREk3Y1pjQnlWZm1fXzY5RDNXQ3VIZWxNZ0tGUTZ6M2d3VVZXMExTM29VY0hMS3c2MmpKQzI3V3NneVhRcXhoUDdTR201bktESUZKVzM3NmhsNTdaZko2TXptOVFmOFJCdU9ZTV84WlRXY1p1Y3Mtcm4zZzRNZWlDWHBwS2daYXJqdVE5dUV4UFhDM2VzUlVkdjk5YXVYTGJmSXhWcU9wTTBDN0ZoX0Jwcm1SYmpuR0NoN2FFMTFFcA?oc=5",
+      "published": "2026-08-20T18:54:41+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "UK",
+      "source_kind": "Discovery",
+      "title": "Pixel Watch 5 vs. Pixel Watch 4: Is Google's New Smartwatch Worth the Extra $50? - PCMag UK",
+      "summary": "Pixel Watch 5 vs. Pixel Watch 4: Is Google's New Smartwatch Worth the Extra $50? PCMag UK",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYXNPSHlhR0c5dnNKa1dhZFViRFJfZmo3aS1KeC1DRnM1bi1Lcm1CM2tpSHFWRGR2WnRfWk9OeE1PVk5FTXNsUEFWNlVhdzF4a2pzU2Mwa2E5bGNLTk1CU2tyLTVFNFpEODdQbW0zLWdRQTRRNjNNT0E4eWtubkRxNDRacjBtS1lUNndlYTBlb3E5WC03dkswSTdKM2kxdFROQzFadXJmdHc3NklPZENUdEZqdmN3dmdoY2VJVVdQQ2NWT1BnQ1Ftc3F0dw?oc=5",
+      "published": "2026-08-24T16:47:44+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "source_kind": "Discovery",
+      "title": "Samsung Galaxy Watch 9 im Test: Neuer Chip, alte Probleme - IMTEST",
+      "summary": "Samsung Galaxy Watch 9 im Test: Neuer Chip, alte Probleme IMTEST",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV2hVRk1XOXUxVUdneDlid0pRTlFwc2JFVml1Y1BKVlhKa3kyVEJmeVF5LVc1N2E5T2I0VVBnd3BUSy05dHNaQktGT3hMVTlnVEhsWm1JNjBFM3o5Vk51RTAxUmlFR1Z3eHJiZThDSTBTci12R2dsc1REX1drNzZXLWxwQVhMam84UElZODFHR1YwakVnSVltQ3oyNldOZ2RJ?oc=5",
+      "published": "2026-08-22T06:48:03+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "source_kind": "Discovery",
+      "title": "One UI 9 Watch ist da: Diese neuen Funktionen kommen jetzt auf eure Galaxy Watch - Netzwelt",
+      "summary": "One UI 9 Watch ist da: Diese neuen Funktionen kommen jetzt auf eure Galaxy Watch Netzwelt",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRE1aWlp2bFBjS1RGNURLdDN6SFl4eXJ0VmhESHZOYVFtN0pwdVZMMU1PLXNIOU44WUtVUUtKLVQ5dVRrWUEycEtsdU56WVVkZkxOeUJWcF9EX3hycER4azZhbXBvRHZYOWFpQ1ZqM08yWDMzWGoxVXJOcUFLd2hyRG9Sa1dWUkdqVUtQRG5VbTNqX1FmMmYw?oc=5",
+      "published": "2026-08-21T15:30:00+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "source_kind": "Discovery",
+      "title": "Samsung Galaxy Watch Ultra 2 im Test: Outdoor-Smartwatch kann jetzt tauchen - heise online",
+      "summary": "Samsung Galaxy Watch Ultra 2 im Test: Outdoor-Smartwatch kann jetzt tauchen heise online",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQbDdjQk5kWWZBUzRhYkZ1WGtFOVNoNHVvQWpKOW1DWlpFcGZTSmhWeWhPZE9Rb2NYSTZtQlY1MHUyVHN6a0g0cWg4eXRON3c1NG5QWXJmRVAyX09QZEp5UnhUbDZ0STJWNjZqMWxkT0VNWU43OTJWVVlwc1FUeTN5QVk2M0g2S0VSSW5Lal96a2dzcmhoUkpaSnA4ak1BQm42cGhCRXEtVTBTQmxMRVNCUTI5UmJtM2dmSGs3ZDVHMjBfYUtiSWF6bXBWNHFza1dnbnVJTHFpMjNnU3dVWDhncUd6MVp2eGhmX05raWgxdE9mbkgyRXNoRmVjTXJIQmNrLU5IZlpJNi1zNm04S2lWREdfN0cyanhPUVpZYjI2N2s?oc=5",
+      "published": "2026-08-22T06:30:00+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "source_kind": "Discovery",
+      "title": "Wer eine Samsung Galaxy Watch benutzt, hat Grund zur Freude - giga.de",
+      "summary": "Wer eine Samsung Galaxy Watch benutzt, hat Grund zur Freude giga.de",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQmxHT2JrTi1mdkNRWmh2N2tFMWtNYi1NUEZxZTBCdFZMLXQzZkZiSFZldDZQXzgxbGVacW5lQkdaY3lmcGV2bmNuZWtva3BZcU9YamVlZWpPTC1DZnBtMU1OSGNBMVJiMGgxeXZiLXJBWUJGSWxQRGZBNzNSMDBSLXhDZ3ZLUzJIRjdyZjRMY1Zwb0RJUWZhRU9vWXF5cGhIZTVNTDV5V1dyZ2NSTEdlNw?oc=5",
+      "published": "2026-08-22T08:00:00+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "source_kind": "Discovery",
+      "title": "Von Herzschlag bis Schlafmuster: Wie AI-Modelle von Samsung Wearable-Daten übersetzen - samsung.com",
+      "summary": "Von Herzschlag bis Schlafmuster: Wie AI-Modelle von Samsung Wearable-Daten übersetzen samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQk9RcjRJLTl0MmFHVFZwNnl6SzZWNVd0dG92bTFkVlRNdTBGNmpJMU9HLTdYc2ZVU21QbE9BUlI0VTVjbF9rOHplZ1dkVzkxQXRtMWRtMktlNFZRVVBRTlplWEdkT2E0YmF2d3pfOHJ0elJWQXV1QW5OMl9GRmpJTUZuOHIza0xKc2VFeXY4cHVUd3NNckx5dXo1V3VWeGhDRmlxSFZMRUpEaXI3d2dsa19n?oc=5",
+      "published": "2026-08-21T15:34:11+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "source_kind": "Discovery",
+      "title": "Galaxy Watch 9 im Test: Display mit 3.000 Nits, schwache Ausdauer - BornCity",
+      "summary": "Galaxy Watch 9 im Test: Display mit 3.000 Nits, schwache Ausdauer BornCity",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMW9XVkJ3T1BZUFdIbEItcUMtMDBzTkhuZFg4ZFY0WGg2Z3RIa2R1eThDZDd4VWxVSnRNeFJtM0JhdW1vb1lhWjgwcEJCdFU5ZVB2VThpTUw1QUlpcTFvUzc1aTg0RkVtRzdhb0Q1X0VXangwbzFfdXJmczJjR3dSeFQxNV9BS2g5dFdtSTJjaFhaRl9P?oc=5",
+      "published": "2026-08-24T17:49:04+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "source_kind": "Discovery",
+      "title": "Die Galaxy Watch9 ist für mich eine klare Empfehlung, wäre da nicht das alte Samsung-Problem - GameStar",
+      "summary": "Die Galaxy Watch9 ist für mich eine klare Empfehlung, wäre da nicht das alte Samsung-Problem GameStar",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EU1RBYjRENko2dExNSmFxSDBJTFRCTUdOSHZyRE94VkI2Q0w2clFKMVBfajM3R3Z6d0NTa3hma0t2bnJPaUROd1RaX3VGeHBaM28zYUotRjlOcG13Q3ZfQ3p3VXVsb0t2OE5NTlA1T1VkSGtFejd1eEU2ZGR4VEE?oc=5",
+      "published": "2026-08-25T08:40:00+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "source_kind": "Discovery",
+      "title": "Samsung Ultra bei o2: Top-Smartphone und Watch Ultra 2 jetzt im Tarif für 1 Euro sichern - Golem.de",
+      "summary": "Samsung Ultra bei o2: Top-Smartphone und Watch Ultra 2 jetzt im Tarif für 1 Euro sichern Golem.de",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTUVESm82SU9BQTZWTW90MUxkTTlrRmRIWjhqOW84WmZPeTVqaDVzOVZTSFpNNl9OLWFKNEtZdktqdGpUZ1h5MkowLW5MUUYtQWxqV1RCWWl2eHFVNU91UTJ3WnlTS2EtdUhjSGpaSEpvMThIaVQ4Y1RzUlpXMThGM1NORHJlYTJPTGFIcU91cGZjRUZmOE13QU9oU05SeHBjWldxWngwX3JRdlFJVmtSZVVMWQ?oc=5",
+      "published": "2026-08-25T12:38:02+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "source_kind": "Discovery",
+      "title": "Samsung hat das Sicherheitsupdate für August für die Galaxy Watch 5 veröffentlicht, mit dem 56 kritische Sicherheitslücken geschlossen werden. - Vietnam.vn",
+      "summary": "Samsung hat das Sicherheitsupdate für August für die Galaxy Watch 5 veröffentlicht, mit dem 56 kritische Sicherheitslücken geschlossen werden. Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNFFBb2dLMDFVd1RqTDNpSWM1RkZOblFraU1uaUJfdE1VaEJZY0VCMndCM05aejdFQWlocjNidUNycXQwVE1BdUNNUVFXZUdjYTEwcER0T19MdGdKZnFtZVhMRDRzbU5PSnZxdHhscjVZQTc2TlYtZXZib05rS2w5cm1FWWlvbWowSVZBUzQyUzBKMzVwRFFzUE1rbnluNTYwdkpBWC1YUnpNVGZUeE80UHQ3bnlxNFVWUFBGQw?oc=5",
+      "published": "2026-08-21T11:37:28+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "source_kind": "Discovery",
+      "title": "Top 10: Die beste Smartwatch im Test – Apple Watch vor Samsung, Xiaomi & Co. - heise online",
+      "summary": "Top 10: Die beste Smartwatch im Test – Apple Watch vor Samsung, Xiaomi & Co. heise online",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM25NRlhDc0ptWU81aVB3RnZ4ZWxKN2RyR3RfcU12dWZhZkdIb3o0NnZ6bkxaWG9QOVBlaWhOemw0OUp3eWYwRmRQQ2ZrWGp4RVFTaUs4M0R6VFhsaEsxMS1PQ1hHUnEyXzFCdkZmMjV6bm44b0llUWlscXlYb19rOFlVMXRDaDJ1VzlXWWNLQnZVdzBaWU9SLVQzM3RzbGJkSGxTMWkzYXE2QktDS0UzOVQ1TFVFMDUwTkJkTDdtREdCYmFj?oc=5",
+      "published": "2026-08-25T18:00:00+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "source_kind": "Discovery",
+      "title": "Samsung Galaxy Watch 9: Der Arzt am Handgelenk - DiePresse.com",
+      "summary": "Samsung Galaxy Watch 9: Der Arzt am Handgelenk DiePresse.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRlRSU01VT19mSkoxYzFXZV9UZHFpaXpsbzIyUjhwWjBadzRPNDRJWk95S1N0eXRWNmZYX2pkSzlCcTlKY1J4QWEtb0FLUnZDWWlhaFZDRGpWS2dnYW1DVWtZcHl2c3FXMUJNQmxXb3pYSFFnbzZiajVjdlpKQ1pKbnRFak0wLVU?oc=5",
+      "published": "2026-08-23T06:12:21+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "source_kind": "Discovery",
+      "title": "Samsung Galaxy Watch9 im Test: Energieproblem weiterhin nicht behoben – Computer News - Računalniške novice",
+      "summary": "Samsung Galaxy Watch9 im Test: Energieproblem weiterhin nicht behoben – Computer News Računalniške novice",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaGFra2VQMk5PREpqNjh5LW40VThKc3RucWdMTm95N0tkckhwWlQ5TUwwX0JpOGtRWEtIYnEtYVpIdko0Z3QzZUVWeEJ4Mnh3VHZqR1U1LTdwSWc5Rk9lbHZtdjZRbDB6ek40d090VFZRX0hPOFJtTUF4Tm9TVXJBUVdmblE4aUhCX1h4SmNzOHpRNlV0Yi1hSFpmbUphUV9YV0NmdjI5a09PU21xMFRXVG1hX0JKel8wNXVNRllR?oc=5",
+      "published": "2026-08-20T11:12:00+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "source_kind": "Discovery",
+      "title": "Wer noch eine Samsung Galaxy Watch 4 nutzt, sollte jetzt aktiv werden - giga.de",
+      "summary": "Wer noch eine Samsung Galaxy Watch 4 nutzt, sollte jetzt aktiv werden giga.de",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeXVmTGFHYVFvY2kwaXhaWDRwU1ppdzk2MzQ3V0JEenVEU2NfUFVxdVBwVFJUTTJ4azhkTWlqZE0wMzdrRXZJampkeXo0WG9NMG5rWFFDUXozNVRIQVlUZFpINGhScDlDdFZyczlRWHdSdm5IZUJJVzhUUWNvZFpuR2FRcE04LUFzaTh2N2FTWk5PeDlMVDdKT0s4enhfOGZZcXR4NnU5cnJ3VGVrUlEtQXRsVVhmd2huUEVDZVNB?oc=5",
+      "published": "2026-08-20T09:23:17+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "source_kind": "Discovery",
+      "title": "Sechs Etagen am Tag: Wie der Stockwerk-Zähler von Samsung Galaxy Watch, Apple Watch und Co. eurer Gesundheit hilft - Netzwelt",
+      "summary": "Sechs Etagen am Tag: Wie der Stockwerk-Zähler von Samsung Galaxy Watch, Apple Watch und Co. eurer Gesundheit hilft Netzwelt",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeFVZeHY1dE1hVHZZQVc0b29QNlNDRkZkNzA1WnlKaDFJTUk1TkNRY0M2S1pSaFQ2V192VXNLYlI4V1ZrTTRucjZjTFlyMDc0TVJCYURhWHFRWjhaRVpvSGd4WnI1ZmhzaVY2Z1VueXZRblBqX0NRRk42LWdCOWpJaXVsT2FfeXdMcGJYYzV5NkVTOE5MYXd5MGQxQ1hYX3FfU0xTb09iaWxwTlllTkJwYnZnVlVFd0ZQUVkxY0NnSjBhbEd6SXY3TGtYSHJXRHM?oc=5",
+      "published": "2026-08-21T04:30:00+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "source_kind": "Discovery",
+      "title": "Smartwatch-Test 2026: Apple und Garmin zittern vor diesen Marken - IMTEST",
+      "summary": "Smartwatch-Test 2026: Apple und Garmin zittern vor diesen Marken IMTEST",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdGw2aTVUOVVSd1VlNFJjRC12STR6WW10WUVrUkFUdFhxVXFKbWxNSnlSajRZYnUwT3FNazRNd3A1cm54WjB0MndkSGJ6T2NjcGluSUcxQjdJTkdDQzhyTlAwVUtBS3o3NFNvZEczUDRMdUowVWFfckZTbHVfQWZTQV9NMjhYVF9hMG9EaEp1XzJkSnRhNWdaM0RkSnBqdjZu?oc=5",
+      "published": "2026-08-24T06:26:18+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Germany",
+      "source_kind": "Discovery",
+      "title": "Pixel Watch 5: Googles Smartwatch mit On-Device-KI startet - BornCity",
+      "summary": "Pixel Watch 5: Googles Smartwatch mit On-Device-KI startet BornCity",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQi1LQUQ1aDhIdUtRTlJuZURfYkpYcGFHNW41VUVEcmJ1dkJXOEtlYmVUY0d3cm5ROWlyOXF3UUdNSldBTWs1NGZPSHp3a1czeTN1cUJmYVlHRmh2cXR0S1N1Y28wU1RZaEZqdzZSZnZwM252dXVLSDlrbkc3NUMzaHJIWGotZjg3Wk1iNg?oc=5",
+      "published": "2026-08-23T12:49:04+00:00"
     },
     {
       "brand": "Garmin",
@@ -352,472 +538,524 @@
       "source_kind": "Discovery",
       "title": "Garmin announces the fenix 9 and fenix 9 Pro GPS smartwatch - Garmin",
       "summary": "Garmin announces the fenix 9 and fenix 9 Pro GPS smartwatch Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaU1FU3h0RHN4UTkwWXBBQW05RFV5LXVuVlNUSjFBQ1lkMXcyOWlXUXU5NHU1dGpjcV9pX1dtNFBTeVZ5a3pMVmt0MG1YN3VKMGdmVWwyLTFYSllBNEdnU2hYYXZNMnpOMDd6UTJVemIxSjZMYURiSEh6dllGekg3ekxoU1VDSnBHeFBydFJtRHRTSVZWd3lXOVl2ZkNwa1hZN0Z4LWFjSmNobDR1UHJYdHUybVN2dW9abWFhemhaa01pQQ?oc=5",
-      "published": "2026-08-26T00:56:53+00:00"
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYUwxam0tWlNkOGRFa3cyN2Y2WldWNFBVWFpkZ29lNV9FUktlQjNzUVE4X0FVT0J5TVlDMVEwZjh2NEs5NDc1bEVoeGt5YnU0cDBTbFhCVG5BSFZ0QUdjS0xuYXZDN1NzLVl5enFSZEZFREZJV3h2MkRXSlU0ZzVnN0xkc2RsMjhBV0swMTh1Z29mZFVYdmNDVzVGSm1tNHJZYzE1SzJ1dVNPcnF4SkhEbGliUlNnWTdHbGFvZG9Mbi1rTVVCdnNuYUdpNDk0Y09wQWVnWE11WEFXSGdKeFE?oc=5",
+      "published": "2026-08-25T10:55:00+00:00"
     },
     {
       "brand": "Garmin",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "REACT study evaluates impact of daily movement on arterial health - Garmin",
-      "summary": "REACT study evaluates impact of daily movement on arterial health Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPazRPTzZpT2ZiY0VIWnNhb3ZRcHNhT1ZYUUVFY3ZhTVVWWlhadmhNLW16MS14MDlJLUh5Qk5mZkd4WGF4M3gxQXZ5dmVvd015T2NucXRtS2dhMGtvazFzQjBmMGVzcm9WM2x3aE1aZVpSYnVfWjBELXJHOEFVYXRzZ3prVTE3b0NvcFQ5OUFVeGlTZ201MVVDOEtDR3hzU3Z0M0pvcG1yNjZydU0?oc=5",
-      "published": "2026-08-19T18:54:53+00:00"
+      "title": "fēnix® 9 Pro – 51 mm - Garmin",
+      "summary": "fēnix® 9 Pro – 51 mm Garmin",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wVG9FQnY5Q0o0dURUbWwtSDFSOXQyemdJei1kNVlQdUNkX0txSVNMWmtTdzFsSDg3R09PSFlWamNSQXpJV1k1ZG5YYWVSZUtR?oc=5",
+      "published": "2026-08-25T13:17:39+00:00"
     },
     {
       "brand": "Garmin",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Health Archives - Page 5 of 5 - Garmin Blog - Garmin",
-      "summary": "Health Archives - Page 5 of 5 - Garmin Blog Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUS3ZrSzBJclR2TjJ4c1VRd0JJVDB1dmJjNE9fdHBVX2QtRDdQS19Sc0RCM3pVNC1jYllxZ05TbURoeTJ1SEh6aTFEVDl2ajVTRVViOWU3NHdxaE5hWVJEUThwSmJEeVFB?oc=5",
-      "published": "2026-08-19T19:50:41+00:00"
+      "title": "fēnix® 9 Pro – inReach®, 51 mm - Garmin",
+      "summary": "fēnix® 9 Pro – inReach®, 51 mm Garmin",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6QjFRU1A5NVJGaHNMLW1aRzIwOUloZ0llTVlwT3FHV0hTNHdaZzFPVlRUM0hrVFNJOXl3c0ZjbXhZS2V0N1l0cUI4Vlg1THVI?oc=5",
+      "published": "2026-08-25T11:02:58+00:00"
     },
     {
-      "brand": "Google",
+      "brand": "Garmin",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "I built an Android journal app in Google AI Studio; its AI spots patterns I'd never see - Android Police",
-      "summary": "I built an Android journal app in Google AI Studio; its AI spots patterns I'd never see Android Police",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZnV1Qi1wNUE2ZmVzcS1aT3plRlc1UUJEMHlVNUdCczhEV1NBOHVvWVNfay1xbjM3amlUeWNrckUxTHVBYlc5LS1mUHJtRHdISkduU0IwR2VHUmxUUHJtZDc2ZVhRY0V2U3FBbGNFSTI5M3BQWVluS2dlNDNCaEhiRlFlWnpoLUhtbXBLdy10MnBiUGF1aDBpSHFwRC1zSFA1WDU0?oc=5",
-      "published": "2026-08-25T19:00:10+00:00"
+      "title": "Forerunner 970 Series Software Version 17.39 - Garmin Forums",
+      "summary": "Forerunner 970 Series Software Version 17.39 Garmin Forums",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeEEyby1aNGNkVU5ERmFNRHVxMHZrV1FRVGZYVERXMWxQbEVlckx5QjVjUUFzM3ByeVV2aEt3eVdZWEM5VVJTbmRIa3Bxd0ZLQUtfcGRDUTdZWVdCNm9IZkhGVFozLWFJQmpuaWFVZmdqVW1weGxNYWlUQkhGRlk2aURtT2dWNWhJUEFTOUtwNTc3UjM0b2UxSFdacmNXMjQwd20xWDJoQkIza2tSVWE0TWtXUXRKaWdHWklPd0M0STdBWXBieTM4?oc=5",
+      "published": "2026-08-24T14:18:13+00:00"
     },
     {
-      "brand": "Google",
+      "brand": "Garmin",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Fan survey sends Google a pretty blunt message about the Pixel 12 - Android Authority",
-      "summary": "Fan survey sends Google a pretty blunt message about the Pixel 12 Android Authority",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQlN4YTRPaHIwNFI2WkZFWVFqa1IyODBzZzgzcW1SbDlfYVRHd0xIQUxfTHdSV0Ewd3dEZmFJM3hPc25BVG0tSlRqZ3JxS3RwdEFMQlJYRVlXLVVZMkh6ZEJheHRuYnZHbU5zWFhkSnhLbFVrbHFvUjBzRmJKVEFZZlJsdHdhaGky?oc=5",
-      "published": "2026-08-25T20:21:00+00:00"
+      "title": "SW Update 17.39 - Forerunner 970 - Running/Multisport - Garmin Forums",
+      "summary": "SW Update 17.39 - Forerunner 970 - Running/Multisport Garmin Forums",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRXFPMmVMV3hOcmdPazNmOUVpR01CelFtbXBERGNTUlVuZWx2TEpvSWJWc2taWUNDejg5WE94TGtGbG0zeWE4TDZmcUZUVWtJOWpGZUlENnFheXdVY0gxX3JOcU42dWNpZHJkdkptay1zeF9qR2hrYmNMSGdsUjB1T2N4NndJYU8xckZGU3k0cEJyVnFuQ1pnU1RfTTRyT2pR?oc=5",
+      "published": "2026-08-23T12:43:05+00:00"
     },
     {
-      "brand": "Google",
+      "brand": "Garmin",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Google reveals Pixel 9 Pro and Pixel 9 Pro Fold in new videos - Mashable",
-      "summary": "Google reveals Pixel 9 Pro and Pixel 9 Pro Fold in new videos Mashable",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mYXdKTTctT0RpT2IzZVl3SXZMNmpIdUZMSXBfUU0tODVsRU9EV2ZkOTFUX3JRakRKNURwdlhBa0tXdkluLVprN1M3MmxyanIzT2JsQmxHbHVtTUJVT3lGOEVn?oc=5",
-      "published": "2026-08-25T09:00:00+00:00"
+      "title": "fēnix® 9 Pro – 47 mm - Garmin",
+      "summary": "fēnix® 9 Pro – 47 mm Garmin",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ELURNWXdNS1lEYlVfa2IzUzRXVm4yRUpCQm8zZHFUOS02QjNIVDY1UUlkSmNuekp3aUJKSlY1Z1ZQSkZnTE5lTy1YdVJpeEdYNWx4OGVFODVMSmVYZHdhZ2I4a0hIUQ?oc=5",
+      "published": "2026-08-25T12:39:24+00:00"
     },
     {
-      "brand": "Google",
+      "brand": "Garmin",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Google Pixel 11 Pro Fold Review: Exceptional Cameras, Average Performance - PCMag Middle East",
-      "summary": "Google Pixel 11 Pro Fold Review: Exceptional Cameras, Average Performance PCMag Middle East",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdXMtVXM0czVkbWxMZlFaYVVvSXpfdDhvVXg0cDBDTzZiSXFuT09IUG9YZVVKM2wxMjlLMVUta0xKcDE2RlY3VlVPc2YwZ3owU1NGQl9NMElpOEFyUG05YWZGQWFRT0RjMjE0OFJ4WHpZbWJOLWFKUmZSa0FVT1pld3R6QV9saWx3VTZPUmtqeE8tSXI5ejEyeHR5X29Wb0NxRC1hWXRLRDhwWkJrYldDbW1rbjR5QQ?oc=5",
-      "published": "2026-08-25T04:37:30+00:00"
+      "title": "fēnix® 9 Pro Coverage - Garmin",
+      "summary": "fēnix® 9 Pro Coverage Garmin",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbUZxbmFhMnhCZTE2MlFEaTNYNWNWejM0dnNzbFlJOHJlX2hfNHJVY3F4U2owUWVVbjA4c3BoYVVVUG9CSGNMZEZwUENTZDduWko0ZTgxcjFvWDBMYjNQb3ZUWGZNNXE2X1FGNzVnZC1OS3Rscmo2c3ZYbzlTODBLOFVn?oc=5",
+      "published": "2026-08-25T12:48:53+00:00"
     },
     {
-      "brand": "Google",
+      "brand": "Garmin",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Google Rolls Out Gemini AI Integration into Chrome for iPhone and iPad Users - TechRepublic",
-      "summary": "Google Rolls Out Gemini AI Integration into Chrome for iPhone and iPad Users TechRepublic",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNjdRNFFPdDRlcU9ORE1udXBBVEIzQW5ON20xSlRaRjNPQ3JoLTBaajhCTm9BMHVBQTJwMlRLSmtWemVydzdLQ1VVTFRNTVU4VE1RbkJmREViZFRkbDRkN2tkckRjcE5yZ1JxenZMLVU5b3hUN1FtTg?oc=5",
-      "published": "2026-08-25T20:01:14+00:00"
+      "title": "Fenix 8 Pro/MicroLED/Fenix 8/Fenix E/Enduro 3/Tactix 8 System Software 22.44 - fēnix 8 Series - Wearables - Garmin Forums",
+      "summary": "Fenix 8 Pro/MicroLED/Fenix 8/Fenix E/Enduro 3/Tactix 8 System Software 22.44 - fēnix 8 Series - Wearables Garmin Forums",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNGlSWWRxVlctN0FwakhhNnJ2dDI4TW5wZUQwQ2c0ZXI5b00xWngxMGV1YVpYdEhHTjdKZXZTa0RLQXpNVm5hQWxIWGtBX2ljMFA3LTV4NjV5aWxwckVfeXlGY080TzBxdlZvMHBqZ1BIZ2RsUU9oaHoxUDhWbmg5RG84OE1KRm5nVmxWZ0I1TXlNRml4M1BUby1mYkFMTUJOM3RIQ2JlS3JzUW15OGlPcEcwckxCcHBiTVIyd25rWnJHZzkyLXptdHE3cy1lXzVlVDZxeXhudGhqYklWN3gxSlFkRkN3dFRKWUdOQUo1cTl3b1BOV0Zz?oc=5",
+      "published": "2026-08-21T20:40:19+00:00"
     },
     {
-      "brand": "Google",
+      "brand": "Garmin",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Google's New Device Help Feature Is the Kind of AI Your Parents Actually Need - Android Headlines",
-      "summary": "Google's New Device Help Feature Is the Kind of AI Your Parents Actually Need Android Headlines",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR1VXdUs0UXFXMmRjdjF4Y3pqeUpoaUt0MmsxZWNHVDdjWnVvSEZlbHJKSzZFMDZQUHlGZ0VtNGhweEFRNmJwQ3RRZmRWZmNLWW9VQnFkd3kyNWlUUGpqUmxWcU55NG9wd1E2OVUxbWdOMjdVOUY0SW9YR1AyRzJrSmRNSnA0eEZMTXlqU2E4R0ZxR0hFcHlpNDY5dUNlOEk2SF9ZMDRwRkxrSmxIQy1VZExRVkZRX3ZJMFpYVlA3NA?oc=5",
-      "published": "2026-08-25T14:07:33+00:00"
+      "title": "22.43 screen never turns off with battery saver enabled - fēnix 8 Series - Wearables - Garmin Forums",
+      "summary": "22.43 screen never turns off with battery saver enabled - fēnix 8 Series - Wearables Garmin Forums",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSHo2TEtVSzBQUWZuZzl3S3I3S2M2M2diVlgtdFhDNkZHSVdhOEV2Vy1VYXlRYkR6Q2FkV0lYMVpQaGM4Y1hKSFlSZG9TQlJycVQyS2IxUmsxMVhseXBDWG82M1d4VUlmZk9EU2FzTDZxS0xZVk5WQUNMcWhvbXNjNWN2cExhazdrNXJOek5wd1BqS1hzbUFuX1d4X3cySHBhVVJHZHRUT2dRcEpSNUpRT29ieHpQVFE1c3dEeU1QTENnQm5CMXdudjdGTTNaTHcxYUhzRjFHYXo3WVU?oc=5",
+      "published": "2026-08-19T08:12:20+00:00"
     },
     {
-      "brand": "Google",
+      "brand": "Garmin",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "The real reason to buy a Pixel 11 Pro - 9to5Google",
-      "summary": "The real reason to buy a Pixel 11 Pro 9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ha1llOWczYXJ6LXBjSGo3a1kzQVA2TjI4VnVnX3YwSjB3ejAyMzdKZ2ZpbnpEWTZORXB5dXNsQUx2bEVTaU1NUXlxLU9pZzM3QURoQi0wdUgyMm0wcGJqTWhwUGZqR1FfdW9VZVBFTGljSEpfZW1nbEhzcS0?oc=5",
-      "published": "2026-08-25T11:00:00+00:00"
+      "title": "fēnix 9 Series Owner's Manual - History - Garmin",
+      "summary": "fēnix 9 Series Owner's Manual - History Garmin",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU1A0SjIxWWJSZVhXaVNjWmNHVWlFeFkxMWg5ZjNpdFBvWmd4eWo3SXpqNERLWnhpWTJNcE1CQnJtR01Kem0zTnk5dXA3b2Z5Y2ZaaENId296QUhqcnFTWEhaLW9pNE1JNVpJYXc1b0pCcnNTa1R3ZkNVU213ajZzM0xGcjlkMlV2dGtBWFk0MnAwZnkxQ1JQd2UtMTMtd01XWjE0bkhDWHR3MjNvOElQamVSNV81RnVjR3ZxM2hxZzdkRkYzdm5NbGNBQU9tNTQ?oc=5",
+      "published": "2026-08-25T18:38:47+00:00"
     },
     {
-      "brand": "Google",
+      "brand": "Garmin",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Why Google Bid $10 Million for a Failed Airline’s Data - Yahoo Tech",
-      "summary": "Why Google Bid $10 Million for a Failed Airline’s Data Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUGlyWGhuV29nMFp4UzdEZUJrcUh6clZOci1xdzJoUWVWWGtTUDRZQ0FhOXhUcjVEQ0tOeEl1MGJ4bloyTWdRcU4wUGJfUVVhVmtBNkZsdGd2Zll6UHptUndCZWxsLUhOMU5rbi1ETWZ3SkZXcHZkYUt0dHhYUkNUZ2FnVVJsNHpTR1E?oc=5",
-      "published": "2026-08-25T14:51:47+00:00"
+      "title": "fēnix® 9 Pro – inReach®, 43 mm - Garmin",
+      "summary": "fēnix® 9 Pro – inReach®, 43 mm Garmin",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45RVczN1pCQzU2d2x6MHRDYVB0cU1qZE51X1B6UC1FZVFFWjN0N3hZUDNQYVlGR2cyVktRZXI2R1MzRHU1akFjT1h6a3hsaVRBWFdZOGM2MU9lUTJsMTJ0bFk2ZjhKUQ?oc=5",
+      "published": "2026-08-25T16:42:33+00:00"
     },
     {
-      "brand": "Google",
+      "brand": "Garmin",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Google’s New Gemini Tool Could Save You a Repair Store Trip - Phandroid",
-      "summary": "Google’s New Gemini Tool Could Save You a Repair Store Trip Phandroid",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZVF2bFFxdXF5Sm5ORGZuSE5YM1pSMjloTXM4WnVyLWRKRkowcWJNRGVvdDZYa3A2Q1JIcXZJWURlRWtEdWlpb1hCa2ItRk5sSWNucGVob09kS20zaUUxc2lHdHM2d0ZweDBhY04xWnJYOHQyVkRVRVB6bE1BNnVDMkFKMnVtRkRHS1R6Q2ZreHAxZkhzMjlESDNISlTSAZwBQVVfeXFMTWVRdmxRcXVxeUpuTkRmbkhOWDNaUjI5aE1zOFp1ci1kSkZKMHFiTURlb3Q2WGtwNkNSSHF2SVlEZUVrRHVpaW9YQmtiLUZObEljbnBlaG9PZEttM2lFMXNpR3RzNndGcHgwYWNOMVpyWDh0MlZEVUVQemxNQTZ1QzJBSjJ1bUZER0tUekNma3hwMWZIczI5REgzSEpU?oc=5",
-      "published": "2026-08-25T11:30:44+00:00"
+      "title": "Venu | Garmin Customer Support - Garmin",
+      "summary": "Venu | Garmin Customer Support Garmin",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xemNINjlZMVBGUTZXLVZIX284bXdBZHhFTkhxNkNUMUQ4R2tSTW9xZFE5RENkSGFLXzkwVFUxdVRIczJsYUJCZzlMc1RFckV0SWE5WVY0VFJ4R08wM2IwQU5UMnlzdDZPZU54SGg4R3NVTWE5OHpJ?oc=5",
+      "published": "2026-08-19T13:50:36+00:00"
     },
     {
-      "brand": "Google",
+      "brand": "Garmin",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "The best Google Pixel 11, Pixel 11 Pro and Pixel 11 Pro XL plans in Australia for August 2026 - TechRadar",
-      "summary": "The best Google Pixel 11, Pixel 11 Pro and Pixel 11 Pro XL plans in Australia for August 2026 TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZTZYT3lTMU03Vlk5SkJmWlNZUVFlZEo0Q3AwdU1UOFJiUm5yNnVvQk5HV2ZhNHlZU3FVSnpnbE9UN2xMWGxMeTNIemU4OWdVclRjTUZKcE0wbjYxWjlGVXdweEhQeDJJMGdTN1RzQ1JIc2ZWRzVTUURDSkF5SXhpTUVaQQ?oc=5",
-      "published": "2026-08-25T05:26:46+00:00"
+      "title": "fēnix 9 Series Owner's Manual - Restoring a Personal Record - Garmin",
+      "summary": "fēnix 9 Series Owner's Manual - Restoring a Personal Record Garmin",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeXljYU9qVWdSVy10NzFfMFRqWDJscGViNTJmRHlqbHR6M3U4bDRQZlQ2RDFBVUM3WTFibWNBZFRObUhiY2swR0RvazVtLVVFb21wakZGNFItb19tanVmdndRQkFMWWNOcjRnRkpTVXpkNTFBa3NDZTFyOTc4aUJPN1VwRzVXV1o4RFpsR2s5WHZCaV9PREgzOHJkamhydEIwcU1JZE9IX1VDcnRaMEh5d0VtNWNfb244QUYzOEw2YU9QT3FnOVhWaXpMbk5veVk?oc=5",
+      "published": "2026-08-25T18:28:22+00:00"
     },
     {
-      "brand": "Google",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "Malaysia",
       "source_kind": "Discovery",
-      "title": "The Pixel 11's 7-year promise is why I'm taking quantum-safe boot seriously - Android Police",
-      "summary": "The Pixel 11's 7-year promise is why I'm taking quantum-safe boot seriously Android Police",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa19ZWFJ0V0hVZl9vSHdTS190QWZUTE1BbVd0bTJldTJQejQ3dzR0dzV5UnFuaE5tQnBNTVpxWEsxaXBReENWMUVVZlJmQXhxTDdjUzhiX1VQeXN5c3pDcmhvSG9tb1JUeFZOQklDQlkwQzlybm5kUUJOdGJhOUJwUTVoaw?oc=5",
-      "published": "2026-08-25T12:15:10+00:00"
+      "title": "These are the best running watches we've tested for tracking your training and hitting your goals - Tom's Guide",
+      "summary": "These are the best running watches we've tested for tracking your training and hitting your goals Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xeEhoSnNtSVdKWFRkZHZfaGNnX2g3blEzOXMyQ3NwUDV0Z3BXYXVoUkVTTTFGampZcElXcGpCZTg3S2E5TFhkNFliblhCbG9NV3NxajlEMkk0QndiTGxCUkFiYTV6UHAy?oc=5",
+      "published": "2026-08-20T15:45:19+00:00"
     },
     {
-      "brand": "Google",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "Malaysia",
       "source_kind": "Discovery",
-      "title": "Google Pixel 11 resoundingly proves a vanilla flagship can be a convincing buy | Business News - Hindustan Times",
-      "summary": "Google Pixel 11 resoundingly proves a vanilla flagship can be a convincing buy | Business News Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTjB6RWtNajliYUVlVDdmRWZfb1hzNVc0dUxOajBsUHhVQjBwWEVmam9rOHlXY2RBeF9Qazc0RVpRM2M4OW4tb05jN1ZTNzA4ZmpxR2EwWUFWZ0x3T3I4clNKam95RWtvM0hiLWJIbk1YX0dXNFg0Q3gzcHI4Yk5OMFY1YkxQa1pvTGdXV0szX3N3Ni1lM0lyUHBDSWgyMXZOUUZockVLRm4zbk9vUGgzWG5odFNoR0theTFRU1Q4LUFzR2lselVvZ25yeTctSnFqdUJWM0ZR0gHbAUFVX3lxTE9OeHlvZkxfSmVIQzZSOGRzQ3FMWTJaUEM0VE1fLTR1MTYteFk3UDlld0VGZElqa2lsNTN6dDVqdTlDenp1a3ZUZ2tDNEVsM1R6S0EtYzRCLTFoVVpuX0V3aTgzMy11OUxwb3p0ZUQ0NnhBaTQ0TU1rSUZWd1R1SlZ5dnIwa1BGTENCNGRqSklWSWJlQ2dBemxvM1dtN1V1Q3dkc3hCMzl3QmdRMnRDYjdESEdEQjEwSkZFXzNwaURhTS0yVjNpVy1Mb25icFdvUWwtV3RtdF9JMzJOSQ?oc=5",
-      "published": "2026-08-25T11:28:58+00:00"
+      "title": "Garmin Fenix 9: Eight Key Facts About Garmin’s Latest Watch - Forbes",
+      "summary": "Garmin Fenix 9: Eight Key Facts About Garmin’s Latest Watch Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNzE4NE8tV0g3aW55X0thQlhzUGFweVBpUEdWbTYtZ2pjN09QcTFiZmVZbERRNGNidkhZeFA3MFhRT3ZFNENNUTZGWlVaWlhuRVJMeGs3NG11VTh2Y3NBNGhDLVRGS3VkRjZVeDNtc0EzYURfZGtSYjM5QmttRFphTU5MTGt3QzI2U21IYl9Pbmdjek50czhBYUxZb3kzd0FZWTN2M2g0cUtEUjlaZEpZY2pqYw?oc=5",
+      "published": "2026-08-25T11:51:34+00:00"
     },
     {
-      "brand": "Google",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "Malaysia",
       "source_kind": "Discovery",
-      "title": "Google expands football footprint with AI partnerships at five European giants - Soccerscene",
-      "summary": "Google expands football footprint with AI partnerships at five European giants Soccerscene",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZnRkUWt5eE5YUGhwNTdvd3NnVnoxRkU4VHVMUWx6VU5RMGtZQWhLTHJxVFpaZi1Ld0NfN2d0Q0dwYTRydDNoaHNfWENPcTZEdV94VHJIZzB3MXpyc1J4Z055UUdYb01sZVFGV0NNZDAwU2s1ZmF0aVVXWUxudDZMTEtEUExhTmlXclprbHZRUERIM0R2aWJyaWRuNFpZNlpNVERCQmM3QlZPeHFyazdZ?oc=5",
-      "published": "2026-08-26T00:35:53+00:00"
+      "title": "Upcoming smartwatches & health tech to expect in 2026 - Gadgets & Wearables",
+      "summary": "Upcoming smartwatches & health tech to expect in 2026 Gadgets & Wearables",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrcmViYXIzRWJzMWc5STUzb2VPT2JHQVUwVEg3WDRxLW5qMEhaUGkwbm9UNk9wUWZrTW9MbF9pRDFPNkpSZ2RyMTk2QVpOSVVMQzEzZWc0eThuZEMxV1NReHVYSWUzanl0RHpQbnE3ZWRxVEEtS21NYnFOa0s?oc=5",
+      "published": "2026-08-19T07:00:00+00:00"
     },
     {
-      "brand": "Google",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Discovery",
-      "title": "Google Pixel 11 Pro Fold Review: Folding Strong - Esquire India",
-      "summary": "Google Pixel 11 Pro Fold Review: Folding Strong Esquire India",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWWxYZjBERmp1aDBZTVlpaUNLam9xZk5KNUNwWkJlY3NzWWVkX0REYlo4MmJMLXR3TzJRVi1Cd0JYTGhpQ3Z0SDYzMl9vU2Y0U0hYSU5JUDlYUkNGcENBcGNSRWNFYjI4YTFOOVpQUHo1QVNmeE9yN0tsaksxMzJPd2pLVEtHODgtM21IeEJxdkVfSUxIcUZhUk5TeS1oendD0gGuAUFVX3lxTE1XdHRLanA3ay01amFhdU81Vm5DSHpETk1ySDVvX1ZRbUtfdjJTOXJZV25uTE5hT1FCSGw5NDJCUmgydWNtb0xGcUVaNlpiR3FjTGszTk1EdFM3TDdDSThycVl4RzRmOHN5OTN2Y3c3YzJTLU05VWhLQmZLNnJQTDN1ZUdrOE53RV83RjFXeVY5TTBvWUtabjNHMzlRVHpxbnQ2OGFCeHRWTGdTYUNnQQ?oc=5",
-      "published": "2026-08-25T07:23:39+00:00"
+      "title": "New Garmin Fenix 9 is built to help you “perform better and venture farther” - BikeRadar",
+      "summary": "New Garmin Fenix 9 is built to help you “perform better and venture farther” BikeRadar",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44VkpjbEpiYkNaRTZ1OFRhd2VWRUpqZEdrSXJ5Z0xJM3p0YWRlaW1kODNFWWhmT25WVV82Y00xMkJLNzlsRk9wYUhzS3ktbzZVMzRZc3VYR1E0NWQ2d2tqS0ptZjdxLUFYTTRxMUFoVWNKOEJ3Y3BMdUNR?oc=5",
+      "published": "2026-08-25T12:58:09+00:00"
     },
     {
-      "brand": "Google",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Discovery",
-      "title": "Google's Tensor G7 has one last chance to save the Pixel 12 - Android Authority",
-      "summary": "Google's Tensor G7 has one last chance to save the Pixel 12 Android Authority",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IRXMxVGhjZGFIRDNrZy1Ba3pvQkZ5OVlNQUwxZW5uYk1oV2lEeE9PU05rVDVFMmRhUEZsYjNyVzJaNzVWYkoxTGI3TUJNYklVN3NqSllvS2RyY3BwU3BoU3A4MHN3STZueWx1ZjUxeGxXVUhwODJoMw?oc=5",
-      "published": "2026-08-25T09:00:00+00:00"
+      "title": "Garmin Fenix 9: What’s new and when is the smartwatch being released? - The Independent",
+      "summary": "Garmin Fenix 9: What’s new and when is the smartwatch being released? The Independent",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX0ZQUjQtdGlETVBYcWNjanhQajFHTkJnbDhVTmRibEpPY3N4Q3BWbWpCdEhla3c4MnYzRS1UcXoxTFd0VnNwTEk3ZXZmcFVTRER6MmRjb1NZUUxSTTZleGdYWHZmZ0RBekZDWWpTUnRSLVdqLTNPYW9XVlhrY1RnQjB4TjFSblhCcnJnS0g1MmFxU1U?oc=5",
+      "published": "2026-08-25T13:19:00+00:00"
     },
     {
-      "brand": "Xiaomi",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Discovery",
-      "title": "Xiaomi (XIACY) Stock Price, News & Analysis - MarketBeat",
-      "summary": "Xiaomi (XIACY) Stock Price, News & Analysis MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BbklZbDRfbHRMaEpESGhGbWVKbFhuVmRPQU42bEU3bG56ek1HOFN3b3BOVTJsVERQYWRoNWVzcjFDRzhvQm9HekRuNHZTM1puV2ZSanN2aHZLYVZ5?oc=5",
-      "published": "2026-08-26T01:15:12+00:00"
+      "title": "The Best Smartwatches for 2026 - PCMag UK",
+      "summary": "The Best Smartwatches for 2026 PCMag UK",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVFLdi1RZm50MTkzVFFOaGdTanExWGxITzBVRUplSjJlcTNJb3RFeGxxUWVNdF9sR3NfTXFnQ0ZobEwxNElRN0x5MlZYSVFrLUZvMmticl9Zc3V0eG9yV2tuRTlFVUcxVmVrZnRqajVDcXZkVmR0WkdsMlVaVDVyeg?oc=5",
+      "published": "2026-08-24T18:36:51+00:00"
     },
     {
-      "brand": "Sony",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Discovery",
-      "title": "5 Amazon Electronics Deals Under $50 Worth Checking Out In August 2026 - SlashGear",
-      "summary": "5 Amazon Electronics Deals Under $50 Worth Checking Out In August 2026 SlashGear",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMGhMSlN5VlVhS1BRemV6YkszakZTRU00d1lpRVRGZmR1a2NRajQtOE9Wa1BETlhUejRsUEVvcHN4VmNjZTNSNmItU2FCdHBBSGt4Sjh3RWFtWENNc1Bwc1JTRmgxY3ExWW0zSUdQV21sWGFtWm13TzNQQ2M4NHJLbTQya3dzWFU?oc=5",
-      "published": "2026-08-25T17:45:00+00:00"
+      "title": "I wore the Pixel Watch 5, Galaxy Watch 9, and Garmin Cirqa during a 5K run and then walked 5,000 steps with each — Here's how they performed - Android Central",
+      "summary": "I wore the Pixel Watch 5, Galaxy Watch 9, and Garmin Cirqa during a 5K run and then walked 5,000 steps with each — Here's how they performed Android Central",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYUllQ1JnLWo3NTF2TWI4MEctMENqXzZfeXFxUF85Ykt0aFE3d1ViR3Yzc20wTW5iR0lUVUVvcXRxU3NpWTZVbEpJNkt3d2JLOV8xekFJTXN0QkJVX3Rzb1hwTjJnRnNZSTJZM0F0Q3V1QTM0aDRCQ0VORkdhUTUwSlBJX1dRZXpDMHVPUnpZaVhuWW9raTVHbmhlYXhBWlZTcmlLeGF1VW1tQmxCNXc3aWpobW1OTnN0?oc=5",
+      "published": "2026-08-22T17:52:00+00:00"
     },
     {
-      "brand": "Sony",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Discovery",
-      "title": "The 'new' Xperia 10 VIII confirms that Sony isn't even trying anymore - PhoneArena",
-      "summary": "The 'new' Xperia 10 VIII confirms that Sony isn't even trying anymore PhoneArena",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcFE5eUFVMjB5OXVJVmh0WUtJOVNOSzB6ZWRsRWhHRDdVOVU5YTJORHBxV0hpMDUtczVabUsxM0RYVGpQQ3EtV0JuVmoxX3NlOHRBRWFxLVFBUGI0czZCUHhibUFHa0d4OHc1alhzczhuNG94VFZOQnlIOXV2MTFuZkNXanpReFpQM0R3VWx1TmhTMlROWXlZYnJTX1hUandnaWF4a3JBY1pmaVdFaVhJMHVjN19aajFrUzRod2dsS1A?oc=5",
-      "published": "2026-08-25T06:52:24+00:00"
+      "title": "Garmin Fenix 9: Eight Key Facts About Garmin’s Latest Watch - Forbes",
+      "summary": "Garmin Fenix 9: Eight Key Facts About Garmin’s Latest Watch Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNzE4NE8tV0g3aW55X0thQlhzUGFweVBpUEdWbTYtZ2pjN09QcTFiZmVZbERRNGNidkhZeFA3MFhRT3ZFNENNUTZGWlVaWlhuRVJMeGs3NG11VTh2Y3NBNGhDLVRGS3VkRjZVeDNtc0EzYURfZGtSYjM5QmttRFphTU5MTGt3QzI2U21IYl9Pbmdjek50czhBYUxZb3kzd0FZWTN2M2g0cUtEUjlaZEpZY2pqYw?oc=5",
+      "published": "2026-08-25T11:51:34+00:00"
     },
     {
-      "brand": "Sony",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Discovery",
-      "title": "Sony Xperia 10 VIII: a compact phone that costs a lot more for very little new - Gagadget.com",
-      "summary": "Sony Xperia 10 VIII: a compact phone that costs a lot more for very little new Gagadget.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXVJVkdaTS16eTNEa0ZSVGFSUEhZVlBWNk5wRmJuWW9RYWtDWVQzZlBYaHlYU003Rk1Pamp2VkJFMl80U3JlMzQ3YjktQTdFVWpDTVYwdHRITlZFeldKQnhzZXMwWWFhUGRsa1hqX0p1Z2Y5dEQydHlCTjlYT3hEcGlsOHAzbm9IRG1vamNVZDY2Zng4TjFzV295LTRPQ0xLOTVIei11aDFoNjdvekHSAbMBQVVfeXFMTThfWnJvRkRSdTkzajZpSEpVekxIeHJzZnBKUjVWZlNJYktubWQxRHZqVE1RcEk2R3pxa2YxamVkaDFqYlNTUDVIVkh2UHNyTnlXUmFXSkNoVThadXBVWGo2LWxTamN0RkhSYkJaU2tmVGpqUkZYTVR3OTlsaE13bTVRVk1jX0FNQkx3aXlZYk1jSmlfblJHUUVPbUliYWVZbTBLeE1jaGtoYm8yWklGb29EUEk?oc=5",
-      "published": "2026-08-25T09:18:42+00:00"
+      "title": "Best Android smartwatch — top picks from Google, Garmin and Samsung - Tom's Guide",
+      "summary": "Best Android smartwatch — top picks from Google, Garmin and Samsung Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBWlFXcjFqN2dJQ3RMOHVMWVBVaEt0YTB6OFozcUNaalp3T2wzR1pEQUhndXZPaXl0MHNULVF0SHU0WnE1UVhja0Ffa0prWTBEb2s2dHZuQUZvU0FjZGhWSlctY2JHUmViTU9yX0xJUQ?oc=5",
+      "published": "2026-08-20T15:43:14+00:00"
     },
     {
-      "brand": "Sony",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Discovery",
-      "title": "5 Amazon Electronics Deals Under $100 Worth Checking Out In August 2026 - SlashGear",
-      "summary": "5 Amazon Electronics Deals Under $100 Worth Checking Out In August 2026 SlashGear",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcTdGc2VZd3hXa1hybVN0RWR5OU5qR2x2UXQ2YTJ2cWRsTDJIRl9nbmVGcHhQVXA2d2tLWkk0T3R5ZGFOX0YwUUVvTDgwZHhqYVJDSVBWRXpIMjM4VnVXbHBTMUdmVnpnY1FSWThGUk9yeUtrWi05cHNQN3hrSmw0dmRLRlpvdnlm?oc=5",
-      "published": "2026-08-25T23:15:00+00:00"
+      "title": "Garmin Fenix 9: Everything We Know and Expect - the5krunner",
+      "summary": "Garmin Fenix 9: Everything We Know and Expect the5krunner",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUVFFM3FXZU90LXRSeTNXRm5oZlJEa21KZ3ktWnNPXzRLSk9XMWVMLWZoTEJwdHhWR0hQaFE2bnNLMmdvdkxHNnlUUjBjVWVyMFBZQWhQR2lfbzhXanF0Rk9ISXY3WjlLZU5leXUwR29aU1Y1cmY3T25INXFzNkg1VmVZSGMtQ0hQQTBwVmR0SFBBcEhmVnVFZDU2b2wtUEk?oc=5",
+      "published": "2026-08-23T07:00:00+00:00"
     },
     {
-      "brand": "Sony",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Discovery",
-      "title": "Sony’s New Affordable Android Phone Reuses Last Year’s Design and Features - Phandroid",
-      "summary": "Sony’s New Affordable Android Phone Reuses Last Year’s Design and Features Phandroid",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZldkT21sd1Ztbkhuay1WdnNrSGYyWkZnWDBZSUZjYlM1QnJFY2V6UkViOHFoZE90R1pQSjR6QjM0NTlNQVM0S1JvdFpCM1lKTTc0MU9heVlqNkx1OEY1N3gwbmZzVEZnalVOclVIbmJ5M0lKZTRRb1RLWWtINWpWOWxteXBmQ2J3aUFWTVdGb3dNQnNBOWZOMGJOWdIBoAFBVV95cUxNNjB6NWhqb0NHTWgxVHcxc1Q2NVNHZjZvYkE0ZXItalVYeDdaQW5kanFqeHo5MEJLSE1JRGV3Z1dpQTAyTUlGQ1U1ajRNVlNmWTZub0xMTHRtd182ZUhfdW5GbTVZeDE0VV9tS3VXX3B3ajNEdDh0dHFOMVJtbUd6QU9VY3dhU2xHWlFaU1dfMjc1MUtmRGo4REg4a3V1aERB?oc=5",
-      "published": "2026-08-25T03:37:14+00:00"
+      "title": "Forget the Garmin Fenix 9, Casio has a new surf adventure watch that sells for a fraction of the Garmin’s price - TechRadar",
+      "summary": "Forget the Garmin Fenix 9, Casio has a new surf adventure watch that sells for a fraction of the Garmin’s price TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPLXlGVDlnc1RUMEVNXzhfZkJ0TzlSck1ReVFyTk0wQXFvV3pTR3pBeXI1Zk00WUdlckRBdzRoNl9nWjBQMkZNQ1pwWHZRZU9RdjJHWkFtV05LcUVHdVRmd2s5RGx4WncwOFFrcFNEYWgtMERuMVV2OExIZzgwd1JJX0RMc3hRZ2hqOGM4R19YY0Y0NGhfZG9QYnpEMWR2REQ1NTR5M2pHTW9kc3pPM2hFSDF0WWVzNGNucDB4SDRXSlc4MlRQenBNbGcxNExhTzZMRURGNjZ6SmZ3cEQ4eGhyZERxUG5rY0pOZ3BLVTM1dTRYVWZFLVR0Sm1XOVBoUzVl?oc=5",
+      "published": "2026-08-24T17:45:00+00:00"
     },
     {
-      "brand": "Sony",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Discovery",
-      "title": "Sony Xperia 10 VIII Keeps MicroSD Slot But Brings Few Changes - APAC Media",
-      "summary": "Sony Xperia 10 VIII Keeps MicroSD Slot But Brings Few Changes APAC Media",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONTlmODNZT1JEQV9mcm1JWXh6aUhKckZrQ1NpOWhwUld2ckhKNHYya2pqa1BwLS1xdnVhNXE5WC13anRqcFJoUzFWRERWUFRTaURqQU00SFdwY3MwampBQjYyUGJ0Y3VGVXprcGRxSWl6NmVsRDhLQldFc3l3UENfaFFTVzA3bk1TSk0zd1lubFNDamROdnY3Wmc2NEdZM2c?oc=5",
-      "published": "2026-08-25T06:04:58+00:00"
+      "title": "The Garmin Fenix 9 raises the bar with faster maps and smarter training - Android Central",
+      "summary": "The Garmin Fenix 9 raises the bar with faster maps and smarter training Android Central",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONmZiRXF4MEdFZEUtSkJuVXBuck1JVlZ0X2lmZXRYcW9mTUR1ejd6VVNwbGdUck05NnI5U0ZFRFU3eTF5VjU3RXJqamlBNTFtaUtVRkhJMms1TXNNckt3TEJ4WWYtX0h4Zi1zc043Njh1elp5QjctanUyUXFlVmM1dEd5V3BRejVXQjRZU2xkc0VQbmhCWDd0cnRERW5wTmxzRHpFZlQxU1lTMVFUaWV6RFowYXR4U0tmWDQ4?oc=5",
+      "published": "2026-08-25T13:49:39+00:00"
     },
     {
-      "brand": "Sony",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Discovery",
-      "title": "Sony Xperia 10 VIII Launched With 50-Megapixel Rear Camera, Snapdragon 6 Gen 3 Chipset: Price, Specificat... - Gadgets 360",
-      "summary": "Sony Xperia 10 VIII Launched With 50-Megapixel Rear Camera, Snapdragon 6 Gen 3 Chipset: Price, Specificat... Gadgets 360",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM2k4dGtsRmwyZGxRanRBOURHWTVINkVsa2xveHo5V3ZMeTIycU5vQ2tHZ0x6ME9nZWdvWUl3MkxKT3lXdXM0c1I2SXcxUGFENjJXX2hKeWN3MVVuNUx2ZDJhS3hBbXZwRU9MdmVjd3VfSGZ2dENDYm9LdEZZZXljYTdvU0FaLTFjSmJoaW5MZ3dZYVRMMC1jZ2IwMzgwNHlpaUNEc3NoRmXSAa4BQVVfeXFMTXlITlFHWHcwUjI0ekVxT25UVXdZcFpqcFcyQUpremU3SndRQl9jQTA1TDRMNXRUNi1rc250WXBRUjhkbVQxWVhuenJkVUluZHZtTEVRTFpzZ29LLXN3ZnFjTmE2T1hEMlc0dmNmU1NvMmFHNVlsaUJmMl9lM0h2LVQ3bHhEOGk4N2phei1seHh6NkpfcmVOOVNySVhhUDNWV0x1TzI0OHJaT3B0RzdR?oc=5",
-      "published": "2026-08-25T09:51:42+00:00"
+      "title": "Major Garmin Launch Coming Tomorrow: Garmin Fenix 9 Expected - Forbes",
+      "summary": "Major Garmin Launch Coming Tomorrow: Garmin Fenix 9 Expected Forbes",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3VlWk5OclpWMmw4eFBfVGd0eTlFSVJQX0d5VUtjcENGRXA4VDhaNERVR1Qwd09Hbmd0Zlh5MXFoYzQ5eUxnVWVnbjZzbktjeVN4czNmelF4NE1MWldjUEVVb1J2eXVVQnFpQ3o2QlBvbHEtYzlTb0U1Q3ZRcWJkc0JPUEVwQU84UllYY3ZnaDhSNU84RjNnSmNQMHowd1J0d0tsWnl6YkpVZGlsU3liSW5vVWI3QQ?oc=5",
+      "published": "2026-08-24T13:43:38+00:00"
     },
     {
-      "brand": "Sony",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Discovery",
-      "title": "Raksha Bandhan 2026: Best tech gifts for siblings, from iPhone 17 Pro to Sony headphones - Business Today",
-      "summary": "Raksha Bandhan 2026: Best tech gifts for siblings, from iPhone 17 Pro to Sony headphones Business Today",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQX0ZYNnNjcVFRVFFQZXpGMXo1YXNfaXMtbVF6b3lHaEt6QmZacEVGWEdDUVBHckVEaW51SEtQSE8xbm1naHIyREhjbW9qOEFHdlJSMHVhcnZlbDdlSEVsQkFMbk8xVUNkMlNFX3JiQnJFRVFyZU1iZWxEZ2R0ZWNGX05EWHh6VGQzWHhSbnZ1ZWU2V0hkNS1aMWtGR1NvT1hGX3Q1aFJGcnhPQzJGZUhOU2lsS1hhSnVVSXBZTWdQQ1p4d2ZkeUtINlVIaXE0NjFaVWlERXNHemNsaEMwOGlqVHJXLVJiV05DUzRn0gHwAUFVX3lxTFBXVDUwNHI4SzZEZHlHeXdLeWdhTGtBdFJ3ZDc5UlNRY05ON1lSWnFsZ20tLXN0TEVHWk5WcFQtZnROVnk2dHg5V1hhTzVZQklSQXVMa3g1a0pOSW11UnFtOGN0ckFBSFRBSjNLUVEtZjduVXgybUFoMzlJY21KakNtZzBlcllXdGdfQWJERHMxMkMxN1V5bnU3T0xEQzVTTU1JOHNnb2R1S2NiamdyX2hRLTVaTkJkY1JTdVU3MjdZSXNjVHlIaTUtTUxHZi12RXFYRWMzdWNsRl9kYURTQjlNSnFQc1VJbUg0S1I2MFQzRw?oc=5",
-      "published": "2026-08-25T05:18:32+00:00"
+      "title": "Garmin just scheduled a YouTube live event, and it's got to be the Fenix 9 - TechRadar",
+      "summary": "Garmin just scheduled a YouTube live event, and it's got to be the Fenix 9 TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUVQzT0tBTXFrUEpfbS1rWUdGWlV4UlZYSmdVQ1F4Qk1sSWlqaVBUVTVEdmkxamhjT3RSaFlSTmRPWkRsVmpXMW1NTEpmVVdFdGJ6YlI0dGFmSHNiUy13bGhORnpyTFVmNG5wWldmMFJ6OFNoeEY3aHJLZjZyRjcwaTZPVEFYRC1IYTB0NmxpcEhVeDg1RFhQWHZPNFFnZm40RHVtT0Z4bGVLX2EtbXFvUmgxOWZGS0tQVmpDQlYycEswLUtGU0JZZkppUFByZEZneUpKZVM2RnJnUWoyN255QmlJWnBkdkd5WlZNci0zMjVtTHdMTm5CcWJkMzdtMmtvUzM2VnprUGthajdMcy1zS0otUQ?oc=5",
+      "published": "2026-08-25T11:43:15+00:00"
     },
     {
-      "brand": "Sony",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Discovery",
-      "title": "Sony Xperia 10 VIII Phone Price, Specs, Comparison and Reviews (25th August 2026) - Gadgets 360",
-      "summary": "Sony Xperia 10 VIII Phone Price, Specs, Comparison and Reviews (25th August 2026) Gadgets 360",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tLTNRS09KLUxpOWxRdW1mMUlPX21sbWhSRmcwZlFOYWFubjZ6Q3VNVHUzR0VzQng2UnVXUUt4LS1FV29PbEhFNE9JTVg1YjNjUF9IMUtpamZJTlZxMGtWaFdwZHFac2tKS0tYeHZWWVo5b0d4ZmtneVNmaks?oc=5",
-      "published": "2026-08-25T12:18:30+00:00"
+      "title": "Garmin Fenix 9 revealed — here are 5 things you need to know about the new flagship smartwatches - TechRadar",
+      "summary": "Garmin Fenix 9 revealed — here are 5 things you need to know about the new flagship smartwatches TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYjBhbHJYQ2FDMC1qNEJCWk9uOEczWUFldFBKUnJoT2tfd21BaTBJdXh1M0hfSjdhV01scV9Xd29JNGV5S1ZzSUtqQjgzMHZnWnByUmtFSmlQOC00aFJoeWRERzViUzluUy00clZBdE5BLVhOWmw2ZHlGekRpaHBJdGRpWUNyR2Jrc2lJanA3UV9SdTQyS3ZwY21YaFIwMVR5R1hVSWROT1FlX2VJYWp5eVRiT1FWeWI5U2F4SWoyZ2dEUzRHcllQRUVqakR3YUZ5VjFPZDNsYmFPUFpwbFVSQWV3?oc=5",
+      "published": "2026-08-25T21:00:00+00:00"
     },
     {
-      "brand": "Sony",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "Germany",
       "source_kind": "Discovery",
-      "title": "vivo X500 series launching in September: X500, X500 Pro and Pro Max to debut - Business Today",
-      "summary": "vivo X500 series launching in September: X500, X500 Pro and Pro Max to debut Business Today",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOFI2S1hmVXNoNHVkUFhsZGI3TVVkTGY5S0JCdkQtWlQza0otX2stRnRtSFFRcjUzVGozUFAtQlB3dHp2bXRDS2QySDJ6Nk03bEYxM1pRWlZVSjlRcXlrb0hTdVprTDRLbkR3TnlvOGhDNElwVWZzSlpEZ1BnUEdZZVM5UEdjdkVJaUc1cklwaElncDRyUkZXVG1sTHpCM3A2eklpVDQ1LV9McnpTSW9uRjBVdGNNOUZBR0YzVmpFeG5xVndfWkhvNkRaLUV2MVFiLTRqamtWbi1EX1nSAeABQVVfeXFMTmhBU1Q0S0JoSE1LMlBndFJfcldJeUVQQWlHaXcwazdQZ1VaVjZrS2x1TVlaemdjNzBCZFhYeExWTlJhUUxUeFBzUTBKU01YU2dyRWp1SmFYdWJ5b0RLU0M3bzJUTGI3Ri1NSWR1NVF3YnVvUW5rRXZoU3pNb2QzS0NES0lWOFkxQVVoRTV0aXlCTWMzcEhackJ2dE9tRDRSRUJDMDUwSjM1Y1pVRlg4U1FmTkZ0bXFacGF6ZnFjN0RidHZOd09lUk1xODJ0RE9FbUlIZHk1Sl9jQmYxR3hzNUc?oc=5",
-      "published": "2026-08-25T05:58:44+00:00"
+      "title": "Garmin fenix 9: Produktseite zur Multisport-Smartwatch verrät alles - Caschys Blog",
+      "summary": "Garmin fenix 9: Produktseite zur Multisport-Smartwatch verrät alles Caschys Blog",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY2pia1F4NVBBVDJXMHVLTmtDeUV3aGJEMnFaVzJVcVZ0bkFBc21qNFp4TmwwTGlycWZvQUY5Ukd6SjhFaEpDWmM2WHlPTlg4ZGRsak9WaG5jMEZ3cUlONjBuWVROVEpJUTFSU09JbXJ3V19mRXFoY195M0RodzVCZWdxMHU1Q3VuYlhTa2E0aHRVeXlXWmpGSk5Vb0hqQQ?oc=5",
+      "published": "2026-08-25T09:38:17+00:00"
     },
     {
-      "brand": "Sony",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "Germany",
       "source_kind": "Discovery",
-      "title": "Sony Xperia 10 VIII Launches at 599 Euros With Few Upgrades Over Predecessor - Technobezz",
-      "summary": "Sony Xperia 10 VIII Launches at 599 Euros With Few Upgrades Over Predecessor Technobezz",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb1RTendBZVAxLWxkUlo2ckpNSzhPdlp2LU5DV01wRHUzZ0ItcDRoblpOaGdpZ2FrS0dyVW9WRXhXQkxnZHp1VjF5YV91eEUwZUlFQTBFZWNKcnlvRjVtSWFfWHJuUDJkNm45UGRUc3FDdGtXNlVydkJzejQzVlFaZVIzU3Q2X3pwZkJzTmdyeDdlV1dId190V1pWX25ia0ZNWXRDdnQ1WDhZemV6?oc=5",
-      "published": "2026-08-25T18:38:56+00:00"
+      "title": "Smartwatch im Test: Unser Testsieger ist gerade deutlich günstiger - Business Insider Deutschland",
+      "summary": "Smartwatch im Test: Unser Testsieger ist gerade deutlich günstiger Business Insider Deutschland",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQmJLQmtOUmVmUWFac2dVM24tWEhWZ09UNmtrT3BWUEpUTWxrOW5LYkpaVXYwR3BrS1NFRUhqX3hRTGp0WWtkTDlKX0VTaXItb2N1QU8zaDFEbGxCcXBJeEZORWpieHRLTExLOUlGdUtFdW9ISGNtS0R3djJDcDRMQTlyRkJ0dnZMZTVSNExTcHpJWmY4ZVpWWmhkWXozTGkwQ0ZTakY5Y0ZkSmZoZDdhaVQzd0d6TE9Cc2JyVw?oc=5",
+      "published": "2026-08-25T09:20:57+00:00"
     },
     {
-      "brand": "Bose",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "Germany",
       "source_kind": "Discovery",
-      "title": "I tested Bose's new QuietComfort 2nd Gen Headphones. Here's what's new and how they compare to the Ultra. - Business Insider",
-      "summary": "I tested Bose's new QuietComfort 2nd Gen Headphones. Here's what's new and how they compare to the Ultra. Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWHJEcnpmODZ4Y1JidlFrYzhvdWRWcnMwaUZta3BmRmhfZUdDU3J6UG90c0hSSGN1czFxdnlQNHZiMTJxeWJzZ0pRRWJILWFKVm1VM29GX01yU3FZSURHQXFzRjJweHBPU19iaUJzdTRHUXdYUWtuWG9ILS1fajhuelVQSk5BTGxlamZXUkRaelg?oc=5",
-      "published": "2026-08-25T20:56:00+00:00"
+      "title": "Seit Monaten führt diese Garmin-Smartwatch die Bestseller Liste an! Keine andere Uhr kann da mithalten - GameStar",
+      "summary": "Seit Monaten führt diese Garmin-Smartwatch die Bestseller Liste an! Keine andere Uhr kann da mithalten GameStar",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeHdSWnpNNlBZWUZHZXY1V29QQ2tzSEk3TUlEUEQwalhrdDFVYVB0VDdQN05ETXprVmUwbWNZR2RBa3pHTG52bldnck9mWFpDMWw0bWNFTUpBT2FkQjBua2JHWmNRaVdzQjQwQ1g3bzR3YUlXS1ByRnFsN3BCdEN5X2lPWVgwX1NfWFZja0l3S0NfMk9VNC1JMXFRenpHSlNWLXhEemM3T3dmYVdSdVd0RGRB?oc=5",
+      "published": "2026-08-24T17:49:00+00:00"
     },
     {
-      "brand": "Bose",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "Germany",
       "source_kind": "Discovery",
-      "title": "5 Over-Ear Headphones Brands That Have Better Audio Quality Than Bose - bgr.com",
-      "summary": "5 Over-Ear Headphones Brands That Have Better Audio Quality Than Bose bgr.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcjNBU2JLVXJ6RnVQS2kzX3hNekdualIzT09lNlFqcGh3RDhScU5IeWRCUGs5LUxKNG9vemRaak11ZS1CR0dHTGhlUXcxLVZ0MTlwUERoMzhfVDBUbTlzbklkUl9mblVWam1HZTRSdmt5aUJhdDZRXzZDT1J2UGhab2RVMGVCaXNwZ3dIWTJDMGxHVmM3?oc=5",
-      "published": "2026-08-26T02:29:01+00:00"
+      "title": "Outdoor-Smartwatches im Test 2026: Welche Uhr überzeugt beim Wandern und in der Natur? - IMTEST",
+      "summary": "Outdoor-Smartwatches im Test 2026: Welche Uhr überzeugt beim Wandern und in der Natur? IMTEST",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV0xIYkFLUkV2UFBrWkxxeXZEM3FmTGY2OE4xZGQ1RUZzeEV0WXRRZFRCdngtQXRjcDJrd3BQNXRjb0VCT2N2MndkbUNleU5UWWFCLUZhOTFnVkpNdDRaVklzUUpjZF9GdENiUzVXSHdTX29ObGMyaUQ2ZWhORFdHUm95enVGd0R6M2R2UlNfcERvaGNiaUhYU2Jxb0I4YmxhWnphak54bHhEVUtlUUY4?oc=5",
+      "published": "2026-08-19T07:35:13+00:00"
     },
     {
-      "brand": "Bose",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "Germany",
       "source_kind": "Discovery",
-      "title": "Before you buy the new Bose headphones, these Skullcandy cans have all the same tech for $80 less - SoundGuys",
-      "summary": "Before you buy the new Bose headphones, these Skullcandy cans have all the same tech for $80 less SoundGuys",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX2FYYk5hc0phUHhTZmJ4SmppUmQ2ZmtjbTN3cGhoclBwbEtrMFVENm9DakNXNDMxY1VwU000d21ENndOei05Mml4MHMxV250ZFJfX2ZyMThReGJQc0pBSTU3LUUyNzE0TGYwdEt3THJPZmhPaW1JMDF0OGxDT2JJaUMxMUdxNXhGZUtYX2VPeDJJekt6WHE3UA?oc=5",
-      "published": "2026-08-25T09:00:00+00:00"
+      "title": "Garmin Fenix 9 und 9 Pro: Neue Multisport-Smartwatches vorgestellt - connect.de",
+      "summary": "Garmin Fenix 9 und 9 Pro: Neue Multisport-Smartwatches vorgestellt connect.de",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWVYxV3BZYjFYZEJBdDU1c0VrZHI5OW43WF9zSjdNQTk2RzVveE4yT3V3eVZJaHo4OG8xZzVDN2puMW1yT3dPejZxR2owdVJzSjJuWlF1a1dIZ3k5UkE5eWxqeHQ5bEJxTFB6LWhndkZBYXNqLUhLX21zb21qUHdqcGFjWExIVEM5aTJxcmlvaEFSeE01MlE?oc=5",
+      "published": "2026-08-25T14:36:52+00:00"
     },
     {
-      "brand": "Bose",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "Germany",
       "source_kind": "Discovery",
-      "title": "Best Clip-On Open Earbuds I’ve Tested for 2026 - CNET",
-      "summary": "Best Clip-On Open Earbuds I’ve Tested for 2026 CNET",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DMHAtSDhBMk9fTE9NRlRwNXpJd2lPb3FUUjIzcU8yd0d2LVlXaUd5cWxLVjk3UUp1d1BuZlFDLUgwN3dERnYzcXE2NmcyOG9fd3dSNlNxVTlxRU9vdGs5WHExQVU?oc=5",
-      "published": "2026-08-25T18:42:00+00:00"
+      "title": "Garmin Fenix 9: Neue Sportuhr setzt Notrufe per Satellit ab – ohne Smartphone - T-Online",
+      "summary": "Garmin Fenix 9: Neue Sportuhr setzt Notrufe per Satellit ab – ohne Smartphone T-Online",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQTJ4RUx2eFBqZkQyb2dhSC00bUZmZUNQYjdzMVdiR2J2M3duQTBnemdrdzJudkpkaGtGZHh4d3d4YnVMTTJFSDVjb1YzQ0lHWmc5bHRYbFItZ0JZazlIU1JHMjJaZUxvVHIxYmpLZ044Zi1DaS1PelFkX3dmVldmYXVPeU9GX2FZOHBNYkp4Mi11VUhzNDllMlJpUnpWVHVubzBmX3RfVVNSVExfalBFUElabGRyUUhUSThqSUZ6YUNrQ21KWVE?oc=5",
+      "published": "2026-08-25T14:53:29+00:00"
     },
     {
-      "brand": "Bose",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "Germany",
       "source_kind": "Discovery",
-      "title": "Best headphone deal: Score $100 off Bose QuietComfort Ultra - Mashable",
-      "summary": "Best headphone deal: Score $100 off Bose QuietComfort Ultra Mashable",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KaDFNY2V5ZHlRbEJVVHo1TzRRQTBYektjRTFFWWhzS0NtUThORE9kWTBQWWJxeDJnbHl5SWRaekg1UkowNU1fdllqOVJpOFp2VVJ4LU9vQ2F4cWdPNmdNU1RVOEc0QQ?oc=5",
-      "published": "2026-08-25T07:00:00+00:00"
+      "title": "Smartwatch-Markt: Garmin zieht mit Samsung auf 15 Prozent gleich - Ad-hoc-news.de",
+      "summary": "Smartwatch-Markt: Garmin zieht mit Samsung auf 15 Prozent gleich Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVU9fZ1VsSnpqYUkxYXA4am5MMHoyQmxnVFVBUV9BZVB5UUoxV29jZUhDcl9PdkVWdXZlNUVUdnBSNU5LU0JnQnptU2ZMOXBuRk5iVU1Eemp4WDJqeXktakUwR0FzUm5MS0M5S3UteUFIYS1PbGJZc3d4VDZxaEw0SzNXSE8tNGhjWm5JaEp4Y3lUTlBNU2VPVFpuOFVWQVBfcXdMOVlhQ1ZqYkNSbzRMN293?oc=5",
+      "published": "2026-08-20T05:22:59+00:00"
     },
     {
-      "brand": "Bose",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "Germany",
       "source_kind": "Discovery",
-      "title": "Bose’s smallest Bluetooth speaker is a great deal at 35 percent off - Yahoo Tech",
-      "summary": "Bose’s smallest Bluetooth speaker is a great deal at 35 percent off Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkptb1FkUnZuX09JMTJ4Tk42eWxiQzF0Z3gzUkJpbUtKWWZfNDJFdUswcmJPV3Z1aW9weXFfc181bnFadW9tWG1LR3M4UFlFRU1HRlZaQUxaZXdsZUx6WFYyT09OenRYdHAwaENXeWRwRGJDc0c3S3l6TVlnNlRJSURoVmV2S0lrRFVuSVlXLVptWWlRdHVBTnhLY0w?oc=5",
-      "published": "2026-08-25T17:39:20+00:00"
+      "title": "Garmin Forerunner 165 & 255: Laufuhren jetzt günstiger - Teltarif",
+      "summary": "Garmin Forerunner 165 & 255: Laufuhren jetzt günstiger Teltarif",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2pnalFJMDZoTF9YcE9vVDlCaUMwQUJJYlNadG1PMFJoMmZ0dEtQRndzSE53LXpMUFhsYkwzODdGSS10aUcxQ1hUMXFxV1ZUbVhZSHpZZ0l2N0VaaVJCOWZ3U2E2aFV5TGhPZW9CeHBBSXZQQjNYQk9KZTN4bTdpYW45ZW4yX2df?oc=5",
+      "published": "2026-08-24T14:10:00+00:00"
     },
     {
-      "brand": "Bose",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "Germany",
       "source_kind": "Discovery",
-      "title": "This Tiny Bose Bluetooth Speaker Just Got a Huge $49 Price Cut - CNET",
-      "summary": "This Tiny Bose Bluetooth Speaker Just Got a Huge $49 Price Cut CNET",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11OEVyVkRINExyWXlQOUZUME01Rk9wd0xrbE52U004MDFCT1lEMFYyUjFfU20yUV9YQmxhY3hHTDZ1eExRTFotRHZ0NXMtbWxLVERUQktlWGVpOUtmeTlyaENERTRFZlBoODA4ck5tNDhQUDhXVlNpOEhmS0U?oc=5",
-      "published": "2026-08-25T19:17:27+00:00"
+      "title": "Garmin überrascht mit Event: Fenix 9 mit völlig neuem Feature erwartet - Futurezone",
+      "summary": "Garmin überrascht mit Event: Fenix 9 mit völlig neuem Feature erwartet Futurezone",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEhjNHU1TnNiVDhnTEg5S1JNUklTZE5sZ3JwbFpzelY1Rk9DOG9aY2Z4d3BscHFLWk14anFYTTZqd0ppU1NQSl9TUFYyZVI0T2pjOGdPRC1LNEd6b0FKY1Y4dXAzX3A0N3NMdmhxbUdOQkx4TUt6d2JiN1BSTzJYcjhCY0ZvLUdmc181LTlHUlRtU25oT2Y1QXY1V1pFV3pWdmRNdjNFYVJhNDROdDJFYVRB0gG3AUFVX3lxTE00V3o3RmRsRzJTMWlEWk5FX2xoZ1ZwUVhlVlNCR0FDc21jWW5PdDJpbVlkdTJ6Wm50bTJKVi1sWFpBTmpVQVQ0NS1EaVhiUjZpY0FvWHFKTE5tZFFhT3NQdHJiMlUycmpKM2UtNU1Zb2N3dFppaTU4djZoT2laWm5fbUp3VEtpcGF0OHotOWJlTTVaXzFSZTZjODloS3dUdHZiQjl4cWx6UnI1b3kyQW8tOENfU1J2MA?oc=5",
+      "published": "2026-08-24T10:19:00+00:00"
     },
     {
-      "brand": "Bose",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "Germany",
       "source_kind": "Discovery",
-      "title": "‘Incredible’ headphones plunge in price 7 best wireless over-ear headphones to buy in Australia in 2026 - News.com.au",
-      "summary": "‘Incredible’ headphones plunge in price 7 best wireless over-ear headphones to buy in Australia in 2026 News.com.au",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeWtvZFF2Rk9YQnA5Q0hCSE14ODRDSnptbGxZOUJadlJFYTYwX3QzZUdzM0pDRTEwc01nRDZrSXU3LW1HR28zZTlhNU5USlpuQmdmMTk0TUlmS2VzU1M0MFZoVUctZWNpanRDTEFBTFBYdERsRkNRemVvLVlmeTMxWXpJQUY5bGs4SUdkNExUcnpSRTBCN0JJaDdHZF9qcXRhVkMzdUtsYTU0OGdSMmpjbERVQ2liQVRaUjhlcDdybjJ0Vk5nd3Vmek5adDZtUkNZUFZNVzZTZ2xkZURYM2c?oc=5",
-      "published": "2026-08-25T14:07:08+00:00"
+      "title": "Garmin Fenix 9: Leak verrät Modelle, Grössen und eine wichtige Neuerung - vybe.ch",
+      "summary": "Garmin Fenix 9: Leak verrät Modelle, Grössen und eine wichtige Neuerung vybe.ch",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaFZqSlFCd2FZbVE2YXJPMUNWVTJuWG9yYjJjY015QjhvSF81Q04wbkxQZDlvamYzMmFGOENuTkJmekFFX2gwQjVLNURtcEtzT0QwTE5ONnR2Wll1c01aaU1oNFdJbENMcHR0Z2ZFLXEzdkthN0lMcEhxSHVPWENqbEU1VDJhM2Y1TWF1b2htMW9jS2hM?oc=5",
+      "published": "2026-08-23T17:46:09+00:00"
     },
     {
-      "brand": "Bose",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "Germany",
       "source_kind": "Discovery",
-      "title": "The 5 Best Earbuds For Gaming of 2026 - RTINGS.com",
-      "summary": "The 5 Best Earbuds For Gaming of 2026 RTINGS.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43WU9USXVxN0w1UFo0Y1MtUWZIZXhPM3UtTHNQNG5ZaHRkX0NNWUJPN0VBWE1IWVhZNDFMNFYyNzZkRXlWMElaa0FHdlFzaVg0Vk5HbWQ1V3EtU19Kcjl0OGpLYVo0MlotUlBkT0ZB?oc=5",
-      "published": "2026-08-25T19:25:07+00:00"
+      "title": "Die Fenix 9 ist da – Garmin bringt bisher stärkste Smartuhr an den Start - Heute",
+      "summary": "Die Fenix 9 ist da – Garmin bringt bisher stärkste Smartuhr an den Start Heute",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT3lrWUFKWXBQQ25XTjcxY0pscHlSdk1yTUlJNWtOcHEtOHlWYVJ2RjBEMUtkYnE3WHlzaGJ6TmRsMkNKN0c0dzVBT2FEWkNEZndpaXhQeDI0Z2YzY2lDN0s5VFVxRnVmaWFuVUxZbF9SNUtiSGVOTVRCTXVJTGNnWE0xNlFQdFZ3enR1cU1B?oc=5",
+      "published": "2026-08-25T13:04:00+00:00"
     },
     {
-      "brand": "Bose",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "Germany",
       "source_kind": "Discovery",
-      "title": "Here's What Sony's Confusing Names For Headphones Really Mean - AOL.com",
-      "summary": "Here's What Sony's Confusing Names For Headphones Really Mean AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTmoxOFVpY0ZRWkZNTk05VzFKMVIzWjFpakthT0dVWXYxbF8xUWx0MWFhNTdQMWxYNHBEMGxtdHE1bVIzYWlMUldiQl9UWnl3Wm03aW9vMm02Z3otNVdYSEdWX1IzazZTS255bDdUdjBHZnVHRFdYOVJwTkNsV3NFWmNKdGxUTGhXSWc?oc=5",
-      "published": "2026-08-25T13:14:48+00:00"
+      "title": "Smartwatch-Test 2026: Apple und Garmin zittern vor diesen Marken - IMTEST",
+      "summary": "Smartwatch-Test 2026: Apple und Garmin zittern vor diesen Marken IMTEST",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdGw2aTVUOVVSd1VlNFJjRC12STR6WW10WUVrUkFUdFhxVXFKbWxNSnlSajRZYnUwT3FNazRNd3A1cm54WjB0MndkSGJ6T2NjcGluSUcxQjdJTkdDQzhyTlAwVUtBS3o3NFNvZEczUDRMdUowVWFfckZTbHVfQWZTQV9NMjhYVF9hMG9EaEp1XzJkSnRhNWdaM0RkSnBqdjZu?oc=5",
+      "published": "2026-08-24T06:26:18+00:00"
     },
     {
-      "brand": "Bose",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "Germany",
       "source_kind": "Discovery",
-      "title": "Fender Audio’s First Consumer Speakers and Headphones Are Now on Sale in the U.S. - Gadget Review",
-      "summary": "Fender Audio’s First Consumer Speakers and Headphones Are Now on Sale in the U.S. Gadget Review",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQy1hRVdNY2pFODBaZmIzRkw4amlqc3ZrY3pJeC1zVUN0MHBNSzlJakluT3hXYWwxSU41Q1RLWWFKRHlMdkdyM3BPLTdHSE1fRUJGLWxWTE8tZ0FVQWNUVmZzMFU2TTQxSlR2RmxhQy04NEJ2UnBwWXgyYWJvcTRYbHlrYWY1bjYxT0k0dmZQZ1hVUm8tSzJDNm40WlFSZ0xsTmItUm5nUS1SZVpQ?oc=5",
-      "published": "2026-08-25T15:20:14+00:00"
+      "title": "GPS-Sportuhr mit 24-Tage-Akku und AMOLED-Display: Amazon senkt Garmin Instinct 3 um 100 € auf Bestpreis - PCGH",
+      "summary": "GPS-Sportuhr mit 24-Tage-Akku und AMOLED-Display: Amazon senkt Garmin Instinct 3 um 100 € auf Bestpreis PCGH",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYUIzQU1TbUlYcFZuV2lZRFI2dWVFaGZFZldoR2FzcVlZWFhLNGZjMWdtTDFZQXN6TGtCYjVLRHBXM3ByQVE5dDZkNzlvU2FORzM0V0ItMnotbmRWLXRueU50cmU0SnhnODlzcGpBOVdXc25BYnNYazRPdXBMQU16cllHa016VmQyU293M0pfZ3NiRXRrTExybzdrZllkZkZJYUtzYkNGc04ydmpNUDBsdVlkV3p6S1JPQ2l3cE9EeldCQQ?oc=5",
+      "published": "2026-08-25T16:00:00+00:00"
     },
     {
-      "brand": "Bose",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "Germany",
       "source_kind": "Discovery",
-      "title": "The 6 Best PC Gaming Headsets of 2026 - RTINGS.com",
-      "summary": "The 6 Best PC Gaming Headsets of 2026 RTINGS.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5SXZoa0k3dDQ1SDk4bnphaU5ORmxIbTFzLUVKQ0VTSHdseEJXRkhhLU1YTDFTV1k3TDh4TTk2QU1OY1dUSE1DckoxMjN6ODhmNVF0LXZiRXZDUk45UFVmRkUzMGNJWTNoY2hlc1BKQnFDVnM?oc=5",
-      "published": "2026-08-25T14:16:36+00:00"
+      "title": "Garmin Fenix 9: Bildmaterial zeigt neue Modellreihe vorab - Caschys Blog",
+      "summary": "Garmin Fenix 9: Bildmaterial zeigt neue Modellreihe vorab Caschys Blog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMk1zUHZ3QjVNUDBCNDIyVDFMYjBrY003cC12cXBLOXFFVTZUU2RocEg0MzZNNHFDNVYyeU04bjU1S3l5QUlyU3I3SEVBc3ByZmdBRDE0SmlBZHp3Um9wOEpUc3dKRmh1b0tzUVJ2UHBvbWNhQnllRVE3WlUwcHhtZlY1bnZoeFhBTzNjT214Zw?oc=5",
+      "published": "2026-08-25T07:30:12+00:00"
     },
     {
-      "brand": "Bose",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "Germany",
       "source_kind": "Discovery",
-      "title": "The 5 Best Closed-Back Headphones of 2026 - RTINGS.com",
-      "summary": "The 5 Best Closed-Back Headphones of 2026 RTINGS.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kTGljbEJPd1NqU2ZLV0JrVXdJZWpHcnF3Zno0M0s1WmM0X3E3QVpTSTBnR2FCT2FGYVNEeU5MS1lfZ0NULUVZT2dWS1dzMHdYUlRSNjQ2Uy1POTYwQnNZQlRBY3J5NTl6NnZYVUdpWU1nMzVEWkl6ZHVsdw?oc=5",
-      "published": "2026-08-25T05:50:35+00:00"
+      "title": "Garmin stellt neues Uhren-Flaggschiff Fenix 9 vor - Futurezone",
+      "summary": "Garmin stellt neues Uhren-Flaggschiff Fenix 9 vor Futurezone",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONmk3WldTQlBrdWpMWmxRRjM3bzFiT3NEVnR5cmdadXpGelBKdnVRWjJWUl95aDVNNWRCdzU4d0JvYjc5Q3BTak1SRUdKajRyR3JsWXZXdEpmbzJhM0hfbHk4aEJ5c2hsLUprLTk1SEZ0ZExCcWlQUVJDUFY1aDRUcU82bU0wZEQ2bVBDNEJZNmV5enAtOVHSAZsBQVVfeXFMUGlHSGhJbnZuVjhWbGgxMmlwS3JXeXJqUldRbW44YS0xYUhBaV9fT3o2cjJ6YU1sUHZKR1VkTmlQVkRuMEw5eG9lLUgtamp2V1l4d3NBWTRxQzIwcEtNdzZQVWxRT0Qyb0tNMDREQ1V4QWZQQ3dNWU9PMTVlNkNLVHdial93TlN5MndKc243M015cmY2V3JVV3hVQzQ?oc=5",
+      "published": "2026-08-25T13:24:00+00:00"
     },
     {
-      "brand": "Reddit",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "Germany",
       "source_kind": "Discovery",
-      "title": "Garmin Fenix 9 - Taiwan website - Reddit",
-      "summary": "Garmin Fenix 9 - Taiwan website Reddit",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVDRhdTJrSG12ZFdWMUNJcGtjYm4xaDNkT05oTjZvRkI1d1Y1VldlUVlUcmVSWl95OTZGRFd6b1JMSl9yaThMUWN3cHdrU2YzX0VrNDhTOTVrU1M4aWphZmxldW5HaVUtTnhZbkFMbV9DMExZRnRmdHU5a3BPMEFEalBSRjNzUQ?oc=5",
-      "published": "2026-08-25T04:56:21+00:00"
+      "title": "Garmin Fenix 9: Diese Funktionen wünschen sich die Fans - IMTEST",
+      "summary": "Garmin Fenix 9: Diese Funktionen wünschen sich die Fans IMTEST",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUm5aUG1ycDU5RTlWVjdOSGhxQzJvOTRockxLMGMzTmxzVjVhMWZJX1BYR2ZDN0VpN3NYUm1VYWluVW15bWhqVjczc0tkSUJUYXRIanVtWmFNSDZkU0g5aE9xZlpJcTg2VU9lUmlJanJJc19IeFR4M0ZsRmJydmlWMEZwS21jcHBhcDNCLU9QZDRFSEN0?oc=5",
+      "published": "2026-08-22T06:39:53+00:00"
     },
     {
-      "brand": "Reddit",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "Germany",
       "source_kind": "Discovery",
-      "title": "Do you have any reason to buy Garmin Fenix 9? - Reddit",
-      "summary": "Do you have any reason to buy Garmin Fenix 9? Reddit",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2FCdnJkMndOMDhlVTY1dk1DR3FkQjQ1REhHMHVXR01SdXVVNUpRX0J1VmlUOFVUWXBad2xYUmNBYi1OUEIzckFGcEhqM3BJei1EWmhESm9VT2xBdGs2OXJaYU9EaHdWcUZfdWl4SS1pb1dzNlVtNzhtbWxoTDhiYWZtM0VDU0U0cGl4eGtsV0lWYnBxeGlUZ3Y3R2t5TWtr?oc=5",
-      "published": "2026-08-25T13:43:17+00:00"
+      "title": "Garmins beste, günstige Sportuhr? Vivoactive 5 im Test - IMTEST",
+      "summary": "Garmins beste, günstige Sportuhr? Vivoactive 5 im Test IMTEST",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMW1aUGRlYmhua0p0WWxNWms2enZwWGF1TzdtOHd6Z3pacHNTdFN2RmMySHFSUUhoY1dCemZQZ1pSZk5XYUpoeVRQay1PUzdOWGpsa1ZsQ09ET25ZR3BOMjZlcTB3aW44OU94TDhlRUk3ckpsbzhJR3NTNG5SR2Ezei1HdW1FNk9OM0lFMGxjTDJYYUJlbFdxbThEWQ?oc=5",
+      "published": "2026-08-19T07:33:36+00:00"
+    }
+  ],
+  "pdpSnapshots": [
+    {
+      "brand": "Apple",
+      "market": "Malaysia",
+      "pageType": "Wearables category",
+      "url": "https://www.apple.com/my/watch/",
+      "contentHash": "321a2693cb297b7a5130cfc007466f5de930d014d2fed8028881204c9d9ccab5",
+      "text": "Apple Watch - Apple (MY) Apple Store Mac iPad iPhone Watch AirPods TV & Home Entertainment Accessories Support 0 + Apple Watch Series 11 Apple Watch SE 3 Apple Watch Ultra 3 Apple Watch Nike Apple Watch Hermès Compare Straps Accessories Apple Fitness+ Shop Watch watchOS 27 Preview Now you can buy Apple Watch 1 with education savings. * Shop Apple Watch Explore the line-up. Apple Watch Series 11 Space Grey Silver Rose Gold Jet Black Natural Gold Slate The ultimate way to watch your health. Learn more Buy Apple Watch SE 3 Midnight Starlight Essential health features at a great value. Learn more Buy Apple Watch Ultra 3 Natural Black The ultimate sports and adventure watch. or for months ** Learn more Buy Why Apple is the best place to buy Apple Watch. Shop Apple Watch Financing Pay 0% interest for up to 24 months. With an eligible credit card, you can choose the financing option that works for you. ** Learn more, about Apple Card Monthly Instalments Apple Trade In Save on a new Apple Watch with a trade‑in. Get towards your next Apple Watch when you trade in an eligible device. 2 Learn more, about Apple Trade In Education Save on Apple Watch 1 with e⁠d⁠u⁠c⁠a⁠t⁠i⁠o⁠n⁠ ⁠p⁠r⁠i⁠c⁠i⁠n⁠g⁠. * College students and educators can save through the Apple Store. * Learn more about education pricing Delivery and Pickup Free delivery and pickup. Get free delivery or pick up at your Apple Store. Learn more, about delivery and pickup options Personal Setup Join an online Personal Setup session. Talk one on one with a Specialist to set up your Apple Watch and discover new features. Learn more, about your Personal Setup Guided Shopping Shop one on one with a Specialist. Online or in a store. Learn more, shopping with a live assistant Apple Store App Explore a shopping experience designed around you. Use the app for a more personal way to shop. Learn more, Apple Store App Get to know Apple Watch. Health Knows you. Insights and out. Fitness Miles of motivation. Safety Keep help close at hand. Apple Watch Ultra 3 The ultimate sports and adventure watch. Connectivity The right call for staying in touch. Personalisation Make it you-nique. Apple Watch + iPhone Dynamic duo. Apple Watch essentials. All Apple Watch accessories Colour the moment. Explore the latest straps in fresh shades, styles and materials. Shop Apple Watch straps Made for each other. Apple Watch and iPhone Combining Apple Watch and iPhone opens up a world of features that make each device better. You can do things like create a custom route with Maps on your iPhone, then download it to your watch to use anytime. Or start a cycling workout on your watch and see your metrics automatically appear as a Live Activity on your iPhone. Apple Watch and AirPods You can do so much with just Apple Watch and AirPods — all without your iPhone. Take calls, stream music and podcasts, hear incoming notifications. Even respond to messages with Siri. Apple Watch and Apple Fitness+ Apple Watch supercharges your Fitness+ experience with real‑time, personalised metrics on screen, like your heart rate, calories burned and Activity rings. 14 And you get the freedom of audio‑guided walks, runs and meditations with just your watch and AirPods. Apple Watch Explore Watch Explore All Apple Watch Apple Watch Series 11 Apple Watch SE 3 Apple Watch Ultra 3 Apple Watch Nike Apple Watch Hermès Compare Watch Why Apple Watch Shop Watch Shop Apple Watch Apple Watch Straps Apple Watch Accessories Apple Trade In Financing Personal Setup More from Watch Apple Watch Support AppleCare watchOS 27 Preview Apps by Apple Apple Fitness+ Education Apple Footer * Available to current and newly accepted college students and their parents, as well as faculty, staff and homeschool teachers of all grade levels. See Terms for more information. ** Terms & Conditions of 0% interest for 6-, 12- and 24-month instalment payment plans. 0% interest instalment payment plans are available to qualified Malaysia residents and provided by participating banks. To qualify for the 0% interest for 6-, 12- or 24-month instalment offers, your minimum purchase value must be RM 2,000 or more in a single transaction. All purchases on the 0% interest instalment payment plans are subject to approval by your credit card issuer. Refer to your credit card issuer’s website for conditions, fees and charges. Instalment offers are only available to individual customers using consumer credit cards. Apple Employee EPP orders, Education Store orders, business purchases and institutional purchases are not eligible for this offer. Only Visa and Mastercard credit cards are eligible for this offer. If your instalment order is not approved by your credit card issuer, Apple staff will not be informed of the reason. Please contact your credit card issuer for further information. Purchases will be billed to your account upon order placement. Offer is available on advertised or ticketed price. The information is current as of 24 May 2024. Apple Watch Hermès is not eligible for education savings. Trade-in service is provided by Apple’s trade-in partners. Trade-in value quotes are estimated only and actual values may be lower than the estimation. Trade-in values vary based on the condition, year and model of your trade‑in device. Not all devices are eligible for credit. You must be at least the age of majority to be eligible to trade in for credit or for an Apple Store Gift Card. Trade-in value may be applied towards qualifying new device purchase. Actual value awarded is based on receipt of a qualifying device matching the description provided when estimate was made. Offer may not be available in all stores, and may vary between in-store and online trade-in. Some stores may have additional requirements. Apple’s trade-in partners reserve the right to refuse, cancel or limit the quantity of any trade-in transaction for any reason. More details are available from Apple’s trade-in partner for trade-in and recycling of eligible devices. Restrictions and limitations may apply. For recycling eligible equipment, terms and restrictions may apply. The Vitals app is for wellness purposes only and not for medical use. The temperature sensing feature is not intended for medical use. Temperature sensing is available only on Apple Watch Series 8 and later, Apple Watch SE 3 and all Apple Watch Ultra models. The Cycle Tracking app should not be used for birth control or to diagnose a health condition. Apple Watch SE 3 and Apple Watch Series 11 have a water resistance rating of 50 metres under ISO standard 22810:2010. This means that they may be used for shallow-water activities like swimming in a pool or ocean. Apple Watch SE 3 and Apple Watch Series 11 should not be used for scuba diving, waterskiing or other activities involving high-velocity water. Apple Watch Ultra 3 has a water resistance rating of 100 metres under ISO standard 22810:2010 and may be used for high-speed water sports and recreational scuba diving (with compatible third-party app from the App Store) to 40 metres. It should not be used for diving below 40 metres. Water resistance is not a permanent condition and can diminish over time. For additional information, see support.apple.com/en-my/109522 . Apple Watch Series 11 and Apple Watch Ultra 3 are rated IP6X dust resistant. Emergency SOS requires a mobile network connection or Wi-Fi calling with an Internet connection from your Apple Watch or nearby iPhone. You can use GPS + Cellular models of Apple Watch to make an emergency call in many locations, provided that mobile service is available. Some mobile networks may not accept an emergency call from your Apple Watch if your Apple Watch isn’t activated, if it isn’t compatible with or configured to operate on a particular mobile network, if it isn’t set up for mobile service or if the mobile network does not support emergency calling over IMS. See support.apple.com/en-my/108374 and apple.com/my/watch/cellular for more information. When angled away from the user as compared with Apple Watch Ultra or Ultra 2. Multi-day battery life including sleep tracking is based on the following use: 600 time checks, 180 notifications, 30 minutes of app use, a 60-minute workout with music playback from Apple Watch via Bluetooth and 6 hours of sleep tracking over the course of 42 hours; Apple Watch Ultra 3 usage includes a total of 8 hours of mobile data connection and 34 hours of connection to iPhone via Bluetooth over the course of 42 hours. Battery life in Low Power Mode including sleep tracking is based on the following use: 900 time checks, 270 notifications, 45 minutes of app use, two 60-minute workouts with music playback from Apple Watch via Bluetooth and 18 hours of sleep tracking over the course of 72 hours; Apple Watch Ultra 3 usage includes on-demand mobile data connection and 60 hours of connection to iPhone via Bluetooth over the course of 72 hours. Testing conducted by Apple in July and August 2025 using pre-production Apple Watch Ultra 3 paired with an iPhone; all devices tested with pre-release software. Battery life varies by use, configuration, mobile network, signal strength and many other factors; actual results will vary. GPS performance was evaluated based on route map accuracy in challenging urban environments for outdoor running and walking workouts. Comparison made against industry-leading dual-frequency GPS sports watches commercially available at the time of testing in August 2025. Apple Music requires a subscription. Requires an iPhone and Apple Watch with second-generation Ultra Wideband chip. Ultra Wideband availability varies by region. Apple Fitness+ requires a subscription. A subscription is required for Oceanic+. Available on the App Store. Apple Watch Series 11 supports snorkelling to 6 metres; Apple Watch Ultra 3 supports recreational scuba diving to 40 metres. Always follow diving protocols and dive with a companion and have a secondary device. Apple Watch Ultra 3, Apple Watch Series 11 and Apple Watch SE 3 require iPhone 11 or later with iOS 26 or later. Features are subject to change. Some features, applications and services may not be available in all regions or all languages. View complete list . Straps are subject to availability. To use Apple Pay, you need a supported card from a participating card issuer. To check if your card is compatible with Apple Pay, contact your card issuer. Apple Pay is not available in all markets. View Apple Pay countries and regions.  Apple Watch Shop and Learn Shop and Learn Store Mac iPad iPhone Watch AirPods TV & Home AirTag Accessories Gift Cards Apple Wallet Apple Wallet Wallet Apple Pay Account Account Manage Your Apple Account Apple Store Account iCloud.com Entertainment Entertainment Apple One Apple TV Apple Music Apple Arcade Apple Fitness+ Apple Podcasts Apple Books App Store Apple Store Apple Store Find a Store Genius Bar Today at Apple Group Reservations Apple Camp Apple Store App Apple Trade In Financing Apple Recycling Programme Order Status Shopping Help For Business For Business Apple and Business Shop for Business For Education For Education Apple and Education Shop for College For Healthcare For Healthcare Apple and Healthcare For Government For Government Apple and Government Apple Values Apple Values Accessibility Education Environment Privacy Supply Chain Innovation About Apple About Apple Newsroom Apple Leadership Career Opportunities Investors Ethics and Compliance Events Contact Apple More ways to shop: Find an Apple Store or other retailer near you. Or call 1800-80-6419 . Malaysia Copyright © 2026 Apple Inc. All rights reserved. Privacy Policy Terms of Use Sales and Refunds Legal Site Map Malaysia"
     },
     {
-      "brand": "Reddit",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "Hit 40k Steps PR Yesterday - What's the most steps you've ever walked in a day? - Reddit",
-      "summary": "Hit 40k Steps PR Yesterday - What's the most steps you've ever walked in a day? Reddit",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakFvMk5uYk1zYnpiOWloWkxZVU9Jd05LbG13aWxaM0lFZGNGRUw5SUNFcmZycUlVc1lGV2RjZl9LYjFORjJ2bVRtelowUk51R1NpRUxHS2t1VWJnSGFQYWZ2NnNZaW1pd1pvVXIxdlNwMVg2YllEMEx3NW8xNXM5UFY0LW9ZVU1DM0FycEhIbUhJaTlXZVlVY0VlTkdpMm8?oc=5",
-      "published": "2026-08-25T14:12:02+00:00"
+      "brand": "Apple",
+      "market": "Malaysia",
+      "pageType": "E-commerce lineup",
+      "url": "https://www.apple.com/my/shop/buy-watch",
+      "contentHash": "c877c394d4406abd25f19292fc677a054c7c3183b44629be325219b3714d266b",
+      "text": "Buy Apple Watch - Apple (MY) Apple Store Mac iPad iPhone Watch AirPods TV & Home Entertainment Accessories Support 0 + Shop Apple Watch Footer footnotes Prices are inclusive of tax where applicable. ◊ Monthly pricing is after purchase using credit card interest at 0% pa over a 24-month tenure. Monthly pricing is rounded to the nearest ringgit and displayed for each product added in the order. Exact pricing will be for the whole order and provided by your bank subject to your bank’s terms and conditions. ∆ Terms & Conditions of 0% interest for 6-, 12- and 24‑month instalment payment plans 0% interest instalment payment plans are available to qualified Malaysia residents and provided by participating banks. To qualify for the 0% interest for 6-, 12- or 24‑month instalment offers, your purchase minimum value must be RM 2,000 or more in a single transaction. All purchases on 0% interest instalment plans are subject to approval by your credit card issuer. Refer to your credit card issuer’s website for conditions, fees and charges. Instalment offers are only available to individual customers using consumer credit cards. Apple Employee EPP orders, Education Store orders, business purchases and institutional purchases are not eligible for this offer. Only Visa and Mastercard credit cards are eligible for this offer. If your instalment order is not approved by your credit card issuer, we will not be informed of the reason. Please contact your credit card issuer for further information. Purchases will be billed to your account upon order placement. Offer is available on advertised or ticketed price. The information is current as of 24 May 2024. § Trade-in values will vary based on the condition, year and configuration of your eligible trade-in device. Not all devices are eligible for credit. You must be at least the age of majority to be eligible to trade in for credit or for an Apple Gift Card. Trade-in value may be applied towards a qualifying new device purchase or added to an Apple Gift Card. Actual value awarded is based on receipt of a qualifying device matching the description provided when the estimate was made. Sales tax may be assessed on the full value of a new device purchase. In-store trade-in requires presentation of a valid photo ID. Offer may not be available in all stores, and may vary between in-store and online trade-in. Some stores may have additional requirements. Apple or its trade-in partners reserve the right to refuse, cancel or limit the quantity of any trade-in transaction for any reason. More details are available from Apple’s trade-in partner for trade-in and recycling of eligible devices. Restrictions and limitations may apply. ± Available to current and newly accepted college students and their parents, as well as teachers and staff at all levels. See Terms for more information. † Offer available to new subscribers who purchase an eligible device. RM 19.90/month after trial. Only one offer per Apple Account and only one offer per family if you’re part of a Family Sharing group, regardless of the number of devices you or your family purchase. This offer is not available if you or your family have previously subscribed to Apple Fitness+. Offer valid for 3 months after eligible device activation. Plan automatically renews until cancelled. Restrictions and other terms apply. ‡ New subscribers only. RM 17.90/month after trial. Offer is available for new Apple Music subscribers with a new eligible device for a limited time only. Offer redemption for eligible audio devices requires connecting or pairing to an Apple device running the latest iOS or iPadOS. Offer redemption for Apple Watch requires connecting or pairing to an iPhone running the latest iOS. Offer good for three months after eligible device activation. Only one offer per Apple Account, regardless of the number of eligible devices you purchase. Plan automatically renews until cancelled. Restrictions and other offer terms (Opens in a new window) apply. ※ Apple Watch Hermès is not eligible for education savings. 1. Special pricing available to qualified customers. To learn more about how to start qualifying for special pricing, give us a call on 1800-80-6419. watchOS 26 requires an Apple Watch SE 2 or later, Apple Watch Series 6 or later, or any Apple Watch Ultra model paired with iPhone 11 or later with iOS 26 or later. Straps are subject to availability. We use your location to show you delivery options faster. We found your location using your IP address or because you entered it during a previous visit to Apple. Apple Apple Store Online Shop Apple Watch Shop and Learn Shop and Learn + Store Mac iPad iPhone Watch AirPods TV & Home AirTag Accessories Gift Cards Apple Wallet Apple Wallet + Wallet Apple Pay Account Account + Manage Your Apple Account Apple Store Account iCloud.com Entertainment Entertainment + Apple One Apple TV Apple Music Apple Arcade Apple Fitness+ Apple Podcasts Apple Books App Store Apple Store Apple Store + Find a Store Today at Apple Apple Store App Financing Apple Trade In Order Status Shopping Help For Business For Business + Apple and Business Shop for Business For Education For Education + Apple and Education Shop for College For Healthcare For Healthcare + Apple in Healthcare Health on Apple Watch Apple Values Apple Values + Accessibility Education Environment Privacy Supply Chain About Apple About Apple + Newsroom Apple Leadership Career Opportunities Investors Ethics & Compliance Events Contact Apple More ways to shop: Find a retailer near you. Or call 1800-80-6419 . Malaysia Copyright © 2026 Apple Inc. All rights reserved. Privacy Policy Terms of Use Sales and Refunds Legal Site Map Malaysia"
     },
     {
-      "brand": "Reddit",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "What’s your setup for watching movies? - Reddit",
-      "summary": "What’s your setup for watching movies? Reddit",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeEY3dDJZbm1RRkt4MFpOWGNfaUs1YWJxbGlqTnJHeDc0Vm55a0hxSlJiZnhmTk9BTndLVUtLcGQ2bWVVdTFtcjJ3YlpUXzJrM1Z1ci1PVmxHZlFJenh3X2I0TExESzZDd1VheXc3NU5IOWhYa3hyZHZxRTZCdVZaWG9zeXJKZlVYUnQ4cjZVVFA0TTJX?oc=5",
-      "published": "2026-08-25T04:43:43+00:00"
+      "brand": "Samsung",
+      "market": "Malaysia",
+      "pageType": "Wearables category",
+      "url": "https://www.samsung.com/my/watches/",
+      "contentHash": "e33dcb4f2539ac2de3b357763efa53f8ea65419e1a0e041ca8087da0f97d0334",
+      "text": "Buy Samsung Smart Watches Online at Best Price | Samsung Malaysia Skip to content Samsung and Cookies This site uses cookies to personalise your experience, analyse site traffic and keep track of items stored in your shopping basket. By Clicking ACCEPT or continuing to browse the site you are agreeing to our use of cookies. See our Privacy Policy here Read More Accept close Choose your location and language. Malaysia / English Other Countries Continue Close Search Search Cart Number of Products : Log-In Open My Menu Navigation global navigation bar Back Search SHOP BY CATEGORY Shop Explore Shop Shop Shop Galaxy S26 Ultra Galaxy Z Fold8 NEW Galaxy Z Fold8 Ultra NEW Galaxy Tab S11 Series Galaxy Watch Ultra2 NEW Galaxy Buds4 Pro Neo QLED 8K TV OLED TV Q-series Soundbar Odyssey OLED G8 Bespoke AI Refrigerator Bespoke AI Laundry Bespoke AI Jet Ultra Air Conditioner Discover Buy Direct Get More Shop New Foldables Shop Air Conditioners Samsung Live Shop AI Living Samsung Care+ Easy Payment - No Extra Cost Redemption Online Exclusive Dari Kita, Untuk Kita Mobile Mobile Mobile Galaxy Smartphone NEW Galaxy Tab Galaxy Watch NEW Galaxy Buds Galaxy Ring Galaxy Accessories NEW Discover All about Galaxy Galaxy AI Find your Galaxy Switch to Galaxy One UI Samsung Health Apps & Services Samsung Trade-in Samsung Care+ TV & AV TV & AV TV & AV Micro RGB OLED Neo QLED Mini LED QLED Crystal UHD The Frame The Movingstyle Sound Devices TV Accessories Audio Accessories TVs by Size All Over 98 inch TVs 85 inch TVs 75 inch TVs 65 inch TVs 55 inch TVs 50 inch TVs 43 inch TVs 32 inch or smaller TVs Discover Samsung Vision AI Why Micro RGB Why OLED Why The Frame Best Smart TV Best Gaming TV Help choose my TV Help choose my Sound Device TV Buying Guide Appliances Appliances Appliances Refrigerators Microwaves Laundry Jet Stick Vacuums Jet Bot Robot Vacuums Air Conditioners System Air conditioner Air Purifier Appliances Accessories Discover Bespoke AI Smart Forward Help Choose My Vacuum Why Samsung Appliances Appliances Buying Guide Air Conditioner Buying Guide Samsung Care+ for Appliances FAQ Monitors Monitors Monitors Odyssey Gaming Smart Monitor ViewFinity High Resolution Essential Monitor Discover Why Odyssey Gaming Monitor Why ViewFinity High Resolution Why Smart Monitor Help choose my Monitor Wearables Wearables Wearables Galaxy Watch NEW Galaxy Buds Galaxy Ring Wearables Accessories NEW Discover All about Galaxy Samsung Health Galaxy AI Find your Galaxy Switch to Galaxy One UI Apps & Services Samsung Trade-in Samsung Care+ Accessories Accessories Accessories Galaxy Smartphone Accessories NEW Galaxy Tab Accessories Galaxy Watch Accessories NEW Galaxy Buds Accessories SmartTag TV Accessories Audio Accessories Vacuum Cleaner Accessories Washer & Dryer Accessories Support Support Product Help Product Help Support Home Manual & Software Search Support Shop FAQ Essential Onboarding Guide Contact Contact Live Chat Whatsapp Chat Call Email Repairs & Warranty Repairs & Warranty Warranty Information Service Centre Repair Cost Book a Repair Track Repair Additional Support Additional Support News & Alerts Community Warranty Information Manual Download Service Centre Contact Us For Business Log-In/Sign-Up Exclusive Benefits with a Samsung Account Open My Menu Exclusive Benefits with a Samsung Account Search Search Cart Number of Products : Log-In/Sign-Up Log-In/Sign-Up Exclusive Benefits with a Samsung Account Orders Product Registration Samsung Rewards Members Open My Menu Exclusive Benefits with a Samsung Account My Page Orders My Rewards Wishlist Product Registration Community Members Log Out Close menu Your cart is empty. OK Layer Popup Close Sorry, there is insufficient stock for your cart. OK Layer Popup Close Remove a Product Without this product, applied coupon or promotion code cannot be redeemed. Are you sure to remove this product? Move to wish list Delete Layer Popup Close Privacy Policy I have read and agree to the Samsung.com Privacy Policy Tick this box to proceed to Samsung.com. By ticking this box, I accept Samsung Service Updates, including : Samsung.com Services and marketing information, new product and service announcements as well as special offers, events and newsletters. PROCEED TO SAMSUNG.COM LEAVE PAGE Close Privacy Policy Check Preferences Help us to make recommendations for you by updating your product preferences. YES LATER Close Check Preferences Search Form Clear Scan Barcode No Suggestions AI Suggested Searches Suggested Searches POPULAR SEARCHES RECENT SEARCHES RELATED PRODUCTS RECOMMENDED Close Mobile Galaxy Watch Galaxy Smartphone Galaxy Tab Galaxy Buds Galaxy Accessories Galaxy Watch Galaxy Smartphone Galaxy Tab Galaxy Buds Galaxy Accessories Galaxy Watch Galaxy Watch Ultra Galaxy Watch Galaxy Watch Classic Compare Galaxy Watch Accessories All Galaxy Watches Previous Next Previous Next Stop automatic slide show Learn more Buy now Learn more Buy now Learn more Buy now Previous Next play Galaxy Watch Ultra2 Galaxy Watch Ultra2 Galaxy Watch9 Galaxy Watch9 Galaxy Watch8 Classic Galaxy Watch8 Classic Close Close Close What's New New Galaxy Watch Ultra2 Galaxy Watch Ultra2 Buy now New Galaxy Watch9 Galaxy Watch9 Buy now Galaxy Watch8 Classic Galaxy Watch8 Classic Buy now Close Explore Samsung Galaxy Watch series Galaxy Watch Ultra2 Learn more Buy now Previous New Next Close Galaxy Watch9 Learn more Buy now Previous New New New New Next Close Galaxy Watch8 Classic Learn more Buy now Previous Next Close Galaxy Fit3 Sleek fitness band Buy now Previous Next Close Compare the models Model Comparison Table Model Colour and Memory Quick Look Get a quick take on the differences Close Show me the differences Show me the differences Close * Image simulated. Availability of colors may vary by country or carrier. * Availability of colors, sizes, models and watch bands may vary by country or carrier. Home Home Mobile Mobile Watches Watches Footer Navigation Shop open Shop Home Buy Direct Get More AI Living SmartThings Samsung Care+ Mobile Buying Guide Samsung Syok Campaign For Students & Teachers Online Store Exclusives Corporate Employee Benefits Easy Payment - No Extra Cost Buy Online Pick Up in Store Government Privileges & Benefits SES Locator Explore Product open Galaxy Smartphone Galaxy Tab Galaxy Watch Galaxy Buds TVs Projectors Sound Devices Refrigerators Laundry Vacuum Cleaners Monitors Accessories Support open Support Home Manual & Software Search Support Shop FAQ Warranty Information Service Centre Repair Cost Live Chat Whatsapp Chat Call E-mail to CEO's Office Account open Why Samsung Account Samsung Rewards Members Orders My Page Product Registration Vouchers Sustainability open Environment Security & Privacy Accessibility Inclusive Workplace Corporate Citizenship Corporate Sustainability About Us open Company Info Business Area Brand Identity Careers Investor Relations Newsroom Ethics Samsung Design Copyright© 1995-2026 Samsung. All rights reserved. Samsung Malaysia Electronics (SME) Sdn. Bhd. 200301026766 (629186-D). Malaysia/English Malaysia/English Privacy Legal Sitemap Stay in the Loop? Go to Top Get Stock Alert Get alerts when this item is back in stock and available to buy, by adding your email to opt into alerts Your Email Please double check your email address. Close Submit Close popup We will email you when inventory is added Thank you. Submit Close popup My Wishlist 1 My Wishlist 2 My Wishlist 3 My Wishlist 4 My Wishlist 5 My Wishlist 6 My Wishlist 7 My Wishlist 8 My Wishlist 9 Close popup Layer Popup Close"
     },
     {
-      "brand": "Reddit",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "Strava or it didnt happen! - Reddit",
-      "summary": "Strava or it didnt happen! Reddit",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBnWnNlT2hsbmFQdWN4TjFDMUtmTU9HU3ExR2xHU09xdzdwWnRwQUYtRFZDVlVOSUdoWk5wd05nTkh1VFIyYVhKc3BsT0w?oc=5",
-      "published": "2026-08-25T08:27:48+00:00"
+      "brand": "Samsung",
+      "market": "Malaysia",
+      "pageType": "Galaxy Watch category",
+      "url": "https://www.samsung.com/my/watches/galaxy-watch/",
+      "contentHash": "4290d769ab8b31ec018ba1b7cf20a99b18928e10cc7877b975bfa9622a8f0756",
+      "text": "Buy Latest Samsung Galaxy Smart Watches at Best Price | Samsung Malaysia Skip to content Samsung and Cookies This site uses cookies to personalise your experience, analyse site traffic and keep track of items stored in your shopping basket. By Clicking ACCEPT or continuing to browse the site you are agreeing to our use of cookies. See our Privacy Policy here Read More Accept close Choose your location and language. Malaysia / English 中国大陆 / 中文 Other Countries Continue Close Search Search Cart Number of Products : Log-In Open My Menu Navigation global navigation bar Back Search SHOP BY CATEGORY Shop Explore Shop Shop Shop Galaxy S26 Ultra Galaxy Z Fold8 NEW Galaxy Z Fold8 Ultra NEW Galaxy Tab S11 Series Galaxy Watch Ultra2 NEW Galaxy Buds4 Pro Neo QLED 8K TV OLED TV Q-series Soundbar Odyssey OLED G8 Bespoke AI Refrigerator Bespoke AI Laundry Bespoke AI Jet Ultra Air Conditioner Discover Buy Direct Get More Shop New Foldables Shop Air Conditioners Samsung Live Shop AI Living Samsung Care+ Easy Payment - No Extra Cost Redemption Online Exclusive Dari Kita, Untuk Kita Mobile Mobile Mobile Galaxy Smartphone NEW Galaxy Tab Galaxy Watch NEW Galaxy Buds Galaxy Ring Galaxy Accessories NEW Discover All about Galaxy Galaxy AI Find your Galaxy Switch to Galaxy One UI Samsung Health Apps & Services Samsung Trade-in Samsung Care+ TV & AV TV & AV TV & AV Micro RGB OLED Neo QLED Mini LED QLED Crystal UHD The Frame The Movingstyle Sound Devices TV Accessories Audio Accessories TVs by Size All Over 98 inch TVs 85 inch TVs 75 inch TVs 65 inch TVs 55 inch TVs 50 inch TVs 43 inch TVs 32 inch or smaller TVs Discover Samsung Vision AI Why Micro RGB Why OLED Why The Frame Best Smart TV Best Gaming TV Help choose my TV Help choose my Sound Device TV Buying Guide Appliances Appliances Appliances Refrigerators Microwaves Laundry Jet Stick Vacuums Jet Bot Robot Vacuums Air Conditioners System Air conditioner Air Purifier Appliances Accessories Discover Bespoke AI Smart Forward Help Choose My Vacuum Why Samsung Appliances Appliances Buying Guide Air Conditioner Buying Guide Samsung Care+ for Appliances FAQ Monitors Monitors Monitors Odyssey Gaming Smart Monitor ViewFinity High Resolution Essential Monitor Discover Why Odyssey Gaming Monitor Why ViewFinity High Resolution Why Smart Monitor Help choose my Monitor Wearables Wearables Wearables Galaxy Watch NEW Galaxy Buds Galaxy Ring Wearables Accessories NEW Discover All about Galaxy Samsung Health Galaxy AI Find your Galaxy Switch to Galaxy One UI Apps & Services Samsung Trade-in Samsung Care+ Accessories Accessories Accessories Galaxy Smartphone Accessories NEW Galaxy Tab Accessories Galaxy Watch Accessories NEW Galaxy Buds Accessories SmartTag TV Accessories Audio Accessories Vacuum Cleaner Accessories Washer & Dryer Accessories Support Support Product Help Product Help Support Home Manual & Software Search Support Shop FAQ Essential Onboarding Guide Contact Contact Live Chat Whatsapp Chat Call Email Repairs & Warranty Repairs & Warranty Warranty Information Service Centre Repair Cost Book a Repair Track Repair Additional Support Additional Support News & Alerts Community Warranty Information Manual Download Service Centre Contact Us For Business Log-In/Sign-Up Exclusive Benefits with a Samsung Account Open My Menu Exclusive Benefits with a Samsung Account Search Search Cart Number of Products : Log-In/Sign-Up Log-In/Sign-Up Exclusive Benefits with a Samsung Account Orders Product Registration Samsung Rewards Members Open My Menu Exclusive Benefits with a Samsung Account My Page Orders My Rewards Wishlist Product Registration Community Members Log Out Close menu Your cart is empty. OK Layer Popup Close Sorry, there is insufficient stock for your cart. OK Layer Popup Close Remove a Product Without this product, applied coupon or promotion code cannot be redeemed. Are you sure to remove this product? Move to wish list Delete Layer Popup Close Privacy Policy I have read and agree to the Samsung.com Privacy Policy Tick this box to proceed to Samsung.com. By ticking this box, I accept Samsung Service Updates, including : Samsung.com Services and marketing information, new product and service announcements as well as special offers, events and newsletters. PROCEED TO SAMSUNG.COM LEAVE PAGE Close Privacy Policy Check Preferences Help us to make recommendations for you by updating your product preferences. YES LATER Close Check Preferences Search Form Clear Scan Barcode No Suggestions AI Suggested Searches Suggested Searches POPULAR SEARCHES RECENT SEARCHES RELATED PRODUCTS RECOMMENDED Close Galaxy Watch Galaxy Watch Ultra Galaxy Watch Galaxy Watch Classic Compare Galaxy Watch Accessories All Galaxy Watches Previous Next Previous Next Galaxy Smartphone A true AI companion Galaxy AI Galaxy Tab Peak productivity unlocked with S Pen and AI Galaxy Watch Seamless health tracking, powered by AI Galaxy Buds Immersive audio in each moment Galaxy Ring Health tracker on your finger Galaxy Accessories Find your perfect match Previous Next Previous Next All Galaxy Watch Ultra Galaxy Watch Galaxy Watch Classic Compare Galaxy Watch Accessories Filters Filters Sort Sort Newest Most Clicked Highest Rated Recommended Price: High to Low Price: Low to High Online Availability Most Reviewed Apply sort close Filters View more Clear all Apply filters close Selected deselect deselect deselect Compare close View more Sorry, no results were found. Choose other filter options to find a better match for you. close Buy direct. Get more. Previous Next * Key feature may different from Key Spec * All specifications and descriptions provided herein may be different from the actual specifications and descriptions for the product. Samsung reserves the right to make changes to this web page and the product described herein, at anytime, without obligation on Samsung to provide notification of such change. All functionality, features, specifications, GUI and other product information provided in this web page including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice or obligation. The contents within the screen are simulated images and are for demonstration purposes only. * All images simulated for illustrative purposes. * User Available Memory (GB) : User memory is less than the total memory due to storage of the operating system and software used to operate the device features. Actual user memory will vary depending on the operator and may change after software upgrades are performed. * Network : The bandwidths supported by the device may vary depending on the region or service provider. * Battery : Actual battery life varies by network environment, features and apps used, frequency of calls and messages, number of times charged, and many other factors. Footer Navigation Shop open Shop Home Buy Direct Get More AI Living SmartThings Samsung Care+ Mobile Buying Guide Samsung Syok Campaign For Students & Teachers Online Store Exclusives Corporate Employee Benefits Easy Payment - No Extra Cost Buy Online Pick Up in Store Government Privileges & Benefits SES Locator Explore Product open Galaxy Smartphone Galaxy Tab Galaxy Watch Galaxy Buds TVs Projectors Sound Devices Refrigerators Laundry Vacuum Cleaners Monitors Accessories Support open Support Home Manual & Software Search Support Shop FAQ Warranty Information Service Centre Repair Cost Live Chat Whatsapp Chat Call E-mail to CEO's Office Account open Why Samsung Account Samsung Rewards Members Orders My Page Product Registration Vouchers Sustainability open Environment Security & Privacy Accessibility Inclusive Workplace Corporate Citizenship Corporate Sustainability About Us open Company Info Business Area Brand Identity Careers Investor Relations Newsroom Ethics Samsung Design Copyright© 1995-2026 Samsung. All rights reserved. Samsung Malaysia Electronics (SME) Sdn. Bhd. 200301026766 (629186-D). Malaysia/English Malaysia/English Privacy Legal Sitemap Stay in the Loop? Go to Top Get Stock Alert Get alerts when this item is back in stock and available to buy, by adding your email to opt into alerts Your Email Please double check your email address. Close Submit Close popup We will email you when inventory is added Thank you. Submit Close popup Layer Popup Close Estimate your Installment Plan* Layer Popup Close Estimate your Installment Plan* Layer Popup Close My Wishlist 1 My Wishlist 2 My Wishlist 3 My Wishlist 4 My Wishlist 5 My Wishlist 6 My Wishlist 7 My Wishlist 8 My Wishlist 9 Close popup Compare models Compare features most relevant for you. Show me the differences Show me the differences Layer Popup Close Choose convenient Instalment plans provided by Inbank Product Price Plan Months Interest rate Monthly payment Instalment Plans Disclaimer Layer Popup Close"
     },
     {
-      "brand": "Reddit",
+      "brand": "Garmin",
       "market": "Global",
-      "source_kind": "Discovery",
-      "title": "When do you actually charge your smart ring so you don’t lose tracking data? - Reddit",
-      "summary": "When do you actually charge your smart ring so you don’t lose tracking data? Reddit",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU19UNnJ6eGt1cXl4YXlXX3U0Z21QZlI3RXpBTDFHM1hkTm1QOW1uaGw2ckZITHpMQUhmRVd0bFdVcmRCcFRKQk1hLV9aVEd2UEx1WmFEYjEyZzRQY3pidXlFT05LdE5ncEhzcVRrNGlGdUtLUmNzUk9LaUpud2lHMEV2QkM0QzExZllKLXA0NnhYSjhtbkhGUWRHM3RYZ2FQaVlOVmp0aU8?oc=5",
-      "published": "2026-08-25T11:14:56+00:00"
+      "pageType": "Smartwatch category",
+      "url": "https://www.garmin.com/en-US/c/wearables-smartwatches/",
+      "contentHash": "94e928c3c41b287e999386ab473edb5fe171d1950f51b89e95499c7c79927d58",
+      "text": "Fitness Watches | Sport Watches | Smartwatches | Garmin Skip navigation links Smartwatches Products All Smartwatches Health & Fitness Tracking Design Your Own Watch Watches for Women Fashion & Hybrid Smartwatches MARQ Luxury Watch Collection Running Multisport & Triathlete Adventure Swimming Diving Golf Kids Smartwatches Maps Outdoor Maps Golf Course Locator Accessories & Plans Accessories Apps Service Plans Discover Garmin Pay Garmin Technology Watch Finder FĒNIX® 9 The ultimate smartwatch SAVE UP TO $100 ON SELECT FORERUNNER® SMARTWATCHES Sports & Fitness Products Running Health & Fitness Tracking CIRQA™ Smart Band Cycling Tacx® Indoor Cycling Design Your Own Watch Golf Multisport & Triathlete Swimming Diving Scales & Monitors Kids Smartwatches Maps Cycling Maps Outdoor Maps Golf Course Locator Accessories & Plans Smartwatch Accessories Cycling Accessories Indoor Training Accessories Apps Service Plans Discover Garmin Coach Garmin Marathon Series Garmin Pay Garmin Technology Watch Finder Communities Garmin Pros Student Athletes FĒNIX® 9 The ultimate smartwatch CIRQA™ SMART BAND Track all day. Look later. No subscription required. Outdoor Recreation Products Handhelds Satellite Communicators Off-Road & Motorsports Adventure Watches Design Your Own Watch Sportsman & Tactical Dog Tracking & Training Optics Equine Maps Outdoor Maps DeLorme Atlas & Gazetteer Accessories & Plans Apps Service Plans inReach Account Discover Garmin Pay Garmin Technology Watch Finder Communities Garmin Pros Women of Adventure FĒNIX® 9 The ultimate smartwatch XERO® L60i See distance, mapping, navigation and more Auto & Home Products Cars, RV & Cameras Motorcycles Trucks Off-Road & Motorsports Car Audio Home Audio Maps Map Updates Purchase New Maps In-Dash Maps Off-Road Maps Accessories & Plans Apps Service Plans OEM Solutions Automotive RV Discover Stealthbox® SUMMER OF SOUND SALE Save on select JL Audio® car products Marine Products Chartplotters & Fishfinders Live Sonar Audio Transducers Trolling Motors Ice Fishing Bundles & Kits Radar Autopilots Lighting Handhelds & Smartwatches VHF & AIS Sonar Black Boxes Antennas & Sensors Cameras Sailing Digital Switching Engine Cut-OFF/MOB Apps & Plans Apps Service Plans Charts & Maps New Charts Built-in Updates Updating Charts Navionics Boating App Discover Garmin Technology Integration Software Updates System Builder Communities Garmin Pros ActiveCaptain LIVESCOPE™ 2 HD Our clearest sonar ever Aviation Products Navigation & Radios Autopilots Flight Displays & Instruments Engine Indication Systems Integrated Flight Decks Datalinks & Connectivity Audio Panels Weather Traffic ADS-B & Transponders Portable GPS & Wearables Markets General Aviation Business Aviation Experimental Helicopters Government & Defense Apps & Services Garmin Pilot Safety Management System AeroData flyGarmin FltPlan Services Aviation Databases Aviation Database Updates Discover Autonomí PlaneSync Promotions Support Training AXIS™ FLIGHT DISPLAYS Integrated flight displays for experimental and certified piston aircraft D2™ MACH 2 PRO Ultimate aviator smartwatch with satellite and LTE connectivity Sale SALES AND PROMOTIONS Shop All Sales BIG SAVINGS! CHECK OUT OUR CURRENT SALES Support Support Center Aviation Support Marine Support Navionics Support Support Support Center Aviation Support Marine Support Navionics Support Account Orders Sign Out Sign In 0 Total items in cart: 0 CUSTOMER SERVICE Support Center Contact Us Shipping, Returns & Refunds Order Support Warranty Information Data Management Deals & Promotions Find a Dealer COMPANY About Us Blog Investors Newsroom Retail Store Corporate Sustainability Career Opportunities Early Careers PLATFORMS Garmin Connect Garmin Express Connect IQ flyGarmin Garmin Explore Navionics Chart Installer FOR BUSINESS Garmin Health Dealer Resource Center Developers inReach Professional Marine First Responder Solutions SeaStar® Information Service Automotive OEM RV OEM Sensors Ambassadors & Affiliates Corporate Sponsorships United States © Garmin Ltd. or its subsidiaries. All rights reserved. Site Map Terms of Use Privacy Security Digital Accessibility"
     }
   ],
   "sourceHealth": [
     {
-      "source": "Apple Newsroom",
+      "source": "Apple · Global",
       "type": "Official",
-      "status": "Connected"
+      "status": "MONITORED"
     },
     {
-      "source": "Samsung Newsroom",
+      "source": "Apple · Malaysia",
       "type": "Official",
-      "status": "Connected"
+      "status": "MONITORED"
     },
     {
-      "source": "Garmin Blog / Newsroom",
-      "type": "Official",
-      "status": "Connected"
-    },
-    {
-      "source": "Google News discovery",
+      "source": "Samsung · Global",
       "type": "Discovery",
-      "status": "Connected"
+      "status": "MONITORED"
     },
     {
-      "source": "YouTube RSS discovery",
+      "source": "Samsung · Malaysia",
       "type": "Discovery",
-      "status": "Connected"
+      "status": "MONITORED"
     },
     {
-      "source": "Reddit discovery",
+      "source": "Samsung · UK",
       "type": "Discovery",
-      "status": "Connected"
+      "status": "MONITORED"
+    },
+    {
+      "source": "Samsung · Germany",
+      "type": "Discovery",
+      "status": "MONITORED"
+    },
+    {
+      "source": "Garmin · Global",
+      "type": "Discovery",
+      "status": "MONITORED"
+    },
+    {
+      "source": "Garmin · Malaysia",
+      "type": "Discovery",
+      "status": "MONITORED"
+    },
+    {
+      "source": "Garmin · UK",
+      "type": "Discovery",
+      "status": "MONITORED"
+    },
+    {
+      "source": "Garmin · Germany",
+      "type": "Discovery",
+      "status": "MONITORED"
+    },
+    {
+      "source": "Apple · Malaysia",
+      "type": "Wearables category",
+      "status": "MONITORED"
+    },
+    {
+      "source": "Apple · Malaysia",
+      "type": "E-commerce lineup",
+      "status": "MONITORED"
+    },
+    {
+      "source": "Samsung · Malaysia",
+      "type": "Wearables category",
+      "status": "MONITORED"
+    },
+    {
+      "source": "Samsung · Malaysia",
+      "type": "Galaxy Watch category",
+      "status": "MONITORED"
+    },
+    {
+      "source": "Garmin · Global",
+      "type": "Smartwatch category",
+      "status": "MONITORED"
     }
-  ]
+  ],
+  "seo": []
 }
