@@ -1,268 +1,216 @@
 {
-  "signals": [
+  "productMoves": [
     {
       "brand": "Apple",
-      "market": "United States",
-      "type": "Product Launch",
-      "priority": "HIGH",
-      "title": "Apple Upgrade hardware leasing programme launches",
-      "summary": "Apple introduced a new hardware leasing programme available online and in stores, enabling easier access to devices.",
-      "implication": "Competitors may need to emphasise financing flexibility to maintain accessibility against premium pricing.",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/"
-    },
-    {
-      "brand": "Apple",
-      "market": "European Union",
-      "type": "Regulatory",
-      "priority": "HIGH",
-      "title": "Apple announces changes for apps in the European Union",
-      "summary": "Apple announced changes to business terms for apps in the EU following collaboration with the European Commission.",
-      "implication": "Regulatory compliance messaging must be precise to avoid reputational risk in key markets.",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/"
-    },
-    {
-      "brand": "Samsung",
       "market": "Global",
-      "type": "PDP Messaging",
+      "date": "2026-08-26",
       "priority": "HIGH",
-      "title": "Samsung promotes easier switch to Galaxy Z Fold8",
-      "summary": "Content focuses on reducing friction for users switching to the new Galaxy Z Fold8 device.",
-      "implication": "Migration guides and data transfer tools are critical conversion levers for foldable segments.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOWVZdkJJVGFySFB5RFIyeUlfbmx0dHZMTGhxTUtQMnpCd01GcDZmNlp4aEhNd0VxWmdUa2VKbmhra3ZzOFphaU9kcV9UZkQ2UUFRak5xWlJSVTRMV3FlVUQ3dFdqSkxDaFFSX3M3UGYzUmlMcThUbWYwQUZLVXl0dUttVFpJSnZE?oc=5"
-    },
-    {
-      "brand": "Samsung",
-      "market": "Global",
-      "type": "Campaign",
-      "priority": "MEDIUM",
-      "title": "Samsung showcases gaming solutions at Gamescom 2026",
-      "summary": "Samsung plans an immersive exhibition highlighting wide-ranging gaming solutions at Gamescom 2026.",
-      "implication": "Gaming ecosystems remain a key battleground for hardware differentiation beyond specs.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVHBYM1ZNY3JJZ0J5SXRLZ2EzaFg4aVBkVTAwQVRzcHhTRnhGV3hucG00MEhGVFBITkJrMk8zZzhldUlSaDZYSWx1dHR5NkxPSnc3aG9Ca2NoX0lxdnJzWXJsbHNmT2YyZUZ6VmpYRGJjanR3WXFTeDNVdVdTaUVIdVpfSGV4UUs2MGNYSDNhTmdsRU1EbmphMkp0UVpZNXdiM2hXY3hTd1h2UFp0ZHFUODIyRndCenhkTnQtaEd1dXlOZw?oc=5"
+      "product": "Mac Studio & Mac mini (M5/M6)",
+      "moveType": "Product Launch",
+      "whatChanged": "Introduced M5 Ultra and M6 chips with specific focus on 'monumental leap in AI performance' and AI compute capabilities.",
+      "whyItMatters": "Signals a shift in PC marketing from raw speed to AI-ready hardware, setting a benchmark for on-device AI processing that competitors must match.",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/"
     },
     {
       "brand": "Garmin",
       "market": "Global",
-      "type": "Health Research",
+      "date": "2026-08-26",
       "priority": "HIGH",
-      "title": "REACT study evaluates impact of daily movement on arterial health",
-      "summary": "Garmin published findings from the REACT study linking daily movement to arterial health improvements.",
-      "implication": "Science-backed health claims enhance credibility for wearable marketing beyond basic tracking.",
+      "product": "fenix 9 & fenix 9 Pro",
+      "moveType": "Product Launch",
+      "whatChanged": "Announced next-generation GPS smartwatches, continuing the premium outdoor multisport lineage.",
+      "whyItMatters": "Direct competitor to Huawei Watch Ultimate/GT Pro series; reinforces Garmin's dominance in the high-end fitness wearable segment.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaU1FU3h0RHN4UTkwWXBBQW05RFV5LXVuVlNUSjFBQ1lkMXcyOWlXUXU5NHU1dGpjcV9pX1dtNFBTeVZ5a3pMVmt0MG1YN3VKMGdmVWwyLTFYSllBNEdnU2hYYXZNMnpOMDd6UTJVemIxSjZMYURiSEh6dllGekg3ekxoU1VDSnBHeFBydFJtRHRTSVZWd3lXOVl2ZkNwa1hZN0Z4LWFjSmNobDR1UHJYdHUybVN2dW9abWFhemhaa01pQQ?oc=5"
+    },
+    {
+      "brand": "Google",
+      "market": "Global",
+      "date": "2026-08-25",
+      "priority": "MEDIUM",
+      "product": "Pixel 11 Pro Fold",
+      "moveType": "Product Review/Positioning",
+      "whatChanged": "Reviews highlight 'Exceptional Cameras' but 'Average Performance', positioning the device as a media consumption tool over a power user device.",
+      "whyItMatters": "Opportunity for Huawei Mate X series to differentiate on performance and productivity capabilities in the foldable segment.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdXMtVXM0czVkbWxMZlFaYVVvSXpfdDhvVXg0cDBDTzZiSXFuT09IUG9YZVVKM2wxMjlLMVUta0xKcDE2RlY3VlVPc2YwZ3owU1NGQl9NMElpOEFyUG05YWZGQWFRT0RjMjE0OFJ4WHpZbWJOLWFKUmZSa0FVT1pld3R6QV9saWx3VTZPUmtqeE8tSXI5ejEyeHR5X29Wb0NxRC1hWXRLRDhwWkJrYldDbW1rbjR5QQ?oc=5"
+    },
+    {
+      "brand": "Bose",
+      "market": "Global",
+      "date": "2026-08-25",
+      "priority": "MEDIUM",
+      "product": "QuietComfort 2nd Gen Headphones",
+      "moveType": "Product Iteration",
+      "whatChanged": "Released second generation QuietComfort headphones with comparisons to Ultra model, focusing on comfort and noise cancellation heritage.",
+      "whyItMatters": "Reinforces brand equity in audio comfort; Huawei FreeBuds Studio needs to emphasise similar comfort metrics in overseas marketing.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWHJEcnpmODZ4Y1JidlFrYzhvdWRWcnMwaUZta3BmRmhfZUdDU3J6UG90c0hSSGN1czFxdnlQNHZiMTJxeWJzZ0pRRWJILWFKVm1VM29GX01yU3FZSURHQXFzRjJweHBPU19iaUJzdTRHUXdYUWtuWG9ILS1fajhuelVQSk5BTGxlamZXUkRaelg?oc=5"
+    },
+    {
+      "brand": "Sony",
+      "market": "Global",
+      "date": "2026-08-25",
+      "priority": "LOW",
+      "product": "Xperia 10 VIII",
+      "moveType": "Product Launch",
+      "whatChanged": "Launched mid-range phone with 'few upgrades' and reused design, maintaining MicroSD slot.",
+      "whyItMatters": "Indicates Sony is conserving innovation for flagships; Huawei Nova series can capitalise on offering more significant mid-tier feature upgrades.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcFE5eUFVMjB5OXVJVmh0WUtJOVNOSzB6ZWRsRWhHRDdVOVU5YTJORHBxV0hpMDUtczVabUsxM0RYVGpQQ3EtV0JuVmoxX3NlOHRBRWFxLVFBUGI0czZCUHhibUFHa0d4OHc1alhzczhuNG94VFZOQnlIOXV2MTFuZkNXanpReFpQM0R3VWx1TmhTMlROWXlZYnJTX1hUandnaWF4a3JBY1pmaVdFaVhJMHVjN19aajFrUzRod2dsS1A?oc=5"
+    }
+  ],
+  "marketingMoves": [
+    {
+      "brand": "Samsung",
+      "market": "Global",
+      "date": "2026-08-25",
+      "priority": "HIGH",
+      "campaignType": "Brand Exhibition",
+      "whatTheyDid": "Opened 'Design Is an Act of Love' Exhibition at Design Miami Seoul 2026.",
+      "creativeApproach": "Elevating hardware design to an emotional and artistic concept rather than just technical specification.",
+      "whyItMatters": "Shifts brand perception towards lifestyle and art; Huawei should consider similar design-led storytelling for flagship launches in key markets.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORkhZU2g2R3BtOGVEcW15WWI0V0NDb2N0MlN1d0dGdDRTaEJTazQ1YkxFX2ZVX2tvbmhXNjYzZGQxWjBoQ2lIWGlGTFRyckRhS3d5UG1teUJjOUkxNUtTNDRMa3pHeEZvT05JOV9tVm9EZUlPOXB4U3dMZHRmSndISzFvWWFRb0FsbDJJSFhfMkR2U3RibWZkMTZEOW4yMVhpREd2a3I3VTZWYjM0cktTR1BEQW80dWxyNGR6bVRXSQ?oc=5"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Global",
+      "date": "2026-08-19",
+      "priority": "MEDIUM",
+      "campaignType": "Scientific Research",
+      "whatTheyDid": "Published REACT study evaluating impact of daily movement on arterial health.",
+      "creativeApproach": "Using peer-reviewed scientific data to validate health tracking features.",
+      "whyItMatters": "Builds trust in health metrics; Huawei Health should amplify partnerships with medical institutions to validate TruSense data.",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPazRPTzZpT2ZiY0VIWnNhb3ZRcHNhT1ZYUUVFY3ZhTVVWWlhadmhNLW16MS14MDlJLUh5Qk5mZkd4WGF4M3gxQXZ5dmVvd015T2NucXRtS2dhMGtvazFzQjBmMGVzcm9WM2x3aE1aZVpSYnVfWjBELXJHOEFVYXRzZ3prVTE3b0NvcFQ5OUFVeGlTZ201MVVDOEtDR3hzU3Z0M0pvcG1yNjZydU0?oc=5"
     },
     {
-      "brand": "Garmin",
+      "brand": "Apple",
       "market": "Global",
-      "type": "Education",
+      "date": "2026-08-26",
       "priority": "MEDIUM",
-      "title": "Guidance on training with purpose versus basic ride tracking",
-      "summary": "Content educates users on transitioning from basic tracking to purposeful training methodologies.",
-      "implication": "Educational content drives engagement by positioning devices as coaching tools.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ3lBY1Rod1JvN3VVVU1UeWJQOVViUE00WjlYdnhaUTRQVXVGTTVPeHd5Z204MnQxNmxzdXEwMU9peFdQN2phQk84ZGI1Q09NSEluNXdsSWl6VU94NnpHQlNpejZuQkdwMG9udFVlelliZTBTZDl0czgwQ2pHX1pjOWIyZHFjSEUxRng3cGQ1UlVZNGIyUmp3Tk1Ddm5fYzFlVlMycw?oc=5"
+      "campaignType": "Content Ecosystem",
+      "whatTheyDid": "Unveiled September 'Friday Night Baseball' and Leagues Cup schedules on Apple TV.",
+      "creativeApproach": "Integrating live sports deeply into the hardware ecosystem to drive services subscription.",
+      "whyItMatters": "Demonstrates value of ecosystem lock-in; Huawei Video/Petal Search should explore local sports content partnerships to increase stickiness.",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/"
     },
     {
       "brand": "Google",
       "market": "Global",
-      "type": "AI Feature",
-      "priority": "HIGH",
-      "title": "Pixel 11 Pro introduces AI tech support agent",
-      "summary": "The Pixel 11 Pro now includes a dedicated AI agent for technical support assistance.",
-      "implication": "AI utility in customer support is becoming a tangible product feature differentiator.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV2VPUFU0b0R3TFVwSmdaaGpKUWNMWUNTWjBMSlRjVUc2dDRIazdmSU5DRTdzdG9FbFM5LTUtcDBJeU9UVGcyYWhBdmxLMTFlcHNvQ0dKc2RWTkZveTF0LWVQQWNVcWdUMWw0NjdKamlaNXRiYkUtaEFsUGFya25lTk1xV0E4Q2c1UDFOYjF1MGtkMXJoMTZta0Zn?oc=5"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "type": "Ecosystem",
+      "date": "2026-08-26",
       "priority": "MEDIUM",
-      "title": "Apple Maps to power navigation for Ford UEV Platform",
-      "summary": "Apple Maps will be integrated directly into Ford's UEV Platform via MapKit for Automotive SDK.",
-      "implication": "Automotive integration content should highlight seamless cross-device navigation experiences.",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/"
-    },
-    {
-      "brand": "Bose",
-      "market": "Global",
-      "type": "Review",
-      "priority": "LOW",
-      "title": "RTINGS lists best earbuds for gaming of 2026",
-      "summary": "Industry reviewers are categorising earbuds specifically for gaming performance in 2026.",
-      "implication": "Gaming audio is a distinct niche requiring specific performance messaging.",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43WU9USXVxN0w1UFo0Y1MtUWZIZXhPM3UtTHNQNG5ZaHRkX0NNWUJPN0VBWE1IWVhZNDFMNFYyNzZkRXlWMElaa0FHdlFzaVg0Vk5HbWQ1V3EtU19Kcjl0OGpLYVo0MlotUlBkT0ZB?oc=5"
-    },
-    {
-      "brand": "Xiaomi",
-      "market": "Global",
-      "type": "Supply Chain",
-      "priority": "MEDIUM",
-      "title": "Xiaomi launches Xring O3 chip with TSMC 3nm production",
-      "summary": "Xiaomi announced a new chip produced via TSMC's 3nm process, signalling advanced semiconductor capability.",
-      "implication": "Chipset partnerships are key narrative points for performance leadership claims.",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10X1ZZTXZhVUx2WlhwM1hzSXBncDJLQkljUXpKSzFIMGtPSnBOSDJUVjZWYVUzZ05UR3FZV2RvZDNxQW9VQ2lrQkprRktEVVA5MFNPMl9oNHRGTDJQVUhGZlphMk51YTJ4UElNQWFjaDR0Q2M?oc=5"
+      "campaignType": "AI Partnership",
+      "whatTheyDid": "Expanded football footprint with AI partnerships at five European giants.",
+      "creativeApproach": "Leveraging AI technology within popular sports contexts to demonstrate utility.",
+      "whyItMatters": "Normalises AI features through sports use cases; Huawei could apply AI storytelling to football or running communities in Europe.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZnRkUWt5eE5YUGhwNTdvd3NnVnoxRkU4VHVMUWx6VU5RMGtZQWhLTHJxVFpaZi1Ld0NfN2d0Q0dwYTRydDNoaHNfWENPcTZEdV94VHJIZzB3MXpyc1J4Z055UUdYb01sZVFGV0NNZDAwU2s1ZmF0aVVXWUxudDZMTEtEUExhTmlXclprbHZRUERIM0R2aWJyaWRuNFpZNlpNVERCQmM3QlZPeHFyazdZ?oc=5"
     }
   ],
-  "seo": [
+  "ecommerceMoves": [
     {
-      "keywordPattern": "phone leasing programme",
       "brand": "Apple",
       "market": "United States",
-      "signal": "Apple Upgrade launch",
-      "opportunity": "Create content comparing financing options and total cost of ownership."
-    },
-    {
-      "keywordPattern": "switch to Galaxy Z Fold8",
-      "brand": "Samsung",
-      "market": "Global",
-      "signal": "Switch ease messaging",
-      "opportunity": "Develop step-by-step migration guides for foldable device users."
-    },
-    {
-      "keywordPattern": "arterial health tracking",
-      "brand": "Garmin",
-      "market": "Global",
-      "signal": "REACT study",
-      "opportunity": "Publish blog posts linking wearable data to long-term health outcomes."
-    },
-    {
-      "keywordPattern": "Pixel 11 Pro AI support",
-      "brand": "Google",
-      "market": "Global",
-      "signal": "AI tech support agent",
-      "opportunity": "Highlight AI-driven customer service capabilities in product descriptions."
-    },
-    {
-      "keywordPattern": "best gaming earbuds 2026",
-      "brand": "Bose",
-      "market": "Global",
-      "signal": "RTINGS review",
-      "opportunity": "Optimise product pages for low-latency audio and gaming certifications."
-    },
-    {
-      "keywordPattern": "Apple Arcade sports games",
-      "brand": "Apple",
-      "market": "Global",
-      "signal": "Madden NFL 27 addition",
-      "opportunity": "Cross-promote hardware with exclusive gaming content bundles."
-    },
-    {
-      "keywordPattern": "Xiaomi 3nm chip TSMC",
-      "brand": "Xiaomi",
-      "market": "Global",
-      "signal": "Xring O3 launch",
-      "opportunity": "Create technical explainers on chipset efficiency and performance gains."
-    },
-    {
-      "keywordPattern": "Pixel manufacturing China",
-      "brand": "Google",
-      "market": "Global",
-      "signal": "Production move report",
-      "opportunity": "Address supply chain transparency in corporate responsibility content."
-    },
-    {
-      "keywordPattern": "Apple Maps Ford integration",
-      "brand": "Apple",
-      "market": "Global",
-      "signal": "Ford UEV Platform",
-      "opportunity": "Showcase automotive interoperability features in ecosystem videos."
-    },
-    {
-      "keywordPattern": "Sony headphones deal 2026",
-      "brand": "Sony",
-      "market": "Global",
-      "signal": "Price promotions",
-      "opportunity": "Monitor competitor pricing trends for timely promotional campaigns."
-    }
-  ],
-  "actions": [
-    {
-      "priority": "P1",
-      "action": "Develop financing programme messaging",
-      "why": "Apple Upgrade launch indicates shifting consumer preference for leasing over outright purchase.",
-      "examples": "Landing pages comparing monthly costs, trade-in value calculators."
-    },
-    {
-      "priority": "P1",
-      "action": "Highlight AI utility in support",
-      "why": "Google Pixel 11 Pro AI agent sets expectation for intelligent device assistance.",
-      "examples": "Demo videos of AI troubleshooting, chatbot integration highlights."
-    },
-    {
-      "priority": "P2",
-      "action": "Publish health research findings",
-      "why": "Garmin REACT study shows value in science-backed health claims.",
-      "examples": "White papers on Huawei Health data accuracy, partnerships with research institutions."
-    },
-    {
-      "priority": "P2",
-      "action": "Create switcher friction-reduction guides",
-      "why": "Samsung focuses on ease of switching to reduce adoption barriers.",
-      "examples": "One-click data transfer tutorials, iOS to HarmonyOS migration guides."
-    },
-    {
-      "priority": "P3",
-      "action": "Develop gaming audio content strategy",
-      "why": "RTINGS and Bose signals indicate growing niche for gaming-specific audio.",
-      "examples": "Latency test videos, gamer influencer collaborations."
-    },
-    {
-      "priority": "P2",
-      "action": "Showcase automotive ecosystem stories",
-      "why": "Apple Maps Ford integration highlights importance of car connectivity.",
-      "examples": "HarmonyOS Cockpit demonstration videos, partner manufacturer spotlights."
-    },
-    {
-      "priority": "P3",
-      "action": "Clarify regulatory compliance content",
-      "why": "Apple EU and Brazil changes show heightened regulatory scrutiny.",
-      "examples": "FAQ sections on data privacy, regional compliance badges on PDPs."
-    },
-    {
-      "priority": "P3",
-      "action": "Expand sports content partnerships",
-      "why": "Apple MLB and MLS content drives services engagement.",
-      "examples": "Local league sponsorships, fitness challenge campaigns tied to sports events."
-    }
-  ],
-  "contentMix": [
-    {
-      "brand": "Apple",
-      "education": 30,
-      "campaign": 40,
-      "product": 20,
-      "seo": 10
-    },
-    {
-      "brand": "Samsung",
-      "education": 20,
-      "campaign": 40,
-      "product": 30,
-      "seo": 10
-    },
-    {
-      "brand": "Garmin",
-      "education": 60,
-      "campaign": 10,
-      "product": 20,
-      "seo": 10
-    },
-    {
-      "brand": "Google",
-      "education": 40,
-      "campaign": 20,
-      "product": 30,
-      "seo": 10
+      "date": "2026-08-26",
+      "priority": "HIGH",
+      "pageType": "Store/Checkout",
+      "structureOrMessaging": "Launched 'Apple Upgrade' hardware leasing program directly on Apple Store online and app.",
+      "consumerBenefit": "Allows customers to upgrade hardware more frequently with predictable monthly costs.",
+      "whyItMatters": "Reduces barrier to entry for premium devices; Huawei Store should test similar financing or upgrade subscription messaging on PDPs.",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/"
     },
     {
       "brand": "Bose",
-      "education": 10,
-      "campaign": 30,
-      "product": 50,
-      "seo": 10
+      "market": "Global",
+      "date": "2026-08-25",
+      "priority": "MEDIUM",
+      "pageType": "Product Page",
+      "structureOrMessaging": "Aggressive price cuts ($100 off QuietComfort Ultra, 35% off small speakers) highlighted in retail channels.",
+      "consumerBenefit": "Immediate cost savings on premium audio gear.",
+      "whyItMatters": "Competitors using price elasticity to clear inventory; Huawei Audio should monitor these pulses for timely counter-promotions.",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KaDFNY2V5ZHlRbEJVVHo1TzRRQTBYektjRTFFWWhzS0NtUThORE9kWTBQWWJxeDJnbHl5SWRaekg1UkowNU1fdllqOVJpOFp2VVJ4LU9vQ2F4cWdPNmdNU1RVOEc0QQ?oc=5"
+    },
+    {
+      "brand": "Google",
+      "market": "Global",
+      "date": "2026-08-25",
+      "priority": "MEDIUM",
+      "pageType": "Support/Help",
+      "structureOrMessaging": "New Device Help Feature using AI to troubleshoot issues before repair store trips.",
+      "consumerBenefit": "Self-service resolution reduces friction and cost for users.",
+      "whyItMatters": "Integrates support into the product experience; Huawei Support pages should integrate AI diagnostics to reduce return rates.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR1VXdUs0UXFXMmRjdjF4Y3pqeUpoaUt0MmsxZWNHVDdjWnVvSEZlbHJKSzZFMDZQUHlGZ0VtNGhweEFRNmJwQ3RRZmRWZmNLWW9VQnFkd3kyNWlUUGpqUmxWcU55NG9wd1E2OVUxbWdOMjdVOUY0SW9YR1AyRzJrSmRNSnA0eEZMTXlqU2E4R0ZxR0hFcHlpNDY5dUNlOEk2SF9ZMDRwRkxrSmxIQy1VZExRVkZRX3ZJMFpYVlA3NA?oc=5"
     }
   ],
-  "updatedAt": "2026-08-25T12:02:20.437878+08:00",
+  "huaweiActions": [
+    {
+      "priority": "P1",
+      "area": "ECOMMERCE",
+      "observation": "Apple launched a hardware leasing program ('Apple Upgrade') directly on their online store.",
+      "recommendedAction": "Introduce a 'Upgrade Programme' or financing calculator module near the CTA on flagship PDPs in key overseas markets to reduce purchase friction.",
+      "example": "Add a 'Monthly Cost' toggle next to the full price on Mate 60/70 Pro product pages."
+    },
+    {
+      "priority": "P1",
+      "area": "MARKETING",
+      "observation": "Garmin uses scientific studies (REACT) to validate health claims, while Samsung uses emotional design storytelling.",
+      "recommendedAction": "Develop a 'Science of Health' content series for Huawei Health, partnering with local institutions to validate TruSense metrics.",
+      "example": "Publish a whitepaper or video series on 'How Huawei Watch GT Validates Sleep Data' featuring medical partners."
+    },
+    {
+      "priority": "P2",
+      "area": "PRODUCT",
+      "observation": "Apple is explicitly marketing 'AI Compute' and 'AI Performance' as key hardware specs for M6/M5 chips.",
+      "recommendedAction": "Revise PC and Tablet product messaging to explicitly quantify on-device AI capabilities (e.g., TOPS) rather than generic 'AI Ready' claims.",
+      "example": "Update MateBook PDPs to show specific AI task performance benchmarks compared to previous generations."
+    },
+    {
+      "priority": "P2",
+      "area": "CONTENT",
+      "observation": "Google is integrating AI troubleshooting directly into device help features to prevent repair trips.",
+      "recommendedAction": "Create interactive AI-driven troubleshooting guides on the Support site that mimic the 'self-heal' narrative.",
+      "example": "Embed a 'Diagnose My Device' AI chatbot on the product support page that suggests fixes before offering repair services."
+    },
+    {
+      "priority": "P3",
+      "area": "MARKETING",
+      "observation": "Samsung is elevating design perception through art exhibitions ('Design Is an Act of Love').",
+      "recommendedAction": "Shift flagship launch events in Europe to include design-led installations or collaborations with local artists.",
+      "example": "Partner with a design museum in Paris or Milan for the next Pura launch to showcase camera aesthetics."
+    },
+    {
+      "priority": "P3",
+      "area": "ECOMMERCE",
+      "observation": "Bose is using aggressive, specific price cuts ($100 off, 35% off) to drive audio sales.",
+      "recommendedAction": "Implement dynamic promotional banners on the Audio category page that highlight specific savings amounts rather than percentages.",
+      "example": "Change '20% Off' to 'Save £50 on FreeBuds Studio' in the UK store during competitive windows."
+    }
+  ],
+  "updatedAt": "2026-08-26T10:47:41.871228+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "feedItems": [
+    {
+      "brand": "Apple",
+      "market": "Global",
+      "source_kind": "Official",
+      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+      "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "published": "2026-08-26T02:45:38.418204+00:00"
+    },
+    {
+      "brand": "Apple",
+      "market": "Global",
+      "source_kind": "Official",
+      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+      "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design.",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "published": "2026-08-26T02:45:38.418328+00:00"
+    },
+    {
+      "brand": "Apple",
+      "market": "Global",
+      "source_kind": "Official",
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "published": "2026-08-26T02:45:38.418427+00:00"
+    },
     {
       "brand": "Apple",
       "market": "Global",
@@ -270,7 +218,7 @@
       "title": "Apple announces changes for apps in the European Union",
       "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
       "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "published": "2026-08-25T03:59:15.288567+00:00"
+      "published": "2026-08-26T02:45:38.418516+00:00"
     },
     {
       "brand": "Apple",
@@ -279,7 +227,7 @@
       "title": "Apple opens Advanced Manufacturing Center in Houston",
       "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
       "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
-      "published": "2026-08-25T03:59:15.288698+00:00"
+      "published": "2026-08-26T02:45:38.418609+00:00"
     },
     {
       "brand": "Apple",
@@ -288,7 +236,7 @@
       "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
       "summary": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.",
       "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
-      "published": "2026-08-25T03:59:15.288801+00:00"
+      "published": "2026-08-26T02:45:38.418700+00:00"
     },
     {
       "brand": "Apple",
@@ -297,7 +245,7 @@
       "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
       "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”",
       "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
-      "published": "2026-08-25T03:59:15.288902+00:00"
+      "published": "2026-08-26T02:45:38.418793+00:00"
     },
     {
       "brand": "Apple",
@@ -306,7 +254,7 @@
       "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
       "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
       "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
-      "published": "2026-08-25T03:59:15.288998+00:00"
+      "published": "2026-08-26T02:45:38.418882+00:00"
     },
     {
       "brand": "Apple",
@@ -315,7 +263,7 @@
       "title": "Apple reports third quarter results",
       "summary": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
       "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
-      "published": "2026-08-25T03:59:15.289091+00:00"
+      "published": "2026-08-26T02:45:38.418995+00:00"
     },
     {
       "brand": "Apple",
@@ -324,7 +272,7 @@
       "title": "Apple Upgrade launches in the United States",
       "summary": "Apple Upgrade — a new hardware leasing program — is now available on the Apple Store online, in the Apple Store app, and at Apple Store locations in the United States.",
       "url": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
-      "published": "2026-08-25T03:59:15.289178+00:00"
+      "published": "2026-08-26T02:45:38.419081+00:00"
     },
     {
       "brand": "Apple",
@@ -333,7 +281,7 @@
       "title": "Apple Maps to power navigation experience for Ford UEV Platform",
       "summary": "Apple and Ford announced Apple Maps will be integrated directly into Ford’s UEV Platform through the MapKit for Automotive SDK.",
       "url": "https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/",
-      "published": "2026-08-25T03:59:15.289268+00:00"
+      "published": "2026-08-26T02:45:38.419165+00:00"
     },
     {
       "brand": "Apple",
@@ -342,7 +290,7 @@
       "title": "Major League Soccer returns to Apple TV tomorrow",
       "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
       "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
-      "published": "2026-08-25T03:59:15.289354+00:00"
+      "published": "2026-08-26T02:45:38.419249+00:00"
     },
     {
       "brand": "Apple",
@@ -351,7 +299,7 @@
       "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
       "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
       "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
-      "published": "2026-08-25T03:59:15.289439+00:00"
+      "published": "2026-08-26T02:45:38.419333+00:00"
     },
     {
       "brand": "Apple",
@@ -360,7 +308,7 @@
       "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
       "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
       "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
-      "published": "2026-08-25T03:59:15.289569+00:00"
+      "published": "2026-08-26T02:45:38.419427+00:00"
     },
     {
       "brand": "Apple",
@@ -369,61 +317,25 @@
       "title": "Apple scores record 89 Emmy Award nominations",
       "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
       "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
-      "published": "2026-08-25T03:59:15.289657+00:00"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "source_kind": "Official",
-      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-      "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-      "published": "2026-08-25T03:59:15.289742+00:00"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "source_kind": "Official",
-      "title": "Apple Creator Studio gets smarter, faster, and more connected",
-      "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
-      "published": "2026-08-25T03:59:15.289829+00:00"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "source_kind": "Official",
-      "title": "Apple announces changes to iOS in Brazil",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "published": "2026-08-25T03:59:15.289912+00:00"
+      "published": "2026-08-26T02:45:38.419520+00:00"
     },
     {
       "brand": "Samsung",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "An Easier Way To Switch to the New Galaxy Z Fold8 - samsung.com",
-      "summary": "An Easier Way To Switch to the New Galaxy Z Fold8 samsung.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOWVZdkJJVGFySFB5RFIyeUlfbmx0dHZMTGhxTUtQMnpCd01GcDZmNlp4aEhNd0VxWmdUa2VKbmhra3ZzOFphaU9kcV9UZkQ2UUFRak5xWlJSVTRMV3FlVUQ3dFdqSkxDaFFSX3M3UGYzUmlMcThUbWYwQUZLVXl0dUttVFpJSnZE?oc=5",
-      "published": "2026-08-24T23:00:00+00:00"
+      "title": "[Invitation] Design Miami Seoul 2026: Opening of Samsung’s ‘Design Is an Act of Love’ Exhibition - samsung.com",
+      "summary": "[Invitation] Design Miami Seoul 2026: Opening of Samsung’s ‘Design Is an Act of Love’ Exhibition samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORkhZU2g2R3BtOGVEcW15WWI0V0NDb2N0MlN1d0dGdDRTaEJTazQ1YkxFX2ZVX2tvbmhXNjYzZGQxWjBoQ2lIWGlGTFRyckRhS3d5UG1teUJjOUkxNUtTNDRMa3pHeEZvT05JOV9tVm9EZUlPOXB4U3dMZHRmSndISzFvWWFRb0FsbDJJSFhfMkR2U3RibWZkMTZEOW4yMVhpREd2a3I3VTZWYjM0cktTR1BEQW80dWxyNGR6bVRXSQ?oc=5",
+      "published": "2026-08-25T04:00:00+00:00"
     },
     {
       "brand": "Samsung",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "Samsung To Showcase Wide-Ranging Gaming Solutions With Immersive Exhibition at Gamescom 2026 - samsung.com",
-      "summary": "Samsung To Showcase Wide-Ranging Gaming Solutions With Immersive Exhibition at Gamescom 2026 samsung.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVHBYM1ZNY3JJZ0J5SXRLZ2EzaFg4aVBkVTAwQVRzcHhTRnhGV3hucG00MEhGVFBITkJrMk8zZzhldUlSaDZYSWx1dHR5NkxPSnc3aG9Ca2NoX0lxdnJzWXJsbHNmT2YyZUZ6VmpYRGJjanR3WXFTeDNVdVdTaUVIdVpfSGV4UUs2MGNYSDNhTmdsRU1EbmphMkp0UVpZNXdiM2hXY3hTd1h2UFp0ZHFUODIyRndCenhkTnQtaEd1dXlOZw?oc=5",
-      "published": "2026-08-25T02:00:00+00:00"
-    },
-    {
-      "brand": "Samsung",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "Tag > 9100 PRO SSD - samsung.com",
-      "summary": "Tag > 9100 PRO SSD samsung.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lX2QyMkt0WlFXeG9pbzhlSlFkcWYwdVVITWdzTERuMlhzWlhkNkN0OFJZbG44RXVxTHdRa3dMQ290SEZxaFR2YTNJQzJWYzhtTkRPN2lLMThvNzJx?oc=5",
-      "published": "2026-08-25T02:20:56+00:00"
+      "market": "Malaysia",
+      "source_kind": "Official",
+      "title": "Articles - samsung.com",
+      "summary": "Articles samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hR1NPdDlFYlFVTnpMVHZUdGt0X2ljQXpMZTVpR190enV5ejBEbExPeEJFTGJ0eUZqU0xtN09fRUNyR2l6eGNaUDlzZkFQYW9GNGlNNGRXT0M?oc=5",
+      "published": "2026-08-26T00:31:00+00:00"
     },
     {
       "brand": "Garmin",
@@ -433,6 +345,15 @@
       "summary": "How to go from basic ride tracking to training with purpose Garmin",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ3lBY1Rod1JvN3VVVU1UeWJQOVViUE00WjlYdnhaUTRQVXVGTTVPeHd5Z204MnQxNmxzdXEwMU9peFdQN2phQk84ZGI1Q09NSEluNXdsSWl6VU94NnpHQlNpejZuQkdwMG9udFVlelliZTBTZDl0czgwQ2pHX1pjOWIyZHFjSEUxRng3cGQ1UlVZNGIyUmp3Tk1Ddm5fYzFlVlMycw?oc=5",
       "published": "2026-08-24T17:08:17+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "Garmin announces the fenix 9 and fenix 9 Pro GPS smartwatch - Garmin",
+      "summary": "Garmin announces the fenix 9 and fenix 9 Pro GPS smartwatch Garmin",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaU1FU3h0RHN4UTkwWXBBQW05RFV5LXVuVlNUSjFBQ1lkMXcyOWlXUXU5NHU1dGpjcV9pX1dtNFBTeVZ5a3pMVmt0MG1YN3VKMGdmVWwyLTFYSllBNEdnU2hYYXZNMnpOMDd6UTJVemIxSjZMYURiSEh6dllGekg3ekxoU1VDSnBHeFBydFJtRHRTSVZWd3lXOVl2ZkNwa1hZN0Z4LWFjSmNobDR1UHJYdHUybVN2dW9abWFhemhaa01pQQ?oc=5",
+      "published": "2026-08-26T00:56:53+00:00"
     },
     {
       "brand": "Garmin",
@@ -456,163 +377,316 @@
       "brand": "Google",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "4 Disadvantages Of Switching From Samsung To A Google Pixel Phone - bgr.com",
-      "summary": "4 Disadvantages Of Switching From Samsung To A Google Pixel Phone bgr.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb285R3dESXppZ1RTOGl0bmxpVEtXTmhkdzAzS3N5MXFxOURQUV9NUmh6cWpIYkwySzQ3ZXloNklaLU94SUV4TmoxQ3djYTNvSEJkaFVScjQ2dGpON2tvZEdvNUtWNkJPMUZxV0pBbUYyc1JYOGVlQ2hidnlIcUdlV2JIYXBieXlfTXc?oc=5",
-      "published": "2026-08-24T20:17:00+00:00"
+      "title": "I built an Android journal app in Google AI Studio; its AI spots patterns I'd never see - Android Police",
+      "summary": "I built an Android journal app in Google AI Studio; its AI spots patterns I'd never see Android Police",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZnV1Qi1wNUE2ZmVzcS1aT3plRlc1UUJEMHlVNUdCczhEV1NBOHVvWVNfay1xbjM3amlUeWNrckUxTHVBYlc5LS1mUHJtRHdISkduU0IwR2VHUmxUUHJtZDc2ZVhRY0V2U3FBbGNFSTI5M3BQWVluS2dlNDNCaEhiRlFlWnpoLUhtbXBLdy10MnBiUGF1aDBpSHFwRC1zSFA1WDU0?oc=5",
+      "published": "2026-08-25T19:00:10+00:00"
     },
     {
       "brand": "Google",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Your Pixel 11 Pro just got its own AI tech support agent - Digital Trends",
-      "summary": "Your Pixel 11 Pro just got its own AI tech support agent Digital Trends",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV2VPUFU0b0R3TFVwSmdaaGpKUWNMWUNTWjBMSlRjVUc2dDRIazdmSU5DRTdzdG9FbFM5LTUtcDBJeU9UVGcyYWhBdmxLMTFlcHNvQ0dKc2RWTkZveTF0LWVQQWNVcWdUMWw0NjdKamlaNXRiYkUtaEFsUGFya25lTk1xV0E4Q2c1UDFOYjF1MGtkMXJoMTZta0Zn?oc=5",
-      "published": "2026-08-24T22:58:38+00:00"
+      "title": "Fan survey sends Google a pretty blunt message about the Pixel 12 - Android Authority",
+      "summary": "Fan survey sends Google a pretty blunt message about the Pixel 12 Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQlN4YTRPaHIwNFI2WkZFWVFqa1IyODBzZzgzcW1SbDlfYVRHd0xIQUxfTHdSV0Ewd3dEZmFJM3hPc25BVG0tSlRqZ3JxS3RwdEFMQlJYRVlXLVVZMkh6ZEJheHRuYnZHbU5zWFhkSnhLbFVrbHFvUjBzRmJKVEFZZlJsdHdhaGky?oc=5",
+      "published": "2026-08-25T20:21:00+00:00"
     },
     {
       "brand": "Google",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "What Verizon Communications (VZ)'s Google Cloud AI Push and Pixel 11 Strategy Means For Shareholders - simplywall.st",
-      "summary": "What Verizon Communications (VZ)'s Google Cloud AI Push and Pixel 11 Strategy Means For Shareholders simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTjRTYWpvX3g3V1E0SGFtbjNUUzBvZzcwVU0yYXRrcnNFTjBPNmo2SjJhR2JGamJhNkxIVjkzcmMwWlpOVXpWSU9jRnBNdlFNZkF2UXplSmlidE9sdXBTdGQxSDktVGNaQnlZQnVQVmVOVXE0eXZrWHFMY21qMXRYc1Z4SzdWZ0ZGT2dWejJQdzFkSS05a2UwSHdmcnlvemdRSGZhS3h0QkRIY25INWp2czBScm1JUjV1X3hFVFkzS3FtZzZibnczV20yb1dKYnpSZlHSAdcBQVVfeXFMUHFKdExSTDlwSFZHMk90dmsxcW0waG1oaEZuX1h5amFhYlY0M0VhSE9ET0VndlhPdE1uaUphX3diRnRxYjY1c0tNWWI0NFVubU5jeTBXTzRNY05IVGRXYU9IX0dXOUN2dG1KdGxvbVdlSk03S1Jlamgzam5pTm9GV1d0QmdIZHNBaUdOZ1NDNV83THdsM0Fqb25yX3NaSmNLR0RORXMwMzhLYUNkY1l4V1Nud0tYcWVSZnFSVWxZTE9zT3NBVUYxVlgtRlMyNmVEQllYamxqbWs?oc=5",
-      "published": "2026-08-24T15:31:11+00:00"
+      "title": "Google reveals Pixel 9 Pro and Pixel 9 Pro Fold in new videos - Mashable",
+      "summary": "Google reveals Pixel 9 Pro and Pixel 9 Pro Fold in new videos Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mYXdKTTctT0RpT2IzZVl3SXZMNmpIdUZMSXBfUU0tODVsRU9EV2ZkOTFUX3JRakRKNURwdlhBa0tXdkluLVprN1M3MmxyanIzT2JsQmxHbHVtTUJVT3lGOEVn?oc=5",
+      "published": "2026-08-25T09:00:00+00:00"
     },
     {
       "brand": "Google",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Google Pixel 11 Pro Review: Incremental upgrade with meaningful smart AI features - Deccan Herald",
-      "summary": "Google Pixel 11 Pro Review: Incremental upgrade with meaningful smart AI features Deccan Herald",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVGpoLW9UNDJJeVhwYVc5RHhKVF8zY0VDLUs4RUFoNEFsMTQ5TXhydHNwQzFjb0UtbXd6a1dMOGN1YnpsNEdudjRQVjFkWFpHZzEwLVVHZTFMUVNCa3duNFhXRXpIX3FlcHU0X1Z0dXJPa0JnR3hXem90XzN4NGQ1cnVqZlJ4MzJMWk16SVJDWEZCY2hRbi12RVlTVWNhZ2ZGR0VxTVhuTFBxMmtHU1RrZEloUEY1bHcwSVB6OE1QUUhscjNxeWVr?oc=5",
-      "published": "2026-08-24T16:33:21+00:00"
+      "title": "Google Pixel 11 Pro Fold Review: Exceptional Cameras, Average Performance - PCMag Middle East",
+      "summary": "Google Pixel 11 Pro Fold Review: Exceptional Cameras, Average Performance PCMag Middle East",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdXMtVXM0czVkbWxMZlFaYVVvSXpfdDhvVXg0cDBDTzZiSXFuT09IUG9YZVVKM2wxMjlLMVUta0xKcDE2RlY3VlVPc2YwZ3owU1NGQl9NMElpOEFyUG05YWZGQWFRT0RjMjE0OFJ4WHpZbWJOLWFKUmZSa0FVT1pld3R6QV9saWx3VTZPUmtqeE8tSXI5ejEyeHR5X29Wb0NxRC1hWXRLRDhwWkJrYldDbW1rbjR5QQ?oc=5",
+      "published": "2026-08-25T04:37:30+00:00"
     },
     {
       "brand": "Google",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Best Pixel 11 Deals: Google’s Newest Flagship Is Now Out and Already on Sale - CNET",
-      "summary": "Best Pixel 11 Deals: Google’s Newest Flagship Is Now Out and Already on Sale CNET",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14dk9rYXpWVTU0SExFaFhZazBBcDhIQ3V6c0FTWXo1QTMxM0hJS3RRanVZT2NLWktLSnRveExpSDFlNWMzUWktejJGNUdud0lWMGl3STU3dDFpQ3M?oc=5",
-      "published": "2026-08-24T19:03:49+00:00"
+      "title": "Google Rolls Out Gemini AI Integration into Chrome for iPhone and iPad Users - TechRepublic",
+      "summary": "Google Rolls Out Gemini AI Integration into Chrome for iPhone and iPad Users TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNjdRNFFPdDRlcU9ORE1udXBBVEIzQW5ON20xSlRaRjNPQ3JoLTBaajhCTm9BMHVBQTJwMlRLSmtWemVydzdLQ1VVTFRNTVU4VE1RbkJmREViZFRkbDRkN2tkckRjcE5yZ1JxenZMLVU5b3hUN1FtTg?oc=5",
+      "published": "2026-08-25T20:01:14+00:00"
     },
     {
       "brand": "Google",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Gboard on the Pixel 11 has a new AI feature to help you text - Android Headlines",
-      "summary": "Gboard on the Pixel 11 has a new AI feature to help you text Android Headlines",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdEZKZy1EMFFOTktzbTdYWS05cUl4WGNVeU5MZk1jQmpxZ09sN1dVdzFjbWplOThLR0xKcmt0MFJoTE9UOTFoeHRsb1FSNUZNZzFIcklGVGl6WVh5end4bXBReExfS3pMcG5ycGZJRnczTkFoRGg4bVRKMk4zV1FuSW1qdGpjcVpQa0tjUmJxT3p4NE44bXdLYXkzTWNSaG9ydDVOVFh6NGtDZw?oc=5",
-      "published": "2026-08-25T00:06:14+00:00"
+      "title": "Google's New Device Help Feature Is the Kind of AI Your Parents Actually Need - Android Headlines",
+      "summary": "Google's New Device Help Feature Is the Kind of AI Your Parents Actually Need Android Headlines",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR1VXdUs0UXFXMmRjdjF4Y3pqeUpoaUt0MmsxZWNHVDdjWnVvSEZlbHJKSzZFMDZQUHlGZ0VtNGhweEFRNmJwQ3RRZmRWZmNLWW9VQnFkd3kyNWlUUGpqUmxWcU55NG9wd1E2OVUxbWdOMjdVOUY0SW9YR1AyRzJrSmRNSnA0eEZMTXlqU2E4R0ZxR0hFcHlpNDY5dUNlOEk2SF9ZMDRwRkxrSmxIQy1VZExRVkZRX3ZJMFpYVlA3NA?oc=5",
+      "published": "2026-08-25T14:07:33+00:00"
     },
     {
       "brand": "Google",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Google plans to move all Pixel manufacturing out of China by 2027: report - Fox Business",
-      "summary": "Google plans to move all Pixel manufacturing out of China by 2027: report Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcDFMZlFfeEsweWNkUld0bUVyT2ZxMVRGYUNQOGt5UnZXcTUwLUZrNFlnRnJobVpjT0d3aGZIa05TUmxPVlNrRXoxWktaZ1AxYzhLRno0RFdmeWVPaEpraEs4ejVZTDc2d3RhdVpXU2hQQ2szUlhLTU53dTF2Ulg2UlNxQkFLazVqaFJBeUdvZXp0a3UyQXFEcmp5dWzSAZwBQVVfeXFMTnAxTGZRX3hLMHljZFJXdG1Fck9mcTFURmFDUDhreVJ2V3E1MC1GazRZZ0ZyaG1aY09Hd2hmSGtOU1JsT1ZTa0V6MVpLWmdQMWM4S0Z6NERXZnllT2hKa2hLOHo1WUw3Nnd0YXVaV1NoUENrM1JYS01Od3UxdlJYNlJTcUJBS2s1amhSQXlHb2V6dGt1MkFxRHJqeXVs?oc=5",
-      "published": "2026-08-24T20:26:00+00:00"
+      "title": "The real reason to buy a Pixel 11 Pro - 9to5Google",
+      "summary": "The real reason to buy a Pixel 11 Pro 9to5Google",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ha1llOWczYXJ6LXBjSGo3a1kzQVA2TjI4VnVnX3YwSjB3ejAyMzdKZ2ZpbnpEWTZORXB5dXNsQUx2bEVTaU1NUXlxLU9pZzM3QURoQi0wdUgyMm0wcGJqTWhwUGZqR1FfdW9VZVBFTGljSEpfZW1nbEhzcS0?oc=5",
+      "published": "2026-08-25T11:00:00+00:00"
     },
     {
       "brand": "Google",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Google's AI-first Googlebook laptop is almost here - can it avoid the Copilot+ PC problem? - ZDNET",
-      "summary": "Google's AI-first Googlebook laptop is almost here - can it avoid the Copilot+ PC problem? ZDNET",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN0l4eE9fM1djNkljODFPSlJONk11bUhSTTMxZXpGU2FfZ2E1d1lpTTk3ZUNrZlZSd2hZQWpGY0pZQktWTjlseHQzZ1U4TC1tT0lLZ0xGa2trc2Q4RkhKSmU0UHpFNWV0Vk1LNlkwc0xjcGZyU3I4R0Y5ZC1Hc05Kdm0xWmdvYlpTRlQ2NkthdXVNeDNlbXJhV2I3MA?oc=5",
-      "published": "2026-08-24T12:48:00+00:00"
+      "title": "Why Google Bid $10 Million for a Failed Airline’s Data - Yahoo Tech",
+      "summary": "Why Google Bid $10 Million for a Failed Airline’s Data Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUGlyWGhuV29nMFp4UzdEZUJrcUh6clZOci1xdzJoUWVWWGtTUDRZQ0FhOXhUcjVEQ0tOeEl1MGJ4bloyTWdRcU4wUGJfUVVhVmtBNkZsdGd2Zll6UHptUndCZWxsLUhOMU5rbi1ETWZ3SkZXcHZkYUt0dHhYUkNUZ2FnVVJsNHpTR1E?oc=5",
+      "published": "2026-08-25T14:51:47+00:00"
     },
     {
       "brand": "Google",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "He Left Google After 27 Years. Now He’s Telling Gen Z Not to Master AI. - Yahoo Tech",
-      "summary": "He Left Google After 27 Years. Now He’s Telling Gen Z Not to Master AI. Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YMGs3a0JGREZiRXhmWHNtTEpzWF94TXVCVTg2LWNwMEJNWjI1Vk1nVzE2b0hwV3V2VjFMSXNfN1hmbTdOcUpYN1VsbThfdTZpOEZzY0RKMFM5TGY1SEJQbk5MeUROeWdhdnRrblZjMllid2ZraXREWVY4bFZ5Njg?oc=5",
-      "published": "2026-08-24T18:09:04+00:00"
+      "title": "Google’s New Gemini Tool Could Save You a Repair Store Trip - Phandroid",
+      "summary": "Google’s New Gemini Tool Could Save You a Repair Store Trip Phandroid",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZVF2bFFxdXF5Sm5ORGZuSE5YM1pSMjloTXM4WnVyLWRKRkowcWJNRGVvdDZYa3A2Q1JIcXZJWURlRWtEdWlpb1hCa2ItRk5sSWNucGVob09kS20zaUUxc2lHdHM2d0ZweDBhY04xWnJYOHQyVkRVRVB6bE1BNnVDMkFKMnVtRkRHS1R6Q2ZreHAxZkhzMjlESDNISlTSAZwBQVVfeXFMTWVRdmxRcXVxeUpuTkRmbkhOWDNaUjI5aE1zOFp1ci1kSkZKMHFiTURlb3Q2WGtwNkNSSHF2SVlEZUVrRHVpaW9YQmtiLUZObEljbnBlaG9PZEttM2lFMXNpR3RzNndGcHgwYWNOMVpyWDh0MlZEVUVQemxNQTZ1QzJBSjJ1bUZER0tUekNma3hwMWZIczI5REgzSEpU?oc=5",
+      "published": "2026-08-25T11:30:44+00:00"
     },
     {
       "brand": "Google",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Google Pixel 11 might be the smartest smartphone yet - AOL.com",
-      "summary": "Google Pixel 11 might be the smartest smartphone yet AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaMDZ2UDV5VDI0ZnIzU1Foa0p6ckpPdlc1dEd4WmZhUko2U1Q5UnRsM2hycVVabzZOTmpzaUlxa0YwaXN5TlNyb1MyOVpsdmZ1dUZnd2xWVWdYbzdtU0JWdTZ1X0RHeTMtLXZwRHdodzh3MkV5WDd5UnZVNDZ5VW8?oc=5",
-      "published": "2026-08-24T15:59:34+00:00"
+      "title": "The best Google Pixel 11, Pixel 11 Pro and Pixel 11 Pro XL plans in Australia for August 2026 - TechRadar",
+      "summary": "The best Google Pixel 11, Pixel 11 Pro and Pixel 11 Pro XL plans in Australia for August 2026 TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZTZYT3lTMU03Vlk5SkJmWlNZUVFlZEo0Q3AwdU1UOFJiUm5yNnVvQk5HV2ZhNHlZU3FVSnpnbE9UN2xMWGxMeTNIemU4OWdVclRjTUZKcE0wbjYxWjlGVXdweEhQeDJJMGdTN1RzQ1JIc2ZWRzVTUURDSkF5SXhpTUVaQQ?oc=5",
+      "published": "2026-08-25T05:26:46+00:00"
     },
     {
       "brand": "Google",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Google Pixel 11 Pro is a major downgrade to Pixel 10 Pro in one key area; that's why I didn't buy it - Android Police",
-      "summary": "Google Pixel 11 Pro is a major downgrade to Pixel 10 Pro in one key area; that's why I didn't buy it Android Police",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYTRsdExVN0ZvdGkwRW5ZSjJ0UnVQdmNnRGkxZXBVWGRHejVCbmFfRHNoQmRaOXBVV3dMUnE3OGd3SGhYcE1laVNaall5dk83SFV1RkpUNXhUSDhLTXJLNUtpTmI1eDlCbXgzSGtXNl9MXzJqb0VxQUZIWlpNNUQ5c2tyNTd0VEFqeE83YkFHODVsSE5nN0FzTm5ibDR4WV9MWmhSQlQxWDYyYnc1MnlWNmg0QUZGQm9jSGFDSmxNb0VlQmEzZG5HWV9R?oc=5",
-      "published": "2026-08-24T12:15:10+00:00"
+      "title": "The Pixel 11's 7-year promise is why I'm taking quantum-safe boot seriously - Android Police",
+      "summary": "The Pixel 11's 7-year promise is why I'm taking quantum-safe boot seriously Android Police",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa19ZWFJ0V0hVZl9vSHdTS190QWZUTE1BbVd0bTJldTJQejQ3dzR0dzV5UnFuaE5tQnBNTVpxWEsxaXBReENWMUVVZlJmQXhxTDdjUzhiX1VQeXN5c3pDcmhvSG9tb1JUeFZOQklDQlkwQzlybm5kUUJOdGJhOUJwUTVoaw?oc=5",
+      "published": "2026-08-25T12:15:10+00:00"
     },
     {
       "brand": "Google",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "The Pixel 11 Pro: It’s Fine. - whatever.scalzi.com",
-      "summary": "The Pixel 11 Pro: It’s Fine. whatever.scalzi.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ET01xSHJ1WnBQdXhqV2pQUy1feFZqMzNTRHJyRTFQTlZtUk1zdkJ0ZzJFZHo5eXZQX3UtMWtUOGtFZm5yWXRuQmpTX1pmUE1FTEZCY1lKV0d3U3k3RndyMkpUcHFkUGFHRjMxQWZoaWhiVDQ?oc=5",
-      "published": "2026-08-24T05:37:33+00:00"
+      "title": "Google Pixel 11 resoundingly proves a vanilla flagship can be a convincing buy | Business News - Hindustan Times",
+      "summary": "Google Pixel 11 resoundingly proves a vanilla flagship can be a convincing buy | Business News Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTjB6RWtNajliYUVlVDdmRWZfb1hzNVc0dUxOajBsUHhVQjBwWEVmam9rOHlXY2RBeF9Qazc0RVpRM2M4OW4tb05jN1ZTNzA4ZmpxR2EwWUFWZ0x3T3I4clNKam95RWtvM0hiLWJIbk1YX0dXNFg0Q3gzcHI4Yk5OMFY1YkxQa1pvTGdXV0szX3N3Ni1lM0lyUHBDSWgyMXZOUUZockVLRm4zbk9vUGgzWG5odFNoR0theTFRU1Q4LUFzR2lselVvZ25yeTctSnFqdUJWM0ZR0gHbAUFVX3lxTE9OeHlvZkxfSmVIQzZSOGRzQ3FMWTJaUEM0VE1fLTR1MTYteFk3UDlld0VGZElqa2lsNTN6dDVqdTlDenp1a3ZUZ2tDNEVsM1R6S0EtYzRCLTFoVVpuX0V3aTgzMy11OUxwb3p0ZUQ0NnhBaTQ0TU1rSUZWd1R1SlZ5dnIwa1BGTENCNGRqSklWSWJlQ2dBemxvM1dtN1V1Q3dkc3hCMzl3QmdRMnRDYjdESEdEQjEwSkZFXzNwaURhTS0yVjNpVy1Mb25icFdvUWwtV3RtdF9JMzJOSQ?oc=5",
+      "published": "2026-08-25T11:28:58+00:00"
     },
     {
       "brand": "Google",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "The Pixel 11 Pro Camera's 120x Zoom Is Too Good to Be True. Literally - PCMag UK",
-      "summary": "The Pixel 11 Pro Camera's 120x Zoom Is Too Good to Be True. Literally PCMag UK",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUklLVHUzS19mME1pY1V6QVk0QURnOE1Cd3dFUEdZc2kxVENqUk83LWFYT1NjUlROaEx2S2g5N3VkSUVfaUZwTlZQVGZvOV9ZVGtzQmozdUdlcGVDdWdZdEdpOFRUcFo0aVIwX29rSWU2NHEtTzRUS2tRUEhfdXZrdGlyUDRsMHJMUWU0RGVEM2d6VjNXQjRreV9pM3N1UTc0Ymp4dzhQWGxfU1JIZEE?oc=5",
-      "published": "2026-08-24T15:09:09+00:00"
+      "title": "Google expands football footprint with AI partnerships at five European giants - Soccerscene",
+      "summary": "Google expands football footprint with AI partnerships at five European giants Soccerscene",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZnRkUWt5eE5YUGhwNTdvd3NnVnoxRkU4VHVMUWx6VU5RMGtZQWhLTHJxVFpaZi1Ld0NfN2d0Q0dwYTRydDNoaHNfWENPcTZEdV94VHJIZzB3MXpyc1J4Z055UUdYb01sZVFGV0NNZDAwU2s1ZmF0aVVXWUxudDZMTEtEUExhTmlXclprbHZRUERIM0R2aWJyaWRuNFpZNlpNVERCQmM3QlZPeHFyazdZ?oc=5",
+      "published": "2026-08-26T00:35:53+00:00"
     },
     {
       "brand": "Google",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Google Pixel 11 might be the smartest smartphone yet - KTLA",
-      "summary": "Google Pixel 11 might be the smartest smartphone yet KTLA",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUGlqaVlta3k1LWhHMV82blZNbGpoREItb3M4M3VUNFZLZm9JRHVQSi1GcFh1SFRYXzJ0YUcxSzF3WUdrbXphV0pXMm54ZGJLQUJoNUpleWtQa1ZGMjRxLVBCMjVOVE5ZZkRmcG9OMU9seGhlRzhzWlZEbm9vS1RXTUxXalVYd9IBhgFBVV95cUxNUGlqaVlta3k1LWhHMV82blZNbGpoREItb3M4M3VUNFZLZm9JRHVQSi1GcFh1SFRYXzJ0YUcxSzF3WUdrbXphV0pXMm54ZGJLQUJoNUpleWtQa1ZGMjRxLVBCMjVOVE5ZZkRmcG9OMU9seGhlRzhzWlZEbm9vS1RXTUxXalVYdw?oc=5",
-      "published": "2026-08-24T06:04:13+00:00"
+      "title": "Google Pixel 11 Pro Fold Review: Folding Strong - Esquire India",
+      "summary": "Google Pixel 11 Pro Fold Review: Folding Strong Esquire India",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWWxYZjBERmp1aDBZTVlpaUNLam9xZk5KNUNwWkJlY3NzWWVkX0REYlo4MmJMLXR3TzJRVi1Cd0JYTGhpQ3Z0SDYzMl9vU2Y0U0hYSU5JUDlYUkNGcENBcGNSRWNFYjI4YTFOOVpQUHo1QVNmeE9yN0tsaksxMzJPd2pLVEtHODgtM21IeEJxdkVfSUxIcUZhUk5TeS1oendD0gGuAUFVX3lxTE1XdHRLanA3ay01amFhdU81Vm5DSHpETk1ySDVvX1ZRbUtfdjJTOXJZV25uTE5hT1FCSGw5NDJCUmgydWNtb0xGcUVaNlpiR3FjTGszTk1EdFM3TDdDSThycVl4RzRmOHN5OTN2Y3c3YzJTLU05VWhLQmZLNnJQTDN1ZUdrOE53RV83RjFXeVY5TTBvWUtabjNHMzlRVHpxbnQ2OGFCeHRWTGdTYUNnQQ?oc=5",
+      "published": "2026-08-25T07:23:39+00:00"
     },
     {
       "brand": "Google",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Google to move Pixel device production from Chi... - Pluang",
-      "summary": "Google to move Pixel device production from Chi... Pluang",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcWNUV3ZEdmF1YjcwLXc1MURnOVZKdXdTLWp4MVVhLUN1ZUFEUl9BLTZxMjRSa2pSUlM3dFRIZ005OWNYejczNnp2ZjNIYUp2VjNZVGpBSTlfUVhnYXhCMXZKS1ZvQTZrbVVGa0Y0akx1TzZRQ202WmtzQVlESTdnVGo5dkUzUQ?oc=5",
-      "published": "2026-08-24T20:54:31+00:00"
+      "title": "Google's Tensor G7 has one last chance to save the Pixel 12 - Android Authority",
+      "summary": "Google's Tensor G7 has one last chance to save the Pixel 12 Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IRXMxVGhjZGFIRDNrZy1Ba3pvQkZ5OVlNQUwxZW5uYk1oV2lEeE9PU05rVDVFMmRhUEZsYjNyVzJaNzVWYkoxTGI3TUJNYklVN3NqSllvS2RyY3BwU3BoU3A4MHN3STZueWx1ZjUxeGxXVUhwODJoMw?oc=5",
+      "published": "2026-08-25T09:00:00+00:00"
     },
     {
       "brand": "Xiaomi",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Xiaomi launches Xring O3 chip, partners with TSMC for 3nm production - Crypto Briefing",
-      "summary": "Xiaomi launches Xring O3 chip, partners with TSMC for 3nm production Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10X1ZZTXZhVUx2WlhwM1hzSXBncDJLQkljUXpKSzFIMGtPSnBOSDJUVjZWYVUzZ05UR3FZV2RvZDNxQW9VQ2lrQkprRktEVVA5MFNPMl9oNHRGTDJQVUhGZlphMk51YTJ4UElNQWFjaDR0Q2M?oc=5",
-      "published": "2026-08-24T07:04:42+00:00"
+      "title": "Xiaomi (XIACY) Stock Price, News & Analysis - MarketBeat",
+      "summary": "Xiaomi (XIACY) Stock Price, News & Analysis MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BbklZbDRfbHRMaEpESGhGbWVKbFhuVmRPQU42bEU3bG56ek1HOFN3b3BOVTJsVERQYWRoNWVzcjFDRzhvQm9HekRuNHZTM1puV2ZSanN2aHZLYVZ5?oc=5",
+      "published": "2026-08-26T01:15:12+00:00"
     },
     {
       "brand": "Sony",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Apple's Leaked Camera AirPods Aren't Coming Anytime Soon - PCMag Middle East",
-      "summary": "Apple's Leaked Camera AirPods Aren't Coming Anytime Soon PCMag Middle East",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXM2amtsSldieTJTcFh5a01Wd25HZi16T0F2azV0ZlB5aHh1c2VsdVVjX2FoNnVrVWx6LWR1cjZhbC1ZVnJSM293eGRGdGpsM3hOVWtZcXpZem94eUxiSWswZlpOSU8xNGxCV1E0UWd6VFhyREVYVWxjdzFvZlpiY2hVRUdMb29oMzZleHluVTExdlZxaTBHY1B5cw?oc=5",
-      "published": "2026-08-24T04:55:48+00:00"
+      "title": "5 Amazon Electronics Deals Under $50 Worth Checking Out In August 2026 - SlashGear",
+      "summary": "5 Amazon Electronics Deals Under $50 Worth Checking Out In August 2026 SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMGhMSlN5VlVhS1BRemV6YkszakZTRU00d1lpRVRGZmR1a2NRajQtOE9Wa1BETlhUejRsUEVvcHN4VmNjZTNSNmItU2FCdHBBSGt4Sjh3RWFtWENNc1Bwc1JTRmgxY3ExWW0zSUdQV21sWGFtWm13TzNQQ2M4NHJLbTQya3dzWFU?oc=5",
+      "published": "2026-08-25T17:45:00+00:00"
     },
     {
       "brand": "Sony",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Amazon Raksha Bandhan Store: iPhone 17 Pro, Galaxy S25 Ultra and more available on offer - The Times of India",
-      "summary": "Amazon Raksha Bandhan Store: iPhone 17 Pro, Galaxy S25 Ultra and more available on offer The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPaWcxbnJOWXFVZGR4SVgxTHdJeklXbDlGa2U5RG83XzU0aHZ6Rk5nOG1JSERfMmR5VTZ5R0NZbUlKN0NvNFlhdGliNlBPaEE1eDJvcXZYa2FuMVd6LUh5V3lGUG9scy1Ea1pPNjdpdDVDN08zb3hkdXVneDFmUUNkclV3QjNWRTNhNEF5cmhTdjFQOTVCQk5yOWUtNnFmU2ducWxsbFV3RVhHRkdici1qclk3QnI0dDJtNkotemRhLUNFLVJVMkg2RmtFb3VuNUJpUUtUNWtDX0dyejlTakpfLUN4UjBpWWdOaGFqNV9LNTFkdXJPV1paT05RWTJyZ9IBgwJBVV95cUxObmhSUi1icm5JcGtVemRJakhzVzZsbUFtcVB1anNpZWwyVGc2d2JTTEw2NzlkOW0wWjhMazZBc29aaDJ5MmNEd29pVTBObzA5Q1c4dm94OVBlNDhYNUd2MkNGQmM3RzFrWTJIS1Yta2lRNElQUXc4b0ttS0dSeGpNVWJqbm9lcnFGVms1MnRJWTk3bTRkR3Fwc1htXzByQ3RHRmxzUWMwNTMxYTV6OVhIdklCZ2p2ZGk1ZFZ0X3NaeldaU0pubmE5RG9jM055ZW5ud3NLbnJ1TEswV0llNncwTWRtV2twRURjQmJkV3pCeGE3eFBNRXdCd1U5YmxRUE4tQ2N3?oc=5",
-      "published": "2026-08-24T16:45:00+00:00"
+      "title": "The 'new' Xperia 10 VIII confirms that Sony isn't even trying anymore - PhoneArena",
+      "summary": "The 'new' Xperia 10 VIII confirms that Sony isn't even trying anymore PhoneArena",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcFE5eUFVMjB5OXVJVmh0WUtJOVNOSzB6ZWRsRWhHRDdVOVU5YTJORHBxV0hpMDUtczVabUsxM0RYVGpQQ3EtV0JuVmoxX3NlOHRBRWFxLVFBUGI0czZCUHhibUFHa0d4OHc1alhzczhuNG94VFZOQnlIOXV2MTFuZkNXanpReFpQM0R3VWx1TmhTMlROWXlZYnJTX1hUandnaWF4a3JBY1pmaVdFaVhJMHVjN19aajFrUzRod2dsS1A?oc=5",
+      "published": "2026-08-25T06:52:24+00:00"
+    },
+    {
+      "brand": "Sony",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "Sony Xperia 10 VIII: a compact phone that costs a lot more for very little new - Gagadget.com",
+      "summary": "Sony Xperia 10 VIII: a compact phone that costs a lot more for very little new Gagadget.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXVJVkdaTS16eTNEa0ZSVGFSUEhZVlBWNk5wRmJuWW9RYWtDWVQzZlBYaHlYU003Rk1Pamp2VkJFMl80U3JlMzQ3YjktQTdFVWpDTVYwdHRITlZFeldKQnhzZXMwWWFhUGRsa1hqX0p1Z2Y5dEQydHlCTjlYT3hEcGlsOHAzbm9IRG1vamNVZDY2Zng4TjFzV295LTRPQ0xLOTVIei11aDFoNjdvekHSAbMBQVVfeXFMTThfWnJvRkRSdTkzajZpSEpVekxIeHJzZnBKUjVWZlNJYktubWQxRHZqVE1RcEk2R3pxa2YxamVkaDFqYlNTUDVIVkh2UHNyTnlXUmFXSkNoVThadXBVWGo2LWxTamN0RkhSYkJaU2tmVGpqUkZYTVR3OTlsaE13bTVRVk1jX0FNQkx3aXlZYk1jSmlfblJHUUVPbUliYWVZbTBLeE1jaGtoYm8yWklGb29EUEk?oc=5",
+      "published": "2026-08-25T09:18:42+00:00"
+    },
+    {
+      "brand": "Sony",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "5 Amazon Electronics Deals Under $100 Worth Checking Out In August 2026 - SlashGear",
+      "summary": "5 Amazon Electronics Deals Under $100 Worth Checking Out In August 2026 SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcTdGc2VZd3hXa1hybVN0RWR5OU5qR2x2UXQ2YTJ2cWRsTDJIRl9nbmVGcHhQVXA2d2tLWkk0T3R5ZGFOX0YwUUVvTDgwZHhqYVJDSVBWRXpIMjM4VnVXbHBTMUdmVnpnY1FSWThGUk9yeUtrWi05cHNQN3hrSmw0dmRLRlpvdnlm?oc=5",
+      "published": "2026-08-25T23:15:00+00:00"
+    },
+    {
+      "brand": "Sony",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "Sony’s New Affordable Android Phone Reuses Last Year’s Design and Features - Phandroid",
+      "summary": "Sony’s New Affordable Android Phone Reuses Last Year’s Design and Features Phandroid",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZldkT21sd1Ztbkhuay1WdnNrSGYyWkZnWDBZSUZjYlM1QnJFY2V6UkViOHFoZE90R1pQSjR6QjM0NTlNQVM0S1JvdFpCM1lKTTc0MU9heVlqNkx1OEY1N3gwbmZzVEZnalVOclVIbmJ5M0lKZTRRb1RLWWtINWpWOWxteXBmQ2J3aUFWTVdGb3dNQnNBOWZOMGJOWdIBoAFBVV95cUxNNjB6NWhqb0NHTWgxVHcxc1Q2NVNHZjZvYkE0ZXItalVYeDdaQW5kanFqeHo5MEJLSE1JRGV3Z1dpQTAyTUlGQ1U1ajRNVlNmWTZub0xMTHRtd182ZUhfdW5GbTVZeDE0VV9tS3VXX3B3ajNEdDh0dHFOMVJtbUd6QU9VY3dhU2xHWlFaU1dfMjc1MUtmRGo4REg4a3V1aERB?oc=5",
+      "published": "2026-08-25T03:37:14+00:00"
+    },
+    {
+      "brand": "Sony",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "Sony Xperia 10 VIII Keeps MicroSD Slot But Brings Few Changes - APAC Media",
+      "summary": "Sony Xperia 10 VIII Keeps MicroSD Slot But Brings Few Changes APAC Media",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONTlmODNZT1JEQV9mcm1JWXh6aUhKckZrQ1NpOWhwUld2ckhKNHYya2pqa1BwLS1xdnVhNXE5WC13anRqcFJoUzFWRERWUFRTaURqQU00SFdwY3MwampBQjYyUGJ0Y3VGVXprcGRxSWl6NmVsRDhLQldFc3l3UENfaFFTVzA3bk1TSk0zd1lubFNDamROdnY3Wmc2NEdZM2c?oc=5",
+      "published": "2026-08-25T06:04:58+00:00"
+    },
+    {
+      "brand": "Sony",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "Sony Xperia 10 VIII Launched With 50-Megapixel Rear Camera, Snapdragon 6 Gen 3 Chipset: Price, Specificat... - Gadgets 360",
+      "summary": "Sony Xperia 10 VIII Launched With 50-Megapixel Rear Camera, Snapdragon 6 Gen 3 Chipset: Price, Specificat... Gadgets 360",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM2k4dGtsRmwyZGxRanRBOURHWTVINkVsa2xveHo5V3ZMeTIycU5vQ2tHZ0x6ME9nZWdvWUl3MkxKT3lXdXM0c1I2SXcxUGFENjJXX2hKeWN3MVVuNUx2ZDJhS3hBbXZwRU9MdmVjd3VfSGZ2dENDYm9LdEZZZXljYTdvU0FaLTFjSmJoaW5MZ3dZYVRMMC1jZ2IwMzgwNHlpaUNEc3NoRmXSAa4BQVVfeXFMTXlITlFHWHcwUjI0ekVxT25UVXdZcFpqcFcyQUpremU3SndRQl9jQTA1TDRMNXRUNi1rc250WXBRUjhkbVQxWVhuenJkVUluZHZtTEVRTFpzZ29LLXN3ZnFjTmE2T1hEMlc0dmNmU1NvMmFHNVlsaUJmMl9lM0h2LVQ3bHhEOGk4N2phei1seHh6NkpfcmVOOVNySVhhUDNWV0x1TzI0OHJaT3B0RzdR?oc=5",
+      "published": "2026-08-25T09:51:42+00:00"
+    },
+    {
+      "brand": "Sony",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "Raksha Bandhan 2026: Best tech gifts for siblings, from iPhone 17 Pro to Sony headphones - Business Today",
+      "summary": "Raksha Bandhan 2026: Best tech gifts for siblings, from iPhone 17 Pro to Sony headphones Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQX0ZYNnNjcVFRVFFQZXpGMXo1YXNfaXMtbVF6b3lHaEt6QmZacEVGWEdDUVBHckVEaW51SEtQSE8xbm1naHIyREhjbW9qOEFHdlJSMHVhcnZlbDdlSEVsQkFMbk8xVUNkMlNFX3JiQnJFRVFyZU1iZWxEZ2R0ZWNGX05EWHh6VGQzWHhSbnZ1ZWU2V0hkNS1aMWtGR1NvT1hGX3Q1aFJGcnhPQzJGZUhOU2lsS1hhSnVVSXBZTWdQQ1p4d2ZkeUtINlVIaXE0NjFaVWlERXNHemNsaEMwOGlqVHJXLVJiV05DUzRn0gHwAUFVX3lxTFBXVDUwNHI4SzZEZHlHeXdLeWdhTGtBdFJ3ZDc5UlNRY05ON1lSWnFsZ20tLXN0TEVHWk5WcFQtZnROVnk2dHg5V1hhTzVZQklSQXVMa3g1a0pOSW11UnFtOGN0ckFBSFRBSjNLUVEtZjduVXgybUFoMzlJY21KakNtZzBlcllXdGdfQWJERHMxMkMxN1V5bnU3T0xEQzVTTU1JOHNnb2R1S2NiamdyX2hRLTVaTkJkY1JTdVU3MjdZSXNjVHlIaTUtTUxHZi12RXFYRWMzdWNsRl9kYURTQjlNSnFQc1VJbUg0S1I2MFQzRw?oc=5",
+      "published": "2026-08-25T05:18:32+00:00"
+    },
+    {
+      "brand": "Sony",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "Sony Xperia 10 VIII Phone Price, Specs, Comparison and Reviews (25th August 2026) - Gadgets 360",
+      "summary": "Sony Xperia 10 VIII Phone Price, Specs, Comparison and Reviews (25th August 2026) Gadgets 360",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tLTNRS09KLUxpOWxRdW1mMUlPX21sbWhSRmcwZlFOYWFubjZ6Q3VNVHUzR0VzQng2UnVXUUt4LS1FV29PbEhFNE9JTVg1YjNjUF9IMUtpamZJTlZxMGtWaFdwZHFac2tKS0tYeHZWWVo5b0d4ZmtneVNmaks?oc=5",
+      "published": "2026-08-25T12:18:30+00:00"
+    },
+    {
+      "brand": "Sony",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "vivo X500 series launching in September: X500, X500 Pro and Pro Max to debut - Business Today",
+      "summary": "vivo X500 series launching in September: X500, X500 Pro and Pro Max to debut Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOFI2S1hmVXNoNHVkUFhsZGI3TVVkTGY5S0JCdkQtWlQza0otX2stRnRtSFFRcjUzVGozUFAtQlB3dHp2bXRDS2QySDJ6Nk03bEYxM1pRWlZVSjlRcXlrb0hTdVprTDRLbkR3TnlvOGhDNElwVWZzSlpEZ1BnUEdZZVM5UEdjdkVJaUc1cklwaElncDRyUkZXVG1sTHpCM3A2eklpVDQ1LV9McnpTSW9uRjBVdGNNOUZBR0YzVmpFeG5xVndfWkhvNkRaLUV2MVFiLTRqamtWbi1EX1nSAeABQVVfeXFMTmhBU1Q0S0JoSE1LMlBndFJfcldJeUVQQWlHaXcwazdQZ1VaVjZrS2x1TVlaemdjNzBCZFhYeExWTlJhUUxUeFBzUTBKU01YU2dyRWp1SmFYdWJ5b0RLU0M3bzJUTGI3Ri1NSWR1NVF3YnVvUW5rRXZoU3pNb2QzS0NES0lWOFkxQVVoRTV0aXlCTWMzcEhackJ2dE9tRDRSRUJDMDUwSjM1Y1pVRlg4U1FmTkZ0bXFacGF6ZnFjN0RidHZOd09lUk1xODJ0RE9FbUlIZHk1Sl9jQmYxR3hzNUc?oc=5",
+      "published": "2026-08-25T05:58:44+00:00"
+    },
+    {
+      "brand": "Sony",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "Sony Xperia 10 VIII Launches at 599 Euros With Few Upgrades Over Predecessor - Technobezz",
+      "summary": "Sony Xperia 10 VIII Launches at 599 Euros With Few Upgrades Over Predecessor Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb1RTendBZVAxLWxkUlo2ckpNSzhPdlp2LU5DV01wRHUzZ0ItcDRoblpOaGdpZ2FrS0dyVW9WRXhXQkxnZHp1VjF5YV91eEUwZUlFQTBFZWNKcnlvRjVtSWFfWHJuUDJkNm45UGRUc3FDdGtXNlVydkJzejQzVlFaZVIzU3Q2X3pwZkJzTmdyeDdlV1dId190V1pWX25ia0ZNWXRDdnQ1WDhZemV6?oc=5",
+      "published": "2026-08-25T18:38:56+00:00"
+    },
+    {
+      "brand": "Bose",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "I tested Bose's new QuietComfort 2nd Gen Headphones. Here's what's new and how they compare to the Ultra. - Business Insider",
+      "summary": "I tested Bose's new QuietComfort 2nd Gen Headphones. Here's what's new and how they compare to the Ultra. Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWHJEcnpmODZ4Y1JidlFrYzhvdWRWcnMwaUZta3BmRmhfZUdDU3J6UG90c0hSSGN1czFxdnlQNHZiMTJxeWJzZ0pRRWJILWFKVm1VM29GX01yU3FZSURHQXFzRjJweHBPU19iaUJzdTRHUXdYUWtuWG9ILS1fajhuelVQSk5BTGxlamZXUkRaelg?oc=5",
+      "published": "2026-08-25T20:56:00+00:00"
+    },
+    {
+      "brand": "Bose",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "5 Over-Ear Headphones Brands That Have Better Audio Quality Than Bose - bgr.com",
+      "summary": "5 Over-Ear Headphones Brands That Have Better Audio Quality Than Bose bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcjNBU2JLVXJ6RnVQS2kzX3hNekdualIzT09lNlFqcGh3RDhScU5IeWRCUGs5LUxKNG9vemRaak11ZS1CR0dHTGhlUXcxLVZ0MTlwUERoMzhfVDBUbTlzbklkUl9mblVWam1HZTRSdmt5aUJhdDZRXzZDT1J2UGhab2RVMGVCaXNwZ3dIWTJDMGxHVmM3?oc=5",
+      "published": "2026-08-26T02:29:01+00:00"
+    },
+    {
+      "brand": "Bose",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "Before you buy the new Bose headphones, these Skullcandy cans have all the same tech for $80 less - SoundGuys",
+      "summary": "Before you buy the new Bose headphones, these Skullcandy cans have all the same tech for $80 less SoundGuys",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX2FYYk5hc0phUHhTZmJ4SmppUmQ2ZmtjbTN3cGhoclBwbEtrMFVENm9DakNXNDMxY1VwU000d21ENndOei05Mml4MHMxV250ZFJfX2ZyMThReGJQc0pBSTU3LUUyNzE0TGYwdEt3THJPZmhPaW1JMDF0OGxDT2JJaUMxMUdxNXhGZUtYX2VPeDJJekt6WHE3UA?oc=5",
+      "published": "2026-08-25T09:00:00+00:00"
+    },
+    {
+      "brand": "Bose",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "Best Clip-On Open Earbuds I’ve Tested for 2026 - CNET",
+      "summary": "Best Clip-On Open Earbuds I’ve Tested for 2026 CNET",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DMHAtSDhBMk9fTE9NRlRwNXpJd2lPb3FUUjIzcU8yd0d2LVlXaUd5cWxLVjk3UUp1d1BuZlFDLUgwN3dERnYzcXE2NmcyOG9fd3dSNlNxVTlxRU9vdGs5WHExQVU?oc=5",
+      "published": "2026-08-25T18:42:00+00:00"
+    },
+    {
+      "brand": "Bose",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "Best headphone deal: Score $100 off Bose QuietComfort Ultra - Mashable",
+      "summary": "Best headphone deal: Score $100 off Bose QuietComfort Ultra Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KaDFNY2V5ZHlRbEJVVHo1TzRRQTBYektjRTFFWWhzS0NtUThORE9kWTBQWWJxeDJnbHl5SWRaekg1UkowNU1fdllqOVJpOFp2VVJ4LU9vQ2F4cWdPNmdNU1RVOEc0QQ?oc=5",
+      "published": "2026-08-25T07:00:00+00:00"
+    },
+    {
+      "brand": "Bose",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "Bose’s smallest Bluetooth speaker is a great deal at 35 percent off - Yahoo Tech",
+      "summary": "Bose’s smallest Bluetooth speaker is a great deal at 35 percent off Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkptb1FkUnZuX09JMTJ4Tk42eWxiQzF0Z3gzUkJpbUtKWWZfNDJFdUswcmJPV3Z1aW9weXFfc181bnFadW9tWG1LR3M4UFlFRU1HRlZaQUxaZXdsZUx6WFYyT09OenRYdHAwaENXeWRwRGJDc0c3S3l6TVlnNlRJSURoVmV2S0lrRFVuSVlXLVptWWlRdHVBTnhLY0w?oc=5",
+      "published": "2026-08-25T17:39:20+00:00"
+    },
+    {
+      "brand": "Bose",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "This Tiny Bose Bluetooth Speaker Just Got a Huge $49 Price Cut - CNET",
+      "summary": "This Tiny Bose Bluetooth Speaker Just Got a Huge $49 Price Cut CNET",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11OEVyVkRINExyWXlQOUZUME01Rk9wd0xrbE52U004MDFCT1lEMFYyUjFfU20yUV9YQmxhY3hHTDZ1eExRTFotRHZ0NXMtbWxLVERUQktlWGVpOUtmeTlyaENERTRFZlBoODA4ck5tNDhQUDhXVlNpOEhmS0U?oc=5",
+      "published": "2026-08-25T19:17:27+00:00"
+    },
+    {
+      "brand": "Bose",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "‘Incredible’ headphones plunge in price 7 best wireless over-ear headphones to buy in Australia in 2026 - News.com.au",
+      "summary": "‘Incredible’ headphones plunge in price 7 best wireless over-ear headphones to buy in Australia in 2026 News.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeWtvZFF2Rk9YQnA5Q0hCSE14ODRDSnptbGxZOUJadlJFYTYwX3QzZUdzM0pDRTEwc01nRDZrSXU3LW1HR28zZTlhNU5USlpuQmdmMTk0TUlmS2VzU1M0MFZoVUctZWNpanRDTEFBTFBYdERsRkNRemVvLVlmeTMxWXpJQUY5bGs4SUdkNExUcnpSRTBCN0JJaDdHZF9qcXRhVkMzdUtsYTU0OGdSMmpjbERVQ2liQVRaUjhlcDdybjJ0Vk5nd3Vmek5adDZtUkNZUFZNVzZTZ2xkZURYM2c?oc=5",
+      "published": "2026-08-25T14:07:08+00:00"
     },
     {
       "brand": "Bose",
@@ -621,97 +695,97 @@
       "title": "The 5 Best Earbuds For Gaming of 2026 - RTINGS.com",
       "summary": "The 5 Best Earbuds For Gaming of 2026 RTINGS.com",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43WU9USXVxN0w1UFo0Y1MtUWZIZXhPM3UtTHNQNG5ZaHRkX0NNWUJPN0VBWE1IWVhZNDFMNFYyNzZkRXlWMElaa0FHdlFzaVg0Vk5HbWQ1V3EtU19Kcjl0OGpLYVo0MlotUlBkT0ZB?oc=5",
-      "published": "2026-08-25T00:53:35+00:00"
+      "published": "2026-08-25T19:25:07+00:00"
     },
     {
       "brand": "Bose",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Sound by Bose Clip-On Earbuds From Baseus Drop Again, Breaking Their Previous Record Low - Kotaku",
-      "summary": "Sound by Bose Clip-On Earbuds From Baseus Drop Again, Breaking Their Previous Record Low Kotaku",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZGFiM1BJejRfRlZiTkRiQTNSaFpSOVRVcFNObmdaSGJMWjJZSUpaWUxneV9IdGRrOS1KWDBuRlFWUThDOTU1OWUzSWdaRjJUeGcyYkRxTWNrRnJsT3dZUlZnU3ZaSEVaSWxGWGV2ZWQ2b0FwNWhvZEFCUmN0Y242dkZnaWwwa2hqaF9ZTXFuV3Bhd29FVUNoMVptYTRvR04zdklkOTlJYUxkZUFoamo0U0t3Z2xVdXcxLVlWMzR1bUhWUQ?oc=5",
-      "published": "2026-08-24T14:15:06+00:00"
+      "title": "Here's What Sony's Confusing Names For Headphones Really Mean - AOL.com",
+      "summary": "Here's What Sony's Confusing Names For Headphones Really Mean AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTmoxOFVpY0ZRWkZNTk05VzFKMVIzWjFpakthT0dVWXYxbF8xUWx0MWFhNTdQMWxYNHBEMGxtdHE1bVIzYWlMUldiQl9UWnl3Wm03aW9vMm02Z3otNVdYSEdWX1IzazZTS255bDdUdjBHZnVHRFdYOVJwTkNsV3NFWmNKdGxUTGhXSWc?oc=5",
+      "published": "2026-08-25T13:14:48+00:00"
     },
     {
       "brand": "Bose",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Hear That? It Sounds Like 46% Off Stylish Sony Headphones With Today’s Deal - PCMag",
-      "summary": "Hear That? It Sounds Like 46% Off Stylish Sony Headphones With Today’s Deal PCMag",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVzFCVkVxS25JbGVCT1dLY05ZcG15S29JNnJXNWVNazZNMkFxNnFzNVVuY3ZfRG5oUWN6TnVLSmdSUDh5d3VtUTRqbkpNd3dsRVZ3T1lncFFiODRFYU5ZeFRPODhsMzdiQk5SalNVclFpeFpzdGxVQ1duazVBcGZTY1ZxblRzVE5weHZr?oc=5",
-      "published": "2026-08-24T20:36:17+00:00"
+      "title": "Fender Audio’s First Consumer Speakers and Headphones Are Now on Sale in the U.S. - Gadget Review",
+      "summary": "Fender Audio’s First Consumer Speakers and Headphones Are Now on Sale in the U.S. Gadget Review",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQy1hRVdNY2pFODBaZmIzRkw4amlqc3ZrY3pJeC1zVUN0MHBNSzlJakluT3hXYWwxSU41Q1RLWWFKRHlMdkdyM3BPLTdHSE1fRUJGLWxWTE8tZ0FVQWNUVmZzMFU2TTQxSlR2RmxhQy04NEJ2UnBwWXgyYWJvcTRYbHlrYWY1bjYxT0k0dmZQZ1hVUm8tSzJDNm40WlFSZ0xsTmItUm5nUS1SZVpQ?oc=5",
+      "published": "2026-08-25T15:20:14+00:00"
     },
     {
       "brand": "Bose",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Walmart Deals of the Day: These Shokz Running Headphones Sound Even Better at $39 Off - CNET",
-      "summary": "Walmart Deals of the Day: These Shokz Running Headphones Sound Even Better at $39 Off CNET",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iS1hYQ3cwTXA1NE54c3ZqTVhvWndTOXJ1QmdsOEF5anFpUHVJeGJTRW00bTgyX0dDOThYY0h4eXd2STNyal9YejYySnZJSVBQWFI3cHR2MXZzVFBFVEo1LWdWandUZkh4YVJKWFhFLWFpaTQ?oc=5",
-      "published": "2026-08-24T15:21:11+00:00"
+      "title": "The 6 Best PC Gaming Headsets of 2026 - RTINGS.com",
+      "summary": "The 6 Best PC Gaming Headsets of 2026 RTINGS.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5SXZoa0k3dDQ1SDk4bnphaU5ORmxIbTFzLUVKQ0VTSHdseEJXRkhhLU1YTDFTV1k3TDh4TTk2QU1OY1dUSE1DckoxMjN6ODhmNVF0LXZiRXZDUk45UFVmRkUzMGNJWTNoY2hlc1BKQnFDVnM?oc=5",
+      "published": "2026-08-25T14:16:36+00:00"
     },
     {
       "brand": "Bose",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "All evidence suggests new Beats headphones are on the way – and an official launch could be imminent - What Hi-Fi?",
-      "summary": "All evidence suggests new Beats headphones are on the way – and an official launch could be imminent What Hi-Fi?",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPT1hIRjlfTDdRaG5yeU5KWjh6bDlZRld4VFhoWnJQYnRHR1pqSDJZRWxqRmEzRnpPMnlRYm5sYVpiTUtpbzRKWEtMMFgydmdEcWlhVXdyNE1XdFNJQUhPTmk3eXB1OUtjS0RPdlN5Mkh1a1VXek1RQkpCMHBwVmlaT3p1ZDgydjFYc2pYY05nd0QySHhmZHVyXzQ2MU9PSi05RnZra0MzdmMzZkYteE1IX3FRV014QXV3aUFRWGRldkJ6SzhaQkg4cEtvSmlaVjhxbTVXb2o1NDNfb0hqdDYzWmJVemtINk54T2c?oc=5",
-      "published": "2026-08-24T08:39:43+00:00"
-    },
-    {
-      "brand": "Bose",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "OneOdio A70 Gen 2 headphones: Hi-Res audio and 72-hour battery life for $59.99 - Mashable",
-      "summary": "OneOdio A70 Gen 2 headphones: Hi-Res audio and 72-hour battery life for $59.99 Mashable",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xTVlOYUhEeHF1VlZXaHc1WngxU3I0RFBCeGRSemdEd2JTOUVjWFlKdlJTRXhxdTBvcHQ1S051dG1lMkN6UUlWb1RqMlcxWGRUU1hqbE0zTEE5eWlCZTd0WElLU0hUM2Q4YnExd2NR?oc=5",
-      "published": "2026-08-24T18:59:28+00:00"
-    },
-    {
-      "brand": "Bose",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "8 New Audio Gear Releases Worth Considering Right Now - The Gadgeteer",
-      "summary": "8 New Audio Gear Releases Worth Considering Right Now The Gadgeteer",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa0dzOEx4NjYxZUh1aUtPalpTWkNfNmhodUlIYmlFQmRmYjlqRW5JNTRkNEU0YXFCSHBZVF9wUFlqTEk3YU5iMzJyVVdhV1hZUm05SmZ0VDhOMC1RVnV2T0FySUJuV1gzSUQyak9oSFBTeGpEdVhNV1FaeUl4QU5pWXgyZUxpNVp4d2ptR3NUd0VUTzJOYVE?oc=5",
-      "published": "2026-08-24T10:00:42+00:00"
-    },
-    {
-      "brand": "Bose",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "German TV Brand Loewe leo Wins EISA Headphone Title; JBL Xtreme 5 Adopts Bluetooth 6 First - Tech Times",
-      "summary": "German TV Brand Loewe leo Wins EISA Headphone Title; JBL Xtreme 5 Adopts Bluetooth 6 First Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONXhrSjBtaFVrdVZjNm5vNTZtMkZnY25NT0t0WnFTUEFYQ19IektHQWFZUFMyZWV5aTdrRFU0UkJuUmhDbHg3MkhnS1NidEVqRm03Sk5pRXZ0MVRmSEZNdFpnSHZKVkdsYzR2YmE4Ty1jWkJteXRqQ3NJUWt2RUlJWFBfQWVRRkV1N09wQ3ZyREZzVjJKb3pldUt4WHB4a3BmdzItbmpUUjYxV0ZNTUNPVjh5WEdHX2I5ZUd4TUEyV1ZoZnByQ2Vjb1djM0UzUHBsQjRIWS1EU2poOWNf?oc=5",
-      "published": "2026-08-24T18:52:46+00:00"
-    },
-    {
-      "brand": "Bose",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "Fiio's upcoming cassette player is colorful and has Bluetooth support - Notebookcheck",
-      "summary": "Fiio's upcoming cassette player is colorful and has Bluetooth support Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeUpmWE13dUcxMzRUQUNHQ0lQUkJ0WDFjVDhSOWFhQ2FhV1ZlT1RFWWpfbWNseDFjVE9LdGlNbWQ3LU1VcTA1X3BxdjVtUzJRMm5mb0ZmTksxc051YXIydDdhMFFHMGx4R2U0Mlhzb0xYNWFBVUk2YjZpZTAwN0JLWDRiV0RQY0FpSURBdHQtcFpiNHdyREJzanNLOGVZcVRLa29aNnhxUHMxdmR6SENTU1BuSDI?oc=5",
-      "published": "2026-08-24T19:28:00+00:00"
-    },
-    {
-      "brand": "Bose",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "Audeze Maxwell 2 ANC Review - RTINGS.com",
-      "summary": "Audeze Maxwell 2 ANC Review RTINGS.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsamNsa0huX3AtWWJfc3ZYV1JlUl9MMHdPcEd4WXdyZHZ5ME1rUmxfLUNVbnZYc0dOX2VKbnVONzBnd19OcXlKZ0JnSXVzaXFrZXJLWkR2R3NXOXpJUGF6Sm5YdHFTaDlhNFhZWDhOOA?oc=5",
-      "published": "2026-08-24T17:49:36+00:00"
+      "title": "The 5 Best Closed-Back Headphones of 2026 - RTINGS.com",
+      "summary": "The 5 Best Closed-Back Headphones of 2026 RTINGS.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kTGljbEJPd1NqU2ZLV0JrVXdJZWpHcnF3Zno0M0s1WmM0X3E3QVpTSTBnR2FCT2FGYVNEeU5MS1lfZ0NULUVZT2dWS1dzMHdYUlRSNjQ2Uy1POTYwQnNZQlRBY3J5NTl6NnZYVUdpWU1nMzVEWkl6ZHVsdw?oc=5",
+      "published": "2026-08-25T05:50:35+00:00"
     },
     {
       "brand": "Reddit",
       "market": "Global",
       "source_kind": "Discovery",
-      "title": "Please help me decide between a Pixel Watch 4 and Pixel Watch 5 - Reddit",
-      "summary": "Please help me decide between a Pixel Watch 4 and Pixel Watch 5 Reddit",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONEMxSmplMU9CdlZub3BSOFFYZmc2blB1cDdsV3h4WHNfa0hQcHVGNXdVVXNMZjdXMXJ0aDNieTJmdVRHR0ZuR3R6b25FU3lMOVhzcllWYmh5RHNZanB0NmxQS1FrZVZQOFdiLVBodS1EZ09aa0NyUmxEZGlPa0RlWnNRd3NGOWRPYlRoZ2p0aDJaTDI4ZWdFS2RBSUNQdENEbXdCS0N3?oc=5",
-      "published": "2026-08-24T10:39:22+00:00"
+      "title": "Garmin Fenix 9 - Taiwan website - Reddit",
+      "summary": "Garmin Fenix 9 - Taiwan website Reddit",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVDRhdTJrSG12ZFdWMUNJcGtjYm4xaDNkT05oTjZvRkI1d1Y1VldlUVlUcmVSWl95OTZGRFd6b1JMSl9yaThMUWN3cHdrU2YzX0VrNDhTOTVrU1M4aWphZmxldW5HaVUtTnhZbkFMbV9DMExZRnRmdHU5a3BPMEFEalBSRjNzUQ?oc=5",
+      "published": "2026-08-25T04:56:21+00:00"
+    },
+    {
+      "brand": "Reddit",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "Do you have any reason to buy Garmin Fenix 9? - Reddit",
+      "summary": "Do you have any reason to buy Garmin Fenix 9? Reddit",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2FCdnJkMndOMDhlVTY1dk1DR3FkQjQ1REhHMHVXR01SdXVVNUpRX0J1VmlUOFVUWXBad2xYUmNBYi1OUEIzckFGcEhqM3BJei1EWmhESm9VT2xBdGs2OXJaYU9EaHdWcUZfdWl4SS1pb1dzNlVtNzhtbWxoTDhiYWZtM0VDU0U0cGl4eGtsV0lWYnBxeGlUZ3Y3R2t5TWtr?oc=5",
+      "published": "2026-08-25T13:43:17+00:00"
+    },
+    {
+      "brand": "Reddit",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "Hit 40k Steps PR Yesterday - What's the most steps you've ever walked in a day? - Reddit",
+      "summary": "Hit 40k Steps PR Yesterday - What's the most steps you've ever walked in a day? Reddit",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakFvMk5uYk1zYnpiOWloWkxZVU9Jd05LbG13aWxaM0lFZGNGRUw5SUNFcmZycUlVc1lGV2RjZl9LYjFORjJ2bVRtelowUk51R1NpRUxHS2t1VWJnSGFQYWZ2NnNZaW1pd1pvVXIxdlNwMVg2YllEMEx3NW8xNXM5UFY0LW9ZVU1DM0FycEhIbUhJaTlXZVlVY0VlTkdpMm8?oc=5",
+      "published": "2026-08-25T14:12:02+00:00"
+    },
+    {
+      "brand": "Reddit",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "What’s your setup for watching movies? - Reddit",
+      "summary": "What’s your setup for watching movies? Reddit",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeEY3dDJZbm1RRkt4MFpOWGNfaUs1YWJxbGlqTnJHeDc0Vm55a0hxSlJiZnhmTk9BTndLVUtLcGQ2bWVVdTFtcjJ3YlpUXzJrM1Z1ci1PVmxHZlFJenh3X2I0TExESzZDd1VheXc3NU5IOWhYa3hyZHZxRTZCdVZaWG9zeXJKZlVYUnQ4cjZVVFA0TTJX?oc=5",
+      "published": "2026-08-25T04:43:43+00:00"
+    },
+    {
+      "brand": "Reddit",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "Strava or it didnt happen! - Reddit",
+      "summary": "Strava or it didnt happen! Reddit",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBnWnNlT2hsbmFQdWN4TjFDMUtmTU9HU3ExR2xHU09xdzdwWnRwQUYtRFZDVlVOSUdoWk5wd05nTkh1VFIyYVhKc3BsT0w?oc=5",
+      "published": "2026-08-25T08:27:48+00:00"
+    },
+    {
+      "brand": "Reddit",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "title": "When do you actually charge your smart ring so you don’t lose tracking data? - Reddit",
+      "summary": "When do you actually charge your smart ring so you don’t lose tracking data? Reddit",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU19UNnJ6eGt1cXl4YXlXX3U0Z21QZlI3RXpBTDFHM1hkTm1QOW1uaGw2ckZITHpMQUhmRVd0bFdVcmRCcFRKQk1hLV9aVEd2UEx1WmFEYjEyZzRQY3pidXlFT05LdE5ncEhzcVRrNGlGdUtLUmNzUk9LaUpud2lHMEV2QkM0QzExZllKLXA0NnhYSjhtbkhGUWRHM3RYZ2FQaVlOVmp0aU8?oc=5",
+      "published": "2026-08-25T11:14:56+00:00"
     }
   ],
   "sourceHealth": [

@@ -1,0 +1,478 @@
+[
+  {
+    "brand": "Apple",
+    "market": "Malaysia",
+    "category": "Wearables",
+    "pageType": "PCP",
+    "url": "https://www.apple.com/my/watch/"
+  },
+  {
+    "brand": "Apple",
+    "market": "Malaysia",
+    "category": "Wearables",
+    "pageType": "PDP",
+    "url": "https://www.apple.com/my/airpods/"
+  },
+  {
+    "brand": "Apple",
+    "market": "Malaysia",
+    "category": "Wearables",
+    "pageType": "PDP",
+    "url": "https://secure10.store.apple.com/my/shop/signIn/account?ssi=4AAABoDvz_B4BINEEL_7kORdbxAYl0ydxvJ6jUt6-P3lXHWgO6n6TAl_UAAAAOGh0dHBzOi8vc2VjdXJlMTAuc3RvcmUuYXBwbGUuY29tL215L3Nob3AvYWNjb3VudC9ob21lfHx8AAIBjljFiDcKJ_R_IOWs-sZgmvarWWzohF7CbO2fDr1ESa8"
+  },
+  {
+    "brand": "Apple",
+    "market": "Malaysia",
+    "category": "Wearables",
+    "pageType": "PDP",
+    "url": "https://www.apple.com/my-edu/store"
+  },
+  {
+    "brand": "Apple",
+    "market": "Malaysia",
+    "category": "Phones",
+    "pageType": "PCP",
+    "url": "https://www.apple.com/my/iphone/"
+  },
+  {
+    "brand": "Apple",
+    "market": "Malaysia",
+    "category": "Phones",
+    "pageType": "PDP",
+    "url": "https://www.apple.com/my/airpods/"
+  },
+  {
+    "brand": "Apple",
+    "market": "Malaysia",
+    "category": "Phones",
+    "pageType": "PDP",
+    "url": "https://www.apple.com/my/iphone-16/specs/"
+  },
+  {
+    "brand": "Apple",
+    "market": "Malaysia",
+    "category": "Phones",
+    "pageType": "PDP",
+    "url": "https://www.apple.com/my/iphone-17/"
+  },
+  {
+    "brand": "Apple",
+    "market": "Malaysia",
+    "category": "Audio",
+    "pageType": "PCP",
+    "url": "https://www.apple.com/my/airpods/"
+  },
+  {
+    "brand": "Apple",
+    "market": "Malaysia",
+    "category": "Audio",
+    "pageType": "PDP",
+    "url": "https://www.apple.com/my/airpods/"
+  },
+  {
+    "brand": "Apple",
+    "market": "Malaysia",
+    "category": "Audio",
+    "pageType": "PDP",
+    "url": "https://www.apple.com/my/airpods-4/"
+  },
+  {
+    "brand": "Apple",
+    "market": "Malaysia",
+    "category": "Audio",
+    "pageType": "PDP",
+    "url": "https://www.apple.com/my/airpods-max/"
+  },
+  {
+    "brand": "Apple",
+    "market": "Malaysia",
+    "category": "Tablets",
+    "pageType": "PCP",
+    "url": "https://www.apple.com/my/ipad/"
+  },
+  {
+    "brand": "Apple",
+    "market": "Malaysia",
+    "category": "Tablets",
+    "pageType": "PDP",
+    "url": "https://www.apple.com/my/airpods/"
+  },
+  {
+    "brand": "Apple",
+    "market": "Malaysia",
+    "category": "Tablets",
+    "pageType": "PDP",
+    "url": "https://www.apple.com/my/ipad-11/"
+  },
+  {
+    "brand": "Apple",
+    "market": "Malaysia",
+    "category": "Tablets",
+    "pageType": "PDP",
+    "url": "https://www.apple.com/my/ipad-air/"
+  },
+  {
+    "brand": "Apple",
+    "market": "UK",
+    "category": "Wearables",
+    "pageType": "PCP",
+    "url": "https://www.apple.com/uk/watch/"
+  },
+  {
+    "brand": "Apple",
+    "market": "UK",
+    "category": "Wearables",
+    "pageType": "PDP",
+    "url": "https://www.apple.com/uk/airpods/"
+  },
+  {
+    "brand": "Apple",
+    "market": "UK",
+    "category": "Wearables",
+    "pageType": "PDP",
+    "url": "https://secure6.store.apple.com/uk/shop/signIn/account?ssi=4AAABoDv0KUoBIAIHYng9rRrQGIGYwOvEqLijU6gdX4BGK-Bjui9P06XSAAAAN2h0dHBzOi8vc2VjdXJlNi5zdG9yZS5hcHBsZS5jb20vdWsvc2hvcC9hY2NvdW50L2hvbWV8fHwAAgEjC0--IRcYmDQkEoPmSJ5c9CMC42scRxEVuRz4QxmhBQ"
+  },
+  {
+    "brand": "Apple",
+    "market": "UK",
+    "category": "Wearables",
+    "pageType": "PDP",
+    "url": "https://www.apple.com/uk-edu/store"
+  },
+  {
+    "brand": "Apple",
+    "market": "UK",
+    "category": "Phones",
+    "pageType": "PCP",
+    "url": "https://www.apple.com/uk/iphone/"
+  },
+  {
+    "brand": "Apple",
+    "market": "UK",
+    "category": "Phones",
+    "pageType": "PDP",
+    "url": "https://www.apple.com/uk/airpods/"
+  },
+  {
+    "brand": "Apple",
+    "market": "UK",
+    "category": "Phones",
+    "pageType": "PDP",
+    "url": "https://www.apple.com/uk/iphone-16/specs/"
+  },
+  {
+    "brand": "Apple",
+    "market": "UK",
+    "category": "Phones",
+    "pageType": "PDP",
+    "url": "https://www.apple.com/uk/iphone-17/"
+  },
+  {
+    "brand": "Apple",
+    "market": "UK",
+    "category": "Audio",
+    "pageType": "PCP",
+    "url": "https://www.apple.com/uk/airpods/"
+  },
+  {
+    "brand": "Apple",
+    "market": "UK",
+    "category": "Audio",
+    "pageType": "PDP",
+    "url": "https://www.apple.com/uk/airpods/"
+  },
+  {
+    "brand": "Apple",
+    "market": "UK",
+    "category": "Audio",
+    "pageType": "PDP",
+    "url": "https://www.apple.com/uk/airpods-4/"
+  },
+  {
+    "brand": "Apple",
+    "market": "UK",
+    "category": "Audio",
+    "pageType": "PDP",
+    "url": "https://www.apple.com/uk/airpods-max/"
+  },
+  {
+    "brand": "Apple",
+    "market": "UK",
+    "category": "Tablets",
+    "pageType": "PCP",
+    "url": "https://www.apple.com/uk/ipad/"
+  },
+  {
+    "brand": "Apple",
+    "market": "UK",
+    "category": "Tablets",
+    "pageType": "PDP",
+    "url": "https://www.apple.com/uk/airpods/"
+  },
+  {
+    "brand": "Apple",
+    "market": "UK",
+    "category": "Tablets",
+    "pageType": "PDP",
+    "url": "https://www.apple.com/uk/ipad-11/"
+  },
+  {
+    "brand": "Apple",
+    "market": "UK",
+    "category": "Tablets",
+    "pageType": "PDP",
+    "url": "https://www.apple.com/uk/ipad-air/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "Malaysia",
+    "category": "Wearables",
+    "pageType": "PCP",
+    "url": "https://www.samsung.com/my/watches/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "Malaysia",
+    "category": "Wearables",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/my/offer/galaxy-z8-series/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "Malaysia",
+    "category": "Wearables",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/my/watches/galaxy-watch/galaxy-watch-ultra2-titanium-silver-lte-sm-l715fzsaxme/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "Malaysia",
+    "category": "Wearables",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/my/watches/galaxy-watch/galaxy-watch8-classic-46mm-black-bluetooth-sm-l500nzkaxme/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "Malaysia",
+    "category": "Phones",
+    "pageType": "PCP",
+    "url": "https://www.samsung.com/my/smartphones/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "Malaysia",
+    "category": "Phones",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/my/offer/galaxy-z8-series/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "Malaysia",
+    "category": "Phones",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/my/smartphones/galaxy-s/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "Malaysia",
+    "category": "Phones",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/my/smartphones/galaxy-s26-ultra/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "Malaysia",
+    "category": "Audio",
+    "pageType": "PCP",
+    "url": "https://www.samsung.com/my/audio-sound/galaxy-buds/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "Malaysia",
+    "category": "Audio",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/my/audio-sound/galaxy-buds/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "Malaysia",
+    "category": "Audio",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/my/offer/galaxy-z8-series/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "Malaysia",
+    "category": "Audio",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/my/audio-sound/galaxy-buds4-pro/buy/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "Malaysia",
+    "category": "Tablets",
+    "pageType": "PCP",
+    "url": "https://www.samsung.com/my/tablets/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "Malaysia",
+    "category": "Tablets",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/my/offer/galaxy-z8-series/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "Malaysia",
+    "category": "Tablets",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/my/tablets/galaxy-tab-a/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "Malaysia",
+    "category": "Tablets",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/my/tablets/galaxy-tab-a/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "UK",
+    "category": "Wearables",
+    "pageType": "PCP",
+    "url": "https://www.samsung.com/uk/watches/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "UK",
+    "category": "Wearables",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/uk/watches/galaxy-watch/galaxy-watch-ultra2-titanium-silver-lte-sm-l715fzsaeub/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "UK",
+    "category": "Wearables",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/uk/watches/galaxy-watch/galaxy-watch8-classic-46mm-black-bluetooth-sm-l500nzkaeua/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "UK",
+    "category": "Wearables",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/uk/watches/galaxy-watch/galaxy-watch9-40mm-cream-bluetooth-sm-l340nzeaeub/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "UK",
+    "category": "Phones",
+    "pageType": "PCP",
+    "url": "https://www.samsung.com/uk/smartphones/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "UK",
+    "category": "Phones",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/uk/smartphones/galaxy-s/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "UK",
+    "category": "Phones",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/uk/smartphones/galaxy-s26-ultra/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "UK",
+    "category": "Phones",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/uk/smartphones/galaxy-z/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "UK",
+    "category": "Audio",
+    "pageType": "PCP",
+    "url": "https://www.samsung.com/uk/audio-sound/galaxy-buds/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "UK",
+    "category": "Audio",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/uk/audio-sound/galaxy-buds/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "UK",
+    "category": "Audio",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/uk/audio-sound/galaxy-buds4-pro/buy/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "UK",
+    "category": "Audio",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/uk/shop/mobile/home/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "UK",
+    "category": "Tablets",
+    "pageType": "PCP",
+    "url": "https://www.samsung.com/uk/tablets/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "UK",
+    "category": "Tablets",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/uk/tablets/galaxy-tab-a/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "UK",
+    "category": "Tablets",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/uk/tablets/galaxy-tab-s/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "UK",
+    "category": "Tablets",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/uk/audio-sound/galaxy-buds4-pro/buy/"
+  },
+  {
+    "brand": "Garmin",
+    "market": "UK",
+    "category": "Wearables",
+    "pageType": "PCP",
+    "url": "https://www.garmin.com/en-GB/c/wearables-smartwatches/"
+  },
+  {
+    "brand": "Garmin",
+    "market": "UK",
+    "category": "Wearables",
+    "pageType": "PDP",
+    "url": "https://www.garmin.com/en-GB/p/1229049/"
+  },
+  {
+    "brand": "Garmin",
+    "market": "UK",
+    "category": "Wearables",
+    "pageType": "PDP",
+    "url": "https://www.garmin.com/en-GB/p/1277934/"
+  },
+  {
+    "brand": "Garmin",
+    "market": "UK",
+    "category": "Wearables",
+    "pageType": "PDP",
+    "url": "https://www.garmin.com/en-GB/p/1611121/"
+  }
+]
