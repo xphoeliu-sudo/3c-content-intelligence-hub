@@ -1,966 +1,1744 @@
 {
+  "executive": [
+    "Garmin UK is preparing a virtual launch event on 25 August 2026 teasing new wearables including FĒNIX® 9 and CIRQA™ Smart Band.",
+    "Aggressive clearance and promotion strategies are active across UK EMEA channels to drive end-of-cycle sales.",
+    "Garmin Malaysia updated Wearables PCP structure and CTAs, indicating localized UX optimization for category navigation."
+  ],
   "signals": [
     {
       "brand": "Garmin",
-      "market": "Global",
-      "type": "PRODUCT",
-      "priority": "HIGH",
-      "title": "Garmin announces fenix 9 and fenix 9 Pro GPS smartwatch series",
-      "summary": "Garmin has launched the fenix 9 and fenix 9 Pro GPS smartwatch series with multiple size variants (43mm, 47mm, 51mm), inReach connectivity options, and Solar charging capabilities.",
-      "implication": "Major premium smartwatch launch targeting outdoor/adventure segment. HUAWEI should monitor feature positioning, pricing, and ecosystem integration for competitive benchmarking against WATCH GT and Ultimate series.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYUwxam0tWlNkOGRFa3cyN2Y2WldWNFBVWFpkZ29lNV9FUktlQjNzUVE4X0FVT0J5TVlDMVEwZjh2NEs5NDc1bEVoeGt5YnU0cDBTbFhCVG5BSFZ0QUdjS0xuYXZDN1NzLVl5enFSZEZFREZJV3h2MkRXSlU0ZzVnN0xkc2RsMjhBV0swMTh1Z29mZFVYdmNDVzVGSm1tNHJZYzE1SzJ1dVNPcnF4SkhEbGliUlNnWTdHbGFvZG9Mbi1rTVVCdnNuYUdpNDk0Y09wQWVnWE11WEFXSGdKeFE?oc=5"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "type": "PRODUCT",
-      "priority": "HIGH",
-      "title": "fenix 9 Pro offers multiple size and connectivity variants",
-      "summary": "Product pages show fenix 9 Pro available in 43mm, 47mm, and 51mm sizes with optional inReach satellite connectivity and Solar charging options.",
-      "implication": "Garmin is segmenting by wrist size and connectivity needs. HUAWEI should consider similar size variant strategy for global markets and evaluate satellite connectivity as premium differentiator.",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iZDI1bDdoN0xkYmRyb1NOTDJ5WnpvZUM5ZVZDaVpYZzJqOEVXTER1VDlqMFY3N3BkakhEZ2pOVnJRdl9sMWlQMkxtZGZmV1ZE?oc=5"
+      "market": "UK",
+      "type": "Launch",
+      "priority": "High",
+      "title": "Virtual Launch Event Tease",
+      "summary": "Official landing page invites users to virtual launch event on 25 August 2026.",
+      "implication": "New product announcements imminent; competitive benchmarking required.",
+      "url": "https://www.garmin.com/en-GB/play-harder"
     },
     {
       "brand": "Garmin",
       "market": "UK",
-      "type": "PRODUCT",
-      "priority": "MEDIUM",
-      "title": "fenix 9 series launched in UK market with full variant range",
-      "summary": "UK market receiving complete fenix 9 lineup including Pro variants with inReach and Solar options across all three size categories.",
-      "implication": "Garmin prioritizing UK as key European market for premium wearables. HUAWEI UK should review WATCH GT premium positioning and consider enhanced outdoor/fitness storytelling.",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CdkQzVURSQm1WVjlDWmxTaUpoVDE1TF9LeTc3SEw0MWw5b3c1LVgteFpwR0R3S2YyVmlyZlFTUTYxR3hkSms5NnlsWGd0X1Q0?oc=5"
+      "type": "Product",
+      "priority": "High",
+      "title": "FĒNIX® 9 Product Page Live",
+      "summary": "Ultimate smartwatch product page accessible indicating market readiness.",
+      "implication": "Flagship competitor positioning updated; feature comparison needed.",
+      "url": "https://www.garmin.com/en-GB/p/1953453"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "type": "Product",
+      "priority": "High",
+      "title": "CIRQA™ Smart Band Listing",
+      "summary": "New smart band product page visible with no subscription requirement highlighted.",
+      "implication": "Entry-level wearable segment targeting with value proposition focus.",
+      "url": "https://www.garmin.com/en-GB/p/1989182"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "type": "Promotion",
+      "priority": "Medium",
+      "title": "Clearance Deals EMEA",
+      "summary": "Dedicated clearance hub active for EMEA region with gift filters.",
+      "implication": "Inventory reduction strategy may impact pricing pressure in region.",
+      "url": "https://www.garmin.com/en-GB/c/promotions/clearance-deals-emea/?FILTER_FEATURE_GIFTONSALEEMEA=true"
     },
     {
       "brand": "Garmin",
       "market": "Malaysia",
-      "type": "PRODUCT",
-      "priority": "MEDIUM",
-      "title": "Garmin Malaysia continues fenix 8 and Descent Mk3 positioning",
-      "summary": "Malaysia market pages show fenix 8 Advanced Outdoor GPS Smartwatch and Descent Mk3 dive smartwatch still active in product lineup.",
-      "implication": "Garmin maintaining previous generation in SEA market while launching fenix 9 globally. HUAWEI Malaysia should leverage this transition period for WATCH GT competitive promotions.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DMzdvamd5N1ZGX2xWSjd4aEZaUjdRYmhQMWtZYmluYjMzZXNsQzhDMWxTV1hpX2dLZFJKVUVXZnBsMUg3Q3RKVmhfdzJNNXZtLW1oS3VRaGdHTDk1dGltaEdpVzdQUGZQa0lHdWNMZEpoX2VzdnNN?oc=5"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "type": "CONTENT",
-      "priority": "MEDIUM",
-      "title": "fenix 9 Series Owner's Manual includes Bluetooth headphone connectivity",
-      "summary": "Product documentation shows fenix 9 supports Bluetooth headphone pairing for audio during activities.",
-      "implication": "Audio integration is standard in premium smartwatches. HUAWEI should emphasize FreeBuds + WATCH ecosystem synergy in fitness scenarios.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMUhTTDB0VkxISW10T240RzFXS1RBUnBFdjNyVGtzbFlPb3VEdU9LUHZoTjVfcTVJTmg3d3JWRmVZUktpTTRnejNJaHc2Z1ljR3h5Z0pIeWwtaV9oZlhJTHhONUxjT2pTeG1OREx5Z0NERGFRU0NaN3M0eGU5UU5RVDhhdURuNGRTX3hWZzIwVjVpcEUzbjV6STZnRUpYT0FnYTdRUTVoeUhla05zTTVTd1ExNnM1amZGNWF1YW41LXkteU9nOFlsd3lEaUpTeWM?oc=5"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "type": "PCP",
-      "priority": "MEDIUM",
-      "title": "Garmin Product Comparison page updated for fenix 9 series",
-      "summary": "Product comparison functionality available for fenix 9 variants to help shoppers differentiate between models.",
-      "implication": "Comparison tools reduce purchase friction in complex product lines. HUAWEI should enhance PDP comparison modules for WATCH GT vs Ultimate vs Fit series.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWUpIYVpXaVdnN2xrSXA2QzNEZF9lLXhRaGlfRnR6MUhHa3FudERreGY2TDVuNFlXcnhJWEN6QTh4VmFIaWI4ZzVPd1VmUWxYRHJzUTlOVlpkS3hQcWxmOWZYVERxUnJFbU9Vdjd0Wm9TYXBXMTVpcGJ6WHFjbHJJcnN4Q3BXWVFXTWNF?oc=5"
+      "type": "UX",
+      "priority": "Medium",
+      "title": "Wearables PCP Structure Update",
+      "summary": "Headings, structure and CTA links modified on All Wearables category page.",
+      "implication": "Conversion rate optimization testing underway in local market.",
+      "url": "https://www.garmin.com.my/products/wearables/?cat=wearables-smartwatches"
     },
     {
       "brand": "Garmin",
       "market": "UK",
-      "type": "CONTENT",
-      "priority": "LOW",
-      "title": "Garmin publishes daily suggested workouts content for runners",
-      "summary": "Educational content about types of daily suggested workouts for runners is available on Garmin UK.",
-      "implication": "Garmin invests in fitness education content to drive engagement. HUAWEI Health app should expand workout guidance content and surface it in marketing.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTmo4U0Vkc3hqZ1NsQmFnM2JPZEpRLUlsQzlBVlQtbnJwNEtKMjBTZDZINlhMOFZKZFVqN0RkT3ZsN19DUFBYbHdqcXVWbWtCOXVtYURPdFFGdkFWQXR1c09tRFJ3SllidTJKaDlnTUpxZ3oyXzV3ZWItM2VlZXFnZ2xzaUluMUE?oc=5"
+      "type": "Product",
+      "priority": "Medium",
+      "title": "FORERUNNER® 70 | 170 Listing",
+      "summary": "Easy-to-use GPS running smartwatches product page published.",
+      "implication": "Mid-range running segment reinforcement observed.",
+      "url": "https://www.garmin.com/en-GB/p/1941179"
     },
     {
       "brand": "Garmin",
       "market": "UK",
-      "type": "PRODUCT",
-      "priority": "LOW",
-      "title": "QuickFit 20 Watch Bands available for fenix series",
-      "summary": "Interchangeable watch band system promoted for fenix watches with QuickFit 20 compatibility.",
-      "implication": "Accessory ecosystem drives repeat purchases and personalization. HUAWEI should expand WATCH band accessory range and promote customization options.",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nQlhobksyeGZOOU1RUHZQb1k1bHBYUm02NUw0cnNWTEZmc05QSkxjMFZvb1ZBekhfRjZkYWJzRDBrQ1NUVXlvRGVJX0VJMDd4UWhoNXctMEllc0UyeWc1WGYwQQ?oc=5"
+      "type": "Support",
+      "priority": "Low",
+      "title": "Aviation Support Hub",
+      "summary": "Dedicated support center for aviation products maintained.",
+      "implication": "Niche vertical support remains a differentiator.",
+      "url": "https://support.garmin.com/en-GB/aviation"
     },
     {
       "brand": "Garmin",
       "market": "UK",
-      "type": "CONTENT",
-      "priority": "LOW",
-      "title": "Garmin Connect App troubleshooting content for device pairing",
-      "summary": "Support content addresses device or accessory not found during pairing process in Garmin Connect App.",
-      "implication": "Post-purchase support content reduces returns and improves satisfaction. HUAWEI should strengthen AI chatbot and FAQ coverage for common pairing issues.",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd3ZMSV84Z29HTGxCV1dldnhYZ2xSY3pBaUFMY3dhZWZaM3F4UGxkcjVqcHgxUlFIMzFBdDVpWGVzSTFyRUNVVlFIWWtWVFAwYjJWUjU0bGx0bDNXcU9na3p0enR1NUJpLUhhQXBQVXVGaUpNZzlfM1ZLVXcxcXVtNkRoQ3FNZXNKeFE?oc=5"
+      "type": "Program",
+      "priority": "Low",
+      "title": "Garmin Pros Program",
+      "summary": "Professional ambassador program page accessible for anglers and general pros.",
+      "implication": "Influencer and pro-user marketing channel active.",
+      "url": "https://www.garmin.com/en-GB/pros"
+    }
+  ],
+  "contentMoves": [
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "format": "Event Page",
+      "product": "Launch Event",
+      "title": "SOMETHING NEW IS COMING",
+      "summary": "Virtual launch event invitation scheduled for 25 August 2026.",
+      "date": "2026-08-26T09:13:17.587422+00:00",
+      "url": "https://www.garmin.com/en-GB/play-harder"
     },
     {
       "brand": "Garmin",
-      "market": "Global",
-      "type": "PRODUCT",
-      "priority": "MEDIUM",
-      "title": "Instinct 3 AMOLED variant available in 45mm size",
-      "summary": "Instinct 3 series now offers AMOLED display option in 45mm size, expanding display technology choices.",
-      "implication": "Garmin adopting AMOLED in rugged segment. HUAWEI WATCH Ultimate should emphasize LTPO AMOLED advantages for battery + display quality balance.",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yaVJ0WW8xUV9MaURCdlloUVZVcHJ1WndTMmRXWWp1dFhMazRFYkRxSDQxSDJDUzA5S3h2R1R4Q0t4aTNmMEtrRTlFbURMMHZr?oc=5"
+      "market": "UK",
+      "format": "PDP",
+      "product": "FĒNIX® 9",
+      "title": "FĒNIX® 9 The ultimate smartwatch",
+      "summary": "Product detail page for flagship multisport watch.",
+      "date": "2026-08-26T09:13:17.587515+00:00",
+      "url": "https://www.garmin.com/en-GB/p/1953453"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "format": "PDP",
+      "product": "CIRQA™ Smart Band",
+      "title": "CIRQA™ Smart Band",
+      "summary": "Tracking band with no subscription requirement.",
+      "date": "2026-08-26T09:13:17.587820+00:00",
+      "url": "https://www.garmin.com/en-GB/p/1989182"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "format": "PDP",
+      "product": "FORERUNNER® 70 | 170",
+      "title": "FORERUNNER® 70 | 170 Easy-to-use GPS running smartwatches",
+      "summary": "Entry to mid-level running watch product page.",
+      "date": "2026-08-26T09:13:17.587610+00:00",
+      "url": "https://www.garmin.com/en-GB/p/1941179"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "format": "Program Page",
+      "product": "Garmin Coach",
+      "title": "Garmin Coach",
+      "summary": "Overview of adaptive training plans.",
+      "date": "2026-08-26T09:13:17.589230+00:00",
+      "url": "https://www.garmin.com/en-GB/garmin-coach/overview"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "format": "Support Page",
+      "product": "Aviation",
+      "title": "Aviation Support",
+      "summary": "Support resources for aviation devices.",
+      "date": "2026-08-26T09:13:17.624599+00:00",
+      "url": "https://support.garmin.com/en-GB/aviation"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "format": "Support Page",
+      "product": "Navionics",
+      "title": "Navionics Support",
+      "summary": "Support center for Navionics charts and apps.",
+      "date": "2026-08-26T09:13:17.624469+00:00",
+      "url": "https://support.garmin.com/en-GB/navionics"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "format": "Brochure",
+      "product": "Marine",
+      "title": "Marine Brochures",
+      "summary": "Downloadable brochures for marine products.",
+      "date": "2026-08-26T09:13:17.595339+00:00",
+      "url": "https://www.garmin.com/en-GB/marine/brochures"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "format": "PDP",
+      "product": "Spy Pole™",
+      "title": "Spy Pole™ | GT360UHD Motorised control",
+      "summary": "Motorised control for LiveScope and sonar imagery.",
+      "date": "2026-08-26T09:13:17.595601+00:00",
+      "url": "https://www.garmin.com/en-GB/p/1611121"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "format": "PDP",
+      "product": "ZŪMO® XT3",
+      "title": "ZŪMO® XT3 Rugged motorcycle sat nav",
+      "summary": "Motorcycle navigation device product page.",
+      "date": "2026-08-26T09:13:17.593188+00:00",
+      "url": "https://www.garmin.com/en-GB/p/1904331"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "format": "Info Page",
+      "product": "Garmin Technology",
+      "title": "Garmin Technology",
+      "summary": "Overview of proprietary technology and features.",
+      "date": "2026-08-26T09:13:17.587247+00:00",
+      "url": "https://www.garmin.com/en-GB/garmin-technology"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "format": "Health Page",
+      "product": "Training",
+      "title": "Training",
+      "summary": "Aviation training resources and content.",
+      "date": "2026-08-26T09:13:17.623901+00:00",
+      "url": "https://www.garmin.com/en-US/aviation/training"
+    }
+  ],
+  "marketingMoves": [
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "type": "Event",
+      "title": "Virtual Launch Event",
+      "summary": "Scheduled online event to unveil new products on 25 August 2026.",
+      "url": "https://www.garmin.com/en-GB/play-harder"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "type": "Promotion",
+      "title": "Clearance Deals EMEA",
+      "summary": "Regional clearance sale with gift filtering options.",
+      "url": "https://www.garmin.com/en-GB/c/promotions/clearance-deals-emea/?FILTER_FEATURE_GIFTONSALEEMEA=true"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "type": "Promotion",
+      "title": "Promotions Hub",
+      "summary": "Centralized page for current sales and offers.",
+      "url": "https://www.garmin.com/en-GB/promotions"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "type": "Promotion",
+      "title": "Aviation Promotions",
+      "summary": "Specific promotional landing page for aviation products.",
+      "url": "https://www.garmin.com/en-US/promotions/aviation"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "type": "Tool",
+      "title": "Marine System Builder",
+      "summary": "Interactive tool for configuring marine electronics systems.",
+      "url": "https://www.garmin.com/en-GB/marine-system-builder"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "type": "Program",
+      "title": "Garmin Pros",
+      "summary": "Ambassador and professional user program engagement.",
+      "url": "https://www.garmin.com/en-GB/pros"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "type": "Program",
+      "title": "Garmin Pros Anglers",
+      "summary": "Specific vertical program for fishing professionals.",
+      "url": "https://www.garmin.com/en-GB/pros/anglers"
     },
     {
       "brand": "Garmin",
       "market": "Malaysia",
-      "type": "PRODUCT",
-      "priority": "LOW",
-      "title": "Descent Mk3 dive smartwatch positioned in Malaysia market",
-      "summary": "Specialized dive smartwatch with GPS functionality available in Malaysia, targeting niche diving enthusiast segment.",
-      "implication": "Garmin pursues vertical-specific wearables. HUAWEI should evaluate niche sport modes (diving, climbing) for WATCH Ultimate differentiation.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnOG1saThJM3l6TU8ycGczcDBEVG4yUGpNNHp1ZlRMNkR2QUZEbEVHWHBNT1RGR09Uem5FZWt2Slh4WHRmLUtJSE04RUV1VHVjQi0zR2FhTDBYZjRQcnFLWV8zQmh1Wjhmb0sxSFoyTzdnZjhtYUdn?oc=5"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "type": "MARKETING",
-      "priority": "LOW",
-      "title": "Garmin Special Announcement published",
-      "summary": "Garmin issued a special announcement in UK market, details unspecified in discovery feed.",
-      "implication": "Monitor for potential promotional campaigns or product updates. HUAWEI UK should prepare responsive marketing assets for competitive counter-messaging.",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aTXRnaTFqYnRnZ3FJd0hrQk5zVGVnazVRSmFuYVc2U09vWDdGUHBGMEZmeHhlVjJTcUQwWFRxYlRKZUU2UWNidW1GaGJaZDZ2aHlz?oc=5"
+      "type": "Localization",
+      "title": "PCP UX Optimization",
+      "summary": "Updates to headings and CTAs on Wearables category page.",
+      "url": "https://www.garmin.com.my/products/wearables/?cat=wearables-smartwatches"
     }
   ],
   "actions": [
     {
-      "priority": "P1",
-      "action": "Create competitive benchmark report comparing HUAWEI WATCH Ultimate/GT series against Garmin fenix 9 Pro features, pricing, and positioning",
-      "why": "fenix 9 launch represents direct competitive threat in premium outdoor smartwatch segment. Need clear differentiation messaging.",
-      "examples": "Feature matrix (battery, GPS, health sensors, satellite connectivity), price comparison by market, ecosystem advantages"
+      "priority": "High",
+      "action": "Monitor Virtual Launch Event",
+      "why": "New product specs will define competitive benchmark for Q4.",
+      "examples": "Track Fenix 9 and CIRQA feature announcements on 25 August."
     },
     {
-      "priority": "P1",
-      "action": "Enhance PDP comparison modules on HUAWEI e-commerce sites to allow easy WATCH series differentiation",
-      "why": "Garmin offers product comparison tools reducing purchase friction. HUAWEI shoppers need similar decision support.",
-      "examples": "Side-by-side spec tables, use case recommenders, interactive size/feature selectors"
+      "priority": "High",
+      "action": "Benchmark FĒNIX® 9 Pricing",
+      "why": "Flagship pricing strategy impacts premium wearable positioning.",
+      "examples": "Compare PDP price against Huawei Ultimate Design series."
     },
     {
-      "priority": "P2",
-      "action": "Develop scenario-based content showcasing HUAWEI WATCH + FreeBuds ecosystem synergy for fitness activities",
-      "why": "Garmin documents Bluetooth headphone connectivity. HUAWEI has stronger audio ecosystem integration opportunity.",
-      "examples": "Video content showing seamless audio switching, workout playlists, call handling during exercise"
+      "priority": "Medium",
+      "action": "Analyze Clearance Discount Depth",
+      "why": "Clearance levels indicate inventory pressure and price floor.",
+      "examples": "Review EMEA clearance deals for margin insights."
     },
     {
-      "priority": "P2",
-      "action": "Expand fitness education content in HUAWEI Health app and marketing channels",
-      "why": "Garmin publishes workout guidance content to drive engagement. Content marketing builds brand authority.",
-      "examples": "Daily workout suggestions, training plans, sport-specific tips, recovery guidance"
+      "priority": "Medium",
+      "action": "Audit Malaysia PCP UX",
+      "why": "Structure changes may improve their conversion rates.",
+      "examples": "Compare heading hierarchy and CTA placement on Garmin MY vs Huawei MY."
     },
     {
-      "priority": "P2",
-      "action": "Review WATCH band accessory strategy and promote QuickFit-style interchangeability",
-      "why": "Garmin promotes QuickFit bands for personalization and repeat purchases. Accessory ecosystem drives LTV.",
-      "examples": "Band variety expansion, styling guides, limited edition collaborations, easy-swap demonstrations"
+      "priority": "Medium",
+      "action": "Evaluate CIRQA™ Value Prop",
+      "why": "No subscription model challenges service revenue strategies.",
+      "examples": "Assess feature set against Huawei Band series."
     },
     {
-      "priority": "P3",
-      "action": "Evaluate satellite connectivity feature for future HUAWEI WATCH premium models",
-      "why": "Garmin fenix 9 Pro offers inReach satellite connectivity as premium differentiator. Safety feature appeals to outdoor segment.",
-      "examples": "Feasibility study, partnership options, emergency SOS positioning vs competitors"
+      "priority": "Low",
+      "action": "Review Garmin Coach Content",
+      "why": "Training content drives ecosystem stickiness.",
+      "examples": "Analyze adaptive plan offerings for health app integration."
     },
     {
-      "priority": "P3",
-      "action": "Strengthen AI chatbot and FAQ coverage for common device pairing and connectivity issues",
-      "why": "Garmin publishes troubleshooting content for pairing problems. Proactive support reduces returns and improves NPS.",
-      "examples": "Pairing flow videos, step-by-step guides, chatbot escalation paths, video tutorials"
+      "priority": "Low",
+      "action": "Track Aviation Niche Support",
+      "why": "Specialized support reinforces brand authority in verticals.",
+      "examples": "Monitor aviation support page updates for content depth."
     },
     {
-      "priority": "P3",
-      "action": "Consider niche sport mode development for WATCH Ultimate (diving, climbing, sailing)",
-      "why": "Garmin pursues vertical-specific wearables like Descent dive watch. Niche features justify premium pricing.",
-      "examples": "Dive depth tracking, climb altitude logging, sailing navigation modes, sport community partnerships"
-    },
-    {
-      "priority": "P2",
-      "action": "Prepare responsive marketing assets for UK and Malaysia markets to counter fenix 9 launch messaging",
-      "why": "Garmin launching fenix 9 globally with market-specific pages. HUAWEI needs competitive counter-campaigns ready.",
-      "examples": "Value comparison ads, ecosystem advantage creatives, limited-time promotional bundles"
-    },
-    {
-      "priority": "P3",
-      "action": "Monitor Garmin pricing strategy across Global, UK, Malaysia for fenix 9 series and adjust HUAWEI promotional calendar",
-      "why": "New product launches often include introductory pricing. HUAWEI should time promotions strategically.",
-      "examples": "Price tracking dashboard, promotional trigger alerts, bundle offer templates"
+      "priority": "Low",
+      "action": "Observe Pros Program Activity",
+      "why": "Ambassador marketing influences community trust.",
+      "examples": "Check Pros page for new athlete signings or content."
     }
   ],
-  "contentMix": [
-    {
-      "brand": "Apple",
-      "education": 0,
+  "contentMix": {
+    "Apple": {
+      "howTo": 0,
+      "productVideo": 0,
       "campaign": 0,
-      "product": 0,
-      "scenario": 0,
-      "ai": 0
+      "healthFitness": 0,
+      "lifestyle": 0,
+      "creator": 0,
+      "event": 0
     },
-    {
-      "brand": "Samsung",
-      "education": 0,
+    "Samsung": {
+      "howTo": 0,
+      "productVideo": 0,
       "campaign": 0,
-      "product": 0,
-      "scenario": 0,
-      "ai": 0
+      "healthFitness": 0,
+      "lifestyle": 0,
+      "creator": 0,
+      "event": 0
     },
+    "Garmin": {
+      "howTo": 10,
+      "productVideo": 40,
+      "campaign": 20,
+      "healthFitness": 15,
+      "lifestyle": 5,
+      "creator": 0,
+      "event": 10
+    }
+  },
+  "pageChanges": [
     {
       "brand": "Garmin",
-      "education": 25,
-      "campaign": 10,
-      "product": 50,
-      "scenario": 10,
-      "ai": 5
+      "market": "Malaysia",
+      "pageType": "PCP",
+      "title": "All Wearables & Smartwatches",
+      "changes": [
+        "Headings / structure",
+        "CTA / links"
+      ],
+      "before": "All Wearables & Smartwatches",
+      "after": "All Wearables & Smartwatches",
+      "url": "https://www.garmin.com.my/products/wearables/?cat=wearables-smartwatches"
     }
   ],
-  "pageChanges": [],
-  "updatedAt": "2026-08-26T16:34:55.520006+08:00",
+  "updatedAt": "2026-08-26T09:16:21.176225+00:00",
   "timezone": "Asia/Kuala_Lumpur",
   "feedItems": [
     {
-      "brand": "Apple",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Official",
-      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-      "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "published": "2026-08-26T08:33:22.510822+00:00"
+      "content_type": "Product / Brand Content",
+      "title": "Aviation Support",
+      "summary": "",
+      "url": "https://support.garmin.com/en-GB/aviation",
+      "published": "2026-08-26T09:13:17.624599+00:00"
     },
     {
-      "brand": "Apple",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Official",
-      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
-      "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design.",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "published": "2026-08-26T08:33:22.510937+00:00"
+      "content_type": "Product / Brand Content",
+      "title": "Navionics Support",
+      "summary": "",
+      "url": "https://support.garmin.com/en-GB/navionics",
+      "published": "2026-08-26T09:13:17.624469+00:00"
     },
     {
-      "brand": "Apple",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Official",
-      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "published": "2026-08-26T08:33:22.511019+00:00"
+      "content_type": "Product / Brand Content",
+      "title": "Aviation Support",
+      "summary": "",
+      "url": "https://fly.garmin.com/fly-garmin/support",
+      "published": "2026-08-26T09:13:17.624393+00:00"
     },
     {
-      "brand": "Apple",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Official",
-      "title": "Apple announces changes for apps in the European Union",
-      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "published": "2026-08-26T08:33:22.511087+00:00"
+      "content_type": "Product / Brand Content",
+      "title": "Support Center",
+      "summary": "",
+      "url": "https://support.garmin.com/en-GB",
+      "published": "2026-08-26T09:13:17.624316+00:00"
     },
     {
-      "brand": "Apple",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Official",
-      "title": "Apple opens Advanced Manufacturing Center in Houston",
-      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
-      "published": "2026-08-26T08:33:22.511150+00:00"
+      "content_type": "Product / Brand Content",
+      "title": "CLEARANCE DEALS",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/promotions/clearance-deals-emea/?FILTER_FEATURE_GIFTONSALEEMEA=true",
+      "published": "2026-08-26T09:13:17.624239+00:00"
     },
     {
-      "brand": "Apple",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Official",
-      "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
-      "summary": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
-      "published": "2026-08-26T08:33:22.511216+00:00"
+      "content_type": "Product / Brand Content",
+      "title": "PROMOTIONS Check out our current sales Shop Now",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/promotions",
+      "published": "2026-08-26T09:13:17.624154+00:00"
     },
     {
-      "brand": "Apple",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Official",
-      "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
-      "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
-      "published": "2026-08-26T08:33:22.511286+00:00"
+      "content_type": "Product / Brand Content",
+      "title": "Promotions",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/promotions",
+      "published": "2026-08-26T09:13:17.624074+00:00"
     },
     {
-      "brand": "Apple",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Official",
-      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
-      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
-      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
-      "published": "2026-08-26T08:33:22.511354+00:00"
+      "content_type": "Product / Brand Content",
+      "title": "Clicking a link will take you to our U.S. website.",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/blog",
+      "published": "2026-08-26T09:13:17.623971+00:00"
     },
     {
-      "brand": "Apple",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Official",
-      "title": "Apple reports third quarter results",
-      "summary": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
-      "published": "2026-08-26T08:33:22.511435+00:00"
+      "content_type": "Health / Fitness",
+      "title": "Training",
+      "summary": "",
+      "url": "https://www.garmin.com/en-US/aviation/training",
+      "published": "2026-08-26T09:13:17.623901+00:00"
     },
     {
-      "brand": "Apple",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Official",
-      "title": "Apple Upgrade launches in the United States",
-      "summary": "Apple Upgrade — a new hardware leasing program — is now available on the Apple Store online, in the Apple Store app, and at Apple Store locations in the United States.",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
-      "published": "2026-08-26T08:33:22.511500+00:00"
+      "content_type": "Product / Brand Content",
+      "title": "Promotions",
+      "summary": "",
+      "url": "https://www.garmin.com/en-US/promotions/aviation",
+      "published": "2026-08-26T09:13:17.623766+00:00"
     },
     {
-      "brand": "Apple",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Official",
-      "title": "Apple Maps to power navigation experience for Ford UEV Platform",
-      "summary": "Apple and Ford announced Apple Maps will be integrated directly into Ford’s UEV Platform through the MapKit for Automotive SDK.",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/",
-      "published": "2026-08-26T08:33:22.511558+00:00"
+      "content_type": "Product / Brand Content",
+      "title": "PlaneSync",
+      "summary": "",
+      "url": "https://www.garmin.com/en-US/planesync",
+      "published": "2026-08-26T09:13:17.623687+00:00"
     },
     {
-      "brand": "Apple",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Official",
-      "title": "Major League Soccer returns to Apple TV tomorrow",
-      "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
-      "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
-      "published": "2026-08-26T08:33:22.511613+00:00"
+      "content_type": "Product / Brand Content",
+      "title": "Autonomí",
+      "summary": "",
+      "url": "https://www.garmin.com/en-US/autonomi",
+      "published": "2026-08-26T09:13:17.623604+00:00"
     },
     {
-      "brand": "Apple",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Official",
-      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
-      "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
-      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
-      "published": "2026-08-26T08:33:22.511671+00:00"
+      "content_type": "Product / Brand Content",
+      "title": "Aviation Database Updates",
+      "summary": "",
+      "url": "https://fly.garmin.com/fly-garmin/devices/overview",
+      "published": "2026-08-26T09:13:17.623510+00:00"
     },
     {
-      "brand": "Apple",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Official",
-      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
-      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
-      "published": "2026-08-26T08:33:22.511732+00:00"
+      "content_type": "Product / Brand Content",
+      "title": "flyGarmin",
+      "summary": "",
+      "url": "https://fly.garmin.com",
+      "published": "2026-08-26T09:13:17.623399+00:00"
     },
     {
-      "brand": "Apple",
-      "market": "Global",
+      "brand": "Garmin",
+      "market": "UK",
       "source_kind": "Official",
-      "title": "Apple scores record 89 Emmy Award nominations",
-      "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
-      "published": "2026-08-26T08:33:22.511784+00:00"
+      "content_type": "Product / Brand Content",
+      "title": "Garmin Pilot",
+      "summary": "",
+      "url": "https://www.garmin.com/en-US/aviation/garminpilot/overview",
+      "published": "2026-08-26T09:13:17.596965+00:00"
     },
     {
-      "brand": "Samsung",
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Government & Defense",
+      "summary": "",
+      "url": "https://www.garmin.com/en-US/aviation/government-defense",
+      "published": "2026-08-26T09:13:17.596884+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Helicopters",
+      "summary": "",
+      "url": "https://www.garmin.com/en-US/c/aviation/helicopters",
+      "published": "2026-08-26T09:13:17.596802+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Experimental",
+      "summary": "",
+      "url": "https://www.garmin.com/en-US/c/aviation/experimental",
+      "published": "2026-08-26T09:13:17.596727+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Business Aviation",
+      "summary": "",
+      "url": "https://www.garmin.com/en-US/c/aviation/business",
+      "published": "2026-08-26T09:13:17.596649+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "General Aviation",
+      "summary": "",
+      "url": "https://www.garmin.com/en-US/c/aviation/general",
+      "published": "2026-08-26T09:13:17.596568+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Portable GPS & Wearables",
+      "summary": "",
+      "url": "https://www.garmin.com/en-US/c/aviation/gps-wearables-apps",
+      "published": "2026-08-26T09:13:17.596481+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "ADS-B & Transponders",
+      "summary": "",
+      "url": "https://www.garmin.com/en-US/aviation/adsb-solutions",
+      "published": "2026-08-26T09:13:17.596398+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Audio Panels",
+      "summary": "",
+      "url": "https://www.garmin.com/en-US/c/aviation/audio-panels",
+      "published": "2026-08-26T09:13:17.596193+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Datalinks & Connectivity",
+      "summary": "",
+      "url": "https://www.garmin.com/en-US/c/aviation/datalinks-connected-cockpit",
+      "published": "2026-08-26T09:13:17.596114+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Integrated Flight Decks",
+      "summary": "",
+      "url": "https://www.garmin.com/en-US/c/aviation/flight-decks",
+      "published": "2026-08-26T09:13:17.596018+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "How-to",
+      "title": "Engine Indication Systems",
+      "summary": "",
+      "url": "https://www.garmin.com/en-US/aviation/eis-buyers-guide",
+      "published": "2026-08-26T09:13:17.595923+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Flight Displays & Instruments",
+      "summary": "",
+      "url": "https://www.garmin.com/en-US/c/aviation/flight-displays-instruments",
+      "published": "2026-08-26T09:13:17.595848+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Autopilots",
+      "summary": "",
+      "url": "https://www.garmin.com/en-US/c/aviation/autopilot-systems",
+      "published": "2026-08-26T09:13:17.595765+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Navigation & Radios",
+      "summary": "",
+      "url": "https://www.garmin.com/en-US/c/aviation/navigation-radios",
+      "published": "2026-08-26T09:13:17.595687+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Spy Pole™ | GT360UHD Motorised control for LiveScope™ and 360-degree sonar imagery",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/p/1611121",
+      "published": "2026-08-26T09:13:17.595601+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "ActiveCaptain",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/p/804601",
+      "published": "2026-08-26T09:13:17.595497+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Garmin Pros",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/pros/anglers",
+      "published": "2026-08-26T09:13:17.595417+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Marine Brochures",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/marine/brochures",
+      "published": "2026-08-26T09:13:17.595339+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Marine Technology",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/garmin-technology/marine-technology",
+      "published": "2026-08-26T09:13:17.595255+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "System Builder",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/marine-system-builder",
+      "published": "2026-08-26T09:13:17.595177+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Software Updates",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/support/software/marine",
+      "published": "2026-08-26T09:13:17.595098+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Integration",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/marine-integrations",
+      "published": "2026-08-26T09:13:17.594994+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Navionics Boating App",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/p/904258",
+      "published": "2026-08-26T09:13:17.594918+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Updating Charts",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/marine/update-now",
+      "published": "2026-08-26T09:13:17.594841+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Built-in Updates",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/p/802414",
+      "published": "2026-08-26T09:13:17.594765+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "New Charts",
+      "summary": "",
+      "url": "https://maps.garmin.com/en-GB/marine",
+      "published": "2026-08-26T09:13:17.594687+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Engine Cutoff/MOB",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/p/1229049",
+      "published": "2026-08-26T09:13:17.594496+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Digital Switching",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/marine/digital-switching",
+      "published": "2026-08-26T09:13:17.594419+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Antennas & Sensors",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/marine/boat-sensors-antennas",
+      "published": "2026-08-26T09:13:17.594228+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Sonar Black Boxes",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/marine/sonar-black-boxes",
+      "published": "2026-08-26T09:13:17.594145+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "VHF & AIS",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/marine/vhf-ais-marine-radios",
+      "published": "2026-08-26T09:13:17.594061+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Handhelds & Smartwatches",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/marine/handhelds-gps-and-watches",
+      "published": "2026-08-26T09:13:17.593953+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Lighting",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/marine/lighting",
+      "published": "2026-08-26T09:13:17.593872+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Autopilots",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/marine/boat-autopilots",
+      "published": "2026-08-26T09:13:17.593797+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Ice Fishing Bundles & Kits",
+      "summary": "",
+      "url": "https://buy.garmin.com/en-GB/GB/cOnTheWater-c14501-p1.html",
+      "published": "2026-08-26T09:13:17.593666+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Trolling Motors",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/marine/trolling-motors",
+      "published": "2026-08-26T09:13:17.593582+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Transducers",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/marine/boat-sonar-transducers",
+      "published": "2026-08-26T09:13:17.593500+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Live Sonar",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/marine/live-sonar",
+      "published": "2026-08-26T09:13:17.593359+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Chartplotters & Fishfinders",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/marine/chartplotters",
+      "published": "2026-08-26T09:13:17.593278+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "ZŪMO® XT3 Rugged motorcycle sat nav",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/p/1904331",
+      "published": "2026-08-26T09:13:17.593188+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Stealthbox®",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/automotive/stealthbox-audio",
+      "published": "2026-08-26T09:13:17.593083+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Caravans/Motorhome",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/rv-oem/overview",
+      "published": "2026-08-26T09:13:17.592333+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Automotive",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/aoem",
+      "published": "2026-08-26T09:13:17.592256+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Off-Road Maps",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/off-road-maps",
+      "published": "2026-08-26T09:13:17.592064+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "In-Dash Maps",
+      "summary": "",
+      "url": "https://auto-oem.garmin.com/landing/site",
+      "published": "2026-08-26T09:13:17.591958+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Purchase new maps",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/road-maps",
+      "published": "2026-08-26T09:13:17.591882+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Maps Updates",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/maps/updates/automotive",
+      "published": "2026-08-26T09:13:17.591805+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Home Audio",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/home-audio-systems",
+      "published": "2026-08-26T09:13:17.591728+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Car Audio",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/automotive/jl-audio-car-audio",
+      "published": "2026-08-26T09:13:17.591644+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Motorcycles",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/automotive/motorcycle-gps-navigation",
+      "published": "2026-08-26T09:13:17.591442+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Cars, Caravans/Motorhome & Cameras",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/automotive/car-gps-navigation",
+      "published": "2026-08-26T09:13:17.591357+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "XERO® L60i See distance, mapping, navigation and more",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/p/798183",
+      "published": "2026-08-26T09:13:17.591267+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "inReach Account",
+      "summary": "",
+      "url": "https://inreach.garmin.com/en-GB",
+      "published": "2026-08-26T09:13:17.590782+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Health / Fitness",
+      "title": "Dog Tracking and Training",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/outdoor-recreation/sporting-dog-tracking-training-devices",
+      "published": "2026-08-26T09:13:17.590377+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Sportsman & Tactical",
+      "summary": "",
+      "url": "https://buy.garmin.com/en-GB/GB/c12520-c13460-p1.html",
+      "published": "2026-08-26T09:13:17.590296+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Adventure Watches",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/outdoor-recreation/adventure-smartwatches",
+      "published": "2026-08-26T09:13:17.590154+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Off-Road & Motorsports",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/automotive/motorsports",
+      "published": "2026-08-26T09:13:17.590075+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Satellite Communicators",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/outdoor-recreation/satellite-communicators",
+      "published": "2026-08-26T09:13:17.589965+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Handhelds",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/outdoor-recreation/handheld-hiking-gps",
+      "published": "2026-08-26T09:13:17.589883+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "CIRQA™ SMART BAND Track all day. Look later. No subscription required.",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/p/1989182",
+      "published": "2026-08-26T09:13:17.589799+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Dive Test Center",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/dive-test-center",
+      "published": "2026-08-26T09:13:17.589573+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Garmin Pros",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/pros",
+      "published": "2026-08-26T09:13:17.589487+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Garmin Coach",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/garmin-coach/overview",
+      "published": "2026-08-26T09:13:17.589230+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Health / Fitness",
+      "title": "Indoor Training Accessories",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/sports-fitness/indoor-training/accessories",
+      "published": "2026-08-26T09:13:17.589033+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Health / Fitness",
+      "title": "Cycling Accessories",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/sports-fitness/cycling-biking-accessories",
+      "published": "2026-08-26T09:13:17.588932+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Smartwatch Accessories",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/wearables-smartwatches-accessories",
+      "published": "2026-08-26T09:13:17.588851+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Cycling Maps",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/p/730831",
+      "published": "2026-08-26T09:13:17.588571+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Health / Fitness",
+      "title": "Scales & Heart Rate Monitors",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/sports-fitness/scales-monitors",
+      "published": "2026-08-26T09:13:17.588429+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Health / Fitness",
+      "title": "Tacx® Indoor Cycling",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/sports-fitness/indoor-trainers",
+      "published": "2026-08-26T09:13:17.587972+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "CIRQA™ Smart Band",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/p/1989182",
+      "published": "2026-08-26T09:13:17.587820+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Health / Fitness",
+      "title": "FORERUNNER® 70 | 170 Easy-to-use GPS running smartwatches",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/p/1941179",
+      "published": "2026-08-26T09:13:17.587610+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "FĒNIX® 9 The ultimate smartwatch",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/p/1953453",
+      "published": "2026-08-26T09:13:17.587515+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Launch",
+      "title": "SOMETHING NEW IS COMING Get ready to play harder. Join our virtual launch event at 12 pm on 25 August, 2026.",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/play-harder",
+      "published": "2026-08-26T09:13:17.587422+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Watch finder",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/which-watch",
+      "published": "2026-08-26T09:13:17.587331+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Garmin Technology",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/garmin-technology",
+      "published": "2026-08-26T09:13:17.587247+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Garmin Pay",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/garmin-pay",
+      "published": "2026-08-26T09:13:17.587164+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Subscription Plans",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/subscription-plans",
+      "published": "2026-08-26T09:13:17.587082+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Accessories",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/wearables-smartwatches-accessories",
+      "published": "2026-08-26T09:13:17.586915+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Golf Course Locator",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/golf-courses",
+      "published": "2026-08-26T09:13:17.586830+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Outdoor Maps",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/outdoor-maps",
+      "published": "2026-08-26T09:13:17.586740+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Health / Fitness",
+      "title": "Kids wearables",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/sports-fitness/kids-wearables-fitness-activity-trackers",
+      "published": "2026-08-26T09:13:17.586601+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Health / Fitness",
+      "title": "Swimming",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/sports-fitness/swimming-smartwatches",
+      "published": "2026-08-26T09:13:17.586392+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Adventure",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/outdoor-recreation/adventure-smartwatches",
+      "published": "2026-08-26T09:13:17.586314+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Partnership / Ambassador",
+      "title": "Multisport & Triathlete",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/sports-fitness/multisport-smartwatches",
+      "published": "2026-08-26T09:13:17.586236+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Health / Fitness",
+      "title": "Marathon",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/sports-and-fitness/marathon-smartwatches",
+      "published": "2026-08-26T09:13:17.586150+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Health / Fitness",
+      "title": "MARQ Luxury Watch Collection",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/sports-fitness/luxury-smartwatches/?FILTER_USERPROFILE_MARQGEN2=true",
+      "published": "2026-08-26T09:13:17.585982+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Health / Fitness",
+      "title": "Fashion & Hybrid Smartwatches",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/sports-fitness/fashion-hybrid-smartwatches",
+      "published": "2026-08-26T09:13:17.585895+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Wearables for Women",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/women-wearables/?FILTER_FEATURE_FORWOMEN=true",
+      "published": "2026-08-26T09:13:17.585800+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Design your own watch",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/your-watch-your-way",
+      "published": "2026-08-26T09:13:17.585707+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Health / Fitness",
+      "title": "Health & Fitness Tracking",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/sports-fitness/activity-fitness-trackers",
+      "published": "2026-08-26T09:13:17.585620+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "All Smartwatches",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/c/wearables-smartwatches",
+      "published": "2026-08-26T09:13:17.585517+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Skip navigation links",
+      "summary": "",
+      "url": "https://www.garmin.com/en-GB/blog",
+      "published": "2026-08-26T09:13:17.585345+00:00"
+    },
+    {
+      "brand": "Garmin",
       "market": "Malaysia",
-      "source_kind": "Discovery",
-      "title": "Articles - samsung.com",
-      "summary": "Articles samsung.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNNklDY2U3eDNOSW13OExIci1Fc3lJUWVTVExicHNmQnZsQ0Ewcld2UlE3OWJNdHBSOGwwc2dpT0ZmLTNJSWpHUnNRcU4yNEVRMkstVGwwbw?oc=5",
-      "published": "2026-08-26T03:10:36+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "Garmin announces the fenix 9 and fenix 9 Pro GPS smartwatch - Garmin",
-      "summary": "Garmin announces the fenix 9 and fenix 9 Pro GPS smartwatch Garmin",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYUwxam0tWlNkOGRFa3cyN2Y2WldWNFBVWFpkZ29lNV9FUktlQjNzUVE4X0FVT0J5TVlDMVEwZjh2NEs5NDc1bEVoeGt5YnU0cDBTbFhCVG5BSFZ0QUdjS0xuYXZDN1NzLVl5enFSZEZFREZJV3h2MkRXSlU0ZzVnN0xkc2RsMjhBV0swMTh1Z29mZFVYdmNDVzVGSm1tNHJZYzE1SzJ1dVNPcnF4SkhEbGliUlNnWTdHbGFvZG9Mbi1rTVVCdnNuYUdpNDk0Y09wQWVnWE11WEFXSGdKeFE?oc=5",
-      "published": "2026-08-25T10:55:00+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "fēnix® 9 – 51mm - Garmin",
-      "summary": "fēnix® 9 – 51mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iZDI1bDdoN0xkYmRyb1NOTDJ5WnpvZUM5ZVZDaVpYZzJqOEVXTER1VDlqMFY3N3BkakhEZ2pOVnJRdl9sMWlQMkxtZGZmV1ZE?oc=5",
-      "published": "2026-08-25T09:53:22+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "fēnix® 9 Pro – 51 mm - Garmin",
-      "summary": "fēnix® 9 Pro – 51 mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wVG9FQnY5Q0o0dURUbWwtSDFSOXQyemdJei1kNVlQdUNkX0txSVNMWmtTdzFsSDg3R09PSFlWamNSQXpJV1k1ZG5YYWVSZUtR?oc=5",
-      "published": "2026-08-25T13:17:39+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "fēnix® 9 Pro – inReach®, 51 mm - Garmin",
-      "summary": "fēnix® 9 Pro – inReach®, 51 mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6QjFRU1A5NVJGaHNMLW1aRzIwOUloZ0llTVlwT3FHV0hTNHdaZzFPVlRUM0hrVFNJOXl3c0ZjbXhZS2V0N1l0cUI4Vlg1THVI?oc=5",
-      "published": "2026-08-25T11:02:58+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "fēnix® 9 Pro – inReach®, 47 mm - Garmin",
-      "summary": "fēnix® 9 Pro – inReach®, 47 mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HV3pjNjBEeWNmb2hKeHdYcHoxbm1rSjRRZWlhUXFNQXgzWlRvUm8wLWpabTN6aEp2SWJsekhkeG5LS1F0R2hZdmp2WHpJLW8?oc=5",
-      "published": "2026-08-25T13:03:51+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "fēnix® 9 Pro – 43mm - Garmin",
-      "summary": "fēnix® 9 Pro – 43mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtWS1MTG5VVFRaeU9iOWtIclh4UTV2RkZHUFotZ3VyXzljV2VWWFVzdTJfLUE5cWt1RGJnNW5Id3hrbEF1TlRfWVV5TjI3akZabUd5azlrZlZaOUxwRTROU1lsdmg4dw?oc=5",
-      "published": "2026-08-25T13:15:28+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "Clasio Digital - LCD Watch Face - Garmin",
-      "summary": "Clasio Digital - LCD Watch Face Garmin",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0Z0VMbTBaZldhU1VrOGwxcFRGQk1UTkpqNmJzeERrLVJpMkxUM3hoTTcxb0JPMWtHLUllWkpxUzJkN3prUmVuN2N0MjZBaWZNRGRON1M2eTM4R2lmMDZGRUZRMWtDajJOV0RTV01iYUFzYTQ?oc=5",
-      "published": "2026-08-25T15:57:33+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "Software Engineer 1 in Olathe, Kansas | Garmin International, Inc. - careers.garmin.com",
-      "summary": "Software Engineer 1 in Olathe, Kansas | Garmin International, Inc. careers.garmin.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uaTdRa0FwdTB2cFljQ3RZZXg3bVVYRU5VY3hheFh1alkzVnZobDF4ZVp4cW1UaER4RkFzb0l0ZURwa3NRbV9PdDkzVEs1VnE0VVpDTnp0aDhTOFM1?oc=5",
-      "published": "2026-08-25T09:24:46+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "fēnix® 9 Pro Coverage - Garmin",
-      "summary": "fēnix® 9 Pro Coverage Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbUZxbmFhMnhCZTE2MlFEaTNYNWNWejM0dnNzbFlJOHJlX2hfNHJVY3F4U2owUWVVbjA4c3BoYVVVUG9CSGNMZEZwUENTZDduWko0ZTgxcjFvWDBMYjNQb3ZUWGZNNXE2X1FGNzVnZC1OS3Rscmo2c3ZYbzlTODBLOFVn?oc=5",
-      "published": "2026-08-25T12:48:53+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "ECHOMAP™ Ultra 2 12\" Chartplotters - Garmin",
-      "summary": "ECHOMAP™ Ultra 2 12\" Chartplotters Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBScTc1T2JZdHB1cFpqNXVxdlIwSllnZEpDX3B3eWduSEhaLXpIN1E5bzhnM0lvU3kwZE0yakZVUlVzTmRRLVliSzJNZWpLZkZI?oc=5",
-      "published": "2024-05-29T06:02:16+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "Product Comparison - Garmin",
-      "summary": "Product Comparison Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWUpIYVpXaVdnN2xrSXA2QzNEZF9lLXhRaGlfRnR6MUhHa3FudERreGY2TDVuNFlXcnhJWEN6QTh4VmFIaWI4ZzVPd1VmUWxYRHJzUTlOVlpkS3hQcWxmOWZYVERxUnJFbU9Vdjd0Wm9TYXBXMTVpcGJ6WHFjbHJJcnN4Q3BXWVFXTWNF?oc=5",
-      "published": "2026-08-25T14:35:02+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "Enduro™ 3 - Garmin",
-      "summary": "Enduro™ 3 Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12T2F5a0JBcDFmLW95OS02WUhMZkxiSDZnQkVhbmlYLWx6Y1lsdHBxYnZzOUFRdUR0OUFSd1hWNUd1WkZtSUpkcnZEZ2VHNzA?oc=5",
-      "published": "2025-05-16T16:46:22+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "fēnix® 9 Pro – inReach®, 43 mm - Garmin",
-      "summary": "fēnix® 9 Pro – inReach®, 43 mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45RVczN1pCQzU2d2x6MHRDYVB0cU1qZE51X1B6UC1FZVFFWjN0N3hZUDNQYVlGR2cyVktRZXI2R1MzRHU1akFjT1h6a3hsaVRBWFdZOGM2MU9lUTJsMTJ0bFk2ZjhKUQ?oc=5",
-      "published": "2026-08-25T16:42:33+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "Semiconductor Integration Engineer in Olathe, Kansas | Garmin International, Inc. - careers.garmin.com",
-      "summary": "Semiconductor Integration Engineer in Olathe, Kansas | Garmin International, Inc. careers.garmin.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YaFVCWk90ZlZQcHhJRTJfOUdnaklOVTh0Wi1ZWXBwQ1dvWUM5T0xyNVJDRnNzLUE2RFBlRDVCUHBYd2RlbG1teXZpckJJT0dkZUwwejNWazZpR2h1?oc=5",
-      "published": "2026-08-25T09:24:46+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "title": "fēnix 9 Series Owner's Manual - Connecting Bluetooth Headphones - Garmin",
-      "summary": "fēnix 9 Series Owner's Manual - Connecting Bluetooth Headphones Garmin",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMUhTTDB0VkxISW10T240RzFXS1RBUnBFdjNyVGtzbFlPb3VEdU9LUHZoTjVfcTVJTmg3d3JWRmVZUktpTTRnejNJaHc2Z1ljR3h5Z0pIeWwtaV9oZlhJTHhONUxjT2pTeG1OREx5Z0NERGFRU0NaN3M0eGU5UU5RVDhhdURuNGRTX3hWZzIwVjVpcEUzbjV6STZnRUpYT0FnYTdRUTVoeUhla05zTTVTd1ExNnM1amZGNWF1YW41LXkteU9nOFlsd3lEaUpTeWM?oc=5",
-      "published": "2026-08-25T18:20:44+00:00"
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Aviation Watches",
+      "summary": "",
+      "url": "http://www.garmin.com.my/products/wearables/?cat=aviation",
+      "published": "2026-08-26T09:13:15.946277+00:00"
     },
     {
       "brand": "Garmin",
       "market": "Malaysia",
-      "source_kind": "Discovery",
-      "title": "fēnix 8 - Advanced Outdoor GPS Smartwatch (Carbon Gray) | Smartwatches - Garmin Malaysia",
-      "summary": "fēnix 8 - Advanced Outdoor GPS Smartwatch (Carbon Gray) | Smartwatches Garmin Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DMzdvamd5N1ZGX2xWSjd4aEZaUjdRYmhQMWtZYmluYjMzZXNsQzhDMWxTV1hpX2dLZFJKVUVXZnBsMUg3Q3RKVmhfdzJNNXZtLW1oS3VRaGdHTDk1dGltaEdpVzdQUGZQa0lHdWNMZEpoX2VzdnNN?oc=5",
-      "published": "2024-09-05T05:31:05+00:00"
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Skip navigation links",
+      "summary": "",
+      "url": "https://www.garmin.com/en-MY/blog",
+      "published": "2026-08-26T09:13:15.944938+00:00"
     },
     {
       "brand": "Garmin",
       "market": "Malaysia",
-      "source_kind": "Discovery",
-      "title": "Descent Mk3 - GPS Dive Smartwatch (Fog Gray) | Smartwatches - Garmin Malaysia",
-      "summary": "Descent Mk3 - GPS Dive Smartwatch (Fog Gray) | Smartwatches Garmin Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnOG1saThJM3l6TU8ycGczcDBEVG4yUGpNNHp1ZlRMNkR2QUZEbEVHWHBNT1RGR09Uem5FZWt2Slh4WHRmLUtJSE04RUV1VHVjQi0zR2FhTDBYZjRQcnFLWV8zQmh1Wjhmb0sxSFoyTzdnZjhtYUdn?oc=5",
-      "published": "2023-11-15T07:37:17+00:00"
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Sign Out",
+      "summary": "",
+      "url": "https://buy.garmin.com.my/webstore/signout",
+      "published": "2026-08-26T09:13:15.422175+00:00"
     },
     {
       "brand": "Garmin",
       "market": "Malaysia",
-      "source_kind": "Discovery",
-      "title": "Edge 1050 - Flagship touchscreen GPS speedometer | Sports & Fitness - Garmin Malaysia",
-      "summary": "Edge 1050 - Flagship touchscreen GPS speedometer | Sports & Fitness Garmin Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZZ0hxaGtmTFRlOWphaFRCRXk2WFlqM09pQ0EtQUFwdXpNNGVmR2xsNnRrM05VTEV3d1BoSDFQVk5HOFdJdmRoUG1XWnpBRDJPbzNWNVRCOExkNHFPY3Y2ZHEyZDQ2Z0E?oc=5",
-      "published": "2024-08-06T04:21:27+00:00"
+      "source_kind": "Official",
+      "content_type": "Product / Social Video",
+      "title": "YouTube Channel",
+      "summary": "",
+      "url": "https://www.youtube.com/@GarminMY/videos",
+      "published": "2026-08-26T09:13:15.421561+00:00"
     },
     {
       "brand": "Garmin",
       "market": "Malaysia",
-      "source_kind": "Discovery",
-      "title": "Descent Mk3i - GPS Dive Smartwatch (Carbon Gray) | Smartwatches - Garmin Malaysia",
-      "summary": "Descent Mk3i - GPS Dive Smartwatch (Carbon Gray) | Smartwatches Garmin Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LSXNMczFuNHFnWU41ejFKYXBIQ0xya2Y0aU1uTTZuS2VlRjkzSWdBMU5IRk5QRnVaOUEtay1pWDNraFBXdzlodVNoVUtoMDYyZjNnZktyXzV0bXBPR1pIYWk3RjdFYXFaVDljYjV5ZVFldW5OUGc?oc=5",
-      "published": "2023-11-15T03:34:35+00:00"
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Support Chatbot",
+      "summary": "",
+      "url": "https://servicebot.garmin.com.tw/webChat/GarminMalaysiaServiceBot",
+      "published": "2026-08-26T09:13:15.421479+00:00"
     },
     {
       "brand": "Garmin",
       "market": "Malaysia",
-      "source_kind": "Discovery",
-      "title": "quatix 8 AMOLED - Marine Smartwatches (51mm) | Outdoor Recreation - Garmin Malaysia",
-      "summary": "quatix 8 AMOLED - Marine Smartwatches (51mm) | Outdoor Recreation Garmin Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00ZTVyUmJMRF9qZng1RlFNdmNud3A0aWxvQ1VpWlJlQUM0d3hIOHZZVlBpZlEzb3R2Uk5nVDFFaDBXQkFoYnoyMW1QbUREOTdLbHRTdGZuN0EzRW5iRGRvM0haM1BJUQ?oc=5",
-      "published": "2025-06-26T12:41:05+00:00"
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Service Locations",
+      "summary": "",
+      "url": "https://www.garmin.com/en-MY/support/service",
+      "published": "2026-08-26T09:13:15.421401+00:00"
     },
     {
       "brand": "Garmin",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "title": "fēnix® 9 – 43 mm - Garmin",
-      "summary": "fēnix® 9 – 43 mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CdkQzVURSQm1WVjlDWmxTaUpoVDE1TF9LeTc3SEw0MWw5b3c1LVgteFpwR0R3S2YyVmlyZlFTUTYxR3hkSms5NnlsWGd0X1Q0?oc=5",
-      "published": "2026-08-25T09:28:46+00:00"
+      "market": "Malaysia",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Repair Service",
+      "summary": "",
+      "url": "https://support.garmin.com/en-MY/?faq=C9q6XzqCzW8BD3bF1kZvK6",
+      "published": "2026-08-26T09:13:15.421325+00:00"
     },
     {
       "brand": "Garmin",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "title": "fēnix® 9 Pro – 47 mm - Garmin",
-      "summary": "fēnix® 9 Pro – 47 mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55aFF2U1JaUkpmMVZtZWpHU0xSUVh3R0RLaTBnaTJwc0N4ZWZsdTRyNmNrcWVfaG43RkJWSWZZc0d1UDZvb2F3NzZsbG5OWnVm?oc=5",
-      "published": "2026-08-25T09:44:45+00:00"
+      "market": "Malaysia",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Support Center",
+      "summary": "",
+      "url": "https://support.garmin.com/en-MY",
+      "published": "2026-08-26T09:13:15.421246+00:00"
     },
     {
       "brand": "Garmin",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "title": "fēnix® 9 Pro – inReach®, 51 mm - Garmin",
-      "summary": "fēnix® 9 Pro – inReach®, 51 mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZdU1tM0ZBSVJVSTJlQ1h6Mlp5NGQ2ZWtEbjV3RXc4dTc4Y0pWSE5HakdOLUR4QUg2RTlybXVUOUk1bE1xQnFfOXNvOWhFU0lf?oc=5",
-      "published": "2026-08-25T09:50:35+00:00"
+      "market": "Malaysia",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Online Store",
+      "summary": "",
+      "url": "https://www.garmin.com.my/buy/online",
+      "published": "2026-08-26T09:13:15.421169+00:00"
     },
     {
       "brand": "Garmin",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "title": "fēnix® 9 Pro – inReach®, 47 mm - Garmin",
-      "summary": "fēnix® 9 Pro – inReach®, 47 mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HV3pjNjBEeWNmb2hKeHdYcHoxbm1rSjRRZWlhUXFNQXgzWlRvUm8wLWpabTN6aEp2SWJsekhkeG5LS1F0R2hZdmp2WHpJLW8?oc=5",
-      "published": "2026-08-25T13:03:51+00:00"
+      "market": "Malaysia",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Store Locator",
+      "summary": "",
+      "url": "https://www.garmin.com.my/buy",
+      "published": "2026-08-26T09:13:15.421083+00:00"
     },
     {
       "brand": "Garmin",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "title": "fēnix® 9 Pro – inReach®, Solar, 51 mm - Garmin",
-      "summary": "fēnix® 9 Pro – inReach®, Solar, 51 mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sRVJFVHZ3eTU1Tmc0TkstZGNRNEJrOFRidGVNaWpNcWs4U0lmNkpvZE1fR1I2NWlsWm5XWm9yQTdqVUF2QnM1OFVhRWlxUWJqZHpFMjZfUXlvRXBKT2dXbkZtUmFoUQ?oc=5",
-      "published": "2026-08-25T12:41:47+00:00"
+      "market": "Malaysia",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Brand Store",
+      "summary": "",
+      "url": "https://www.garmin.com.my/buy/brand-store",
+      "published": "2026-08-26T09:13:15.420981+00:00"
     },
     {
       "brand": "Garmin",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "title": "Instinct® 3 – 45 mm, AMOLED - Garmin",
-      "summary": "Instinct® 3 – 45 mm, AMOLED Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yaVJ0WW8xUV9MaURCdlloUVZVcHJ1WndTMmRXWWp1dFhMazRFYkRxSDQxSDJDUzA5S3h2R1R4Q0t4aTNmMEtrRTlFbURMMHZr?oc=5",
-      "published": "2025-05-05T18:23:29+00:00"
+      "market": "Malaysia",
+      "source_kind": "Official",
+      "content_type": "Health / Fitness",
+      "title": "Training",
+      "summary": "",
+      "url": "https://www.garmin.com/en-US/aviation/training",
+      "published": "2026-08-26T09:13:15.420847+00:00"
     },
     {
       "brand": "Garmin",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "title": "Product Comparison - Garmin",
-      "summary": "Product Comparison Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWUpIYVpXaVdnN2xrSXA2QzNEZF9lLXhRaGlfRnR6MUhHa3FudERreGY2TDVuNFlXcnhJWEN6QTh4VmFIaWI4ZzVPd1VmUWxYRHJzUTlOVlpkS3hQcWxmOWZYVERxUnJFbU9Vdjd0Wm9TYXBXMTVpcGJ6WHFjbHJJcnN4Q3BXWVFXTWNF?oc=5",
-      "published": "2026-08-25T14:35:02+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "title": "Varia™ RCT715/716 - Garmin",
-      "summary": "Varia™ RCT715/716 Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jRUdTbzRTSnEzWVdLNGtybENmaUxWV3JpMlBiRUh0VjFOOUdZcWlMT3E2S0R2LVlvT2p0SmZjUzY4cmVBWmFnVER6RW81LU0?oc=5",
-      "published": "2022-07-11T20:30:58+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "title": "USB-C Charging/Data Cable - Garmin",
-      "summary": "USB-C Charging/Data Cable Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nc2pLWmpoaHZHMU5XcHR4Y044QTJEOG02MFVCMWxUZzZTbmU2VmhyUzVBTzd6TXpIRFAwVlA4eXpuZl9xNnF4VDgzRU5nQ2c?oc=5",
-      "published": "2025-06-01T03:38:39+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "title": "Enabling Beta Features on your Garmin Dog Tracking Product - Garmin",
-      "summary": "Enabling Beta Features on your Garmin Dog Tracking Product Garmin",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qXzhEakFybWJzTXc2Qk1MN2w4LXlla01ia0dRSEtnNFNxVzFxN0VZdVBuRG1ockplQVA3TmVHQ3RTQ0FJYjhYUFhKcFVIeXBsUjFvX1NhazNmcjJRVDI1TG5RUUp3YXhSLTJjRg?oc=5",
-      "published": "2026-08-21T11:11:43+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "title": "fēnix® 9 Pro – inReach®, Solar, 47 mm - Garmin",
-      "summary": "fēnix® 9 Pro – inReach®, Solar, 47 mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfWWNlRXRVUENXRDJTZ2ZYTjA1WktiTk5oMzk2NW9Qb29tVUNETHg4M1BVVW5HUnRhV29vWjBHOUpGdXIxcGg3Qk41amlhTmgy?oc=5",
-      "published": "2026-08-25T09:50:28+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "title": "Garmin Connect App: Device or Accessory Not Found During the Pairing Process - Garmin",
-      "summary": "Garmin Connect App: Device or Accessory Not Found During the Pairing Process Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd3ZMSV84Z29HTGxCV1dldnhYZ2xSY3pBaUFMY3dhZWZaM3F4UGxkcjVqcHgxUlFIMzFBdDVpWGVzSTFyRUNVVlFIWWtWVFAwYjJWUjU0bGx0bDNXcU9na3p0enR1NUJpLUhhQXBQVXVGaUpNZzlfM1ZLVXcxcXVtNkRoQ3FNZXNKeFE?oc=5",
-      "published": "2026-08-22T15:59:46+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "title": "Garmin Special Announcement - Garmin",
-      "summary": "Garmin Special Announcement Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aTXRnaTFqYnRnZ3FJd0hrQk5zVGVnazVRSmFuYVc2U09vWDdGUHBGMEZmeHhlVjJTcUQwWFRxYlRKZUU2UWNidW1GaGJaZDZ2aHlz?oc=5",
-      "published": "2026-08-24T11:05:06+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "title": "QuickFit® 20 Watch Bands - Garmin",
-      "summary": "QuickFit® 20 Watch Bands Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nQlhobksyeGZOOU1RUHZQb1k1bHBYUm02NUw0cnNWTEZmc05QSkxjMFZvb1ZBekhfRjZkYWJzRDBrQ1NUVXlvRGVJX0VJMDd4UWhoNXctMEllc0UyeWc1WGYwQQ?oc=5",
-      "published": "2026-08-25T09:19:10+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "title": "Types of daily suggested workouts for runners - Garmin",
-      "summary": "Types of daily suggested workouts for runners Garmin",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTmo4U0Vkc3hqZ1NsQmFnM2JPZEpRLUlsQzlBVlQtbnJwNEtKMjBTZDZINlhMOFZKZFVqN0RkT3ZsN19DUFBYbHdqcXVWbWtCOXVtYURPdFFGdkFWQXR1c09tRFJ3SllidTJKaDlnTUpxZ3oyXzV3ZWItM2VlZXFnZ2xzaUluMUE?oc=5",
-      "published": "2026-08-19T21:16:08+00:00"
+      "market": "Malaysia",
+      "source_kind": "Official",
+      "content_type": "Product / Brand Content",
+      "title": "Promotions",
+      "summary": "",
+      "url": "https://www.garmin.com/en-US/promotions/aviation",
+      "published": "2026-08-26T09:13:15.420706+00:00"
     }
   ],
   "pageInventory": [
     {
       "brand": "Apple",
       "market": "Global",
-      "category": "Wearables",
       "pageType": "PCP",
-      "url": "https://www.apple.com/watch/",
-      "title": "Apple Watch - Apple"
+      "url": "https://www.apple.com/watch/"
     },
     {
       "brand": "Apple",
       "market": "Global",
-      "category": "Wearables",
       "pageType": "PDP",
-      "url": "https://www.apple.com/us-edu/store",
-      "title": "College Student Offer 2026 - Education - Apple"
+      "url": "https://www.apple.com/apple-watch-for-your-kids/"
     },
     {
       "brand": "Apple",
       "market": "Global",
-      "category": "Wearables",
       "pageType": "PDP",
-      "url": "https://secure8.store.apple.com/shop/signIn/account?ssi=4AAABoD0zjhsBIBwY9EDp4wKotQj2jDJuhLQqY_UKjom6kVoweSpwDVmJAAAANGh0dHBzOi8vc2VjdXJlOC5zdG9yZS5hcHBsZS5jb20vc2hvcC9hY2NvdW50L2hvbWV8fHwAAgEOhibXzFLTuQI4JzD2lga1XtiW3FxPd3j6HsyeIOcA4Q",
-      "title": "Sign in - Apple"
+      "url": "https://www.apple.com/apple-watch-hermes/"
     },
     {
       "brand": "Apple",
       "market": "Malaysia",
-      "category": "Wearables",
       "pageType": "PCP",
-      "url": "https://www.apple.com/my/watch/",
-      "title": "Apple Watch - Apple (MY)"
+      "url": "https://www.apple.com/my/watch/"
     },
     {
       "brand": "Apple",
       "market": "Malaysia",
-      "category": "Wearables",
       "pageType": "PDP",
-      "url": "https://secure8.store.apple.com/my/shop/signIn/account?ssi=4AAABoD0zjgIBICaGzXJcUgbRFuqEuznHM0bq9NcPCw5O26hCroVaoJKHAAAAN2h0dHBzOi8vc2VjdXJlOC5zdG9yZS5hcHBsZS5jb20vbXkvc2hvcC9hY2NvdW50L2hvbWV8fHwAAgESwAHDAcokKXJFAJEMraMIVuB5_FYQHYbCrlKcDoa2ow",
-      "title": "Sign in - Apple (MY)"
+      "url": "https://www.apple.com/my/apple-watch-hermes/"
     },
     {
       "brand": "Apple",
       "market": "Malaysia",
-      "category": "Wearables",
       "pageType": "PDP",
-      "url": "https://www.apple.com/my-edu/store",
-      "title": "College Student Offer 2026 - Education - Apple (MY)"
+      "url": "https://www.apple.com/my/apple-watch-nike/"
     },
     {
       "brand": "Apple",
       "market": "UK",
-      "category": "Wearables",
       "pageType": "PCP",
-      "url": "https://www.apple.com/uk/watch/",
-      "title": "Apple Watch - Apple (UK)"
+      "url": "https://www.apple.com/uk/watch/"
     },
     {
       "brand": "Apple",
       "market": "UK",
-      "category": "Wearables",
       "pageType": "PDP",
-      "url": "https://www.apple.com/uk-edu/store",
-      "title": "Education Savings and Student Discounts - Apple (UK)"
+      "url": "https://www.apple.com/uk/apple-watch-for-your-kids/"
     },
     {
       "brand": "Apple",
       "market": "UK",
-      "category": "Wearables",
       "pageType": "PDP",
-      "url": "https://secure8.store.apple.com/uk/shop/signIn/account?ssi=4AAABoD0zjzQBIJSSSalxOLxgHDwwV54_D5l8abz9rlte69wkeGUMv8gAAAAAN2h0dHBzOi8vc2VjdXJlOC5zdG9yZS5hcHBsZS5jb20vdWsvc2hvcC9hY2NvdW50L2hvbWV8fHwAAgHT-p4lLG5Mrxb7700Q40PQ_C0HkA83hu_XyHvN7_dTNw",
-      "title": "Sign in - Apple (UK)"
+      "url": "https://www.apple.com/uk/apple-watch-hermes/"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Global",
+      "pageType": "PCP",
+      "url": "https://www.samsung.com/global/galaxy/"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Malaysia",
+      "pageType": "PCP",
+      "url": "https://www.samsung.com/my/watches/galaxy-watch/"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Malaysia",
+      "pageType": "PDP",
+      "url": "https://www.samsung.com/my/watches/galaxy-watch/"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Malaysia",
+      "pageType": "PDP",
+      "url": "https://www.samsung.com/my/watches/galaxy-watch-ultra2/buy/"
+    },
+    {
+      "brand": "Samsung",
+      "market": "UK",
+      "pageType": "PCP",
+      "url": "https://www.samsung.com/uk/watches/all-watches/"
+    },
+    {
+      "brand": "Samsung",
+      "market": "UK",
+      "pageType": "PDP",
+      "url": "https://www.samsung.com/uk/watches/galaxy-watch-ultra2/buy/"
+    },
+    {
+      "brand": "Samsung",
+      "market": "UK",
+      "pageType": "PDP",
+      "url": "https://www.samsung.com/uk/watches/"
     },
     {
       "brand": "Garmin",
       "market": "Global",
-      "category": "Wearables",
       "pageType": "PCP",
-      "url": "https://www.garmin.com/en-US/c/wearables-smartwatches/",
-      "title": "Fitness Watches | Sport Watches | Smartwatches | Garmin"
+      "url": "https://www.garmin.com/en-US/c/wearables-smartwatches/"
     },
     {
       "brand": "Garmin",
       "market": "Global",
-      "category": "Wearables",
       "pageType": "PDP",
-      "url": "https://www.garmin.com/en-US/p/1277934/",
-      "title": "Garmin Blaze Equine Wellness System | Horse Health Sensor"
+      "url": "https://www.garmin.com/en-US/c/outdoor-maps/"
     },
     {
       "brand": "Garmin",
       "market": "Global",
-      "category": "Wearables",
       "pageType": "PDP",
-      "url": "https://www.garmin.com/en-US/p/1229049/",
-      "title": "Garmin OnBoard System | Wireless MOB Tags"
+      "url": "https://www.garmin.com/en-US/c/wearables-smartwatches/"
     },
     {
       "brand": "Garmin",
       "market": "Malaysia",
-      "category": "Wearables",
       "pageType": "PCP",
-      "url": "https://www.garmin.com.my/products/wearables/?cat=wearables-smartwatches",
-      "title": "All Wearables & Smart Watches | Smartwatches | Garmin Malaysia"
+      "url": "https://www.garmin.com.my/products/wearables/?cat=wearables-smartwatches"
     },
     {
       "brand": "Garmin",
       "market": "Malaysia",
-      "category": "Wearables",
       "pageType": "PDP",
-      "url": "https://www.garmin.com.my/buy/online/",
-      "title": "Online Store | Shop | Garmin Malaysia"
+      "url": "https://www.garmin.com.my/products/wearables/fenix-5-black/"
     },
     {
       "brand": "Garmin",
       "market": "Malaysia",
-      "category": "Wearables",
       "pageType": "PDP",
-      "url": "https://www.garmin.com.my/buy/brand-store/",
-      "title": "Brand Store | shop | Garmin Malaysia"
+      "url": "https://www.garmin.com.my/products/wearables/fenix-5-plus-dlc-black/"
     },
     {
       "brand": "Garmin",
       "market": "UK",
-      "category": "Wearables",
       "pageType": "PCP",
-      "url": "https://www.garmin.com/en-GB/c/wearables-smartwatches/",
-      "title": "Fitness Watches | Sport Watches | Smartwatches | Garmin"
+      "url": "https://www.garmin.com/en-GB/c/wearables-smartwatches/"
     },
     {
       "brand": "Garmin",
       "market": "UK",
-      "category": "Wearables",
       "pageType": "PDP",
-      "url": "https://www.garmin.com/en-GB/p/1277934/",
-      "title": "Garmin Blaze Equine Wellness System | Heart Rate Monitor"
+      "url": "https://www.garmin.com/en-GB/c/wearables-smartwatches/"
     },
     {
       "brand": "Garmin",
       "market": "UK",
-      "category": "Wearables",
       "pageType": "PDP",
-      "url": "https://www.garmin.com/en-GB/p/1229049/",
-      "title": "Garmin OnBoard™ System | Wireless MOB Tags"
-    },
-    {
-      "brand": "Samsung",
-      "market": "Malaysia",
-      "category": "Wearables",
-      "pageType": "PCP",
-      "url": "https://www.samsung.com/my/watches/",
-      "title": "Buy Samsung Smart Watches Online at Best Price | Samsung Malaysia"
-    },
-    {
-      "brand": "Samsung",
-      "market": "Malaysia",
-      "category": "Wearables",
-      "pageType": "PDP",
-      "url": "https://www.samsung.com/my/watches/galaxy-watch/galaxy-watch8-classic-46mm-black-bluetooth-sm-l500nzkaxme/",
-      "title": "Samsung Galaxy Watch8 Classic Bluetooth 46mm Black | Samsung Malaysia"
-    },
-    {
-      "brand": "Samsung",
-      "market": "Malaysia",
-      "category": "Wearables",
-      "pageType": "PDP",
-      "url": "https://www.samsung.com/my/watches/galaxy-watch/galaxy-watch-ultra2-titanium-silver-lte-sm-l715fzsaxme/",
-      "title": "Galaxy Watch Ultra2 Titanium Silver | Samsung Malaysia"
-    },
-    {
-      "brand": "Samsung",
-      "market": "UK",
-      "category": "Wearables",
-      "pageType": "PCP",
-      "url": "https://www.samsung.com/uk/watches/",
-      "title": "Latest Watches | Full Watch Range & Deals | Samsung UK"
-    },
-    {
-      "brand": "Samsung",
-      "market": "UK",
-      "category": "Wearables",
-      "pageType": "PDP",
-      "url": "https://www.samsung.com/uk/watches/galaxy-watch/galaxy-watch8-classic-46mm-black-bluetooth-sm-l500nzkaeua/",
-      "title": "Galaxy Watch 8 Classic Bluetooth 46mm | Specs | Samsung UK"
-    },
-    {
-      "brand": "Samsung",
-      "market": "UK",
-      "category": "Wearables",
-      "pageType": "PDP",
-      "url": "https://www.samsung.com/uk/watches/galaxy-watch/galaxy-watch-ultra2-titanium-silver-lte-sm-l715fzsaeub/",
-      "title": "Samsung Galaxy Watch Ultra 2 | Outdoor & Sport Smartwatch | Samsung UK"
+      "url": "https://www.garmin.com/en-GB/c/wearables-smartwatches-accessories/"
     }
   ],
-  "pageChangesRaw": [],
-  "monitoring": {
-    "brands": [
-      "Apple",
-      "Samsung",
-      "Garmin"
-    ],
-    "markets": [
-      "Global",
-      "Malaysia",
-      "UK"
-    ],
-    "categories": [
-      "Wearables"
-    ],
-    "scope": "PDP and PCP monitoring",
-    "inventoryCount": 24,
-    "verifiedChangeCount": 0
-  },
   "sourceHealth": [
     {
-      "source": "Apple · Global",
-      "type": "Official",
-      "status": "MONITORED"
+      "source": "Official sites",
+      "type": "Web",
+      "status": "OK"
     },
     {
-      "source": "Apple · Malaysia",
-      "type": "Official",
-      "status": "MONITORED"
+      "source": "Google News discovery",
+      "type": "RSS",
+      "status": "OK"
     },
     {
-      "source": "Samsung · Global",
-      "type": "Discovery",
-      "status": "MONITORED"
-    },
-    {
-      "source": "Samsung · Malaysia",
-      "type": "Discovery",
-      "status": "MONITORED"
-    },
-    {
-      "source": "Samsung · UK",
-      "type": "Discovery",
-      "status": "MONITORED"
-    },
-    {
-      "source": "Samsung · Germany",
-      "type": "Discovery",
-      "status": "MONITORED"
-    },
-    {
-      "source": "Garmin · Global",
-      "type": "Discovery",
-      "status": "MONITORED"
-    },
-    {
-      "source": "Garmin · Malaysia",
-      "type": "Discovery",
-      "status": "MONITORED"
-    },
-    {
-      "source": "Garmin · UK",
-      "type": "Discovery",
-      "status": "MONITORED"
-    },
-    {
-      "source": "Garmin · Germany",
-      "type": "Discovery",
-      "status": "MONITORED"
-    },
-    {
-      "source": "Apple · Malaysia",
-      "type": "Wearables category",
-      "status": "MONITORED"
-    },
-    {
-      "source": "Apple · Malaysia",
-      "type": "E-commerce lineup",
-      "status": "MONITORED"
-    },
-    {
-      "source": "Samsung · Malaysia",
-      "type": "Wearables category",
-      "status": "MONITORED"
-    },
-    {
-      "source": "Samsung · Malaysia",
-      "type": "Galaxy Watch category",
-      "status": "MONITORED"
-    },
-    {
-      "source": "Garmin · Global",
-      "type": "Smartwatch category",
-      "status": "MONITORED"
+      "source": "YouTube-indexed discovery",
+      "type": "Video",
+      "status": "OK"
     }
   ]
 }

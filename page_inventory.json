@@ -2,193 +2,151 @@
   {
     "brand": "Apple",
     "market": "Global",
-    "category": "Wearables",
     "pageType": "PCP",
-    "url": "https://www.apple.com/watch/",
-    "title": "Apple Watch - Apple"
+    "url": "https://www.apple.com/watch/"
   },
   {
     "brand": "Apple",
     "market": "Global",
-    "category": "Wearables",
     "pageType": "PDP",
-    "url": "https://www.apple.com/us-edu/store",
-    "title": "College Student Offer 2026 - Education - Apple"
+    "url": "https://www.apple.com/apple-watch-for-your-kids/"
   },
   {
     "brand": "Apple",
     "market": "Global",
-    "category": "Wearables",
     "pageType": "PDP",
-    "url": "https://secure8.store.apple.com/shop/signIn/account?ssi=4AAABoD0zjhsBIBwY9EDp4wKotQj2jDJuhLQqY_UKjom6kVoweSpwDVmJAAAANGh0dHBzOi8vc2VjdXJlOC5zdG9yZS5hcHBsZS5jb20vc2hvcC9hY2NvdW50L2hvbWV8fHwAAgEOhibXzFLTuQI4JzD2lga1XtiW3FxPd3j6HsyeIOcA4Q",
-    "title": "Sign in - Apple"
+    "url": "https://www.apple.com/apple-watch-hermes/"
   },
   {
     "brand": "Apple",
     "market": "Malaysia",
-    "category": "Wearables",
     "pageType": "PCP",
-    "url": "https://www.apple.com/my/watch/",
-    "title": "Apple Watch - Apple (MY)"
+    "url": "https://www.apple.com/my/watch/"
   },
   {
     "brand": "Apple",
     "market": "Malaysia",
-    "category": "Wearables",
     "pageType": "PDP",
-    "url": "https://secure8.store.apple.com/my/shop/signIn/account?ssi=4AAABoD0zjgIBICaGzXJcUgbRFuqEuznHM0bq9NcPCw5O26hCroVaoJKHAAAAN2h0dHBzOi8vc2VjdXJlOC5zdG9yZS5hcHBsZS5jb20vbXkvc2hvcC9hY2NvdW50L2hvbWV8fHwAAgESwAHDAcokKXJFAJEMraMIVuB5_FYQHYbCrlKcDoa2ow",
-    "title": "Sign in - Apple (MY)"
+    "url": "https://www.apple.com/my/apple-watch-hermes/"
   },
   {
     "brand": "Apple",
     "market": "Malaysia",
-    "category": "Wearables",
     "pageType": "PDP",
-    "url": "https://www.apple.com/my-edu/store",
-    "title": "College Student Offer 2026 - Education - Apple (MY)"
+    "url": "https://www.apple.com/my/apple-watch-nike/"
   },
   {
     "brand": "Apple",
     "market": "UK",
-    "category": "Wearables",
     "pageType": "PCP",
-    "url": "https://www.apple.com/uk/watch/",
-    "title": "Apple Watch - Apple (UK)"
+    "url": "https://www.apple.com/uk/watch/"
   },
   {
     "brand": "Apple",
     "market": "UK",
-    "category": "Wearables",
     "pageType": "PDP",
-    "url": "https://www.apple.com/uk-edu/store",
-    "title": "Education Savings and Student Discounts - Apple (UK)"
+    "url": "https://www.apple.com/uk/apple-watch-for-your-kids/"
   },
   {
     "brand": "Apple",
     "market": "UK",
-    "category": "Wearables",
     "pageType": "PDP",
-    "url": "https://secure8.store.apple.com/uk/shop/signIn/account?ssi=4AAABoD0zjzQBIJSSSalxOLxgHDwwV54_D5l8abz9rlte69wkeGUMv8gAAAAAN2h0dHBzOi8vc2VjdXJlOC5zdG9yZS5hcHBsZS5jb20vdWsvc2hvcC9hY2NvdW50L2hvbWV8fHwAAgHT-p4lLG5Mrxb7700Q40PQ_C0HkA83hu_XyHvN7_dTNw",
-    "title": "Sign in - Apple (UK)"
+    "url": "https://www.apple.com/uk/apple-watch-hermes/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "Global",
+    "pageType": "PCP",
+    "url": "https://www.samsung.com/global/galaxy/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "Malaysia",
+    "pageType": "PCP",
+    "url": "https://www.samsung.com/my/watches/galaxy-watch/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "Malaysia",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/my/watches/galaxy-watch/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "Malaysia",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/my/watches/galaxy-watch-ultra2/buy/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "UK",
+    "pageType": "PCP",
+    "url": "https://www.samsung.com/uk/watches/all-watches/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "UK",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/uk/watches/galaxy-watch-ultra2/buy/"
+  },
+  {
+    "brand": "Samsung",
+    "market": "UK",
+    "pageType": "PDP",
+    "url": "https://www.samsung.com/uk/watches/"
   },
   {
     "brand": "Garmin",
     "market": "Global",
-    "category": "Wearables",
     "pageType": "PCP",
-    "url": "https://www.garmin.com/en-US/c/wearables-smartwatches/",
-    "title": "Fitness Watches | Sport Watches | Smartwatches | Garmin"
+    "url": "https://www.garmin.com/en-US/c/wearables-smartwatches/"
   },
   {
     "brand": "Garmin",
     "market": "Global",
-    "category": "Wearables",
     "pageType": "PDP",
-    "url": "https://www.garmin.com/en-US/p/1277934/",
-    "title": "Garmin Blaze Equine Wellness System | Horse Health Sensor"
+    "url": "https://www.garmin.com/en-US/c/outdoor-maps/"
   },
   {
     "brand": "Garmin",
     "market": "Global",
-    "category": "Wearables",
     "pageType": "PDP",
-    "url": "https://www.garmin.com/en-US/p/1229049/",
-    "title": "Garmin OnBoard System | Wireless MOB Tags"
+    "url": "https://www.garmin.com/en-US/c/wearables-smartwatches/"
   },
   {
     "brand": "Garmin",
     "market": "Malaysia",
-    "category": "Wearables",
     "pageType": "PCP",
-    "url": "https://www.garmin.com.my/products/wearables/?cat=wearables-smartwatches",
-    "title": "All Wearables & Smart Watches | Smartwatches | Garmin Malaysia"
+    "url": "https://www.garmin.com.my/products/wearables/?cat=wearables-smartwatches"
   },
   {
     "brand": "Garmin",
     "market": "Malaysia",
-    "category": "Wearables",
     "pageType": "PDP",
-    "url": "https://www.garmin.com.my/buy/online/",
-    "title": "Online Store | Shop | Garmin Malaysia"
+    "url": "https://www.garmin.com.my/products/wearables/fenix-5-black/"
   },
   {
     "brand": "Garmin",
     "market": "Malaysia",
-    "category": "Wearables",
     "pageType": "PDP",
-    "url": "https://www.garmin.com.my/buy/brand-store/",
-    "title": "Brand Store | shop | Garmin Malaysia"
+    "url": "https://www.garmin.com.my/products/wearables/fenix-5-plus-dlc-black/"
   },
   {
     "brand": "Garmin",
     "market": "UK",
-    "category": "Wearables",
     "pageType": "PCP",
-    "url": "https://www.garmin.com/en-GB/c/wearables-smartwatches/",
-    "title": "Fitness Watches | Sport Watches | Smartwatches | Garmin"
+    "url": "https://www.garmin.com/en-GB/c/wearables-smartwatches/"
   },
   {
     "brand": "Garmin",
     "market": "UK",
-    "category": "Wearables",
     "pageType": "PDP",
-    "url": "https://www.garmin.com/en-GB/p/1277934/",
-    "title": "Garmin Blaze Equine Wellness System | Heart Rate Monitor"
+    "url": "https://www.garmin.com/en-GB/c/wearables-smartwatches/"
   },
   {
     "brand": "Garmin",
     "market": "UK",
-    "category": "Wearables",
     "pageType": "PDP",
-    "url": "https://www.garmin.com/en-GB/p/1229049/",
-    "title": "Garmin OnBoard™ System | Wireless MOB Tags"
-  },
-  {
-    "brand": "Samsung",
-    "market": "Malaysia",
-    "category": "Wearables",
-    "pageType": "PCP",
-    "url": "https://www.samsung.com/my/watches/",
-    "title": "Buy Samsung Smart Watches Online at Best Price | Samsung Malaysia"
-  },
-  {
-    "brand": "Samsung",
-    "market": "Malaysia",
-    "category": "Wearables",
-    "pageType": "PDP",
-    "url": "https://www.samsung.com/my/watches/galaxy-watch/galaxy-watch8-classic-46mm-black-bluetooth-sm-l500nzkaxme/",
-    "title": "Samsung Galaxy Watch8 Classic Bluetooth 46mm Black | Samsung Malaysia"
-  },
-  {
-    "brand": "Samsung",
-    "market": "Malaysia",
-    "category": "Wearables",
-    "pageType": "PDP",
-    "url": "https://www.samsung.com/my/watches/galaxy-watch/galaxy-watch-ultra2-titanium-silver-lte-sm-l715fzsaxme/",
-    "title": "Galaxy Watch Ultra2 Titanium Silver | Samsung Malaysia"
-  },
-  {
-    "brand": "Samsung",
-    "market": "UK",
-    "category": "Wearables",
-    "pageType": "PCP",
-    "url": "https://www.samsung.com/uk/watches/",
-    "title": "Latest Watches | Full Watch Range & Deals | Samsung UK"
-  },
-  {
-    "brand": "Samsung",
-    "market": "UK",
-    "category": "Wearables",
-    "pageType": "PDP",
-    "url": "https://www.samsung.com/uk/watches/galaxy-watch/galaxy-watch8-classic-46mm-black-bluetooth-sm-l500nzkaeua/",
-    "title": "Galaxy Watch 8 Classic Bluetooth 46mm | Specs | Samsung UK"
-  },
-  {
-    "brand": "Samsung",
-    "market": "UK",
-    "category": "Wearables",
-    "pageType": "PDP",
-    "url": "https://www.samsung.com/uk/watches/galaxy-watch/galaxy-watch-ultra2-titanium-silver-lte-sm-l715fzsaeub/",
-    "title": "Samsung Galaxy Watch Ultra 2 | Outdoor & Sport Smartwatch | Samsung UK"
+    "url": "https://www.garmin.com/en-GB/c/wearables-smartwatches-accessories/"
   }
 ]

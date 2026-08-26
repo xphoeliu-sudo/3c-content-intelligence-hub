@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "brand": "Garmin",
+    "market": "Malaysia",
+    "pageType": "PCP",
+    "title": "All Wearables & Smartwatches",
+    "changes": [
+      "Headings / structure",
+      "CTA / links"
+    ],
+    "before": "All Wearables & Smartwatches",
+    "after": "All Wearables & Smartwatches",
+    "url": "https://www.garmin.com.my/products/wearables/?cat=wearables-smartwatches"
+  }
+]
