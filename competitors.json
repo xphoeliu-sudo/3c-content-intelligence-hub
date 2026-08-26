@@ -1,0 +1,17 @@
+{
+  "Apple": {
+    "Global": {"PCP":["https://www.apple.com/watch/"],"official":["https://www.apple.com/newsroom/","https://support.apple.com/watch"],"queries":["site:youtube.com/watch Apple Watch official Apple","site:apple.com/newsroom Apple Watch"]},
+    "Malaysia": {"PCP":["https://www.apple.com/my/watch/"],"official":["https://www.apple.com/my/newsroom/","https://support.apple.com/en-my/watch"],"queries":["site:youtube.com/watch Apple Watch Malaysia Apple","site:apple.com/my Apple Watch"]},
+    "UK": {"PCP":["https://www.apple.com/uk/watch/"],"official":["https://www.apple.com/uk/newsroom/","https://support.apple.com/en-gb/watch"],"queries":["site:youtube.com/watch Apple Watch UK Apple","site:apple.com/uk Apple Watch"]}
+  },
+  "Samsung": {
+    "Global": {"PCP":["https://www.samsung.com/global/galaxy/galaxy-watch/"],"official":["https://news.samsung.com/global/","https://www.samsung.com/global/galaxy/galaxy-watch/"],"queries":["site:youtube.com/watch Samsung Galaxy Watch official","site:news.samsung.com/global Galaxy Watch campaign"]},
+    "Malaysia": {"PCP":["https://www.samsung.com/my/watches/galaxy-watch/"],"official":["https://news.samsung.com/my/","https://www.samsung.com/my/watches/"],"queries":["site:youtube.com/watch Samsung Galaxy Watch Malaysia","site:news.samsung.com/my Galaxy Watch campaign"]},
+    "UK": {"PCP":["https://www.samsung.com/uk/watches/galaxy-watch/"],"official":["https://news.samsung.com/uk/","https://www.samsung.com/uk/watches/"],"queries":["site:youtube.com/watch Samsung Galaxy Watch UK","site:news.samsung.com/uk Galaxy Watch campaign"]}
+  },
+  "Garmin": {
+    "Global": {"PCP":["https://www.garmin.com/en-US/c/wearables-smartwatches/"],"official":["https://www.garmin.com/en-US/news/","https://www.garmin.com/en-US/blog/"],"queries":["site:youtube.com/watch Garmin smartwatch official","site:garmin.com Garmin smartwatch campaign"]},
+    "Malaysia": {"PCP":["https://www.garmin.com.my/products/wearables/"],"official":["https://www.garmin.com.my/news/","https://www.garmin.com/en-MY/blog/"],"queries":["site:youtube.com/watch Garmin Malaysia smartwatch","site:garmin.com.my Garmin watch campaign"]},
+    "UK": {"PCP":["https://www.garmin.com/en-GB/c/wearables-smartwatches/"],"official":["https://www.garmin.com/en-GB/news/","https://www.garmin.com/en-GB/blog/"],"queries":["site:youtube.com/watch Garmin UK smartwatch","site:garmin.com/en-GB Garmin watch campaign"]}
+  }
+}
