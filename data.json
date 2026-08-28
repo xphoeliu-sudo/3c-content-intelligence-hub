@@ -1,8 +1,8 @@
 {
   "executive": [
-    "Garmin UK is preparing a virtual launch event on 25 August 2026 teasing new wearables including FĒNIX® 9 and CIRQA™ Smart Band.",
-    "Aggressive clearance and promotion strategies are active across UK EMEA channels to drive end-of-cycle sales.",
-    "Garmin Malaysia updated Wearables PCP structure and CTAs, indicating localized UX optimization for category navigation."
+    "Garmin UK scheduled a virtual launch event titled 'Play Harder' for 25 August 2026, indicating imminent wearable product releases.",
+    "New product detail pages live for FĒNIX® 9, FORERUNNER® 70/170, and CIRQA™ Smart Band suggesting refreshed portfolio in UK market.",
+    "Active clearance and promotion campaigns running on UK and EMEA stores, signaling inventory management or seasonal pricing strategy."
   ],
   "signals": [
     {
@@ -10,9 +10,9 @@
       "market": "UK",
       "type": "Launch",
       "priority": "High",
-      "title": "Virtual Launch Event Tease",
-      "summary": "Official landing page invites users to virtual launch event on 25 August 2026.",
-      "implication": "New product announcements imminent; competitive benchmarking required.",
+      "title": "Virtual Launch Event Scheduled",
+      "summary": "Garmin UK promotes a virtual launch event on 25 August 2026 under the 'Play Harder' campaign.",
+      "implication": "Competitive pressure expected on flagship wearable segments late August 2026.",
       "url": "https://www.garmin.com/en-GB/play-harder"
     },
     {
@@ -21,191 +21,191 @@
       "type": "Product",
       "priority": "High",
       "title": "FĒNIX® 9 Product Page Live",
-      "summary": "Ultimate smartwatch product page accessible indicating market readiness.",
-      "implication": "Flagship competitor positioning updated; feature comparison needed.",
+      "summary": "Dedicated product page for FĒNIX® 9 ultimate smartwatch available on UK store.",
+      "implication": "Direct competitor to Huawei high-end outdoor smartwatches.",
       "url": "https://www.garmin.com/en-GB/p/1953453"
     },
     {
       "brand": "Garmin",
       "market": "UK",
       "type": "Product",
-      "priority": "High",
+      "priority": "Medium",
       "title": "CIRQA™ Smart Band Listing",
       "summary": "New smart band product page visible with no subscription requirement highlighted.",
-      "implication": "Entry-level wearable segment targeting with value proposition focus.",
+      "implication": "Targets entry-level fitness tracker segment with value proposition.",
       "url": "https://www.garmin.com/en-GB/p/1989182"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "type": "Product",
+      "priority": "Medium",
+      "title": "FORERUNNER® 70 | 170 Launch",
+      "summary": "Easy-to-use GPS running smartwatches product pages published.",
+      "implication": "Focus on runner segment with mid-tier GPS watches.",
+      "url": "https://www.garmin.com/en-GB/p/1941179"
     },
     {
       "brand": "Garmin",
       "market": "UK",
       "type": "Promotion",
       "priority": "Medium",
-      "title": "Clearance Deals EMEA",
-      "summary": "Dedicated clearance hub active for EMEA region with gift filters.",
-      "implication": "Inventory reduction strategy may impact pricing pressure in region.",
+      "title": "Clearance Deals Active",
+      "summary": "EMEA clearance deals page active with gift on sale filters.",
+      "implication": "Potential price pressure on older wearable models.",
       "url": "https://www.garmin.com/en-GB/c/promotions/clearance-deals-emea/?FILTER_FEATURE_GIFTONSALEEMEA=true"
     },
     {
       "brand": "Garmin",
-      "market": "Malaysia",
-      "type": "UX",
-      "priority": "Medium",
-      "title": "Wearables PCP Structure Update",
-      "summary": "Headings, structure and CTA links modified on All Wearables category page.",
-      "implication": "Conversion rate optimization testing underway in local market.",
-      "url": "https://www.garmin.com.my/products/wearables/?cat=wearables-smartwatches"
+      "market": "UK",
+      "type": "Promotion",
+      "priority": "Low",
+      "title": "General Promotions Hub",
+      "summary": "Centralized promotions page updated for UK market.",
+      "implication": "Ongoing discount strategy to drive conversion.",
+      "url": "https://www.garmin.com/en-GB/promotions"
     },
     {
       "brand": "Garmin",
       "market": "UK",
-      "type": "Product",
-      "priority": "Medium",
-      "title": "FORERUNNER® 70 | 170 Listing",
-      "summary": "Easy-to-use GPS running smartwatches product page published.",
-      "implication": "Mid-range running segment reinforcement observed.",
-      "url": "https://www.garmin.com/en-GB/p/1941179"
+      "type": "Education",
+      "priority": "Low",
+      "title": "Garmin Coach Overview",
+      "summary": "Training and coaching program page accessible for UK users.",
+      "implication": "Continued investment in software-led fitness retention.",
+      "url": "https://www.garmin.com/en-GB/garmin-coach/overview"
     },
     {
       "brand": "Garmin",
       "market": "UK",
       "type": "Support",
       "priority": "Low",
-      "title": "Aviation Support Hub",
-      "summary": "Dedicated support center for aviation products maintained.",
-      "implication": "Niche vertical support remains a differentiator.",
-      "url": "https://support.garmin.com/en-GB/aviation"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "type": "Program",
-      "priority": "Low",
-      "title": "Garmin Pros Program",
-      "summary": "Professional ambassador program page accessible for anglers and general pros.",
-      "implication": "Influencer and pro-user marketing channel active.",
-      "url": "https://www.garmin.com/en-GB/pros"
+      "title": "Support Center Updated",
+      "summary": "UK specific support center portal maintained.",
+      "implication": "Focus on post-purchase experience and retention.",
+      "url": "https://support.garmin.com/en-GB"
     }
   ],
   "contentMoves": [
     {
       "brand": "Garmin",
       "market": "UK",
-      "format": "Event Page",
-      "product": "Launch Event",
-      "title": "SOMETHING NEW IS COMING",
-      "summary": "Virtual launch event invitation scheduled for 25 August 2026.",
-      "date": "2026-08-26T09:13:17.587422+00:00",
-      "url": "https://www.garmin.com/en-GB/play-harder"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "format": "PDP",
+      "format": "Product Page",
       "product": "FĒNIX® 9",
       "title": "FĒNIX® 9 The ultimate smartwatch",
-      "summary": "Product detail page for flagship multisport watch.",
-      "date": "2026-08-26T09:13:17.587515+00:00",
+      "summary": "Product detail page for flagship outdoor smartwatch.",
+      "date": "2026-08-28",
       "url": "https://www.garmin.com/en-GB/p/1953453"
     },
     {
       "brand": "Garmin",
       "market": "UK",
-      "format": "PDP",
+      "format": "Product Page",
       "product": "CIRQA™ Smart Band",
       "title": "CIRQA™ Smart Band",
-      "summary": "Tracking band with no subscription requirement.",
-      "date": "2026-08-26T09:13:17.587820+00:00",
+      "summary": "Product page for new smart band with no subscription model.",
+      "date": "2026-08-28",
       "url": "https://www.garmin.com/en-GB/p/1989182"
     },
     {
       "brand": "Garmin",
       "market": "UK",
-      "format": "PDP",
+      "format": "Product Page",
       "product": "FORERUNNER® 70 | 170",
       "title": "FORERUNNER® 70 | 170 Easy-to-use GPS running smartwatches",
-      "summary": "Entry to mid-level running watch product page.",
-      "date": "2026-08-26T09:13:17.587610+00:00",
+      "summary": "Product pages for entry-mid GPS running watches.",
+      "date": "2026-08-28",
       "url": "https://www.garmin.com/en-GB/p/1941179"
     },
     {
       "brand": "Garmin",
       "market": "UK",
-      "format": "Program Page",
+      "format": "Category Page",
+      "product": "Adventure Watches",
+      "title": "Adventure Watches",
+      "summary": "Category landing page for outdoor recreation smartwatches.",
+      "date": "2026-08-28",
+      "url": "https://www.garmin.com/en-GB/c/outdoor-recreation/adventure-smartwatches"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "format": "Campaign Page",
+      "product": "General",
+      "title": "SOMETHING NEW IS COMING",
+      "summary": "Virtual launch event invitation page.",
+      "date": "2026-08-28",
+      "url": "https://www.garmin.com/en-GB/play-harder"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "format": "Promotion Page",
+      "product": "General",
+      "title": "PROMOTIONS Check out our current sales Shop Now",
+      "summary": "Central hub for current sales and promotions.",
+      "date": "2026-08-28",
+      "url": "https://www.garmin.com/en-GB/promotions"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "format": "Promotion Page",
+      "product": "General",
+      "title": "CLEARANCE DEALS",
+      "summary": "Clearance deals page with EMEA filters.",
+      "date": "2026-08-28",
+      "url": "https://www.garmin.com/en-GB/c/promotions/clearance-deals-emea/?FILTER_FEATURE_GIFTONSALEEMEA=true"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "format": "Education",
       "product": "Garmin Coach",
       "title": "Garmin Coach",
-      "summary": "Overview of adaptive training plans.",
-      "date": "2026-08-26T09:13:17.589230+00:00",
+      "summary": "Overview of training and coaching programs.",
+      "date": "2026-08-28",
       "url": "https://www.garmin.com/en-GB/garmin-coach/overview"
     },
     {
       "brand": "Garmin",
       "market": "UK",
-      "format": "Support Page",
-      "product": "Aviation",
-      "title": "Aviation Support",
-      "summary": "Support resources for aviation devices.",
-      "date": "2026-08-26T09:13:17.624599+00:00",
-      "url": "https://support.garmin.com/en-GB/aviation"
+      "format": "Support",
+      "product": "General",
+      "title": "Support Center",
+      "summary": "UK specific support portal.",
+      "date": "2026-08-28",
+      "url": "https://support.garmin.com/en-GB"
     },
     {
       "brand": "Garmin",
       "market": "UK",
-      "format": "Support Page",
-      "product": "Navionics",
-      "title": "Navionics Support",
-      "summary": "Support center for Navionics charts and apps.",
-      "date": "2026-08-26T09:13:17.624469+00:00",
-      "url": "https://support.garmin.com/en-GB/navionics"
+      "format": "Category Page",
+      "product": "Smartwatch Accessories",
+      "title": "Smartwatch Accessories",
+      "summary": "Accessories category for wearables.",
+      "date": "2026-08-28",
+      "url": "https://www.garmin.com/en-GB/c/wearables-smartwatches-accessories"
     },
     {
       "brand": "Garmin",
       "market": "UK",
-      "format": "Brochure",
-      "product": "Marine",
-      "title": "Marine Brochures",
-      "summary": "Downloadable brochures for marine products.",
-      "date": "2026-08-26T09:13:17.595339+00:00",
-      "url": "https://www.garmin.com/en-GB/marine/brochures"
+      "format": "Category Page",
+      "product": "Scales & Heart Rate Monitors",
+      "title": "Scales & Heart Rate Monitors",
+      "summary": "Health fitness accessory category.",
+      "date": "2026-08-28",
+      "url": "https://www.garmin.com/en-GB/c/sports-fitness/scales-monitors"
     },
     {
       "brand": "Garmin",
       "market": "UK",
-      "format": "PDP",
-      "product": "Spy Pole™",
-      "title": "Spy Pole™ | GT360UHD Motorised control",
-      "summary": "Motorised control for LiveScope and sonar imagery.",
-      "date": "2026-08-26T09:13:17.595601+00:00",
-      "url": "https://www.garmin.com/en-GB/p/1611121"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "format": "PDP",
-      "product": "ZŪMO® XT3",
-      "title": "ZŪMO® XT3 Rugged motorcycle sat nav",
-      "summary": "Motorcycle navigation device product page.",
-      "date": "2026-08-26T09:13:17.593188+00:00",
-      "url": "https://www.garmin.com/en-GB/p/1904331"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "format": "Info Page",
-      "product": "Garmin Technology",
-      "title": "Garmin Technology",
-      "summary": "Overview of proprietary technology and features.",
-      "date": "2026-08-26T09:13:17.587247+00:00",
-      "url": "https://www.garmin.com/en-GB/garmin-technology"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "format": "Health Page",
-      "product": "Training",
-      "title": "Training",
-      "summary": "Aviation training resources and content.",
-      "date": "2026-08-26T09:13:17.623901+00:00",
-      "url": "https://www.garmin.com/en-US/aviation/training"
+      "format": "Tool",
+      "product": "General",
+      "title": "Watch finder",
+      "summary": "Product selection tool for customers.",
+      "date": "2026-08-28",
+      "url": "https://www.garmin.com/en-GB/which-watch"
     }
   ],
   "marketingMoves": [
@@ -214,7 +214,7 @@
       "market": "UK",
       "type": "Event",
       "title": "Virtual Launch Event",
-      "summary": "Scheduled online event to unveil new products on 25 August 2026.",
+      "summary": "Scheduled virtual launch event at 12 pm on 25 August, 2026.",
       "url": "https://www.garmin.com/en-GB/play-harder"
     },
     {
@@ -222,106 +222,74 @@
       "market": "UK",
       "type": "Promotion",
       "title": "Clearance Deals EMEA",
-      "summary": "Regional clearance sale with gift filtering options.",
+      "summary": "Regional clearance promotion with gift on sale filters.",
       "url": "https://www.garmin.com/en-GB/c/promotions/clearance-deals-emea/?FILTER_FEATURE_GIFTONSALEEMEA=true"
     },
     {
       "brand": "Garmin",
       "market": "UK",
       "type": "Promotion",
-      "title": "Promotions Hub",
+      "title": "UK Promotions Hub",
       "summary": "Centralized page for current sales and offers.",
       "url": "https://www.garmin.com/en-GB/promotions"
     },
     {
       "brand": "Garmin",
       "market": "UK",
-      "type": "Promotion",
-      "title": "Aviation Promotions",
-      "summary": "Specific promotional landing page for aviation products.",
-      "url": "https://www.garmin.com/en-US/promotions/aviation"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "type": "Tool",
-      "title": "Marine System Builder",
-      "summary": "Interactive tool for configuring marine electronics systems.",
-      "url": "https://www.garmin.com/en-GB/marine-system-builder"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "type": "Program",
-      "title": "Garmin Pros",
-      "summary": "Ambassador and professional user program engagement.",
-      "url": "https://www.garmin.com/en-GB/pros"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "type": "Program",
-      "title": "Garmin Pros Anglers",
-      "summary": "Specific vertical program for fishing professionals.",
-      "url": "https://www.garmin.com/en-GB/pros/anglers"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Malaysia",
-      "type": "Localization",
-      "title": "PCP UX Optimization",
-      "summary": "Updates to headings and CTAs on Wearables category page.",
-      "url": "https://www.garmin.com.my/products/wearables/?cat=wearables-smartwatches"
+      "type": "Campaign",
+      "title": "Play Harder",
+      "summary": "Campaign landing page teasing new product releases.",
+      "url": "https://www.garmin.com/en-GB/play-harder"
     }
   ],
   "actions": [
     {
       "priority": "High",
       "action": "Monitor Virtual Launch Event",
-      "why": "New product specs will define competitive benchmark for Q4.",
-      "examples": "Track Fenix 9 and CIRQA feature announcements on 25 August."
+      "why": "Garmin scheduling major reveal on 25 August 2026 which may impact Huawei flagship positioning.",
+      "examples": "Assign team to attend livestream, capture specs and pricing immediately."
     },
     {
       "priority": "High",
-      "action": "Benchmark FĒNIX® 9 Pricing",
-      "why": "Flagship pricing strategy impacts premium wearable positioning.",
-      "examples": "Compare PDP price against Huawei Ultimate Design series."
+      "action": "Benchmark FĒNIX® 9",
+      "why": "New product page live indicates market availability or imminent stock.",
+      "examples": "Compare battery life, GPS accuracy, and price against Huawei Ultimate series."
     },
     {
       "priority": "Medium",
-      "action": "Analyze Clearance Discount Depth",
-      "why": "Clearance levels indicate inventory pressure and price floor.",
-      "examples": "Review EMEA clearance deals for margin insights."
+      "action": "Review Clearance Strategy",
+      "why": "Active clearance deals may pressure Huawei mid-tier pricing in UK.",
+      "examples": "Analyze discounted Garmin models and adjust Huawei promotional calendar."
     },
     {
       "priority": "Medium",
-      "action": "Audit Malaysia PCP UX",
-      "why": "Structure changes may improve their conversion rates.",
-      "examples": "Compare heading hierarchy and CTA placement on Garmin MY vs Huawei MY."
+      "action": "Enhance Fitness Education Content",
+      "why": "Garmin Coach remains a key retention tool.",
+      "examples": "Update Huawei Health training plans to match competitor depth."
+    },
+    {
+      "priority": "Low",
+      "action": "Audit Accessory Ecosystem",
+      "why": "Garmin highlights smartwatch accessories and sensors.",
+      "examples": "Review Huawei accessory bundling opportunities for new launches."
+    },
+    {
+      "priority": "Low",
+      "action": "Optimize Product Finder UX",
+      "why": "Garmin utilizes a watch finder tool for conversion.",
+      "examples": "Test Huawei website product selection flow for friction."
     },
     {
       "priority": "Medium",
-      "action": "Evaluate CIRQA™ Value Prop",
-      "why": "No subscription model challenges service revenue strategies.",
-      "examples": "Assess feature set against Huawei Band series."
+      "action": "Track CIRQA™ Band Reception",
+      "why": "New band entry with no subscription could disrupt budget segment.",
+      "examples": "Monitor social sentiment and pricing vs Huawei Band series."
     },
     {
       "priority": "Low",
-      "action": "Review Garmin Coach Content",
-      "why": "Training content drives ecosystem stickiness.",
-      "examples": "Analyze adaptive plan offerings for health app integration."
-    },
-    {
-      "priority": "Low",
-      "action": "Track Aviation Niche Support",
-      "why": "Specialized support reinforces brand authority in verticals.",
-      "examples": "Monitor aviation support page updates for content depth."
-    },
-    {
-      "priority": "Low",
-      "action": "Observe Pros Program Activity",
-      "why": "Ambassador marketing influences community trust.",
-      "examples": "Check Pros page for new athlete signings or content."
+      "action": "Verify Support Portal Performance",
+      "why": "Garmin maintains dedicated UK support center.",
+      "examples": "Benchmark Huawei UK support page load times and article relevance."
     }
   ],
   "contentMix": {
@@ -353,22 +321,8 @@
       "event": 10
     }
   },
-  "pageChanges": [
-    {
-      "brand": "Garmin",
-      "market": "Malaysia",
-      "pageType": "PCP",
-      "title": "All Wearables & Smartwatches",
-      "changes": [
-        "Headings / structure",
-        "CTA / links"
-      ],
-      "before": "All Wearables & Smartwatches",
-      "after": "All Wearables & Smartwatches",
-      "url": "https://www.garmin.com.my/products/wearables/?cat=wearables-smartwatches"
-    }
-  ],
-  "updatedAt": "2026-08-26T09:16:21.176225+00:00",
+  "pageChanges": [],
+  "updatedAt": "2026-08-28T07:01:06.479221+00:00",
   "timezone": "Asia/Kuala_Lumpur",
   "feedItems": [
     {
@@ -379,7 +333,7 @@
       "title": "Aviation Support",
       "summary": "",
       "url": "https://support.garmin.com/en-GB/aviation",
-      "published": "2026-08-26T09:13:17.624599+00:00"
+      "published": "2026-08-28T06:58:31.267615+00:00"
     },
     {
       "brand": "Garmin",
@@ -389,7 +343,7 @@
       "title": "Navionics Support",
       "summary": "",
       "url": "https://support.garmin.com/en-GB/navionics",
-      "published": "2026-08-26T09:13:17.624469+00:00"
+      "published": "2026-08-28T06:58:31.267519+00:00"
     },
     {
       "brand": "Garmin",
@@ -399,7 +353,7 @@
       "title": "Aviation Support",
       "summary": "",
       "url": "https://fly.garmin.com/fly-garmin/support",
-      "published": "2026-08-26T09:13:17.624393+00:00"
+      "published": "2026-08-28T06:58:31.267458+00:00"
     },
     {
       "brand": "Garmin",
@@ -409,7 +363,7 @@
       "title": "Support Center",
       "summary": "",
       "url": "https://support.garmin.com/en-GB",
-      "published": "2026-08-26T09:13:17.624316+00:00"
+      "published": "2026-08-28T06:58:31.267385+00:00"
     },
     {
       "brand": "Garmin",
@@ -419,7 +373,7 @@
       "title": "CLEARANCE DEALS",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/promotions/clearance-deals-emea/?FILTER_FEATURE_GIFTONSALEEMEA=true",
-      "published": "2026-08-26T09:13:17.624239+00:00"
+      "published": "2026-08-28T06:58:31.267326+00:00"
     },
     {
       "brand": "Garmin",
@@ -429,7 +383,7 @@
       "title": "PROMOTIONS Check out our current sales Shop Now",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/promotions",
-      "published": "2026-08-26T09:13:17.624154+00:00"
+      "published": "2026-08-28T06:58:31.267261+00:00"
     },
     {
       "brand": "Garmin",
@@ -439,7 +393,7 @@
       "title": "Promotions",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/promotions",
-      "published": "2026-08-26T09:13:17.624074+00:00"
+      "published": "2026-08-28T06:58:31.267205+00:00"
     },
     {
       "brand": "Garmin",
@@ -449,7 +403,7 @@
       "title": "Clicking a link will take you to our U.S. website.",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/blog",
-      "published": "2026-08-26T09:13:17.623971+00:00"
+      "published": "2026-08-28T06:58:31.267147+00:00"
     },
     {
       "brand": "Garmin",
@@ -459,7 +413,7 @@
       "title": "Training",
       "summary": "",
       "url": "https://www.garmin.com/en-US/aviation/training",
-      "published": "2026-08-26T09:13:17.623901+00:00"
+      "published": "2026-08-28T06:58:31.267094+00:00"
     },
     {
       "brand": "Garmin",
@@ -469,7 +423,7 @@
       "title": "Promotions",
       "summary": "",
       "url": "https://www.garmin.com/en-US/promotions/aviation",
-      "published": "2026-08-26T09:13:17.623766+00:00"
+      "published": "2026-08-28T06:58:31.266984+00:00"
     },
     {
       "brand": "Garmin",
@@ -479,7 +433,7 @@
       "title": "PlaneSync",
       "summary": "",
       "url": "https://www.garmin.com/en-US/planesync",
-      "published": "2026-08-26T09:13:17.623687+00:00"
+      "published": "2026-08-28T06:58:31.266921+00:00"
     },
     {
       "brand": "Garmin",
@@ -489,7 +443,7 @@
       "title": "Autonomí",
       "summary": "",
       "url": "https://www.garmin.com/en-US/autonomi",
-      "published": "2026-08-26T09:13:17.623604+00:00"
+      "published": "2026-08-28T06:58:31.266856+00:00"
     },
     {
       "brand": "Garmin",
@@ -499,7 +453,7 @@
       "title": "Aviation Database Updates",
       "summary": "",
       "url": "https://fly.garmin.com/fly-garmin/devices/overview",
-      "published": "2026-08-26T09:13:17.623510+00:00"
+      "published": "2026-08-28T06:58:31.266774+00:00"
     },
     {
       "brand": "Garmin",
@@ -509,7 +463,7 @@
       "title": "flyGarmin",
       "summary": "",
       "url": "https://fly.garmin.com",
-      "published": "2026-08-26T09:13:17.623399+00:00"
+      "published": "2026-08-28T06:58:31.266660+00:00"
     },
     {
       "brand": "Garmin",
@@ -519,7 +473,7 @@
       "title": "Garmin Pilot",
       "summary": "",
       "url": "https://www.garmin.com/en-US/aviation/garminpilot/overview",
-      "published": "2026-08-26T09:13:17.596965+00:00"
+      "published": "2026-08-28T06:58:31.237719+00:00"
     },
     {
       "brand": "Garmin",
@@ -529,7 +483,7 @@
       "title": "Government & Defense",
       "summary": "",
       "url": "https://www.garmin.com/en-US/aviation/government-defense",
-      "published": "2026-08-26T09:13:17.596884+00:00"
+      "published": "2026-08-28T06:58:31.237667+00:00"
     },
     {
       "brand": "Garmin",
@@ -539,7 +493,7 @@
       "title": "Helicopters",
       "summary": "",
       "url": "https://www.garmin.com/en-US/c/aviation/helicopters",
-      "published": "2026-08-26T09:13:17.596802+00:00"
+      "published": "2026-08-28T06:58:31.237607+00:00"
     },
     {
       "brand": "Garmin",
@@ -549,7 +503,7 @@
       "title": "Experimental",
       "summary": "",
       "url": "https://www.garmin.com/en-US/c/aviation/experimental",
-      "published": "2026-08-26T09:13:17.596727+00:00"
+      "published": "2026-08-28T06:58:31.237555+00:00"
     },
     {
       "brand": "Garmin",
@@ -559,7 +513,7 @@
       "title": "Business Aviation",
       "summary": "",
       "url": "https://www.garmin.com/en-US/c/aviation/business",
-      "published": "2026-08-26T09:13:17.596649+00:00"
+      "published": "2026-08-28T06:58:31.237502+00:00"
     },
     {
       "brand": "Garmin",
@@ -569,7 +523,7 @@
       "title": "General Aviation",
       "summary": "",
       "url": "https://www.garmin.com/en-US/c/aviation/general",
-      "published": "2026-08-26T09:13:17.596568+00:00"
+      "published": "2026-08-28T06:58:31.237445+00:00"
     },
     {
       "brand": "Garmin",
@@ -579,7 +533,7 @@
       "title": "Portable GPS & Wearables",
       "summary": "",
       "url": "https://www.garmin.com/en-US/c/aviation/gps-wearables-apps",
-      "published": "2026-08-26T09:13:17.596481+00:00"
+      "published": "2026-08-28T06:58:31.237380+00:00"
     },
     {
       "brand": "Garmin",
@@ -589,7 +543,7 @@
       "title": "ADS-B & Transponders",
       "summary": "",
       "url": "https://www.garmin.com/en-US/aviation/adsb-solutions",
-      "published": "2026-08-26T09:13:17.596398+00:00"
+      "published": "2026-08-28T06:58:31.237320+00:00"
     },
     {
       "brand": "Garmin",
@@ -599,7 +553,7 @@
       "title": "Audio Panels",
       "summary": "",
       "url": "https://www.garmin.com/en-US/c/aviation/audio-panels",
-      "published": "2026-08-26T09:13:17.596193+00:00"
+      "published": "2026-08-28T06:58:31.237183+00:00"
     },
     {
       "brand": "Garmin",
@@ -609,7 +563,7 @@
       "title": "Datalinks & Connectivity",
       "summary": "",
       "url": "https://www.garmin.com/en-US/c/aviation/datalinks-connected-cockpit",
-      "published": "2026-08-26T09:13:17.596114+00:00"
+      "published": "2026-08-28T06:58:31.237130+00:00"
     },
     {
       "brand": "Garmin",
@@ -619,7 +573,7 @@
       "title": "Integrated Flight Decks",
       "summary": "",
       "url": "https://www.garmin.com/en-US/c/aviation/flight-decks",
-      "published": "2026-08-26T09:13:17.596018+00:00"
+      "published": "2026-08-28T06:58:31.237052+00:00"
     },
     {
       "brand": "Garmin",
@@ -629,7 +583,7 @@
       "title": "Engine Indication Systems",
       "summary": "",
       "url": "https://www.garmin.com/en-US/aviation/eis-buyers-guide",
-      "published": "2026-08-26T09:13:17.595923+00:00"
+      "published": "2026-08-28T06:58:31.236994+00:00"
     },
     {
       "brand": "Garmin",
@@ -639,7 +593,7 @@
       "title": "Flight Displays & Instruments",
       "summary": "",
       "url": "https://www.garmin.com/en-US/c/aviation/flight-displays-instruments",
-      "published": "2026-08-26T09:13:17.595848+00:00"
+      "published": "2026-08-28T06:58:31.236944+00:00"
     },
     {
       "brand": "Garmin",
@@ -649,7 +603,7 @@
       "title": "Autopilots",
       "summary": "",
       "url": "https://www.garmin.com/en-US/c/aviation/autopilot-systems",
-      "published": "2026-08-26T09:13:17.595765+00:00"
+      "published": "2026-08-28T06:58:31.236885+00:00"
     },
     {
       "brand": "Garmin",
@@ -659,7 +613,7 @@
       "title": "Navigation & Radios",
       "summary": "",
       "url": "https://www.garmin.com/en-US/c/aviation/navigation-radios",
-      "published": "2026-08-26T09:13:17.595687+00:00"
+      "published": "2026-08-28T06:58:31.236831+00:00"
     },
     {
       "brand": "Garmin",
@@ -669,7 +623,7 @@
       "title": "Spy Pole™ | GT360UHD Motorised control for LiveScope™ and 360-degree sonar imagery",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/p/1611121",
-      "published": "2026-08-26T09:13:17.595601+00:00"
+      "published": "2026-08-28T06:58:31.236768+00:00"
     },
     {
       "brand": "Garmin",
@@ -679,7 +633,7 @@
       "title": "ActiveCaptain",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/p/804601",
-      "published": "2026-08-26T09:13:17.595497+00:00"
+      "published": "2026-08-28T06:58:31.236691+00:00"
     },
     {
       "brand": "Garmin",
@@ -689,7 +643,7 @@
       "title": "Garmin Pros",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/pros/anglers",
-      "published": "2026-08-26T09:13:17.595417+00:00"
+      "published": "2026-08-28T06:58:31.236638+00:00"
     },
     {
       "brand": "Garmin",
@@ -699,7 +653,7 @@
       "title": "Marine Brochures",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/marine/brochures",
-      "published": "2026-08-26T09:13:17.595339+00:00"
+      "published": "2026-08-28T06:58:31.236581+00:00"
     },
     {
       "brand": "Garmin",
@@ -709,7 +663,7 @@
       "title": "Marine Technology",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/garmin-technology/marine-technology",
-      "published": "2026-08-26T09:13:17.595255+00:00"
+      "published": "2026-08-28T06:58:31.236528+00:00"
     },
     {
       "brand": "Garmin",
@@ -719,7 +673,7 @@
       "title": "System Builder",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/marine-system-builder",
-      "published": "2026-08-26T09:13:17.595177+00:00"
+      "published": "2026-08-28T06:58:31.236473+00:00"
     },
     {
       "brand": "Garmin",
@@ -729,7 +683,7 @@
       "title": "Software Updates",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/support/software/marine",
-      "published": "2026-08-26T09:13:17.595098+00:00"
+      "published": "2026-08-28T06:58:31.236408+00:00"
     },
     {
       "brand": "Garmin",
@@ -739,7 +693,7 @@
       "title": "Integration",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/marine-integrations",
-      "published": "2026-08-26T09:13:17.594994+00:00"
+      "published": "2026-08-28T06:58:31.236357+00:00"
     },
     {
       "brand": "Garmin",
@@ -749,7 +703,7 @@
       "title": "Navionics Boating App",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/p/904258",
-      "published": "2026-08-26T09:13:17.594918+00:00"
+      "published": "2026-08-28T06:58:31.236306+00:00"
     },
     {
       "brand": "Garmin",
@@ -759,7 +713,7 @@
       "title": "Updating Charts",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/marine/update-now",
-      "published": "2026-08-26T09:13:17.594841+00:00"
+      "published": "2026-08-28T06:58:31.236254+00:00"
     },
     {
       "brand": "Garmin",
@@ -769,7 +723,7 @@
       "title": "Built-in Updates",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/p/802414",
-      "published": "2026-08-26T09:13:17.594765+00:00"
+      "published": "2026-08-28T06:58:31.236203+00:00"
     },
     {
       "brand": "Garmin",
@@ -779,7 +733,7 @@
       "title": "New Charts",
       "summary": "",
       "url": "https://maps.garmin.com/en-GB/marine",
-      "published": "2026-08-26T09:13:17.594687+00:00"
+      "published": "2026-08-28T06:58:31.236152+00:00"
     },
     {
       "brand": "Garmin",
@@ -789,7 +743,7 @@
       "title": "Engine Cutoff/MOB",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/p/1229049",
-      "published": "2026-08-26T09:13:17.594496+00:00"
+      "published": "2026-08-28T06:58:31.236022+00:00"
     },
     {
       "brand": "Garmin",
@@ -799,7 +753,7 @@
       "title": "Digital Switching",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/marine/digital-switching",
-      "published": "2026-08-26T09:13:17.594419+00:00"
+      "published": "2026-08-28T06:58:31.235970+00:00"
     },
     {
       "brand": "Garmin",
@@ -809,7 +763,7 @@
       "title": "Antennas & Sensors",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/marine/boat-sensors-antennas",
-      "published": "2026-08-26T09:13:17.594228+00:00"
+      "published": "2026-08-28T06:58:31.235842+00:00"
     },
     {
       "brand": "Garmin",
@@ -819,7 +773,7 @@
       "title": "Sonar Black Boxes",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/marine/sonar-black-boxes",
-      "published": "2026-08-26T09:13:17.594145+00:00"
+      "published": "2026-08-28T06:58:31.235783+00:00"
     },
     {
       "brand": "Garmin",
@@ -829,7 +783,7 @@
       "title": "VHF & AIS",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/marine/vhf-ais-marine-radios",
-      "published": "2026-08-26T09:13:17.594061+00:00"
+      "published": "2026-08-28T06:58:31.235728+00:00"
     },
     {
       "brand": "Garmin",
@@ -839,7 +793,7 @@
       "title": "Handhelds & Smartwatches",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/marine/handhelds-gps-and-watches",
-      "published": "2026-08-26T09:13:17.593953+00:00"
+      "published": "2026-08-28T06:58:31.235670+00:00"
     },
     {
       "brand": "Garmin",
@@ -849,7 +803,7 @@
       "title": "Lighting",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/marine/lighting",
-      "published": "2026-08-26T09:13:17.593872+00:00"
+      "published": "2026-08-28T06:58:31.235611+00:00"
     },
     {
       "brand": "Garmin",
@@ -859,7 +813,7 @@
       "title": "Autopilots",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/marine/boat-autopilots",
-      "published": "2026-08-26T09:13:17.593797+00:00"
+      "published": "2026-08-28T06:58:31.235557+00:00"
     },
     {
       "brand": "Garmin",
@@ -869,7 +823,7 @@
       "title": "Ice Fishing Bundles & Kits",
       "summary": "",
       "url": "https://buy.garmin.com/en-GB/GB/cOnTheWater-c14501-p1.html",
-      "published": "2026-08-26T09:13:17.593666+00:00"
+      "published": "2026-08-28T06:58:31.235461+00:00"
     },
     {
       "brand": "Garmin",
@@ -879,7 +833,7 @@
       "title": "Trolling Motors",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/marine/trolling-motors",
-      "published": "2026-08-26T09:13:17.593582+00:00"
+      "published": "2026-08-28T06:58:31.235386+00:00"
     },
     {
       "brand": "Garmin",
@@ -889,7 +843,7 @@
       "title": "Transducers",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/marine/boat-sonar-transducers",
-      "published": "2026-08-26T09:13:17.593500+00:00"
+      "published": "2026-08-28T06:58:31.235331+00:00"
     },
     {
       "brand": "Garmin",
@@ -899,7 +853,7 @@
       "title": "Live Sonar",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/marine/live-sonar",
-      "published": "2026-08-26T09:13:17.593359+00:00"
+      "published": "2026-08-28T06:58:31.235233+00:00"
     },
     {
       "brand": "Garmin",
@@ -909,7 +863,7 @@
       "title": "Chartplotters & Fishfinders",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/marine/chartplotters",
-      "published": "2026-08-26T09:13:17.593278+00:00"
+      "published": "2026-08-28T06:58:31.235173+00:00"
     },
     {
       "brand": "Garmin",
@@ -919,7 +873,7 @@
       "title": "ZŪMO® XT3 Rugged motorcycle sat nav",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/p/1904331",
-      "published": "2026-08-26T09:13:17.593188+00:00"
+      "published": "2026-08-28T06:58:31.235100+00:00"
     },
     {
       "brand": "Garmin",
@@ -929,7 +883,7 @@
       "title": "Stealthbox®",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/automotive/stealthbox-audio",
-      "published": "2026-08-26T09:13:17.593083+00:00"
+      "published": "2026-08-28T06:58:31.235011+00:00"
     },
     {
       "brand": "Garmin",
@@ -939,7 +893,7 @@
       "title": "Caravans/Motorhome",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/rv-oem/overview",
-      "published": "2026-08-26T09:13:17.592333+00:00"
+      "published": "2026-08-28T06:58:31.234211+00:00"
     },
     {
       "brand": "Garmin",
@@ -949,7 +903,7 @@
       "title": "Automotive",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/aoem",
-      "published": "2026-08-26T09:13:17.592256+00:00"
+      "published": "2026-08-28T06:58:31.234155+00:00"
     },
     {
       "brand": "Garmin",
@@ -959,7 +913,7 @@
       "title": "Off-Road Maps",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/off-road-maps",
-      "published": "2026-08-26T09:13:17.592064+00:00"
+      "published": "2026-08-28T06:58:31.234021+00:00"
     },
     {
       "brand": "Garmin",
@@ -969,7 +923,7 @@
       "title": "In-Dash Maps",
       "summary": "",
       "url": "https://auto-oem.garmin.com/landing/site",
-      "published": "2026-08-26T09:13:17.591958+00:00"
+      "published": "2026-08-28T06:58:31.233961+00:00"
     },
     {
       "brand": "Garmin",
@@ -979,7 +933,7 @@
       "title": "Purchase new maps",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/road-maps",
-      "published": "2026-08-26T09:13:17.591882+00:00"
+      "published": "2026-08-28T06:58:31.233894+00:00"
     },
     {
       "brand": "Garmin",
@@ -989,7 +943,7 @@
       "title": "Maps Updates",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/maps/updates/automotive",
-      "published": "2026-08-26T09:13:17.591805+00:00"
+      "published": "2026-08-28T06:58:31.233816+00:00"
     },
     {
       "brand": "Garmin",
@@ -999,7 +953,7 @@
       "title": "Home Audio",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/home-audio-systems",
-      "published": "2026-08-26T09:13:17.591728+00:00"
+      "published": "2026-08-28T06:58:31.233722+00:00"
     },
     {
       "brand": "Garmin",
@@ -1009,7 +963,7 @@
       "title": "Car Audio",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/automotive/jl-audio-car-audio",
-      "published": "2026-08-26T09:13:17.591644+00:00"
+      "published": "2026-08-28T06:58:31.233667+00:00"
     },
     {
       "brand": "Garmin",
@@ -1019,7 +973,7 @@
       "title": "Motorcycles",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/automotive/motorcycle-gps-navigation",
-      "published": "2026-08-26T09:13:17.591442+00:00"
+      "published": "2026-08-28T06:58:31.233523+00:00"
     },
     {
       "brand": "Garmin",
@@ -1029,7 +983,7 @@
       "title": "Cars, Caravans/Motorhome & Cameras",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/automotive/car-gps-navigation",
-      "published": "2026-08-26T09:13:17.591357+00:00"
+      "published": "2026-08-28T06:58:31.233464+00:00"
     },
     {
       "brand": "Garmin",
@@ -1039,7 +993,7 @@
       "title": "XERO® L60i See distance, mapping, navigation and more",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/p/798183",
-      "published": "2026-08-26T09:13:17.591267+00:00"
+      "published": "2026-08-28T06:58:31.233380+00:00"
     },
     {
       "brand": "Garmin",
@@ -1049,7 +1003,7 @@
       "title": "inReach Account",
       "summary": "",
       "url": "https://inreach.garmin.com/en-GB",
-      "published": "2026-08-26T09:13:17.590782+00:00"
+      "published": "2026-08-28T06:58:31.233072+00:00"
     },
     {
       "brand": "Garmin",
@@ -1059,7 +1013,7 @@
       "title": "Dog Tracking and Training",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/outdoor-recreation/sporting-dog-tracking-training-devices",
-      "published": "2026-08-26T09:13:17.590377+00:00"
+      "published": "2026-08-28T06:58:31.232795+00:00"
     },
     {
       "brand": "Garmin",
@@ -1069,7 +1023,7 @@
       "title": "Sportsman & Tactical",
       "summary": "",
       "url": "https://buy.garmin.com/en-GB/GB/c12520-c13460-p1.html",
-      "published": "2026-08-26T09:13:17.590296+00:00"
+      "published": "2026-08-28T06:58:31.232737+00:00"
     },
     {
       "brand": "Garmin",
@@ -1079,7 +1033,7 @@
       "title": "Adventure Watches",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/outdoor-recreation/adventure-smartwatches",
-      "published": "2026-08-26T09:13:17.590154+00:00"
+      "published": "2026-08-28T06:58:31.232641+00:00"
     },
     {
       "brand": "Garmin",
@@ -1089,7 +1043,7 @@
       "title": "Off-Road & Motorsports",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/automotive/motorsports",
-      "published": "2026-08-26T09:13:17.590075+00:00"
+      "published": "2026-08-28T06:58:31.232591+00:00"
     },
     {
       "brand": "Garmin",
@@ -1099,7 +1053,7 @@
       "title": "Satellite Communicators",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/outdoor-recreation/satellite-communicators",
-      "published": "2026-08-26T09:13:17.589965+00:00"
+      "published": "2026-08-28T06:58:31.232529+00:00"
     },
     {
       "brand": "Garmin",
@@ -1109,7 +1063,7 @@
       "title": "Handhelds",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/outdoor-recreation/handheld-hiking-gps",
-      "published": "2026-08-26T09:13:17.589883+00:00"
+      "published": "2026-08-28T06:58:31.232465+00:00"
     },
     {
       "brand": "Garmin",
@@ -1119,7 +1073,7 @@
       "title": "CIRQA™ SMART BAND Track all day. Look later. No subscription required.",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/p/1989182",
-      "published": "2026-08-26T09:13:17.589799+00:00"
+      "published": "2026-08-28T06:58:31.232393+00:00"
     },
     {
       "brand": "Garmin",
@@ -1129,7 +1083,7 @@
       "title": "Dive Test Center",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/dive-test-center",
-      "published": "2026-08-26T09:13:17.589573+00:00"
+      "published": "2026-08-28T06:58:31.232222+00:00"
     },
     {
       "brand": "Garmin",
@@ -1139,7 +1093,7 @@
       "title": "Garmin Pros",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/pros",
-      "published": "2026-08-26T09:13:17.589487+00:00"
+      "published": "2026-08-28T06:58:31.232165+00:00"
     },
     {
       "brand": "Garmin",
@@ -1149,7 +1103,7 @@
       "title": "Garmin Coach",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/garmin-coach/overview",
-      "published": "2026-08-26T09:13:17.589230+00:00"
+      "published": "2026-08-28T06:58:31.231988+00:00"
     },
     {
       "brand": "Garmin",
@@ -1159,7 +1113,7 @@
       "title": "Indoor Training Accessories",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/sports-fitness/indoor-training/accessories",
-      "published": "2026-08-26T09:13:17.589033+00:00"
+      "published": "2026-08-28T06:58:31.231856+00:00"
     },
     {
       "brand": "Garmin",
@@ -1169,7 +1123,7 @@
       "title": "Cycling Accessories",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/sports-fitness/cycling-biking-accessories",
-      "published": "2026-08-26T09:13:17.588932+00:00"
+      "published": "2026-08-28T06:58:31.231800+00:00"
     },
     {
       "brand": "Garmin",
@@ -1179,7 +1133,7 @@
       "title": "Smartwatch Accessories",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/wearables-smartwatches-accessories",
-      "published": "2026-08-26T09:13:17.588851+00:00"
+      "published": "2026-08-28T06:58:31.231742+00:00"
     },
     {
       "brand": "Garmin",
@@ -1189,7 +1143,7 @@
       "title": "Cycling Maps",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/p/730831",
-      "published": "2026-08-26T09:13:17.588571+00:00"
+      "published": "2026-08-28T06:58:31.231505+00:00"
     },
     {
       "brand": "Garmin",
@@ -1199,7 +1153,7 @@
       "title": "Scales & Heart Rate Monitors",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/sports-fitness/scales-monitors",
-      "published": "2026-08-26T09:13:17.588429+00:00"
+      "published": "2026-08-28T06:58:31.231392+00:00"
     },
     {
       "brand": "Garmin",
@@ -1209,7 +1163,7 @@
       "title": "Tacx® Indoor Cycling",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/sports-fitness/indoor-trainers",
-      "published": "2026-08-26T09:13:17.587972+00:00"
+      "published": "2026-08-28T06:58:31.231093+00:00"
     },
     {
       "brand": "Garmin",
@@ -1219,7 +1173,7 @@
       "title": "CIRQA™ Smart Band",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/p/1989182",
-      "published": "2026-08-26T09:13:17.587820+00:00"
+      "published": "2026-08-28T06:58:31.230992+00:00"
     },
     {
       "brand": "Garmin",
@@ -1229,7 +1183,7 @@
       "title": "FORERUNNER® 70 | 170 Easy-to-use GPS running smartwatches",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/p/1941179",
-      "published": "2026-08-26T09:13:17.587610+00:00"
+      "published": "2026-08-28T06:58:31.230829+00:00"
     },
     {
       "brand": "Garmin",
@@ -1239,7 +1193,7 @@
       "title": "FĒNIX® 9 The ultimate smartwatch",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/p/1953453",
-      "published": "2026-08-26T09:13:17.587515+00:00"
+      "published": "2026-08-28T06:58:31.230761+00:00"
     },
     {
       "brand": "Garmin",
@@ -1249,7 +1203,7 @@
       "title": "SOMETHING NEW IS COMING Get ready to play harder. Join our virtual launch event at 12 pm on 25 August, 2026.",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/play-harder",
-      "published": "2026-08-26T09:13:17.587422+00:00"
+      "published": "2026-08-28T06:58:31.230691+00:00"
     },
     {
       "brand": "Garmin",
@@ -1259,7 +1213,7 @@
       "title": "Watch finder",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/which-watch",
-      "published": "2026-08-26T09:13:17.587331+00:00"
+      "published": "2026-08-28T06:58:31.230624+00:00"
     },
     {
       "brand": "Garmin",
@@ -1269,7 +1223,7 @@
       "title": "Garmin Technology",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/garmin-technology",
-      "published": "2026-08-26T09:13:17.587247+00:00"
+      "published": "2026-08-28T06:58:31.230561+00:00"
     },
     {
       "brand": "Garmin",
@@ -1279,7 +1233,7 @@
       "title": "Garmin Pay",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/garmin-pay",
-      "published": "2026-08-26T09:13:17.587164+00:00"
+      "published": "2026-08-28T06:58:31.230502+00:00"
     },
     {
       "brand": "Garmin",
@@ -1289,7 +1243,7 @@
       "title": "Subscription Plans",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/subscription-plans",
-      "published": "2026-08-26T09:13:17.587082+00:00"
+      "published": "2026-08-28T06:58:31.230442+00:00"
     },
     {
       "brand": "Garmin",
@@ -1299,7 +1253,7 @@
       "title": "Accessories",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/wearables-smartwatches-accessories",
-      "published": "2026-08-26T09:13:17.586915+00:00"
+      "published": "2026-08-28T06:58:31.230331+00:00"
     },
     {
       "brand": "Garmin",
@@ -1309,7 +1263,7 @@
       "title": "Golf Course Locator",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/golf-courses",
-      "published": "2026-08-26T09:13:17.586830+00:00"
+      "published": "2026-08-28T06:58:31.230273+00:00"
     },
     {
       "brand": "Garmin",
@@ -1319,7 +1273,7 @@
       "title": "Outdoor Maps",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/outdoor-maps",
-      "published": "2026-08-26T09:13:17.586740+00:00"
+      "published": "2026-08-28T06:58:31.230210+00:00"
     },
     {
       "brand": "Garmin",
@@ -1329,7 +1283,7 @@
       "title": "Kids wearables",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/sports-fitness/kids-wearables-fitness-activity-trackers",
-      "published": "2026-08-26T09:13:17.586601+00:00"
+      "published": "2026-08-28T06:58:31.230109+00:00"
     },
     {
       "brand": "Garmin",
@@ -1339,7 +1293,7 @@
       "title": "Swimming",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/sports-fitness/swimming-smartwatches",
-      "published": "2026-08-26T09:13:17.586392+00:00"
+      "published": "2026-08-28T06:58:31.229963+00:00"
     },
     {
       "brand": "Garmin",
@@ -1349,7 +1303,7 @@
       "title": "Adventure",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/outdoor-recreation/adventure-smartwatches",
-      "published": "2026-08-26T09:13:17.586314+00:00"
+      "published": "2026-08-28T06:58:31.229905+00:00"
     },
     {
       "brand": "Garmin",
@@ -1359,7 +1313,7 @@
       "title": "Multisport & Triathlete",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/sports-fitness/multisport-smartwatches",
-      "published": "2026-08-26T09:13:17.586236+00:00"
+      "published": "2026-08-28T06:58:31.229846+00:00"
     },
     {
       "brand": "Garmin",
@@ -1369,7 +1323,7 @@
       "title": "Marathon",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/sports-and-fitness/marathon-smartwatches",
-      "published": "2026-08-26T09:13:17.586150+00:00"
+      "published": "2026-08-28T06:58:31.229781+00:00"
     },
     {
       "brand": "Garmin",
@@ -1379,7 +1333,7 @@
       "title": "MARQ Luxury Watch Collection",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/sports-fitness/luxury-smartwatches/?FILTER_USERPROFILE_MARQGEN2=true",
-      "published": "2026-08-26T09:13:17.585982+00:00"
+      "published": "2026-08-28T06:58:31.229669+00:00"
     },
     {
       "brand": "Garmin",
@@ -1389,7 +1343,7 @@
       "title": "Fashion & Hybrid Smartwatches",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/sports-fitness/fashion-hybrid-smartwatches",
-      "published": "2026-08-26T09:13:17.585895+00:00"
+      "published": "2026-08-28T06:58:31.229598+00:00"
     },
     {
       "brand": "Garmin",
@@ -1399,7 +1353,7 @@
       "title": "Wearables for Women",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/women-wearables/?FILTER_FEATURE_FORWOMEN=true",
-      "published": "2026-08-26T09:13:17.585800+00:00"
+      "published": "2026-08-28T06:58:31.229525+00:00"
     },
     {
       "brand": "Garmin",
@@ -1409,7 +1363,7 @@
       "title": "Design your own watch",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/your-watch-your-way",
-      "published": "2026-08-26T09:13:17.585707+00:00"
+      "published": "2026-08-28T06:58:31.229450+00:00"
     },
     {
       "brand": "Garmin",
@@ -1419,7 +1373,7 @@
       "title": "Health & Fitness Tracking",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/sports-fitness/activity-fitness-trackers",
-      "published": "2026-08-26T09:13:17.585620+00:00"
+      "published": "2026-08-28T06:58:31.229363+00:00"
     },
     {
       "brand": "Garmin",
@@ -1429,7 +1383,7 @@
       "title": "All Smartwatches",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/c/wearables-smartwatches",
-      "published": "2026-08-26T09:13:17.585517+00:00"
+      "published": "2026-08-28T06:58:31.229283+00:00"
     },
     {
       "brand": "Garmin",
@@ -1439,7 +1393,7 @@
       "title": "Skip navigation links",
       "summary": "",
       "url": "https://www.garmin.com/en-GB/blog",
-      "published": "2026-08-26T09:13:17.585345+00:00"
+      "published": "2026-08-28T06:58:31.229115+00:00"
     },
     {
       "brand": "Garmin",
@@ -1449,7 +1403,7 @@
       "title": "Aviation Watches",
       "summary": "",
       "url": "http://www.garmin.com.my/products/wearables/?cat=aviation",
-      "published": "2026-08-26T09:13:15.946277+00:00"
+      "published": "2026-08-28T06:58:29.866180+00:00"
     },
     {
       "brand": "Garmin",
@@ -1459,7 +1413,7 @@
       "title": "Skip navigation links",
       "summary": "",
       "url": "https://www.garmin.com/en-MY/blog",
-      "published": "2026-08-26T09:13:15.944938+00:00"
+      "published": "2026-08-28T06:58:29.865208+00:00"
     },
     {
       "brand": "Garmin",
@@ -1469,7 +1423,7 @@
       "title": "Sign Out",
       "summary": "",
       "url": "https://buy.garmin.com.my/webstore/signout",
-      "published": "2026-08-26T09:13:15.422175+00:00"
+      "published": "2026-08-28T06:58:29.381895+00:00"
     },
     {
       "brand": "Garmin",
@@ -1479,7 +1433,7 @@
       "title": "YouTube Channel",
       "summary": "",
       "url": "https://www.youtube.com/@GarminMY/videos",
-      "published": "2026-08-26T09:13:15.421561+00:00"
+      "published": "2026-08-28T06:58:29.381582+00:00"
     },
     {
       "brand": "Garmin",
@@ -1489,7 +1443,7 @@
       "title": "Support Chatbot",
       "summary": "",
       "url": "https://servicebot.garmin.com.tw/webChat/GarminMalaysiaServiceBot",
-      "published": "2026-08-26T09:13:15.421479+00:00"
+      "published": "2026-08-28T06:58:29.381529+00:00"
     },
     {
       "brand": "Garmin",
@@ -1499,7 +1453,7 @@
       "title": "Service Locations",
       "summary": "",
       "url": "https://www.garmin.com/en-MY/support/service",
-      "published": "2026-08-26T09:13:15.421401+00:00"
+      "published": "2026-08-28T06:58:29.381472+00:00"
     },
     {
       "brand": "Garmin",
@@ -1509,7 +1463,7 @@
       "title": "Repair Service",
       "summary": "",
       "url": "https://support.garmin.com/en-MY/?faq=C9q6XzqCzW8BD3bF1kZvK6",
-      "published": "2026-08-26T09:13:15.421325+00:00"
+      "published": "2026-08-28T06:58:29.381404+00:00"
     },
     {
       "brand": "Garmin",
@@ -1519,7 +1473,7 @@
       "title": "Support Center",
       "summary": "",
       "url": "https://support.garmin.com/en-MY",
-      "published": "2026-08-26T09:13:15.421246+00:00"
+      "published": "2026-08-28T06:58:29.381351+00:00"
     },
     {
       "brand": "Garmin",
@@ -1529,7 +1483,7 @@
       "title": "Online Store",
       "summary": "",
       "url": "https://www.garmin.com.my/buy/online",
-      "published": "2026-08-26T09:13:15.421169+00:00"
+      "published": "2026-08-28T06:58:29.381300+00:00"
     },
     {
       "brand": "Garmin",
@@ -1539,7 +1493,7 @@
       "title": "Store Locator",
       "summary": "",
       "url": "https://www.garmin.com.my/buy",
-      "published": "2026-08-26T09:13:15.421083+00:00"
+      "published": "2026-08-28T06:58:29.381247+00:00"
     },
     {
       "brand": "Garmin",
@@ -1549,7 +1503,7 @@
       "title": "Brand Store",
       "summary": "",
       "url": "https://www.garmin.com.my/buy/brand-store",
-      "published": "2026-08-26T09:13:15.420981+00:00"
+      "published": "2026-08-28T06:58:29.381192+00:00"
     },
     {
       "brand": "Garmin",
@@ -1559,7 +1513,7 @@
       "title": "Training",
       "summary": "",
       "url": "https://www.garmin.com/en-US/aviation/training",
-      "published": "2026-08-26T09:13:15.420847+00:00"
+      "published": "2026-08-28T06:58:29.381097+00:00"
     },
     {
       "brand": "Garmin",
@@ -1569,7 +1523,7 @@
       "title": "Promotions",
       "summary": "",
       "url": "https://www.garmin.com/en-US/promotions/aviation",
-      "published": "2026-08-26T09:13:15.420706+00:00"
+      "published": "2026-08-28T06:58:29.380994+00:00"
     }
   ],
   "pageInventory": [
