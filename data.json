@@ -3,25 +3,25 @@
     {
       "brand": "Garmin",
       "market": "Global",
-      "headline": "Garmin Launches Fenix 9 Series with Enhanced AI and Outdoor Features",
-      "evidence": "Garmin announces the fenix 9 and fenix 9 Pro GPS smartwatch on August 25, 2026, alongside YouTube live event scheduling.",
-      "implication": "Direct pressure on Huawei's premium outdoor segment; requires immediate competitive messaging on battery and durability.",
+      "headline": "Garmin Launches Fenix 9 Series with Enhanced AI and Story Sharing Features",
+      "evidence": "Official announcement and global media coverage on August 25, 2026; Local showcases in Malaysia and UK.",
+      "implication": "Direct pressure on Huawei's premium outdoor segment; Fenix 9 pricing noted as high by media, creating potential opening for value-focused alternatives.",
       "priority": "HIGH"
     },
     {
       "brand": "Apple",
       "market": "Global",
-      "headline": "Apple Teases September 'Surprise and Shine' Event Amid Series 12 Rumors",
-      "evidence": "Multiple reports on August 26-27 regarding September event viewing guides and Apple Watch Series 12 fitness tracking upgrades.",
-      "implication": "Anticipation building for new health sensors; Huawei should highlight current Watch health accuracy before Apple's announcement.",
+      "headline": "Apple Watch Series 12 Rumors Peak Ahead of September Event",
+      "evidence": "Multiple tech publications (MacRumors, CNET, Tom's Guide) reporting design and health upgrades throughout late August 2026.",
+      "implication": "Anticipation building for September launch; Huawei should prepare counter-messaging on health features and battery life before event.",
       "priority": "HIGH"
     },
     {
       "brand": "Samsung",
-      "market": "UK/Malaysia",
-      "headline": "Samsung Aggressive Local Promotions and Trials Drive Galaxy Watch Adoption",
-      "evidence": "UK 100-day trial offer (Aug 15) and Malaysia Haus of Fold Roadshow including Galaxy Watch (Aug 15).",
-      "implication": "Samsung reducing purchase risk locally; Huawei应考虑 matching trial periods or roadshow activations in key SEA/UK markets.",
+      "market": "UK",
+      "headline": "Samsung UK Introduces 100-Day Trial Period for Galaxy Watch Ultra 2",
+      "evidence": "SamMobile and local news reports on August 15, 2026 regarding 100-day trial with full refund.",
+      "implication": "Aggressive confidence signal in product durability and satisfaction; Huawei may need to consider extended trial or return policies in key markets.",
       "priority": "MEDIUM"
     }
   ],
@@ -29,101 +29,90 @@
     {
       "brand": "Garmin",
       "market": "Global",
-      "format": "Launch Content",
-      "product": "Fenix 9 Pro",
+      "format": "launch",
+      "product": "fēnix 9 / fēnix 9 Pro",
       "title": "Garmin announces the fenix 9 and fenix 9 Pro GPS smartwatch",
-      "summary": "Official announcement of the Fenix 9 series with new AI and outdoor capabilities.",
-      "date": "2026-08-25",
+      "summary": "Official announcement of the Fenix 9 series with new training journey and story sharing features.",
+      "date": "2026-08-25T10:55:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYUwxam0tWlNkOGRFa3cyN2Y2WldWNFBVWFpkZ29lNV9FUktlQjNzUVE4X0FVT0J5TVlDMVEwZjh2NEs5NDc1bEVoeGt5YnU0cDBTbFhCVG5BSFZ0QUdjS0xuYXZDN1NzLVl5enFSZEZFREZJV3h2MkRXSlU0ZzVnN0xkc2RsMjhBV0swMTh1Z29mZFVYdmNDVzVGSm1tNHJZYzE1SzJ1dVNPcnF4SkhEbGliUlNnWTdHbGFvZG9Mbi1rTVVCdnNuYUdpNDk0Y09wQWVnWE11WEFXSGdKeFE?oc=5",
       "confidence": "HIGH"
     },
     {
       "brand": "Garmin",
       "market": "Global",
-      "format": "Health / Fitness",
-      "product": "Garmin Wearables",
-      "title": "What Is Fitness Age? - Garmin",
-      "summary": "Educational content explaining Garmin's Fitness Age metric.",
-      "date": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbldkeV8yM1FXd3JFSGQ3WGxsZGRUSENXbUo4dGhzYU5JbXVvZ1pxUnZQN3VUWnZIOTB4TmkxUHo2SFJqSlJXd1NCUDBEaS0zR01ISEdZLTN3emExRERHNEc0RkEzQmhWY0lXTTIzMDNQdG9pZlBLT1NCMTc3RzBBLUg5d2Z2d29maXAwVk5GeWNwM3M?oc=5",
+      "format": "productDemo",
+      "product": "fēnix 9",
+      "title": "The difference between fēnix 8 and 9",
+      "summary": "Official comparison content highlighting upgrades from Fenix 8 to Fenix 9.",
+      "date": "2026-08-27T19:22:47+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUlJiT3pxV3ZiUURZTGNMNDExUFNVVUQ2ME1BTTJ3UWFPRTNkd1pRWnQtTUVITnVsMUxfVTdlU19BdUpjMlVvWXMyOFM2eF9ELXNyOVRfM043N2wxeUQ2c2tHdi1GVWthbjJ3QzB3azFjQklnbnpYbTNibUlRazhfcGVabmt3QQ?oc=5",
       "confidence": "HIGH"
     },
     {
       "brand": "Garmin",
       "market": "Global",
-      "format": "Product Demo",
-      "product": "Fenix 9 Pro",
-      "title": "I just hiked and ran 12k in the Alps with the Garmin Fenix 9 Pro",
-      "summary": "Creator review highlighting epic features during outdoor activity.",
-      "date": "2026-08-26",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZllOTU1PTENBSW94SG1FQ3ZPektJWllaV2dxYXdndVZYODlFRm5EQ0VIZEhRTWpLYzlPb3Z2aFdtdlNMUDFwblFxRW15T19nMWx5RHZlMDRCLUhUdWJMcmRCZjVqVlJ1cUJnUDB0MERfNnprZ1BnRk12dWtDX3UtdnhoeWIzdzZjcWJsbnBuT3lQaDdacjBKY0dpWQ?oc=5",
+      "format": "healthFitness",
+      "product": "Garmin Wearables",
+      "title": "What Is Fitness Age?",
+      "summary": "Educational content explaining Garmin's Fitness Age metric.",
+      "date": "2026-08-20T00:01:50+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbldkeV8yM1FXd3JFSGQ3WGxsZGRUSENXbUo4dGhzYU5JbXVvZ1pxUnZQN3VUWnZIOTB4TmkxUHo2SFJqSlJXd1NCUDBEaS0zR01ISEdZLTN3emExRERHNEc0RkEzQmhWY0lXTTIzMDNQdG9pZlBLT1NCMTc3RzBBLUg5d2Z2d29maXAwVk5GeWNwM3M?oc=5",
       "confidence": "HIGH"
     },
     {
       "brand": "Apple",
       "market": "Global",
-      "format": "Creator",
+      "format": "healthFitness",
+      "product": "Apple Watch",
+      "title": "National Parks Apple Watch Activity Challenge Launching August 23",
+      "summary": "Seasonal activity challenge encouraging users to complete workouts in National Parks.",
+      "date": "2026-08-18T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMzBEckEyNFVqTW9ZeEYtQm1na09CdUNsMjh1VHphb1pjaENFSng1U2daNnRWLUhQLXhaZHc5bG5VcjlxbkFaQWdsMTJDclhpanBJVjFmdjktYVUwanZvSUo4Y1BxblhybnJVUFNhcTh5R3Z4cTI3c2UxaEpwNElETmJR?oc=5",
+      "confidence": "HIGH"
+    },
+    {
+      "brand": "Apple",
+      "market": "Global",
+      "format": "launch",
       "product": "Apple Watch Series 12",
       "title": "Apple Watch Series 12: Everything to Expect Next Month",
-      "summary": "Rumor roundup regarding design, health, and battery life upgrades.",
-      "date": "2026-08-24",
+      "summary": "Aggregated rumors and expectations for the upcoming September launch event.",
+      "date": "2026-08-24T15:55:35+00:00",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONjFfUFdUbGVDX2ZNSFRSRXlsVS1GNlpfUnpKcW9IbHp5N1pyQWRidFpIeFp5dXVBQUhUSnpBVkF6WEI2dWVUWmZSbmhFaUtGX01mbXpEY21QaVBqb1lVTlRxX1lhTTF4NzQwb3BqRXlXX1pabXFTVUQwaVdvWThQUlJMeGYxZEk?oc=5",
-      "confidence": "HIGH"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "format": "How-to",
-      "product": "Apple Watch",
-      "title": "How To Unpair Your Apple Watch",
-      "summary": "Instructional guide on managing device pairing.",
-      "date": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxak1YTWJNLVYxUTVLaTAxbFNnWUVpNTUzcGRfNGRfTkNXWlc3VnFpUl9WQ3lORDZaenV0aXo3RGR0S1h6ZGFaOUFKbmE3ZnBSYVp1MnRPdkJmRloxZTdJcU5pUzNpRzNWV2RDeg?oc=5",
-      "confidence": "HIGH"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "format": "Health / Fitness",
-      "product": "Apple Watch",
-      "title": "A Doctor at Apple Reveals 9 Hidden Apple Watch Health Features",
-      "summary": "Expert breakdown of underutilized health tracking capabilities.",
-      "date": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLW1VVVQxM0lMMnJsVFQxRjFuOGV5Z2F0VWRZTkw5UmZBNjhFQUVNSng5azU4eXkyclVlOG42bmZKTThVSTc4UFU2S2p5VDhjNzFNV3c2ZVk0eVZUOVpEN01MaEhzZTc3SG9ld05WaGZQaGVNdmlwLS00WGUtd3MzdTIwV0dzUG9oT0k2NEtBNFBueHJVZnJmcWxWcGpWU3pC?oc=5",
-      "confidence": "HIGH"
+      "confidence": "MEDIUM"
     },
     {
       "brand": "Samsung",
       "market": "Global",
-      "format": "Product Demo",
+      "format": "creator",
       "product": "Galaxy Watch 9",
-      "title": "I've been training with the Galaxy Watch 9 for a month",
-      "summary": "Long-term user review detailing likes and dislikes during training.",
-      "date": "2026-08-21",
+      "title": "I've been training with the Galaxy Watch 9 for a month — 3 things I like (and 3 I don't)",
+      "summary": "Long-term review content from major tech publication.",
+      "date": "2026-08-21T08:30:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT1hMM1pKT2ZFSTFlMDdfMFR1SE41SVkyQkdWOWNTbmVqN3VPTWNsMmRjdGp4akJYUDY5QkxyWVV3ay02bTNqV2J6SHpCVFUxUnFxVWUzdmdyZFlqRV9MNEFJUDVNTUF4bjZmdmp1U3owTGlxcUgxUjVycHFmQ2M2M1lTbFdkUzlQQkRRS1dBTjEyOENXampoMVptMjJzMEVGUm1FSGpaajJ0Ql9zZGM1Z0hySExUQVdMYmQwcmlEQmZ3eGcyRjRremZR?oc=5",
       "confidence": "HIGH"
     },
     {
       "brand": "Samsung",
       "market": "Global",
-      "format": "Health / Fitness",
+      "format": "healthFitness",
       "product": "Galaxy Watch",
-      "title": "Samsung just gave its Galaxy Watches a major health upgrade",
-      "summary": "Overview of new health features and AI integration in Samsung Health.",
-      "date": "2026-08-18",
+      "title": "Samsung just gave its Galaxy Watches a major health upgrade – here are the features that matter",
+      "summary": "Coverage of new health features and Samsung Health AI vision.",
+      "date": "2026-08-18T10:41:29+00:00",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSDgwUm5KcGVuWkczYWR5bEo3bkFZNVpEWVY3emwyaUNpSXVXNHNXSmVQVWxscTRUMk9wRDk0MGVPN3ZSWkM1ZHY4bUFFVTRFb0VDd3hJbEo0cG9jc3Y4TWQ5d3hTaG90X3dtejdXRC0xMnJxZzRyR19GaWlFa3Y3ZmFIeEs1NHZJQmctR3BZT3ZMdw?oc=5",
       "confidence": "HIGH"
     },
     {
       "brand": "Samsung",
-      "market": "Malaysia",
-      "format": "Product Demo",
-      "product": "Galaxy Watch Ultra 2",
-      "title": "Galaxy Watch Ultra 2: The Two Things That Decide It in Malaysian Sun",
-      "summary": "Localised review focusing on performance in tropical climate conditions.",
-      "date": "2026-08-26",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX2lDQ09VYW1GeGJfSkFwcUpnbl9BU0Z0QzAya2xhZnUtbFlfaU41MFk5aHZuMjN0V3Q0QmNSRkpGUHlHOXJRNkdjRE0ycUtjbU9JT1BXYkpGRnZiTkJ1TDlMTGtLb3c1aURFbENPTEl1TnRncmtPQWNucExNN2oyVUNyVXZDc2RvLWg1RXN5QjdFVnRyRS1pRHM2WWdTMHdFbGZPa2hCVzZSZU0?oc=5",
-      "confidence": "HIGH"
+      "market": "Global",
+      "format": "howTo",
+      "product": "Galaxy Watch",
+      "title": "Your Galaxy Watch face should change automatically based on what you're doing—mine does",
+      "summary": "Tutorial on using automatic watch face switching features.",
+      "date": "2026-08-27T21:15:13+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS1dMUVNHN19ZWnlWX25GUjQ4THA0U3Utd3QxMkt2VnB4ekNZckF0X0M1dHpfdnJFYU11b1Q4d3MwakQyeDJhS0tVRW0zLTJRelZCd2Q4blFXQTRVMmFyeW5YUlhZWGVfaXA0Mm5jWklCMnRndjdDTXl1aDdXcGxMSGtKYVRmcG1yTDZsa29NYzY?oc=5",
+      "confidence": "MEDIUM"
     }
   ],
   "marketingMoves": [
@@ -131,49 +120,39 @@
       "brand": "Garmin",
       "market": "Global",
       "type": "Launch",
-      "title": "Garmin announces the fenix 9 and fenix 9 Pro GPS smartwatch",
-      "summary": "Official product launch of the Fenix 9 series.",
-      "date": "2026-08-25",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYUwxam0tWlNkOGRFa3cyN2Y2WldWNFBVWFpkZ29lNV9FUktlQjNzUVE4X0FVT0J5TVlDMVEwZjh2NEs5NDc1bEVoeGt5YnU0cDBTbFhCVG5BSFZ0QUdjS0xuYXZDN1NzLVl5enFSZEZFREZJV3h2MkRXSlU0ZzVnN0xkc2RsMjhBV0swMTh1Z29mZFVYdmNDVzVGSm1tNHJZYzE1SzJ1dVNPcnF4SkhEbGliUlNnWTdHbGFvZG9Mbi1rTVVCdnNuYUdpNDk0Y09wQWVnWE11WEFXSGdKeFE?oc=5",
+      "title": "fēnix 9 and fēnix 9 Pro GPS Smartwatch Launch",
+      "summary": "Global launch of flagship outdoor smartwatches with YouTube live event on August 25.",
+      "date": "2026-08-25T11:43:15+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUVQzT0tBTXFrUEpfbS1rWUdGWlV4UlZYSmdVQ1F4Qk1sSWlqaVBUVTVEdmkxamhjT3RSaFlSTmRPWkRsVmpXMW1NTEpmVVdFdGJ6YlI0dGFmSHNiUy13bGhORnpyTFVmNG5wWldmMFJ6OFNoeEY3aHJLZjZyRjcwaTZPVEFYRC1IYTB0NmxpcEhVeDg1RFhQWHZPNFFnZm40RHVtT0Z4bGVLX2EtbXFvUmgxOWZGS0tQVmpDQlYycEswLUtGU0JZZkppUFByZEZneUpKZVM2RnJnUWoyN255QmlJWnBkdkd5WlZNci0zMjVtTHdMTm5CcWJkMzdtMmtvUzM2VnprUGthajdMcy1zS0otUQ?oc=5",
       "confidence": "HIGH"
     },
     {
       "brand": "Garmin",
       "market": "Global",
       "type": "Promotion",
-      "title": "Best fitness tracker deal: Save $250 on the Garmin fēnix 8 Pro",
-      "summary": "Significant discount on previous generation model to clear inventory.",
-      "date": "2026-08-26",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04VWktMGY4UnB4Q0xSdkVCek4yZ1Qxb0ZGS2RKQ0tOQnlOdk1oMk1pbDBQY0FPaU5qakJFSk53dEdrbzJmR3hjQW9Xc3BNTHlQbm9wMnJGT214UllEbVFwRXhQMkFpbEE?oc=5",
+      "title": "Garmin Venu 3 and Fenix 8 Price Discounts",
+      "summary": "Significant price drops on Amazon and other retailers for previous gen and mid-range models.",
+      "date": "2026-08-25T11:45:10+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ1U4NlBvZHU3LXVFbXR6RkRocEVjcWd0NUNxUUE1UVhULVFYSnoxdXQ2RUxxeUgxdlBWODJ1QVVtTjhsWEFkNHdoNzlBekVjUWNjVUh0RTZvNFMxcThkMzdvR0xEb0hwMkZWY0sxc0ZMRE1YRFk5QUVlQXJvN0Q1cGJiaFVqT1NwMTY1VWVKZTFnZmU2VnhMME9oWGZLZkRVbGNiaGIydUJHUDNHeUV5bEduTHpJa1pPMUlIcmI3eEFTYXNGRWRqNWk2dGVpN1ZCZVE?oc=5",
       "confidence": "HIGH"
     },
     {
       "brand": "Apple",
       "market": "Global",
       "type": "Event",
-      "title": "How to Watch Apple's 'Surprise and Shine' Event in September",
-      "summary": "Promotion of upcoming September product launch event.",
-      "date": "2026-08-26",
+      "title": "Apple 'Surprise and Shine' Event in September",
+      "summary": "Upcoming September event expected to unveil iPhone 18 and Apple Watch Series 12.",
+      "date": "2026-08-26T16:39:52+00:00",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0t6eC0xRUZKdzRkUW5NZ1ZLX2M4RkhEMXV3aE4tWk9EWFV4RGhLUnlmcGZ5dFZCQTNtU2JSNUFjR1pfY0pNZThWQVhwZ25VTElvTXBUTkNVUlRJMFpZajY4cnpPblNSZUlHU3FMRmVZU0NGaS1wd0ZpYkpUQVpxRUxYZVB2dzdRU0twVEtiZmtuVGl0a1E?oc=5",
-      "confidence": "HIGH"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "type": "Campaign",
-      "title": "National Parks Apple Watch Activity Challenge Launching August 23",
-      "summary": "Seasonal activity challenge encouraging outdoor engagement.",
-      "date": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMzBEckEyNFVqTW9ZeEYtQm1na09CdUNsMjh1VHphb1pjaENFSng1U2daNnRWLUhQLXhaZHc5bG5VcjlxbkFaQWdsMTJDclhpanBJVjFmdjktYVUwanZvSUo4Y1BxblhybnJVUFNhcTh5R3Z4cTI3c2UxaEpwNElETmJR?oc=5",
       "confidence": "HIGH"
     },
     {
       "brand": "Samsung",
       "market": "UK",
-      "type": "Local Activation",
-      "title": "Samsung UK lets you try a Galaxy Watch Ultra 2 or Watch 9 for 100 days",
-      "summary": "Risk-reduction trial program specific to UK market.",
-      "date": "2026-08-15",
+      "type": "Promotion",
+      "title": "100-Day Trial for Galaxy Watch Ultra 2",
+      "summary": "Samsung UK allows customers to try Galaxy Watch Ultra 2 or Watch 9 for 100 days with full refund option.",
+      "date": "2026-08-15T07:00:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX3B0WUgwOTNjLUJudmxTdkpJQ240RlJXTEtjeGpkamtaY2NMX3ozUnlUNGFGNDN5RHVQR0NSdk1zSDA5dXZNS3gtc0NOQ2FpWkFWWk9vMWhOVl9sWXg2NkwyMFdxVmFGMkVyYUdqUHRSX3lJY0RpUm5PamZxWXFvMjZYVXpzTk1iNTNKcWV5VmMwRG0tQlJlWUhoTFFVVHFrWXdxeUl2SHItSWdqdDFYV3ZOcnU4WUxqUmpFRHdR?oc=5",
       "confidence": "HIGH"
     },
@@ -181,37 +160,81 @@
       "brand": "Samsung",
       "market": "Malaysia",
       "type": "Local Activation",
-      "title": "Haus of Fold Roadshow kicks off in Malaysia for the Samsung Galaxy Z Fold8 series... and latest Galaxy Watch",
-      "summary": "Physical roadshow event featuring wearable products alongside phones.",
-      "date": "2026-08-15",
+      "title": "Haus of Fold Roadshow",
+      "summary": "Roadshow in Malaysia featuring Galaxy Z Fold8, Flip8 and latest Galaxy Watch.",
+      "date": "2026-08-15T07:00:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbjVIU2NyYzk5d0kxODM2ZWMzQ1BEUWdzVmpBZkI2MHhWbUhGTTZUUDVqUW9jbE4wMW5FbTRRQlFJNEZsMGJMUEluaVFpZGFGZUtISmxzN0ZMRGJYT2l0R190YkhZV1g5LTFicUJYLUx1aFYwVFp5WHp5aF9ybHpwaVZsb1RHV0l6VnJjN1ZTQTNpZHIxbnk3eWxSY1B1U1U1ZWVkTGFEZElMZzZIM192eDFUakxCaVk4aU02MEs1ZGhGYzRJYU5mUnZ3czhjeUR6ZzNuSjNBT1FNejVJd2dCU2lnOXRpS1FqRnZHb0Nabm0?oc=5",
-      "confidence": "HIGH"
+      "confidence": "MEDIUM"
     }
   ],
-  "pageChanges": [],
+  "pageChanges": [
+    {
+      "brand": "Samsung",
+      "market": "Global",
+      "pageType": "PCP",
+      "product": "Galaxy Watch",
+      "change": "Page content changed since previous snapshot.",
+      "whyItMatters": "Review messaging, structure, CTA and modules.",
+      "url": "https://www.samsung.com/us/watches/",
+      "confidence": "MEDIUM"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Malaysia",
+      "pageType": "PCP",
+      "product": "Galaxy Watch",
+      "change": "Page content changed since previous snapshot.",
+      "whyItMatters": "Review messaging, structure, CTA and modules.",
+      "url": "https://www.samsung.com/my/watches/",
+      "confidence": "MEDIUM"
+    },
+    {
+      "brand": "Samsung",
+      "market": "UK",
+      "pageType": "PCP",
+      "product": "Galaxy Watch",
+      "change": "Page content changed since previous snapshot.",
+      "whyItMatters": "Review messaging, structure, CTA and modules.",
+      "url": "https://www.samsung.com/uk/watches/",
+      "confidence": "MEDIUM"
+    }
+  ],
   "opportunities": [
     {
       "priority": "P1",
-      "opportunity": "Counter Fenix 9 Launch with Battery Durability Campaign",
-      "why": "Garmin Fenix 9 launch emphasizes outdoor AI features; Huawei can leverage known battery strength in extreme conditions.",
-      "competitorExample": "Garmin Fenix 9 Pro Launch Content"
+      "opportunity": "Highlight Value Against Fenix 9 Pricing",
+      "why": "Media reports indicate Fenix 9 is priced out for some users; Huawei can position premium features at a more accessible price point.",
+      "competitorExample": "Garmin Fenix 9 launch pricing criticized by TechRadar."
     },
     {
       "priority": "P2",
-      "opportunity": "Implement Local Trial Programs in UK and Malaysia",
-      "why": "Samsung's 100-day trial and Roadshow are driving local adoption and reducing purchase hesitation.",
-      "competitorExample": "Samsung UK 100-day Trial & Malaysia Roadshow"
+      "opportunity": "Match or Exceed Trial Periods in UK",
+      "why": "Samsung's 100-day trial reduces purchase risk; Huawei should consider similar confidence-building policies for Watch GT/Ultimate.",
+      "competitorExample": "Samsung UK 100-day trial for Galaxy Watch Ultra 2."
     },
     {
       "priority": "P3",
-      "opportunity": "Amplify Health AI Narrative Before Apple Event",
-      "why": "Apple is rumored to announce health upgrades in September; Huawei should establish health AI leadership now.",
-      "competitorExample": "Apple Watch Series 12 Health Rumors"
+      "opportunity": "Counter-Program Apple September Event",
+      "why": "Apple Watch Series 12 rumors are dominating news cycles; Huawei should release health/battery focused content to shift narrative.",
+      "competitorExample": "Apple Watch Series 12 rumor coverage across MacRumors and CNET."
     }
   ],
   "contentMix": [
     {
       "brand": "Apple",
+      "howTo": 0,
+      "unboxing": 0,
+      "productDemo": 0,
+      "campaignAd": 0,
+      "productVideo": 0,
+      "lifestyle": 0,
+      "healthFitness": 1,
+      "creator": 0,
+      "launch": 1,
+      "event": 0
+    },
+    {
+      "brand": "Samsung",
       "howTo": 1,
       "unboxing": 0,
       "productDemo": 0,
@@ -220,19 +243,6 @@
       "lifestyle": 0,
       "healthFitness": 1,
       "creator": 1,
-      "launch": 0,
-      "event": 0
-    },
-    {
-      "brand": "Samsung",
-      "howTo": 0,
-      "unboxing": 0,
-      "productDemo": 2,
-      "campaignAd": 0,
-      "productVideo": 0,
-      "lifestyle": 0,
-      "healthFitness": 1,
-      "creator": 0,
       "launch": 0,
       "event": 0
     },
@@ -250,7 +260,7 @@
       "event": 0
     }
   ],
-  "updatedAt": "2026-08-28T15:22:46.862141+08:00",
+  "updatedAt": "2026-08-29T09:09:20.949682+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "feedItems": [
     {
@@ -261,7 +271,7 @@
       "title": "Apple opens Advanced Manufacturing Center in Houston",
       "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
       "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
-      "published": "2026-08-28T07:18:02.424570+00:00"
+      "published": "2026-08-29T01:05:26.017732+00:00"
     },
     {
       "brand": "Apple",
@@ -271,7 +281,7 @@
       "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
       "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
       "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
-      "published": "2026-08-28T07:18:02.425578+00:00"
+      "published": "2026-08-29T01:05:26.018871+00:00"
     },
     {
       "brand": "Samsung",
@@ -288,20 +298,20 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "Garmin announces the fenix 9 and fenix 9 Pro GPS smartwatch - Garmin",
-      "summary": "Garmin announces the fenix 9 and fenix 9 Pro GPS smartwatch Garmin",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYUwxam0tWlNkOGRFa3cyN2Y2WldWNFBVWFpkZ29lNV9FUktlQjNzUVE4X0FVT0J5TVlDMVEwZjh2NEs5NDc1bEVoeGt5YnU0cDBTbFhCVG5BSFZ0QUdjS0xuYXZDN1NzLVl5enFSZEZFREZJV3h2MkRXSlU0ZzVnN0xkc2RsMjhBV0swMTh1Z29mZFVYdmNDVzVGSm1tNHJZYzE1SzJ1dVNPcnF4SkhEbGliUlNnWTdHbGFvZG9Mbi1rTVVCdnNuYUdpNDk0Y09wQWVnWE11WEFXSGdKeFE?oc=5",
-      "published": "2026-08-25T10:55:00+00:00"
+      "title": "The difference between fēnix 8 and 9 - Garmin",
+      "summary": "The difference between fēnix 8 and 9 Garmin",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUlJiT3pxV3ZiUURZTGNMNDExUFNVVUQ2ME1BTTJ3UWFPRTNkd1pRWnQtTUVITnVsMUxfVTdlU19BdUpjMlVvWXMyOFM2eF9ELXNyOVRfM043N2wxeUQ2c2tHdi1GVWthbjJ3QzB3azFjQklnbnpYbTNibUlRazhfcGVabmt3QQ?oc=5",
+      "published": "2026-08-27T19:22:47+00:00"
     },
     {
       "brand": "Garmin",
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "fēnix® 9 Pro – inReach®, 51 mm - Garmin",
-      "summary": "fēnix® 9 Pro – inReach®, 51 mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tSG9vWUxWQVl3dzlqUFNSVmRiZGw3czJ3ZWNDOXlKMC1IMTBaTUVnY3VFZl9KbjNlSDEyLXZTUTB2bS0xbXN5VFlJQXZGY0VE?oc=5",
-      "published": "2026-08-25T09:54:59+00:00"
+      "title": "Garmin announces the fenix 9 and fenix 9 Pro GPS smartwatch - Garmin",
+      "summary": "Garmin announces the fenix 9 and fenix 9 Pro GPS smartwatch Garmin",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYUwxam0tWlNkOGRFa3cyN2Y2WldWNFBVWFpkZ29lNV9FUktlQjNzUVE4X0FVT0J5TVlDMVEwZjh2NEs5NDc1bEVoeGt5YnU0cDBTbFhCVG5BSFZ0QUdjS0xuYXZDN1NzLVl5enFSZEZFREZJV3h2MkRXSlU0ZzVnN0xkc2RsMjhBV0swMTh1Z29mZFVYdmNDVzVGSm1tNHJZYzE1SzJ1dVNPcnF4SkhEbGliUlNnWTdHbGFvZG9Mbi1rTVVCdnNuYUdpNDk0Y09wQWVnWE11WEFXSGdKeFE?oc=5",
+      "published": "2026-08-25T10:55:00+00:00"
     },
     {
       "brand": "Garmin",
@@ -318,10 +328,50 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "fēnix® 9 – 43 mm - Garmin",
-      "summary": "fēnix® 9 – 43 mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5T2dRZFYyNFE5aVE1T1I0OXRWenZCSnNheHBBVWtSZFh1RXMxVDZfcDdEYkhyamdyWDNiRzhZbUJZVnJfMFFlaVk2MFdNc3lK?oc=5",
-      "published": "2026-08-25T09:52:51+00:00"
+      "title": "fēnix® 9 Pro – inReach®, 51 mm - Garmin",
+      "summary": "fēnix® 9 Pro – inReach®, 51 mm Garmin",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tSG9vWUxWQVl3dzlqUFNSVmRiZGw3czJ3ZWNDOXlKMC1IMTBaTUVnY3VFZl9KbjNlSDEyLXZTUTB2bS0xbXN5VFlJQXZGY0VE?oc=5",
+      "published": "2026-08-25T11:02:58+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
+      "title": "fēnix® 9 Pro – inReach®, 47 mm - Garmin",
+      "summary": "fēnix® 9 Pro – inReach®, 47 mm Garmin",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1waWdIVm56WDZ0UTRIUm42aWdtUG5KZkhZSDZLX2tEaEVRN0VCZjIzVm9jSm1TX3NSbkhwaklOc1lEbEZIVVVUTjZVQTJpWlAz?oc=5",
+      "published": "2026-08-25T10:46:02+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
+      "title": "fēnix® 9 Pro – inReach®, 43 mm - Garmin",
+      "summary": "fēnix® 9 Pro – inReach®, 43 mm Garmin",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mcG9lRHkwaThCcFVOSUJKbk1Sb1VxSDB6NURpcFNfVXNGWndyTklpa21IeHhDUjAtOHdfdVlNbFh0U1dldEt1TDVxdGV6OGcwSEM1MmctOUNqLVVOSGpuNkIyWmJHdw?oc=5",
+      "published": "2026-08-25T13:05:29+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
+      "title": "fēnix® 9 – 51mm - Garmin",
+      "summary": "fēnix® 9 – 51mm Garmin",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iZDI1bDdoN0xkYmRyb1NOTDJ5WnpvZUM5ZVZDaVpYZzJqOEVXTER1VDlqMFY3N3BkakhEZ2pOVnJRdl9sMWlQMkxtZGZmV1ZE?oc=5",
+      "published": "2026-08-25T09:53:22+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
+      "title": "fēnix® 9 – 51mm - Garmin",
+      "summary": "fēnix® 9 – 51mm Garmin",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uQ19hd0xUXzg5TzFXWkNYYTNrUFhFTVBSNFNBMmsySThjR1JSN0UwTGNkUTREWndnb1BCa05oWnBjeFlad2hHYTdHOE5pRzRn?oc=5",
+      "published": "2026-08-25T12:43:31+00:00"
     },
     {
       "brand": "Garmin",
@@ -338,30 +388,10 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "fēnix® 9 Pro – inReach®, Solar, 47 mm - Garmin",
-      "summary": "fēnix® 9 Pro – inReach®, Solar, 47 mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nUWtjMFB2OE1TdDlMT3YzUkhIbjlER3hKTHFyaC1EaFZMZWx6LWswMWkwdzNoTDN0ZFhHck9HWm92OTRYSnVYak95WUlPUWZr?oc=5",
-      "published": "2026-08-25T15:20:52+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "fēnix® 9 Pro – 47 mm - Garmin",
-      "summary": "fēnix® 9 Pro – 47 mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mb3MwRlJpQzIwWUZBblFjaEc4NkNHWS1vb2hGYjRHQ09KMDRuYjhZcm4xN3Uxak80ZHJyRldKTXhDRkpBQlN5NU9jYnlXbTFK?oc=5",
-      "published": "2026-08-25T10:45:58+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "Garmin fēnix 9 Pro - Solar | Multisport Smartwatch | 47 mm - Garmin",
-      "summary": "Garmin fēnix 9 Pro - Solar | Multisport Smartwatch | 47 mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxOXZEQV9BdnZEekVmNjAxQURjOUFWOXpFUlpUZmZXV0U5MTNDMDhXNlF1ekxIcC1pWGlOZzlDVUt4UEFSWGJ1cXU5SkNKZUduOXpBaW9FNVhFdnMtR1p3YzFSam4?oc=5",
-      "published": "2026-08-25T10:51:26+00:00"
+      "title": "fēnix® 9 Pro Coverage - Garmin",
+      "summary": "fēnix® 9 Pro Coverage Garmin",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbUZxbmFhMnhCZTE2MlFEaTNYNWNWejM0dnNzbFlJOHJlX2hfNHJVY3F4U2owUWVVbjA4c3BoYVVVUG9CSGNMZEZwUENTZDduWko0ZTgxcjFvWDBMYjNQb3ZUWGZNNXE2X1FGNzVnZC1OS3Rscmo2c3ZYbzlTODBLOFVn?oc=5",
+      "published": "2026-08-25T12:48:53+00:00"
     },
     {
       "brand": "Garmin",
@@ -388,10 +418,10 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "fēnix® 9 Pro Coverage - Garmin",
-      "summary": "fēnix® 9 Pro Coverage Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbUZxbmFhMnhCZTE2MlFEaTNYNWNWejM0dnNzbFlJOHJlX2hfNHJVY3F4U2owUWVVbjA4c3BoYVVVUG9CSGNMZEZwUENTZDduWko0ZTgxcjFvWDBMYjNQb3ZUWGZNNXE2X1FGNzVnZC1OS3Rscmo2c3ZYbzlTODBLOFVn?oc=5",
-      "published": "2026-08-25T12:48:53+00:00"
+      "title": "Forerunner 970 Series Software Version 17.39 - Garmin Forums",
+      "summary": "Forerunner 970 Series Software Version 17.39 Garmin Forums",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeEEyby1aNGNkVU5ERmFNRHVxMHZrV1FRVGZYVERXMWxQbEVlckx5QjVjUUFzM3ByeVV2aEt3eVdZWEM5VVJTbmRIa3Bxd0ZLQUtfcGRDUTdZWVdCNm9IZkhGVFozLWFJQmpuaWFVZmdqVW1weGxNYWlUQkhGRlk2aURtT2dWNWhJUEFTOUtwNTc3UjM0b2UxSFdacmNXMjQwd20xWDJoQkIza2tSVWE0TWtXUXRKaWdHWklPd0M0STdBWXBieTM4?oc=5",
+      "published": "2026-08-24T14:18:13+00:00"
     },
     {
       "brand": "Garmin",
@@ -402,16 +432,6 @@
       "summary": "SW Update 17.39 - Forerunner 970 - Running/Multisport Garmin Forums",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRXFPMmVMV3hOcmdPazNmOUVpR01CelFtbXBERGNTUlVuZWx2TEpvSWJWc2taWUNDejg5WE94TGtGbG0zeWE4TDZmcUZUVWtJOWpGZUlENnFheXdVY0gxX3JOcU42dWNpZHJkdkptay1zeF9qR2hrYmNMSGdsUjB1T2N4NndJYU8xckZGU3k0cEJyVnFuQ1pnU1RfTTRyT2pR?oc=5",
       "published": "2026-08-23T12:43:05+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "Forerunner 970 Series Software Version 17.39 - Garmin Forums",
-      "summary": "Forerunner 970 Series Software Version 17.39 Garmin Forums",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeEEyby1aNGNkVU5ERmFNRHVxMHZrV1FRVGZYVERXMWxQbEVlckx5QjVjUUFzM3ByeVV2aEt3eVdZWEM5VVJTbmRIa3Bxd0ZLQUtfcGRDUTdZWVdCNm9IZkhGVFozLWFJQmpuaWFVZmdqVW1weGxNYWlUQkhGRlk2aURtT2dWNWhJUEFTOUtwNTc3UjM0b2UxSFdacmNXMjQwd20xWDJoQkIza2tSVWE0TWtXUXRKaWdHWklPd0M0STdBWXBieTM4?oc=5",
-      "published": "2026-08-24T14:18:13+00:00"
     },
     {
       "brand": "Garmin",
@@ -438,30 +458,20 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "fēnix® 9 Pro – Solar, 51 mm - Garmin",
-      "summary": "fēnix® 9 Pro – Solar, 51 mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FNS1nZHEwUXczbjZhMVVzcF9qbWMxbFhqbDhTRVFQUGdEbUVsQnhsOVpvbGJHZldxUURfTHlMWEJzUTkyUVh0VW5wcGZEcnc3?oc=5",
-      "published": "2026-08-25T13:09:27+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "fēnix® 9 – 51mm - Garmin",
-      "summary": "fēnix® 9 – 51mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05NzBpS3RTdGloYXNvd1RQNl9CSEdlazJGSk5NaVVmTHdSSVcxWEwySXFFY1N0Z0VXQkhTbTZDQTdpelQxU3BETVd1dElzdkUt?oc=5",
-      "published": "2026-08-25T11:23:02+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
       "title": "fēnix® 9 Pro – inReach®, 43 mm - Garmin",
       "summary": "fēnix® 9 Pro – inReach®, 43 mm Garmin",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45RVczN1pCQzU2d2x6MHRDYVB0cU1qZE51X1B6UC1FZVFFWjN0N3hZUDNQYVlGR2cyVktRZXI2R1MzRHU1akFjT1h6a3hsaVRBWFdZOGM2MU9lUTJsMTJ0bFk2ZjhKUQ?oc=5",
       "published": "2026-08-25T16:42:33+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
+      "title": "fēnix® 9 – 43 mm - Garmin",
+      "summary": "fēnix® 9 – 43 mm Garmin",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tN0hLZmdIblBobGxNLS1ybVlzeDJnUmE4UTNjd3JZV012aWFjYlBQRUtRTHlWdjhBNTRkelJUMXhhMS1FZU9NTDdsN3ViejIz?oc=5",
+      "published": "2026-08-25T15:30:03+00:00"
     },
     {
       "brand": "Garmin",
@@ -478,26 +488,6 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "fēnix® 9 Pro – inReach®, 47 mm - Garmin",
-      "summary": "fēnix® 9 Pro – inReach®, 47 mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sQlBaOFN3RmVMeWh6eDJOekVhUFNtUVJqbTJtZS1Mc2dKRFZYZ1I5dXJjNTJVMTMtaG0zT1pHTDFjdU82Mzl2d0UxWGtNSDZiYW5xeUVEMjZFUXBJc085TkRrRmdDZw?oc=5",
-      "published": "2026-08-25T14:27:46+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "fēnix® 9 Pro – inReach®, 51 mm - Garmin",
-      "summary": "fēnix® 9 Pro – inReach®, 51 mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZdU1tM0ZBSVJVSTJlQ1h6Mlp5NGQ2ZWtEbjV3RXc4dTc4Y0pWSE5HakdOLUR4QUg2RTlybXVUOUk1bE1xQnFfOXNvOWhFU0lf?oc=5",
-      "published": "2026-08-25T09:50:35+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
       "title": "Fitness Watches | Sport Watches | Smartwatches - Garmin",
       "summary": "Fitness Watches | Sport Watches | Smartwatches Garmin",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnJRbHA4OEt6SkRuWkE5eDJxWGdXbDBwdVY1TnlLNncwcTVZaVMtTlB1aTBOWHlQNzEtZl9IRkVCSWRWc0o4VFlWV0N2RmlIdGVBbDg0ZldXZ1ROcWttRGJ5MkMxMGZ6VUJkQ29BZVJKVUZfRVR6RTlVdzhJZ3VVLUFDUVI1bXM2TGdn?oc=5",
@@ -508,40 +498,40 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "Forerunner® 570 - 42mm, Raspberry Aluminum, DYOW - Garmin",
-      "summary": "Forerunner® 570 - 42mm, Raspberry Aluminum, DYOW Garmin",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Yd1lhS2N3MWVaYS1tM3Y4TDBLdzZxMHdCNDJ4Ty1SSW5qbkRJaTJjam0ybXFtcWwzQkMzVGFudDlrd0FzUWVJQ09iMGZSTVlXRzBnSWdMTDhPaG5ZZWRDeHpxbU5GdHRSWlN2SVM4cw?oc=5",
-      "published": "2026-08-16T21:47:55+00:00"
+      "title": "fēnix® 9 – 47 mm - Garmin",
+      "summary": "fēnix® 9 – 47 mm Garmin",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBMnZjdXQ3RzdSZHY3Ry1BeWJNRlkyNlkzZ0pMamZ0azF5UE1SSmNfQXcydUI5YkNjUHkxMTdhZE02eGhtQnBwUDAtZzk4azFRSlNINHN1VUhGazBpOHNVdDFmVmpodw?oc=5",
+      "published": "2026-08-25T14:33:44+00:00"
     },
     {
       "brand": "Garmin",
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "The difference between fēnix 8 and 9 - Garmin",
-      "summary": "The difference between fēnix 8 and 9 Garmin",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUlJiT3pxV3ZiUURZTGNMNDExUFNVVUQ2ME1BTTJ3UWFPRTNkd1pRWnQtTUVITnVsMUxfVTdlU19BdUpjMlVvWXMyOFM2eF9ELXNyOVRfM043N2wxeUQ2c2tHdi1GVWthbjJ3QzB3azFjQklnbnpYbTNibUlRazhfcGVabmt3QQ?oc=5",
-      "published": "2026-08-27T19:22:47+00:00"
+      "title": "fēnix® 9 Pro – inReach®, 51 mm - Garmin",
+      "summary": "fēnix® 9 Pro – inReach®, 51 mm Garmin",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6QjFRU1A5NVJGaHNMLW1aRzIwOUloZ0llTVlwT3FHV0hTNHdaZzFPVlRUM0hrVFNJOXl3c0ZjbXhZS2V0N1l0cUI4Vlg1THVI?oc=5",
+      "published": "2026-08-25T11:02:58+00:00"
     },
     {
       "brand": "Garmin",
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "fēnix 9 Series - Garmin Forums",
-      "summary": "fēnix 9 Series Garmin Forums",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNWNrZGtmeW9ZeEZvWnJFU3plYmYtQzBhSGc0RXZ4RWhzSGJoeElfYjlXOGx3dGlJekFDeDBDS0VZVTdiNVpLbUEtSTZsUHl0bEVRRVZfSkgwRmtEakVhNVd1RVh5VmZBbllER2NMbGs5THdxSUN0alNHQWh0WVcyOWN1c0dhT3c?oc=5",
-      "published": "2026-08-27T19:11:21+00:00"
+      "title": "Fenix 8 Pro/MicroLED/Fenix 8/Fenix E/Enduro 3/Tactix 8 System Software 22.43 - Garmin Forums",
+      "summary": "Fenix 8 Pro/MicroLED/Fenix 8/Fenix E/Enduro 3/Tactix 8 System Software 22.43 Garmin Forums",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORHFObDRzbHlGY21UYl94TGRVOVdMdVBYSU9NalRua2VEek9yY25MLW80SXF4ckRFYjJzc1p2WFhDeWYtZlNPdk9YSlp4bzI1WlpydFo3SzdVTjhEM0tkT0lkMWg0aU5scmdkempBR1pVYzNTWTdDQlIxb2NDM0lrZVdHNFdDb2tPUFVmb1BUSjk5ZjB2Z2pSaWUtcU9OMFdyQ2ZqT2dUaDducVZsMXdoNm9lWWlQS1ZNTVpKTWZsNXlNWFhpaHdYSUpiQmdOLUd1bEpmNFBSQ01CWjdkeTZhMjY5anFJT3BzLXAxenNR?oc=5",
+      "published": "2026-08-17T07:00:00+00:00"
     },
     {
       "brand": "Garmin",
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "fēnix® 9 Pro – inReach®, Solar, 47 mm - Garmin",
-      "summary": "fēnix® 9 Pro – inReach®, Solar, 47 mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CbU5KLWtLUy1PYUtjX1RsbHJQMmJnVjBNS2VCaEFKSXF1VjJIQlNuWlZldk9TcXNBQmZDYUNzLVZYNFdwZXk0SlhxVElsZ0Jz?oc=5",
-      "published": "2026-08-26T00:49:09+00:00"
+      "title": "fēnix® 9 Pro – inReach®, 51 mm - Garmin",
+      "summary": "fēnix® 9 Pro – inReach®, 51 mm Garmin",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TQ19mRm9LSloxQmtWckpsTGpyaGoyMVdIMHNXSV9oeFA1T2tRWGg1Y2JLcm92LWtrU1pVMzZYeFJaOEZGSWd5Vi1vaVMxNzB5TXlQbTlOZXp5VXZYX0pWclR4VHk?oc=5",
+      "published": "2026-08-25T14:48:21+00:00"
     },
     {
       "brand": "Garmin",
@@ -550,8 +540,18 @@
       "content_type": "Wearable Content",
       "title": "fēnix 8 - Advanced Outdoor GPS Smartwatch (Carbon Gray) | Smartwatches - Garmin Malaysia",
       "summary": "fēnix 8 - Advanced Outdoor GPS Smartwatch (Carbon Gray) | Smartwatches Garmin Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LdHZLNzdRT3hoTmlWS1I3QVdBMVc4MnRQajdqbWZ0UnZZRGhybUZVYTVrQXJCQTVyNi1NUjlJZ2hXZVY5S0dIUEs1QnhEanZiOU9qaU1IOHl6ME04N1phcU0tRy04SmpSQjlIMW13eXZrMkRtZUptUGx5Z0RpNDg?oc=5",
-      "published": "2026-06-15T07:11:56+00:00"
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DMzdvamd5N1ZGX2xWSjd4aEZaUjdRYmhQMWtZYmluYjMzZXNsQzhDMWxTV1hpX2dLZFJKVUVXZnBsMUg3Q3RKVmhfdzJNNXZtLW1oS3VRaGdHTDk1dGltaEdpVzdQUGZQa0lHdWNMZEpoX2VzdnNN?oc=5",
+      "published": "2024-09-05T05:31:05+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Malaysia",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
+      "title": "Forerunner 965 - GPS Triathlon Smartwatch For Runner (Black) | Smartwatches - Garmin Malaysia",
+      "summary": "Forerunner 965 - GPS Triathlon Smartwatch For Runner (Black) | Smartwatches Garmin Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WQk9iODRIYjdvQU1mUXNLR3dmU1RwYjlBRk5uemxvWEpDVDBlNGY0MGUzaUlmSFhfYmxIOTJCNVFzcjBjcTFfdnY2MktyZ0ZlWWpHanZSbFd6bnhaOHZJaE53NVZuM2hJUm5hZnNmSllJZmt5?oc=5",
+      "published": "2023-04-11T03:39:44+00:00"
     },
     {
       "brand": "Garmin",
@@ -598,6 +598,16 @@
       "market": "Malaysia",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
+      "title": "Forerunner 165 - GPS Marathon Smartwatch For Runner (Black) | Smartwatches - Garmin Malaysia",
+      "summary": "Forerunner 165 - GPS Marathon Smartwatch For Runner (Black) | Smartwatches Garmin Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XaV9UUi1qR25na2xYV0R3d3BndUg5cTg5MkZsMUsxeWp1VEl4a1BmQVkwcDNXZEEyN3RCMUVLMXdDRXlNVUhxM2lRYXczSWZUeXdOamtySlpITGJuUHREclNWdUtXMXhzSVdpbFZaLXJtTG80?oc=5",
+      "published": "2024-03-06T04:51:17+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Malaysia",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
       "title": "Descent Mk3i - GPS Dive Smartwatch (Carbon Gray) | Smartwatches - Garmin Malaysia",
       "summary": "Descent Mk3i - GPS Dive Smartwatch (Carbon Gray) | Smartwatches Garmin Malaysia",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LSXNMczFuNHFnWU41ejFKYXBIQ0xya2Y0aU1uTTZuS2VlRjkzSWdBMU5IRk5QRnVaOUEtay1pWDNraFBXdzlodVNoVUtoMDYyZjNnZktyXzV0bXBPR1pIYWk3RjdFYXFaVDljYjV5ZVFldW5OUGc?oc=5",
@@ -612,6 +622,16 @@
       "summary": "Forerunner® 645 Garmin Malaysia",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82dE0wYmJ5X1BUTG9HY0ZJQ0sycmJWeGxWOUZxcEdJamRUbVhLY0FQUW1uay1nUGdKbkFvRnoycGlYalZPMDZscXdtZ3A1REVJN2xqSEZpRDZWMlBqUVA0UmdtQV9XOXJ5bU00OEJJdVI1UXhkY243aQ?oc=5",
       "published": "2026-08-22T01:58:12+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Malaysia",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
+      "title": "Forerunner 265S - GPS Marathon Smartwatch For Runner (Pink) | Discontinued - Garmin Malaysia",
+      "summary": "Forerunner 265S - GPS Marathon Smartwatch For Runner (Pink) | Discontinued Garmin Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rdjFrci02NHVjVUUxbUZ3cHpQNVNUbVJQX00tRGFEWG9XQThxZDB3Vi0yNm1zMHFMQmg5YnQzRUMtMVhzNkJtU3BBVlBjTVY0T0lQY1JMYVRZQ3ZnQmg4SWZwaWZRVDdTRXZBR1pDYzJJZGd5aUx4dw?oc=5",
+      "published": "2026-08-20T17:09:16+00:00"
     },
     {
       "brand": "Garmin",
@@ -638,6 +658,26 @@
       "market": "UK",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
+      "title": "fēnix® 9 Pro – inReach®, 47 mm - Garmin",
+      "summary": "fēnix® 9 Pro – inReach®, 47 mm Garmin",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xczAxVld4dklfcW8xV0NFalFWdEZvb3E3SWJSc0wtTDdKLTRlbjNuZUs4R3lieHZIcjFLaGJFLVJyQnUtVW5IMURacXR0YnVH?oc=5",
+      "published": "2026-08-25T15:15:32+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
+      "title": "fēnix® 9 – 51mm - Garmin",
+      "summary": "fēnix® 9 – 51mm Garmin",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94cW1Za24tUjY2Zk1TQ3RYb0ZJRXphM2dROTBFcThMSHM4b3M1UDZJSkFtcGFTdzNyX1Z3cTdQdGlabXo3WUsxR1FHcXE0ZmRhQWNQZEg5cFdfQlRHRXdmcEI4S19FZw?oc=5",
+      "published": "2026-08-25T12:12:29+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
       "title": "fēnix® 9 Pro – inReach®, 51 mm - Garmin",
       "summary": "fēnix® 9 Pro – inReach®, 51 mm Garmin",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZdU1tM0ZBSVJVSTJlQ1h6Mlp5NGQ2ZWtEbjV3RXc4dTc4Y0pWSE5HakdOLUR4QUg2RTlybXVUOUk1bE1xQnFfOXNvOWhFU0lf?oc=5",
@@ -648,30 +688,10 @@
       "market": "UK",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "fēnix® 9 – 47 mm - Garmin",
-      "summary": "fēnix® 9 – 47 mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FVGR6WmtfdmMxQ251RFIyMklPVDNMUzJkMFNGbnpTa0c2ZlhEYU1jajZvTWJOb2o1TmVMQTdSRlpWZE1Tbk90SGVvNjFqb01O?oc=5",
-      "published": "2026-08-25T09:44:14+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "fēnix® 9 Pro – inReach®, Solar, 47 mm - Garmin",
-      "summary": "fēnix® 9 Pro – inReach®, Solar, 47 mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfWWNlRXRVUENXRDJTZ2ZYTjA1WktiTk5oMzk2NW9Qb29tVUNETHg4M1BVVW5HUnRhV29vWjBHOUpGdXIxcGg3Qk41amlhTmgy?oc=5",
-      "published": "2026-08-25T09:50:28+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
       "title": "fēnix® 9 Pro – 43mm - Garmin",
       "summary": "fēnix® 9 Pro – 43mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sYW5QMjN0NE10QmhHLWNmUFdtNzRfcmthUzRqOW9wd3lybzFESnZtblN6OEZIUVdkeWNlMUFOZ1hwSUlqMDU4Yl93MnlSU0p4QTZjQjFveEJkMVBuSVZicHJaLTgxUQ?oc=5",
-      "published": "2026-08-25T12:53:27+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWc253ZGQxSzR3cDcyNFd5Q3luMVN3aXVrdDVHdm1lU1FNdXdKdHBLLXZHcHY1U2FIYzBmaF9qN1BkbGZLbGpzbk9weGF4V3FQ?oc=5",
+      "published": "2026-08-25T09:48:41+00:00"
     },
     {
       "brand": "Garmin",
@@ -688,20 +708,20 @@
       "market": "UK",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "Frequently Asked Questions About Using Spotify With Your Garmin Watch | Forerunner® 645 Music - Garmin",
-      "summary": "Frequently Asked Questions About Using Spotify With Your Garmin Watch | Forerunner® 645 Music Garmin",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVUtVdUV5Rm1iVjJsUGJ2UHJTQmFXVFNzcVVWeXNIaTZ5QkVBQ1BNckpOWGtCQWFGZnNfN2dfRmtFVkh6SHdrN3VBZDZodnBnZU1sbzlhU0dPb1U2ckM2VzFrV3RGamZHMHc5d3pfUnhiOTNYalBHZzg2cE9EbzFteDZYemJ5azF5clB2Rkx4RHpqdw?oc=5",
-      "published": "2019-09-04T23:03:10+00:00"
+      "title": "Instinct® 2S Solar - Surf Edition - Garmin",
+      "summary": "Instinct® 2S Solar - Surf Edition Garmin",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qWHo5ejAtdGlJaUc5cDZ3YXBaQ09rbEJlTF80eTBFcXBVR3puUnZYN2sxaTI3TUo1cGtsQXkyU3FYdzlCdmxGVzFOcDFmYzA?oc=5",
+      "published": "2025-06-14T18:16:40+00:00"
     },
     {
       "brand": "Garmin",
       "market": "UK",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "Instinct® 2S Solar - Surf Edition - Garmin",
-      "summary": "Instinct® 2S Solar - Surf Edition Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qWHo5ejAtdGlJaUc5cDZ3YXBaQ09rbEJlTF80eTBFcXBVR3puUnZYN2sxaTI3TUo1cGtsQXkyU3FYdzlCdmxGVzFOcDFmYzA?oc=5",
-      "published": "2025-06-14T18:16:40+00:00"
+      "title": "fēnix® 9 – 51mm - Garmin",
+      "summary": "fēnix® 9 – 51mm Garmin",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KVHlaQ2dBUTRCUUFkM1JzeTFvdUY3bXU4SlY4MU9jVmFLSWxRUUpvUmx5MlZDRHFqRDFEU3RGS0dmSE40bWpLZ3RTY3dQdnFnMlhDdERGdF9iZFotX1dxSnJLZFR5emtLdTl5NHFwMA?oc=5",
+      "published": "2026-08-27T18:08:43+00:00"
     },
     {
       "brand": "Garmin",
@@ -718,20 +738,10 @@
       "market": "UK",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "Venu® Sq - Garmin",
-      "summary": "Venu® Sq Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PTnBGcVJkdzI4M09VN0R4OWZFNmxLbnRBTjF4WDg5bnJQdDNacnhqUURZa0Y0SWJ5X0R0eENWNm9QOXpydlNLMmJ6dDFBYVE?oc=5",
-      "published": "2021-12-05T08:33:32+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "fēnix® 9 Pro – Solar, 51mm - Garmin",
-      "summary": "fēnix® 9 Pro – Solar, 51mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94THVpZmNjVkhRU0RYc1h0SnZiSW05dXlkelBhSzNyNzM3cS1WUDMyS2FnZkFuN2wyUlg2dmVGcUhFRXRBV0hYOVN1czhrMW03b0dVR1ZsMnNuMjFpSEViOA?oc=5",
-      "published": "2026-08-26T22:58:32+00:00"
+      "title": "Types of daily suggested workouts for runners - Garmin",
+      "summary": "Types of daily suggested workouts for runners Garmin",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTmo4U0Vkc3hqZ1NsQmFnM2JPZEpRLUlsQzlBVlQtbnJwNEtKMjBTZDZINlhMOFZKZFVqN0RkT3ZsN19DUFBYbHdqcXVWbWtCOXVtYURPdFFGdkFWQXR1c09tRFJ3SllidTJKaDlnTUpxZ3oyXzV3ZWItM2VlZXFnZ2xzaUluMUE?oc=5",
+      "published": "2026-08-19T07:00:00+00:00"
     },
     {
       "brand": "Garmin",
@@ -758,26 +768,6 @@
       "market": "UK",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "fēnix® 9 – 51mm - Garmin",
-      "summary": "fēnix® 9 – 51mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05RjhaU1ZHckladnRCOGRxbHB2ODVNWFJpQU9EOVhUdG94amVoMUstSTJPeUNWSnpVV25VUDE0M0FMT3oyMkpyQWxHeFQyU2RpVlFVOS1ERDUzX01vajNoUg?oc=5",
-      "published": "2026-08-26T22:58:36+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "Forerunner® 965 - Garmin",
-      "summary": "Forerunner® 965 Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96MmtPcktIUjZzZldBaUNJczRVY0EzSzgzLVJCRWcyWUxxUnUzYjc2RU51Y19BMFJDTEtpbnIxNS1jdV91LVpoY3Jvb3pjUWs?oc=5",
-      "published": "2023-12-08T06:26:44+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
       "title": "Fitness Watches | Sport Watches | Smartwatches - Garmin",
       "summary": "Fitness Watches | Sport Watches | Smartwatches Garmin",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6UGNnSG42aWZaQkVEdDlMMUNyNEp2b3lGZUR0dWY5MjZwZVQ5NjJ5RW8zV1RzNVFOMnI3Q2RSY2VMUkxaWE5IRTBoSTQzbW9PZXBFSlNYYjcwVzQybVpJQWgxSkhEaWRONU5UR0RGQXAzeENlX3ExVw?oc=5",
@@ -792,16 +782,6 @@
       "summary": "Why Is the Battery of My Garmin Wearable Draining Faster Than Expected? Garmin",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QMHFmdGhuNG9JV0hDTDdkSFZVMnhsM0p3MnAxOHprUHlMV004bzhBUTc0c01mTm9MeEh6TkZkTG80LXBiaTVkMGppclpNY2gtQldBZ25neGlNR2J4TmRtd29SQWFOZHRuUFRVVw?oc=5",
       "published": "2018-08-16T21:19:21+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "My Garmin Wearable or Edge Device Will Not Turn On | Venu® 2S - Garmin",
-      "summary": "My Garmin Wearable or Edge Device Will Not Turn On | Venu® 2S Garmin",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLWNWUWItMU5PbDN5ZW9uVGVCQ09NSW1uMF8wdXRVa1ZwMk1RNjNnY3FNR0dQZEVfVkw3MnNEaDBLNnM2eXlDVlVlVGdlRF9fbFhaWTlEdnk5ZEx6S0FycUR4LTRmN1B0TkRXTDBWYmRSbWpqWE4yLVpxZ1VEUGRtd0RBdm5nNjYzRWc?oc=5",
-      "published": "2024-05-24T00:07:03+00:00"
     },
     {
       "brand": "Garmin",
@@ -838,10 +818,30 @@
       "market": "UK",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
+      "title": "fēnix® 9 Pro – inReach®, 47mm - Garmin",
+      "summary": "fēnix® 9 Pro – inReach®, 47mm Garmin",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1saEx5cmFGU1J1ckNRdG9jbXFFT1RGQV9LMm1Ud2dzY0FCbXpuRmNaZzdvVDBuakV0cUNIb1hBTHBJRHlBcjFuNkxBbnhEeVN3dF8yT2UyTEFZMnJ5UDNtMg?oc=5",
+      "published": "2026-08-26T22:58:34+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
       "title": "fēnix® 9 – 43mm - Garmin",
       "summary": "fēnix® 9 – 43mm Garmin",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02LTlOa1VrQWlBTEs4bWVLdkdlSlNqU01CSy02T0FBaTdDcnpmbkp6NF9Xc09EcGxYWE51Ymx0eTlKUUE4T2tFSlBac0Exd0VxeEprUzF5clRxWmR4NXhXdElMVHpXQVlRRVZGeG1QSmE?oc=5",
-      "published": "2026-08-26T15:19:09+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0ybnZBRjhPNFpzelMzb0xxTEM5V0h3MGdIRTdDYktqenNuZE5RaUpVbGlIV0N0VWs2V1RYU2U2Y1B2RzVJZHBVMTR2bEdESDZKRlpJMzVYYklEeHVnMHNkUQ?oc=5",
+      "published": "2026-08-26T22:58:35+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
+      "title": "fēnix® 9 Pro – 47mm - Garmin",
+      "summary": "fēnix® 9 Pro – 47mm Garmin",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CRGdIcW9IQi05MFhZYzN2UjdERExKY09WdmVsdTJVY3lMM0FvYUpiaDRMdEJJaVNFMmNfcHhjUU5XbHpXRGNjWlp0dWxFeEZiN1lUeUhYaW56WHJoUHphZw?oc=5",
+      "published": "2026-08-26T22:58:36+00:00"
     },
     {
       "brand": "Apple",
@@ -868,10 +868,10 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "Apple Watch Series 12 Rumors - CNET",
-      "summary": "Apple Watch Series 12 Rumors CNET",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajFYb2NQX3VvMXNjWXhkZl9JTEZMa2MzS2VSZXBqem4tXzlfSUh2WXg2S2hTY2VZZ3RVTHgtZldoWE1VNzNOLVJjbDIzTU5FYTFVM2xIY3lBX1A2VHBLVjdoU2U1TUw1dVUwTWMwZnozbV96VzdsSlViV09OWVZiSVRn?oc=5",
-      "published": "2026-08-25T10:05:00+00:00"
+      "title": "Apple Watch vs. Oura Ring: Which Tracks Sleep, Health and Fitness Better? - CNET",
+      "summary": "Apple Watch vs. Oura Ring: Which Tracks Sleep, Health and Fitness Better? CNET",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdy1NV2Z4d1dXazFkU1gxR1ppaFZGMWNScGI3azlFSkkzMExXbW1XUkxKUVlfZzVzOGM3YS1tWWxiQUVVdzk1bUppTmd6aXJXNkVLRnBjVC1namN0a0hLWmxHLUEyeEhnVXlJbGllaTJhZHFLSXd5ajJXR1N4eklDVVBCcGRvZzEtYjdzSEJqdnc5QQ?oc=5",
+      "published": "2026-08-18T07:00:00+00:00"
     },
     {
       "brand": "Apple",
@@ -898,20 +898,20 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "Revisiting Apple Watch Edition: Hands-on with the white ceramic Series 5 - 9to5Mac",
-      "summary": "Revisiting Apple Watch Edition: Hands-on with the white ceramic Series 5 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zYnZqbXlVT1R0eVhKVktKM3pGYjJwTnpSdlN3WGEwUHJIc1pGa2sydm9vTDJNVTF1cUlZQ3ZnZlZYT2FpUlhwU2dLTW9KUURZU210Y3M3MW02ZVdJTGFaeTVlM291aTAzOEx3VQ?oc=5",
-      "published": "2026-08-21T15:00:00+00:00"
+      "title": "Google Pixel Watch 5 vs. Apple Watch Series 11: Which $400 Smartwatch Is Worthy of Your Wrist? - PCMag",
+      "summary": "Google Pixel Watch 5 vs. Apple Watch Series 11: Which $400 Smartwatch Is Worthy of Your Wrist? PCMag",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORmM1dUtvb2cwZmhmc1dZeThLWVN3UUpjNHQ2UnF5M2JZQkJ6N0VtWC12S2gwUm8tRzBCQjNhMU5Mb3dySnNrdERKajVfSWtpUWZMLWJmZ25wYTJRbEZmMjd3Tjl6bHdkb3JtRE5iajdwak5iQVJRRVpCRE93M1ZySXhnSEdxX240c29lLUVVbEJPeVV3TWNzSG1WREdETVNZd1JYbURvOWd1Q245WnVJ?oc=5",
+      "published": "2026-08-19T07:00:00+00:00"
     },
     {
       "brand": "Apple",
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "Google Pixel Watch 5 vs. Apple Watch Series 11: Which $400 Smartwatch Is Worthy of Your Wrist? - PCMag",
-      "summary": "Google Pixel Watch 5 vs. Apple Watch Series 11: Which $400 Smartwatch Is Worthy of Your Wrist? PCMag",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORmM1dUtvb2cwZmhmc1dZeThLWVN3UUpjNHQ2UnF5M2JZQkJ6N0VtWC12S2gwUm8tRzBCQjNhMU5Mb3dySnNrdERKajVfSWtpUWZMLWJmZ25wYTJRbEZmMjd3Tjl6bHdkb3JtRE5iajdwak5iQVJRRVpCRE93M1ZySXhnSEdxX240c29lLUVVbEJPeVV3TWNzSG1WREdETVNZd1JYbURvOWd1Q245WnVJ?oc=5",
-      "published": "2026-08-19T07:00:00+00:00"
+      "title": "Revisiting Apple Watch Edition: Hands-on with the white ceramic Series 5 - 9to5Mac",
+      "summary": "Revisiting Apple Watch Edition: Hands-on with the white ceramic Series 5 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zYnZqbXlVT1R0eVhKVktKM3pGYjJwTnpSdlN3WGEwUHJIc1pGa2sydm9vTDJNVTF1cUlZQ3ZnZlZYT2FpUlhwU2dLTW9KUURZU210Y3M3MW02ZVdJTGFaeTVlM291aTAzOEx3VQ?oc=5",
+      "published": "2026-08-21T15:00:00+00:00"
     },
     {
       "brand": "Apple",
@@ -948,10 +948,10 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "Reach Your Wellness Goals With an Apple Watch Series 11 While Saving $100 - CNET",
-      "summary": "Reach Your Wellness Goals With an Apple Watch Series 11 While Saving $100 CNET",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8waGJ5MlRYUEhFc1Z1SHo2bkZ6bTE2WEJIS0QxaWFpSk1uWXF0RDg3MFkzb1pOS3p6R0tDY2ctTE5wU3FPUVJJcjZNbHM3bjhBYUJ6V0JhMjlPNG9JUVl2SWk3ZmdwclgzOXRsSg?oc=5",
-      "published": "2026-08-25T19:41:00+00:00"
+      "title": "Apple Watch Series 12 Rumors - CNET",
+      "summary": "Apple Watch Series 12 Rumors CNET",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajFYb2NQX3VvMXNjWXhkZl9JTEZMa2MzS2VSZXBqem4tXzlfSUh2WXg2S2hTY2VZZ3RVTHgtZldoWE1VNzNOLVJjbDIzTU5FYTFVM2xIY3lBX1A2VHBLVjdoU2U1TUw1dVUwTWMwZnozbV96VzdsSlViV09OWVZiSVRn?oc=5",
+      "published": "2026-08-25T10:05:00+00:00"
     },
     {
       "brand": "Apple",
@@ -988,10 +988,10 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "Apple Watch vs. Oura Ring: Which Tracks Sleep, Health and Fitness Better? - CNET",
-      "summary": "Apple Watch vs. Oura Ring: Which Tracks Sleep, Health and Fitness Better? CNET",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdy1NV2Z4d1dXazFkU1gxR1ppaFZGMWNScGI3azlFSkkzMExXbW1XUkxKUVlfZzVzOGM3YS1tWWxiQUVVdzk1bUppTmd6aXJXNkVLRnBjVC1namN0a0hLWmxHLUEyeEhnVXlJbGllaTJhZHFLSXd5ajJXR1N4eklDVVBCcGRvZzEtYjdzSEJqdnc5QQ?oc=5",
-      "published": "2026-08-18T07:00:00+00:00"
+      "title": "A Doctor at Apple Reveals 9 Hidden Apple Watch Health Features - CNET",
+      "summary": "A Doctor at Apple Reveals 9 Hidden Apple Watch Health Features CNET",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLW1VVVQxM0lMMnJsVFQxRjFuOGV5Z2F0VWRZTkw5UmZBNjhFQUVNSng5azU4eXkyclVlOG42bmZKTThVSTc4UFU2S2p5VDhjNzFNV3c2ZVk0eVZUOVpEN01MaEhzZTc3SG9ld05WaGZQaGVNdmlwLS00WGUtd3MzdTIwV0dzUG9oT0k2NEtBNFBueHJVZnJmcWxWcGpWU3pC?oc=5",
+      "published": "2026-08-17T07:00:00+00:00"
     },
     {
       "brand": "Apple",
@@ -1008,10 +1008,10 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "A Doctor at Apple Reveals 9 Hidden Apple Watch Health Features - CNET",
-      "summary": "A Doctor at Apple Reveals 9 Hidden Apple Watch Health Features CNET",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLW1VVVQxM0lMMnJsVFQxRjFuOGV5Z2F0VWRZTkw5UmZBNjhFQUVNSng5azU4eXkyclVlOG42bmZKTThVSTc4UFU2S2p5VDhjNzFNV3c2ZVk0eVZUOVpEN01MaEhzZTc3SG9ld05WaGZQaGVNdmlwLS00WGUtd3MzdTIwV0dzUG9oT0k2NEtBNFBueHJVZnJmcWxWcGpWU3pC?oc=5",
-      "published": "2026-08-17T07:00:00+00:00"
+      "title": "Here’s how Apple Watch Ultra 4 will differentiate itself from prior models - 9to5Mac",
+      "summary": "Here’s how Apple Watch Ultra 4 will differentiate itself from prior models 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUwxOVB2NzFrWnk2YXN5OERNQlZpSlNFTkxZV3hpMEpONGdkVVZRXzNudTUzNjZpN2ZhNFJoZGlma0huUHpTWlNFR2syNXJIZ2d0NnBMNWtqZTg0N0NrZlA1cXRfZ2hiSHNoXzJ0SVZvR3M2MjdTaXNFYnNZUXZDLWZDQU1oU0c3RkZmZnBUMncyLWI5OVpodmRUYXFzT05IelN1OGcwU0Q?oc=5",
+      "published": "2026-08-28T18:09:00+00:00"
     },
     {
       "brand": "Apple",
@@ -1022,16 +1022,6 @@
       "summary": "How to Watch Apple’s ‘Surprise and Shine’ Event in September CNET",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0t6eC0xRUZKdzRkUW5NZ1ZLX2M4RkhEMXV3aE4tWk9EWFV4RGhLUnlmcGZ5dFZCQTNtU2JSNUFjR1pfY0pNZThWQVhwZ25VTElvTXBUTkNVUlRJMFpZajY4cnpPblNSZUlHU3FMRmVZU0NGaS1wd0ZpYkpUQVpxRUxYZVB2dzdRU0twVEtiZmtuVGl0a1E?oc=5",
       "published": "2026-08-26T16:39:52+00:00"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "Apple Watch Series 12: All the design, health, and battery life rumors so far - Tom's Guide",
-      "summary": "Apple Watch Series 12: All the design, health, and battery life rumors so far Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVVBYdXJEcDB3QUxrUURNSmtEdG1vZmQ3ZXVzUlJCUFZRMUtGS1pVeEJWSm5WQ3ZZRC1FaENiRFFCMlZUMVpOSDUzOUNnaFFIeUFjV0Vrb0RXbEx0YzBTLVRiTjVpN3RIWjhzUE1Obm5NanNjZFhlQmVONjBVLVRRa0t2dlZDMnRaeHc0VWRKOWRya2Z6MmVkMlJMendiYTMzTlEwQXhScjRON3BmUU1KMlByc0lUNklJQ05QVmZGSQ?oc=5",
-      "published": "2026-08-26T12:00:00+00:00"
     },
     {
       "brand": "Apple",
@@ -1058,10 +1048,10 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "Eyeing an Apple Watch Ultra 3? These Offers Can Help You Save - CNET",
-      "summary": "Eyeing an Apple Watch Ultra 3? These Offers Can Help You Save CNET",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1bnRnd2ZrYVd1dXBfZG9BUVUydnNnYUxDM1BHQ2FSaVNZM1cyUV9kVVBQQ1R3TWJqel8yU0VjUXZoVTlxRnVFdzZmMjljVjZhdDBYNWh5NFVBa2NrVDFJblcyZjJuMXpvTnc?oc=5",
-      "published": "2026-08-24T12:43:00+00:00"
+      "title": "Apple Watch Series 12: All the design, health, and battery life rumors so far - Tom's Guide",
+      "summary": "Apple Watch Series 12: All the design, health, and battery life rumors so far Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVVBYdXJEcDB3QUxrUURNSmtEdG1vZmQ3ZXVzUlJCUFZRMUtGS1pVeEJWSm5WQ3ZZRC1FaENiRFFCMlZUMVpOSDUzOUNnaFFIeUFjV0Vrb0RXbEx0YzBTLVRiTjVpN3RIWjhzUE1Obm5NanNjZFhlQmVONjBVLVRRa0t2dlZDMnRaeHc0VWRKOWRya2Z6MmVkMlJMendiYTMzTlEwQXhScjRON3BmUU1KMlByc0lUNklJQ05QVmZGSQ?oc=5",
+      "published": "2026-08-26T12:00:00+00:00"
     },
     {
       "brand": "Apple",
@@ -1078,30 +1068,10 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "We’ve Found Apple Watch Ultra Deals to Help You Pick Up a Premium Model for Less - CNET",
-      "summary": "We’ve Found Apple Watch Ultra Deals to Help You Pick Up a Premium Model for Less CNET",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TMk1oQUVqNzRrcHVDRFRIQUliclJDZzR4R3ZyZ2pSVU9KeExCZTNzdjVIVnN0clZ2aXdwbURwNW5Oak5TZWgzTTdfblQ1Vmw1VDl3Tnhjc2RjeTBhMUZhcWJIcl84VjA?oc=5",
-      "published": "2026-08-21T18:33:00+00:00"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
       "title": "I Tried Dozens of Apple Watch Bands and Have Opinions - WIRED",
       "summary": "I Tried Dozens of Apple Watch Bands and Have Opinions WIRED",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83LVlfZWF1WXVqTUtmSGliOTVMbTFEMTBqSzRlU3BNQWItZ1VrbHJhcHhXbjZydHZKOWNxRWx3ZThkMEJJRHpqSUZOY2tGNGNkdGp6WV95MlhHWVNqM2U3Zw?oc=5",
       "published": "2026-08-15T07:00:00+00:00"
-    },
-    {
-      "brand": "Apple",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "Visible is taking up to $100 off Apple Watch 11: here's how to get yours - Tom's Guide",
-      "summary": "Visible is taking up to $100 off Apple Watch 11: here's how to get yours Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaXdTMXRxZUZxSzgzRnZoR3ZEMGxCSUQxS0J4LXhIZEFKWS1HeVlYbGNnZFgxS3JaMmJxamN5X1NSc0VUR1BXSHhiMEoxX2cyX3lGX01pbElfTlBUT3ZtRHVZekgyUmdtaS03X0hac0xLdEZKLTc4c2c1SlpkU29KeGZaQ1A2S2ZVWFBZV2JLSVNxcC1ubDJCVjBBSzZCSDNfVWlENnE4V2tyYV90SGdfdzlCU1BTTDFjXzRwMDVpRQ?oc=5",
-      "published": "2026-08-26T21:14:17+00:00"
     },
     {
       "brand": "Apple",
@@ -1118,10 +1088,40 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
+      "title": "Visible is taking up to $100 off Apple Watch 11: here's how to get yours - Tom's Guide",
+      "summary": "Visible is taking up to $100 off Apple Watch 11: here's how to get yours Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaXdTMXRxZUZxSzgzRnZoR3ZEMGxCSUQxS0J4LXhIZEFKWS1HeVlYbGNnZFgxS3JaMmJxamN5X1NSc0VUR1BXSHhiMEoxX2cyX3lGX01pbElfTlBUT3ZtRHVZekgyUmdtaS03X0hac0xLdEZKLTc4c2c1SlpkU29KeGZaQ1A2S2ZVWFBZV2JLSVNxcC1ubDJCVjBBSzZCSDNfVWlENnE4V2tyYV90SGdfdzlCU1BTTDFjXzRwMDVpRQ?oc=5",
+      "published": "2026-08-26T21:14:17+00:00"
+    },
+    {
+      "brand": "Apple",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
       "title": "How to watch Apple’s September event: iPhone 18 Pro, iPhone Ultra, more - 9to5Mac",
       "summary": "How to watch Apple’s September event: iPhone 18 Pro, iPhone Ultra, more 9to5Mac",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ25UbW1xUHFfaElFYUI3RG5sRmtic1ZPQk11a1daOW9wcEhsOVF0bHRtdlpweEQzR1l0SGpWV2tNNE10Wm9mdGRhbDgwS2p3Z25VVUpBOUFZTjI4bXNvenFHZnVSWW8yNlU0N3lLZV9KTlBsbzZHdnhCY3RIZzIyN2hkSHdrUWNtcEFyOTVYRWJKenBFQnQwNDVFTlZtaDNk?oc=5",
       "published": "2026-08-27T15:44:00+00:00"
+    },
+    {
+      "brand": "Apple",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
+      "title": "I’ve been writing about the Apple Watch for the past decade: Here’s the rumored update I’m most excited about for the Apple Watch Ultra 4 - Tom's Guide",
+      "summary": "I’ve been writing about the Apple Watch for the past decade: Here’s the rumored update I’m most excited about for the Apple Watch Ultra 4 Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUVJCV1pXTzhXN0pWMV9hemd3UWgxZGg3OUc4bUl4QW5hdWxudERET0VNOFhZZVJ3X1NSWWFMa1cycFdmNTFRaTJJcDRwZ2R0NG8ydG9DMlZaN01oR3JmQUl0RlhnVm93LThpWnlZN2tDRHJIcVpxUmFzYTEtbng3ZGp3U05za3hIZnhCTFRLMXJZVTE2RFphdkhiOV9VTkpsbU1ZTG1HOEUxcENJcHJWNm5IaGV5MUYyZk1NSzB5Qk1INmFhVF9hM0xyRVpxamFyX0VYaUtDRXZ3ZUFJVzBQVnJ4UXFOZ0VHcTVRS1ZtWmVFT1A0OHdGR0Q3MWx2LV9YODhMam4tMjloTmhoMnc?oc=5",
+      "published": "2026-08-26T16:50:02+00:00"
+    },
+    {
+      "brand": "Apple",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
+      "title": "Restart Apple Watch Series Beginner's Guide Iwatch How To Use Apple Watch Series - fuelcarmagazine",
+      "summary": "Restart Apple Watch Series Beginner's Guide Iwatch How To Use Apple Watch Series fuelcarmagazine",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01TlVmVTE3NFVVeXFOVkE1cWJEWU8zLWF5UnpkSVFvblNMd0o0Vl9iOFJPRUJZVmZReWF2S09KbFNvc2JORmpfTEVTcU1oRjA2cFpFT2xGRQ?oc=5",
+      "published": "2026-08-26T20:48:48+00:00"
     },
     {
       "brand": "Samsung",
@@ -1148,20 +1148,20 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "Samsung Galaxy Watch Ultra 2 month-long review: is it worth it? - Mashable",
-      "summary": "Samsung Galaxy Watch Ultra 2 month-long review: is it worth it? Mashable",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWY2Fzc1RGUFBMSjVFRFVmaXhSMzZCd21XSUhya0EtZEJ5UUJSRWxGbzRKd3VZMnItU3NaT2w0OEY4UGF0bmhFZkp5R0hXWVNOZUV2Yy1nM1o1M3gyVUp4UGl3by15YlNRQmd0UTh3?oc=5",
-      "published": "2026-08-17T07:00:00+00:00"
+      "title": "11 Essential Galaxy Watch Apps You Should Install In 2026 - bgr.com",
+      "summary": "11 Essential Galaxy Watch Apps You Should Install In 2026 bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81Nkt2ZGVfSnR5V1puZTNZM3I3Q1NUTDRQNFBUWk9oRkgySk9PdU9wTnRoTTBqYS13bHVleW5KYm9jejBLZmZkNWdnYThmQWRjZlFnUURRaURncHFTZzBRMWZWbGs3MVUzT3ZST0JZS1ZZSEtKeWpXc0hlbw?oc=5",
+      "published": "2026-08-15T07:00:00+00:00"
     },
     {
       "brand": "Samsung",
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "11 Essential Galaxy Watch Apps You Should Install In 2026 - bgr.com",
-      "summary": "11 Essential Galaxy Watch Apps You Should Install In 2026 bgr.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81Nkt2ZGVfSnR5V1puZTNZM3I3Q1NUTDRQNFBUWk9oRkgySk9PdU9wTnRoTTBqYS13bHVleW5KYm9jejBLZmZkNWdnYThmQWRjZlFnUURRaURncHFTZzBRMWZWbGs3MVUzT3ZST0JZS1ZZSEtKeWpXc0hlbw?oc=5",
-      "published": "2026-08-15T07:00:00+00:00"
+      "title": "Samsung Galaxy Watch Ultra 2 month-long review: is it worth it? - Mashable",
+      "summary": "Samsung Galaxy Watch Ultra 2 month-long review: is it worth it? Mashable",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWY2Fzc1RGUFBMSjVFRFVmaXhSMzZCd21XSUhya0EtZEJ5UUJSRWxGbzRKd3VZMnItU3NaT2w0OEY4UGF0bmhFZkp5R0hXWVNOZUV2Yy1nM1o1M3gyVUp4UGl3by15YlNRQmd0UTh3?oc=5",
+      "published": "2026-08-17T07:00:00+00:00"
     },
     {
       "brand": "Samsung",
@@ -1228,6 +1228,16 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
+      "title": "The latest gen Samsung Galaxy Watch 9 comes switch free $50 Amazon gift card in this special product launch deal - PC Guide",
+      "summary": "The latest gen Samsung Galaxy Watch 9 comes switch free $50 Amazon gift card in this special product launch deal PC Guide",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQV2ZoQmFmMlNIazk2RmF2N3pzRlpOaTN6eXF1VXBKdFJJNGwwZUVBaU8ySWs3U1J0SmdSMzV2ZG9fQ19oMnNqY3FMbHU0TWxMRTJjQ2x2dEFuc0RNZV9TbDRkd1BYNl9zQUNZcXViUlNqbHNnSnpYckV2VU1qOGhxTUJtN3dIU2RKUHRuSVJWXzBoQmF4VHJUX2pMSHRGT1cxVHhTdkpzTHA2SDFrcUNULXJWazZXaFN1ajBtR2djdHB6MkdWd3FXeV9pejF5bTR4dkpsZ2lmUHZkQQ?oc=5",
+      "published": "2026-08-15T07:00:00+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
       "title": "I've tested all of Samsung's smartwatches and these are the 6 best picks in 2026 - Android Central",
       "summary": "I've tested all of Samsung's smartwatches and these are the 6 best picks in 2026 Android Central",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RLXVTd1VDaTl2aHNIMHJ2NTNGQzVFVm5CaVJEajNMbFlLZG9SNmxWMUVjQS1HeEFXS00tU2pvcmRwY1AyWkNXbWRrMW1pYzNteERNd1QwcGpCX0NrV09WekdrMWc?oc=5",
@@ -1278,20 +1288,10 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "Samsung Galaxy Watch Ultra 2 review: Samsung's best fitness watch yet - Women's Health",
-      "summary": "Samsung Galaxy Watch Ultra 2 review: Samsung's best fitness watch yet Women's Health",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckV1NUR0STRzekQza1NHRThVaVVSUkJLd2lPbURaOGVKM0ozTHVjNmE4U2hreUZRVTlma2EwS2FZbXN2TmNvNXVVOHo2QUVqb01NT1BZdXNMT1VWdkp4M1k4Y0ZzUWZ4SG9qZTR6ZXVIYVNycFpfOVhvYjVLNU5pU2hlTHlOZ0V0V0hRTWRrNTJHV1BKa2ZpcWwxZw?oc=5",
-      "published": "2026-08-24T10:46:38+00:00"
-    },
-    {
-      "brand": "Samsung",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
       "title": "These are the 3 best Samsung smartwatches we've tested for battery life, budget and outdoor adventures - Tom's Guide",
       "summary": "These are the 3 best Samsung smartwatches we've tested for battery life, budget and outdoor adventures Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wX002T1NMaE9nb3J6YUczRTE3bWNyLWVwM1ZiVHhsNGo1Q3ZLNFg5blFGRG4yaWJQczRfUXZMeDZ2bmQyNExmY0xtQkJYN3NNcUJWcmhXTFA2UWV6S2tSOGIyNHNPUQ?oc=5",
-      "published": "2026-08-20T15:51:57+00:00"
+      "published": "2026-08-20T07:00:00+00:00"
     },
     {
       "brand": "Samsung",
@@ -1328,6 +1328,16 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
+      "title": "Galaxy Watch charging works better with this $0.10 alignment trick - How-To Geek",
+      "summary": "Galaxy Watch charging works better with this $0.10 alignment trick How-To Geek",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLTBSeUxPTDhuVUhWTnZFbGxTbEpGQTN0cXpaWHZ0dmVjaWQxNEtVV2VDN1BXclhZZHNKbF9vem0xWTBDSi1ycXdpRzc1cE5vc1RLV2tMM2pOWE5qWWdkZHdsaVJ5YmNJMzNDNjB3TWMwYzZvYTNYeVdNY0ZMa210NXJuTEN6WHA5NDladWxZQVkzQS02OXc?oc=5",
+      "published": "2026-08-28T13:00:13+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
       "title": "T-Mobile smartwatch sale: How to score a free Galaxy Watch - Tom's Guide",
       "summary": "T-Mobile smartwatch sale: How to score a free Galaxy Watch Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNC11QnVvbjhVMGtVQ2ZmdURvQmNuempqMkRzTWpReFdHbnEwdlRUdEZtdFJOTjFNakVMTUg0R0t3bkdYYm1ZdkEzSmRqNkNxbjROYU9tcjN4dWV0TVpScDhYa0VKc3JoakVxSHhoeEhaY1cwNDg3dVNwSmlMaFF1clZic3dnSzhHbGxCcUh4X0Y4QTJwOFE3Rm5yVmw5c29TYzBJYlBOcWQ?oc=5",
@@ -1338,10 +1348,20 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "Samsung Galaxy Watch 9 vs. Galaxy Watch Ultra 2: Is the $320 Upgrade Actually Worth It? - PCMag",
-      "summary": "Samsung Galaxy Watch 9 vs. Galaxy Watch Ultra 2: Is the $320 Upgrade Actually Worth It? PCMag",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkNYOVZIcmYzUUlTS0hQZHZtRVY5WlpmcTFCdXN5QW44amYwWHZfYjZfaDVNTVZtVkduTWVsNGlUV0x3d1huaTMwVUlZVGJCVHYzb21HWXhTcDhnZ1M3c0RtOGxXR0JMMXBsR3RaUDB5S3l5NVVZRVVRTTdGS3ExNnZIVVZIYnJENWhaZ3RTVW1OY2c5MlY1SmlvNlhzdGFnNU01VXo4SkQ?oc=5",
-      "published": "2026-08-24T07:00:00+00:00"
+      "title": "Samsung Galaxy Watch Ultra 2 review: Samsung's best fitness watch yet - Women's Health",
+      "summary": "Samsung Galaxy Watch Ultra 2 review: Samsung's best fitness watch yet Women's Health",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckV1NUR0STRzekQza1NHRThVaVVSUkJLd2lPbURaOGVKM0ozTHVjNmE4U2hreUZRVTlma2EwS2FZbXN2TmNvNXVVOHo2QUVqb01NT1BZdXNMT1VWdkp4M1k4Y0ZzUWZ4SG9qZTR6ZXVIYVNycFpfOVhvYjVLNU5pU2hlTHlOZ0V0V0hRTWRrNTJHV1BKa2ZpcWwxZw?oc=5",
+      "published": "2026-08-24T10:46:38+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
+      "title": "This free Galaxy Watch app transforms your smartwatch into a Bluetooth mouse - How-To Geek",
+      "summary": "This free Galaxy Watch app transforms your smartwatch into a Bluetooth mouse How-To Geek",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYVFoUGtDcXBVeXZLdXplc3c0c0FNUGNLU3JSUUlMalY3Z2pscWNGWWlFbDJ6UDZBSDJfQkFIWFIxejBoeXJ4SDNIUHdPTEFkejZGYVRMTDBMdFZEaXoxWXNPVzlfSFJIMVNtWTJkN0sxVE9NMGN0WU96LWpQbldBSlh4Y1dUQnAtNWV2M0pXNF9aSmYxdW4xMG1lOWNERnc2QUhNLXJ3?oc=5",
+      "published": "2026-08-27T16:45:13+00:00"
     },
     {
       "brand": "Samsung",
@@ -1378,50 +1398,30 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
+      "title": "Samsung Galaxy Watch Ultra 2 review - SamMobile",
+      "summary": "Samsung Galaxy Watch Ultra 2 review SamMobile",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85b29iVWN0X2RMU2Q1UVVSVWVGTDA5aTE3Y3NjVlluZ2hBTUxJQi1TN3RFNFBiZVI4YzNkazN5MnFwWjM2MUFndl9yUktoTmo2b25LM0RyMHAtbmp1cUd3ekdGb1dmM1JWZ2xjVnU1MA?oc=5",
+      "published": "2026-08-24T11:07:00+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
+      "title": "Samsung Galaxy Watch 9 vs. Galaxy Watch Ultra 2: Is the $320 Upgrade Actually Worth It? - PCMag",
+      "summary": "Samsung Galaxy Watch 9 vs. Galaxy Watch Ultra 2: Is the $320 Upgrade Actually Worth It? PCMag",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkNYOVZIcmYzUUlTS0hQZHZtRVY5WlpmcTFCdXN5QW44amYwWHZfYjZfaDVNTVZtVkduTWVsNGlUV0x3d1huaTMwVUlZVGJCVHYzb21HWXhTcDhnZ1M3c0RtOGxXR0JMMXBsR3RaUDB5S3l5NVVZRVVRTTdGS3ExNnZIVVZIYnJENWhaZ3RTVW1OY2c5MlY1SmlvNlhzdGFnNU01VXo4SkQ?oc=5",
+      "published": "2026-08-24T07:00:00+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
       "title": "A half-price Galaxy Watch 8 headlines Samsung's August Secret Sale, and there's tempting reductions on phones and TVs too - TechRadar",
       "summary": "A half-price Galaxy Watch 8 headlines Samsung's August Secret Sale, and there's tempting reductions on phones and TVs too TechRadar",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVVF6TG45VjUtMVVDYlkwUkR6R0ZrRHFUc0JLclY3VHc4bW1SQXNqMV9zbTBBeEVrV2FVNjc5WklyWVhWQjJFODllTV9wRm5YdWNpLS0wQnBWNHBuQ2JnYVliTlI4WmVpMVAtYTlpYzA3aE1PTFJBU0daS3p3TmVLdEotSENXdFQxMEp2eGdicUVwT0Y1TzZWWmRqX0xqdnBpUjBPWjRQeXJZbzlRNzlnRzJiUTlYNmhKSjJVOGZyd0g4WWtpbi15RTY3OUlDd1hheEZwXzR3R0JzRnBYVnRCZ0d2d3J2ZTNnbE5ERktXS0k3dWZoajRIWm1Jc01vcHFLa2c?oc=5",
       "published": "2026-08-16T07:00:00+00:00"
-    },
-    {
-      "brand": "Samsung",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "Samsung Galaxy Watch Ultra 2-month review: Is it worth it? - ZDNET",
-      "summary": "Samsung Galaxy Watch Ultra 2-month review: Is it worth it? ZDNET",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXhYSGdXRko3ajRhUVhIdUs4S25fUGNfWDZNR2E2TlpGSnBTQ2tMS1NLd01qc0ZGNlpZc1AxWTc0elVua0RGanlndVZxTnNlaklTOElkTFQzQTYzVDZvSlNYZ2U5WHRRdDBoYjI1WWJJODFTUWVfRXk0S1ZHQnF2bFB4NzVuc1IxbDJWeW55T3dVdXcx?oc=5",
-      "published": "2026-08-17T07:00:00+00:00"
-    },
-    {
-      "brand": "Samsung",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "How to Restart or Factory Reset Any Galaxy Watch - SammyGuru",
-      "summary": "How to Restart or Factory Reset Any Galaxy Watch SammyGuru",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94NEdtOHYyWnZXN1BLeWhLZkRlX3Jvc290ckU1aTl5S0FodENibnVZNEtOVl9yb0lsLU14S0lTY0FhTXpES2ZHLW1QdTlUUXZ6RnVOanNEU1VUMXZLMG5MU2NxRkJvT2c?oc=5",
-      "published": "2026-08-19T19:06:07+00:00"
-    },
-    {
-      "brand": "Samsung",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "Samsung Galaxy Watch Ultra 2 vs Ultra: All the differences explained - Gadgets & Wearables",
-      "summary": "Samsung Galaxy Watch Ultra 2 vs Ultra: All the differences explained Gadgets & Wearables",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0NBOVJ5ZTR4NVdjZHZKMXNOc1FaUk50SHVuaDNDVnNYUUtwZzY1enBWNHl4ZWNFcUYteThiZXJHRVo2Vnh2VzZXYzFMenhvOWh5UzJ3TFpCRndDRVR6OF9reW9FY2JndG5udVRtbGtHVUtrN2djdFMzQkZHZ2pEMERRcXlfT25W?oc=5",
-      "published": "2026-08-18T15:18:26+00:00"
-    },
-    {
-      "brand": "Samsung",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "This free Galaxy Watch app transforms your smartwatch into a Bluetooth mouse - How-To Geek",
-      "summary": "This free Galaxy Watch app transforms your smartwatch into a Bluetooth mouse How-To Geek",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYVFoUGtDcXBVeXZLdXplc3c0c0FNUGNLU3JSUUlMalY3Z2pscWNGWWlFbDJ6UDZBSDJfQkFIWFIxejBoeXJ4SDNIUHdPTEFkejZGYVRMTDBMdFZEaXoxWXNPVzlfSFJIMVNtWTJkN0sxVE9NMGN0WU96LWpQbldBSlh4Y1dUQnAtNWV2M0pXNF9aSmYxdW4xMG1lOWNERnc2QUhNLXJ3?oc=5",
-      "published": "2026-08-27T16:45:13+00:00"
     },
     {
       "brand": "Samsung",
@@ -1478,30 +1478,20 @@
       "market": "Malaysia",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "Huawei Watch 6 design teased ahead of launch - GSMArena.com news - GSMArena.com",
-      "summary": "Huawei Watch 6 design teased ahead of launch - GSMArena.com news GSMArena.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQlh3c0hBaVpwdGhxdnh2VFBPYVVNUXdsT0poUjI3blFlaTRtS19fdFpkOGFhMUhlQ2M0WkRlTWNTeHcyQUlLcl9LZFZyYzB5SzNMQUM1M0FNOWJFLTdCQXUzTkt0S1lPdkpsV2Z6YkFkcUpEWjQyTmhfS21Ubmc0QXhUd0Z4eFhpN2lmUC1R0gGKAUFVX3lxTFBaODUzWW4tb05VNzIweHhGM19kTXVubF9JWDFseWxnd2k2OVB2OGFFWUFfa2pDZUZKWktiVzIzWEpFYXUwck42WVdVU0V2RXgxNXZCakQyOVBtMG9rN3pLMDZkSndHRDFjc1VELVpJdEJiSTNnMGRKOTQxOWlPQ3p0UEN6MzVMZHJEZw?oc=5",
-      "published": "2026-08-27T16:12:02+00:00"
-    },
-    {
-      "brand": "Samsung",
-      "market": "Malaysia",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "You Still Have a Chance to Save: Amazon Prime Deals on Smartwatches and Fitness Trackers - PCMag",
-      "summary": "You Still Have a Chance to Save: Amazon Prime Deals on Smartwatches and Fitness Trackers PCMag",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcWpwQ21ObkdzV2QtQXlhTkM5QkVDYWFCdHF0RHlxb3lHRi1hN0ZJLXRqSERaTlJDaEl3WkEwUHdoS3FLUmRmZjJ3WXVjOTNXOHhjZzJhbmx0bVNPcThjdjMxMDBHM1ktM1RieTM5Wl9JcmVBTEUwWU93a1pwdjRCdTNSVnV1WHo2bkVILWo3NTF0Vk0zbTBudExBQkpJY05EcXpTYUR3?oc=5",
-      "published": "2026-08-24T07:00:00+00:00"
-    },
-    {
-      "brand": "Samsung",
-      "market": "Malaysia",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
       "title": "Galaxy Watch Ultra 2: The Two Things That Decide It in Malaysian Sun - ProductNation",
       "summary": "Galaxy Watch Ultra 2: The Two Things That Decide It in Malaysian Sun ProductNation",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX2lDQ09VYW1GeGJfSkFwcUpnbl9BU0Z0QzAya2xhZnUtbFlfaU41MFk5aHZuMjN0V3Q0QmNSRkpGUHlHOXJRNkdjRE0ycUtjbU9JT1BXYkpGRnZiTkJ1TDlMTGtLb3c1aURFbENPTEl1TnRncmtPQWNucExNN2oyVUNyVXZDc2RvLWg1RXN5QjdFVnRyRS1pRHM2WWdTMHdFbGZPa2hCVzZSZU0?oc=5",
       "published": "2026-08-26T05:43:11+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Malaysia",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
+      "title": "Samsung Galaxy Watch9 review – more improvements? - Newswav",
+      "summary": "Samsung Galaxy Watch9 review – more improvements? Newswav",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFpTVmJWUk9zSjNrazdWdGxzdTZ4ZkIwVmhsdDJYRzBnaUZIaFY0bGphSThZLUkzRUJrdFB0b05aNWluTFoxRWVXM2NvbzFCamczQ0dETWRVc2dJMmtOakVUQWJYUWVYWFRyeHhUZWNPT0lLeVhNTEQ2clFPd0dWTFVNNlpBcThISTNjTk5WY2w?oc=5",
+      "published": "2026-08-19T04:00:00+00:00"
     },
     {
       "brand": "Samsung",
@@ -1531,17 +1521,17 @@
       "title": "These are the 3 best Samsung smartwatches we've tested for battery life, budget and outdoor adventures - Tom's Guide",
       "summary": "These are the 3 best Samsung smartwatches we've tested for battery life, budget and outdoor adventures Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wX002T1NMaE9nb3J6YUczRTE3bWNyLWVwM1ZiVHhsNGo1Q3ZLNFg5blFGRG4yaWJQczRfUXZMeDZ2bmQyNExmY0xtQkJYN3NNcUJWcmhXTFA2UWV6S2tSOGIyNHNPUQ?oc=5",
-      "published": "2026-08-20T15:51:57+00:00"
+      "published": "2026-08-20T07:00:00+00:00"
     },
     {
       "brand": "Samsung",
       "market": "UK",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "[Video] Samsung Health Envisions Simpler, More Connected Care With AI - Samsung Global Newsroom",
-      "summary": "[Video] Samsung Health Envisions Simpler, More Connected Care With AI Samsung Global Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWENHTDh4Z1JYWWU3N1lZSzN4WGxwdngyc0NVeVVQRVR3NG5kc29VQU8tMDhvM0tHNURESHlKYlVJNkpBWUdFaXBudUFvMlVaZi1EUXFjMzNkaU1DdlFZQXM2Sk0wNFRWS0ExcmVlc2RMSDdjTk9xMGowUENDUndkVDJpdTJQQ1d6bTRGSVMyMDdHM3E3Y3h3SVNOM3RpQkgyNHNmaDhxVXNmSm5kUGd3Z0xoRnRWb3kwNFVOaw?oc=5",
-      "published": "2026-08-20T12:41:53+00:00"
+      "title": "Brits Are Training Like Athletes, But Recovering Like Amateurs - Samsung Global Newsroom",
+      "summary": "Brits Are Training Like Athletes, But Recovering Like Amateurs Samsung Global Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeTZuQ2VLSGNPc01IZnJLS3NtemJpU2lZd3I2ZEx2djFFcjJMRERpUWhfMVRKZVVUTzI1aUZiMnY2cGx6QzRHTUZTMFAwTGVkbW42ZWFyUjVTSWdoYkp2WDBsNjFSN0hQWHFyMGlRVlZZOTRMNlRaZU9fN1FKS0JiRG5pRVllTldLdktHbGduekNLem8?oc=5",
+      "published": "2026-08-21T08:08:00+00:00"
     },
     {
       "brand": "Samsung",
@@ -1558,10 +1548,10 @@
       "market": "UK",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "Samsung Galaxy Watch 9 vs. Watch 8: Should You Upgrade? - PCMag UK",
-      "summary": "Samsung Galaxy Watch 9 vs. Watch 8: Should You Upgrade? PCMag UK",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMmgta2dzUHRLUHpCVmFPVnVyUFNSMmI5WnhDQmRiNmpmT1QzSF93Nk9SQkFLaUlDVk9MNHRJWi1pbDkyOXZ3cVZ1MmVvaUFMMTJmdHRfTURhMFIwdEs3TEJ3VjRxRzFFTGRIczBieThSdHJUTHVyXzBGQWs1VlFESVNWS29oQXctcURGYVA1LU5QRll3NUNFUENjQ21FT2ZlMDVNUzREVlVOOEdr?oc=5",
-      "published": "2026-08-24T19:43:40+00:00"
+      "title": "The Best Smartwatches for 2026 - PCMag UK",
+      "summary": "The Best Smartwatches for 2026 PCMag UK",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVFLdi1RZm50MTkzVFFOaGdTanExWGxITzBVRUplSjJlcTNJb3RFeGxxUWVNdF9sR3NfTXFnQ0ZobEwxNElRN0x5MlZYSVFrLUZvMmticl9Zc3V0eG9yV2tuRTlFVUcxVmVrZnRqajVDcXZkVmR0WkdsMlVaVDVyeg?oc=5",
+      "published": "2026-08-24T18:36:51+00:00"
     },
     {
       "brand": "Samsung",
@@ -1571,17 +1561,7 @@
       "title": "The 11 best smartwatches you can buy in 2026 - Trusted Reviews",
       "summary": "The 11 best smartwatches you can buy in 2026 Trusted Reviews",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FamZEdV9aYkFRWXgza1B3UG80SnpPeHY5dmRubE9jMFAtM3p0VVZKVXBkdHNleVZUaUR1NThtM2RLY0dZMlkwMGstT3dHNUIwd0FmQ1pFSFpjakIzSjRpUE5KWjNkTkhhajJV?oc=5",
-      "published": "2026-08-20T15:57:51+00:00"
-    },
-    {
-      "brand": "Samsung",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "Samsung Galaxy Watch Ultra 2 review: Samsung's best fitness watch yet - Women's Health",
-      "summary": "Samsung Galaxy Watch Ultra 2 review: Samsung's best fitness watch yet Women's Health",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckV1NUR0STRzekQza1NHRThVaVVSUkJLd2lPbURaOGVKM0ozTHVjNmE4U2hreUZRVTlma2EwS2FZbXN2TmNvNXVVOHo2QUVqb01NT1BZdXNMT1VWdkp4M1k4Y0ZzUWZ4SG9qZTR6ZXVIYVNycFpfOVhvYjVLNU5pU2hlTHlOZ0V0V0hRTWRrNTJHV1BKa2ZpcWwxZw?oc=5",
-      "published": "2026-08-24T10:46:38+00:00"
+      "published": "2026-08-20T07:00:00+00:00"
     },
     {
       "brand": "Samsung",
@@ -1608,6 +1588,16 @@
       "market": "UK",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
+      "title": "Samsung Galaxy Watch Ultra 2 review: Samsung's best fitness watch yet - Women's Health",
+      "summary": "Samsung Galaxy Watch Ultra 2 review: Samsung's best fitness watch yet Women's Health",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckV1NUR0STRzekQza1NHRThVaVVSUkJLd2lPbURaOGVKM0ozTHVjNmE4U2hreUZRVTlma2EwS2FZbXN2TmNvNXVVOHo2QUVqb01NT1BZdXNMT1VWdkp4M1k4Y0ZzUWZ4SG9qZTR6ZXVIYVNycFpfOVhvYjVLNU5pU2hlTHlOZ0V0V0hRTWRrNTJHV1BKa2ZpcWwxZw?oc=5",
+      "published": "2026-08-24T10:46:38+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "UK",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
       "title": "Samsung UK lets you try a Galaxy Watch Ultra 2 or Watch 9 for 100 days with a full refund - SamMobile",
       "summary": "Samsung UK lets you try a Galaxy Watch Ultra 2 or Watch 9 for 100 days with a full refund SamMobile",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX3B0WUgwOTNjLUJudmxTdkpJQ240RlJXTEtjeGpkamtaY2NMX3ozUnlUNGFGNDN5RHVQR0NSdk1zSDA5dXZNS3gtc0NOQ2FpWkFWWk9vMWhOVl9sWXg2NkwyMFdxVmFGMkVyYUdqUHRSX3lJY0RpUm5PamZxWXFvMjZYVXpzTk1iNTNKcWV5VmMwRG0tQlJlWUhoTFFVVHFrWXdxeUl2SHItSWdqdDFYV3ZOcnU4WUxqUmpFRHdR?oc=5",
@@ -1628,6 +1618,16 @@
       "market": "UK",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
+      "title": "[Video] Samsung Health Envisions Simpler, More Connected Care With AI - Samsung Global Newsroom",
+      "summary": "[Video] Samsung Health Envisions Simpler, More Connected Care With AI Samsung Global Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWENHTDh4Z1JYWWU3N1lZSzN4WGxwdngyc0NVeVVQRVR3NG5kc29VQU8tMDhvM0tHNURESHlKYlVJNkpBWUdFaXBudUFvMlVaZi1EUXFjMzNkaU1DdlFZQXM2Sk0wNFRWS0ExcmVlc2RMSDdjTk9xMGowUENDUndkVDJpdTJQQ1d6bTRGSVMyMDdHM3E3Y3h3SVNOM3RpQkgyNHNmaDhxVXNmSm5kUGd3Z0xoRnRWb3kwNFVOaw?oc=5",
+      "published": "2026-08-20T12:41:53+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "UK",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
       "title": "I've tested all of Samsung's smartwatches and these are the 6 best picks in 2026 - Android Central",
       "summary": "I've tested all of Samsung's smartwatches and these are the 6 best picks in 2026 Android Central",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RLXVTd1VDaTl2aHNIMHJ2NTNGQzVFVm5CaVJEajNMbFlLZG9SNmxWMUVjQS1HeEFXS00tU2pvcmRwY1AyWkNXbWRrMW1pYzNteERNd1QwcGpCX0NrV09WekdrMWc?oc=5",
@@ -1638,20 +1638,10 @@
       "market": "UK",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "The Best Smartwatches for 2026 - PCMag UK",
-      "summary": "The Best Smartwatches for 2026 PCMag UK",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVFLdi1RZm50MTkzVFFOaGdTanExWGxITzBVRUplSjJlcTNJb3RFeGxxUWVNdF9sR3NfTXFnQ0ZobEwxNElRN0x5MlZYSVFrLUZvMmticl9Zc3V0eG9yV2tuRTlFVUcxVmVrZnRqajVDcXZkVmR0WkdsMlVaVDVyeg?oc=5",
-      "published": "2026-08-24T18:36:51+00:00"
-    },
-    {
-      "brand": "Samsung",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "Best Android smartwatch — top picks from Google, Garmin and Samsung - Tom's Guide",
-      "summary": "Best Android smartwatch — top picks from Google, Garmin and Samsung Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBWlFXcjFqN2dJQ3RMOHVMWVBVaEt0YTB6OFozcUNaalp3T2wzR1pEQUhndXZPaXl0MHNULVF0SHU0WnE1UVhja0Ffa0prWTBEb2s2dHZuQUZvU0FjZGhWSlctY2JHUmViTU9yX0xJUQ?oc=5",
-      "published": "2026-08-20T15:43:14+00:00"
+      "title": "Samsung Galaxy Watch 9 vs. Watch 8: Should You Upgrade? - PCMag UK",
+      "summary": "Samsung Galaxy Watch 9 vs. Watch 8: Should You Upgrade? PCMag UK",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMmgta2dzUHRLUHpCVmFPVnVyUFNSMmI5WnhDQmRiNmpmT1QzSF93Nk9SQkFLaUlDVk9MNHRJWi1pbDkyOXZ3cVZ1MmVvaUFMMTJmdHRfTURhMFIwdEs3TEJ3VjRxRzFFTGRIczBieThSdHJUTHVyXzBGQWs1VlFESVNWS29oQXctcURGYVA1LU5QRll3NUNFUENjQ21FT2ZlMDVNUzREVlVOOEdr?oc=5",
+      "published": "2026-08-24T19:43:40+00:00"
     },
     {
       "brand": "Samsung",
@@ -1698,6 +1688,16 @@
       "market": "UK",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
+      "title": "Best Android smartwatch — top picks from Google, Garmin and Samsung - Tom's Guide",
+      "summary": "Best Android smartwatch — top picks from Google, Garmin and Samsung Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBWlFXcjFqN2dJQ3RMOHVMWVBVaEt0YTB6OFozcUNaalp3T2wzR1pEQUhndXZPaXl0MHNULVF0SHU0WnE1UVhja0Ffa0prWTBEb2s2dHZuQUZvU0FjZGhWSlctY2JHUmViTU9yX0xJUQ?oc=5",
+      "published": "2026-08-20T15:43:14+00:00"
+    },
+    {
+      "brand": "Samsung",
+      "market": "UK",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
       "title": "Google Pixel Watch 5 Review: Spot the difference - Trusted Reviews",
       "summary": "Google Pixel Watch 5 Review: Spot the difference Trusted Reviews",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KYW1WbGRXdlJGeDNVRXo0bzhraktLZWRMLWdIU010Y3BHWmxYOGhOdG93ZzdiYXBWTUV0WUhYaDhwT0xYQjdUU3Bxd05mWDVPMDg0UnBUN0JiR01GQkdoMlFBc1FxRkZxdmtr?oc=5",
@@ -1721,7 +1721,7 @@
       "title": "Brits abandon fitness goals after just 33 days – as rest days often overlooked - AOL.co.uk",
       "summary": "Brits abandon fitness goals after just 33 days – as rest days often overlooked AOL.co.uk",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT2VwTjdvd1BaRzFoQld1Q0ZmM0lSQjFsbDNnbVZReWFwMDVBUlo0RTdiZmdqbE42ZFY3QTE4aGFodEJmWGx1LWpxV1ZCZVg5eVR3a3VLX2pjSk5tNWRaNFktdE80TFBXZ2Y5dVlEQ1RlanJHTmlrWTVKYzdPbmNndE9HZGk?oc=5",
-      "published": "2026-08-21T06:00:00+00:00"
+      "published": "2026-08-20T07:00:00+00:00"
     },
     {
       "brand": "Samsung",
@@ -1764,26 +1764,6 @@
       "published": "2026-08-21T12:01:52+00:00"
     },
     {
-      "brand": "Samsung",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "Brits abandon fitness goals within 30 days of starting, survey reveals - The Sun",
-      "summary": "Brits abandon fitness goals within 30 days of starting, survey reveals The Sun",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Hc1ltQWRaWXlRbDlHS3p3T2tQLU5JZDB0bFNzOG9uRlNoWkFtT3dKVlhHRHVhMDJCRWlqRHVSTlJkMlRFY0tXRi1nejQzT1BkcWJJUnRBMERUM29JdlN2QWNMbzRDSGEwNnZaLS1TWjZ5bW1YbURYbQ?oc=5",
-      "published": "2026-08-21T09:12:00+00:00"
-    },
-    {
-      "brand": "Samsung",
-      "market": "UK",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "Samsung may appeal $11.6 million UK ruling over Swatch watch faces - Sammy Fans",
-      "summary": "Samsung may appeal $11.6 million UK ruling over Swatch watch faces Sammy Fans",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUldPNGxFWjJYdW05dVlGbUpsNlplZVFYYUJtaXA5NGtHdWVNT0pZLWVIMUxlSTNCanBsZzdYX0NVLWJFd1Iwd2VyUXBKQk9KLTk3NkFOakF5RVBXQk5naFFIY2tIZ01mVlcybXB2ZlBBaWVKSUd0djRiSmptaGhuM01TdVRWZU400gGOAUFVX3lxTE9JTU15bUlnMnlVbGNyVTcxYXY5T2VqUk1SNWpsSzU4QkRhRTdlN0FaRnExOHJFUmxWdEdDVGpDVnhGRHJvRllmTTI3NU4ycXVvQVBvX1hqaTNRdHZyOXphcXIzZ3NKQ0lrZ0FfQ0lTeF9rZW0wX0FtNWphbElrZ1JPdmNVR1RvcGJrbUtJTkE?oc=5",
-      "published": "2026-08-27T04:54:30+00:00"
-    },
-    {
       "brand": "Garmin",
       "market": "Global",
       "source_kind": "Discovery",
@@ -1821,7 +1801,7 @@
       "title": "What Garmin's 'Recovery Time' Estimate Actually Means - Lifehacker",
       "summary": "What Garmin's 'Recovery Time' Estimate Actually Means Lifehacker",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iSkdURHVmV09vUnBOSXY0OTBUQnRrXzNpRFQ1YTcxZHJaeFItOFRXMS1ZT2VONkFINnUzOWJFU3U0WmlfN3BNUF9MVnNBN05aSTQ3RjE3U0FtVmNkeG8zNk42VVJTUmdRTnI4?oc=5",
-      "published": "2026-08-20T19:00:24+00:00"
+      "published": "2026-08-20T07:00:00+00:00"
     },
     {
       "brand": "Garmin",
@@ -1848,20 +1828,20 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "Garmin Rarely Discounts These Watches—But Models Like the Vivoactive and More Are on Sale for Nearly 40% Off - Runner's World",
-      "summary": "Garmin Rarely Discounts These Watches—But Models Like the Vivoactive and More Are on Sale for Nearly 40% Off Runner's World",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10VkdZODgwRHhtRnFBZmNiUndjNU5KZlJ3emN4S3JUd3hYRGZ2ZUZxNlhFbUthakNaNzhvZ1NCNmNLVHdDbGRQUWxQMGxtVm9Sck1IRkE5U0E2LXFKQk5Sc0JHbnpwT2s1WVRhRG85eGhWcXk3anB5b2h6WQ?oc=5",
-      "published": "2026-08-20T10:00:00+00:00"
+      "title": "The Garmin Instinct 3 gets 18 days of battery on a single charge — it’s $150 off right now (and it’s lowest price ever) - NBC News",
+      "summary": "The Garmin Instinct 3 gets 18 days of battery on a single charge — it’s $150 off right now (and it’s lowest price ever) NBC News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSTJjOHd4aTIxTTliV2hRcE5TQ3plZWd0TzZtSF9wMUFZZUNYZ1BVbWlXV1BMZXdhZFd3aS0yclFCRFJ2U2VUbVZPeHBPZ2lkQUtOU2Fhd1FTakQ3Z1FvRVR6UjRkcjJ4aHEzQTZOYnl1OUpUQk9yUDQ1MEE2UU5VSll6VEk1WVU3YlAxUENBbGJZVzA?oc=5",
+      "published": "2026-08-21T14:56:39+00:00"
     },
     {
       "brand": "Garmin",
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "The Garmin Instinct 3 gets 18 days of battery on a single charge — it’s $150 off right now (and it’s lowest price ever) - NBC News",
-      "summary": "The Garmin Instinct 3 gets 18 days of battery on a single charge — it’s $150 off right now (and it’s lowest price ever) NBC News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSTJjOHd4aTIxTTliV2hRcE5TQ3plZWd0TzZtSF9wMUFZZUNYZ1BVbWlXV1BMZXdhZFd3aS0yclFCRFJ2U2VUbVZPeHBPZ2lkQUtOU2Fhd1FTakQ3Z1FvRVR6UjRkcjJ4aHEzQTZOYnl1OUpUQk9yUDQ1MEE2UU5VSll6VEk1WVU3YlAxUENBbGJZVzA?oc=5",
-      "published": "2026-08-21T14:56:39+00:00"
+      "title": "Garmin Rarely Discounts These Watches—But Models Like the Vivoactive and More Are on Sale for Nearly 40% Off - Runner's World",
+      "summary": "Garmin Rarely Discounts These Watches—But Models Like the Vivoactive and More Are on Sale for Nearly 40% Off Runner's World",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10VkdZODgwRHhtRnFBZmNiUndjNU5KZlJ3emN4S3JUd3hYRGZ2ZUZxNlhFbUthakNaNzhvZ1NCNmNLVHdDbGRQUWxQMGxtVm9Sck1IRkE5U0E2LXFKQk5Sc0JHbnpwT2s1WVRhRG85eGhWcXk3anB5b2h6WQ?oc=5",
+      "published": "2026-08-20T07:00:00+00:00"
     },
     {
       "brand": "Garmin",
@@ -1891,7 +1871,7 @@
       "title": "Why are some of us so obsessed with our Garmin fitness age? A professor of psychology explains - Yahoo",
       "summary": "Why are some of us so obsessed with our Garmin fitness age? A professor of psychology explains Yahoo",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQemhrUlVyVjd1XzZfOGk3RXMwR0ZlRzRya2R3WXZLNEZVSFNFRU9zeTMyaTk1LXZSMEp5bkJURm1nSjlLNDNLa1FoQjgyUVFBUlBSeFVsWHVzOTVNdXpmck4tX2F1dThnbUNLdlFTckhmV0pOZTRQbF9BWmpKNEZ0X0lBaXMyWkFZLW5QZjFQQQ?oc=5",
-      "published": "2026-08-20T05:00:00+00:00"
+      "published": "2026-08-19T07:00:00+00:00"
     },
     {
       "brand": "Garmin",
@@ -1908,60 +1888,10 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "Best fitness tracker deal: Save $50 on the Garmin Forerunner 165 - Mashable",
-      "summary": "Best fitness tracker deal: Save $50 on the Garmin Forerunner 165 Mashable",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13b0hNdThWS01SRDJlOF9Ga0dLVVZueHFNR3RGb3JXZVJNU2F4cUI5Y2UwS3ZfeTE0X1hnb21kQm52ZDliRHluYzI0b1A4cF9sbWgzZ0haMFY4Wm5WSlllWEYxUTRkNExudGlj?oc=5",
-      "published": "2026-08-27T10:56:17+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "I just hiked and ran 12k in the Alps with the Garmin Fenix 9 Pro – there are 3 epic features I can’t wait to spend more time with - TechRadar",
-      "summary": "I just hiked and ran 12k in the Alps with the Garmin Fenix 9 Pro – there are 3 epic features I can’t wait to spend more time with TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZllOTU1PTENBSW94SG1FQ3ZPektJWllaV2dxYXdndVZYODlFRm5EQ0VIZEhRTWpLYzlPb3Z2aFdtdlNMUDFwblFxRW15T19nMWx5RHZlMDRCLUhUdWJMcmRCZjVqVlJ1cUJnUDB0MERfNnprZ1BnRk12dWtDX3UtdnhoeWIzdzZjcWJsbnBuT3lQaDdacjBKY0dpWQ?oc=5",
-      "published": "2026-08-26T11:26:28+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "Prime Day smartwatch and fitness tracker deals: Fitbit, Apple, Garmin on sale now - Mashable",
-      "summary": "Prime Day smartwatch and fitness tracker deals: Fitbit, Apple, Garmin on sale now Mashable",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeW1SLWZ2ZDFfWlFDVmVnS3ktNXNTYS1VcmdMWDgwdFlCOTN5ekJxWm9LSUYyZG10dE45T0R0UWx1TmdnbjExaEpJTUpZTHVPTUkwaWxaVE1CTWtmM1ZSU01NMnh6eGd1OG9OVktWVE1NcG5UOHVIbExGTzM4cWtBdXlSSQ?oc=5",
-      "published": "2026-08-25T09:00:00+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "The Garmin Venu 3 is a 'near-perfect balance of smartwatch and health tracker' — and it just dropped to its lowest price yet - TechRadar",
-      "summary": "The Garmin Venu 3 is a 'near-perfect balance of smartwatch and health tracker' — and it just dropped to its lowest price yet TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdzlxTU1FT2d2T1RrYThQRFNXSlY1eVJVUTlVX1ZjS2JHOG5VbHoxTEs5MXpmRjVpX1E4d1BaRVV4aEVhZ0kxRWFCSVU5OHR4QmhyM3lDdUpLZjRUdUs0b2pnTEp1aFVNbXFvTHlVclRGMndwMEJsYXlMWlgwRXNmNzFxR0Y4Zm1qUUk5Nnh0NXBMbTNVSzF3d3NwVGNJbjFvWWVGSDJNQmNqSTZ5d2JtTEc1Q2RLd3pvNXlMZWx0Mm1pX01zY2czaEF1dkl4V1NMdkItbDh1T0JkdUVBS0ZfS3drOGl6SDVBSjFjRDNPZHdGTzdlTFk3bFctNTFqdlZXb2paVg?oc=5",
-      "published": "2026-08-23T20:01:13+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "Best Garmin deal: Save $155.99 on Garmin Venu 3S - Mashable",
-      "summary": "Best Garmin deal: Save $155.99 on Garmin Venu 3S Mashable",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aeTA0b1pZbWNsZmRXQWk4Z0dvZU1fMHpNQVhNcmtCbUV6VERiU0RvN0l2YzVTTkFQWVJHODRtQWh4bVRwbEE1ZmFXeVY1QXIzQ25QWjRXY0F6alpzRzNWVld3?oc=5",
-      "published": "2026-08-27T04:54:30+00:00"
-    },
-    {
-      "brand": "Garmin",
-      "market": "Global",
-      "source_kind": "Discovery",
-      "content_type": "Wearable Content",
-      "title": "Garmin just scheduled a YouTube live event, and it's got to be the Fenix 9 - TechRadar",
-      "summary": "Garmin just scheduled a YouTube live event, and it's got to be the Fenix 9 TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUVQzT0tBTXFrUEpfbS1rWUdGWlV4UlZYSmdVQ1F4Qk1sSWlqaVBUVTVEdmkxamhjT3RSaFlSTmRPWkRsVmpXMW1NTEpmVVdFdGJ6YlI0dGFmSHNiUy13bGhORnpyTFVmNG5wWldmMFJ6OFNoeEY3aHJLZjZyRjcwaTZPVEFYRC1IYTB0NmxpcEhVeDg1RFhQWHZPNFFnZm40RHVtT0Z4bGVLX2EtbXFvUmgxOWZGS0tQVmpDQlYycEswLUtGU0JZZkppUFByZEZneUpKZVM2RnJnUWoyN255QmlJWnBkdkd5WlZNci0zMjVtTHdMTm5CcWJkMzdtMmtvUzM2VnprUGthajdMcy1zS0otUQ?oc=5",
-      "published": "2026-08-25T11:43:15+00:00"
+      "title": "What are the best triathlon watches? These are our favourite models and brands for beginners to pros - 220 Triathlon",
+      "summary": "What are the best triathlon watches? These are our favourite models and brands for beginners to pros 220 Triathlon",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOGRFR3dzMnE5ZjNPSzVmRTRCZU9HVXdSVFBCU3lZbFJ5cU8zUnA1b1Yzcy1CczdndmJpbzl0TjlKRW5MVDk4MWg3MHU3R2xnXzd5UlU5LTYwcXNENzJwdVNYek4xd1BUd0tmeUhFeWUtaFp0ZENHbHBvV2FzTDlRVUg4YmQtM2FjSHBFc1VSd1RFbTdrX2FjTQ?oc=5",
+      "published": "2026-08-21T08:18:16+00:00"
     },
     {
       "brand": "Garmin",
@@ -1978,10 +1908,40 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "What are the best triathlon watches? These are our favourite models and brands for beginners to pros - 220 Triathlon",
-      "summary": "What are the best triathlon watches? These are our favourite models and brands for beginners to pros 220 Triathlon",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOGRFR3dzMnE5ZjNPSzVmRTRCZU9HVXdSVFBCU3lZbFJ5cU8zUnA1b1Yzcy1CczdndmJpbzl0TjlKRW5MVDk4MWg3MHU3R2xnXzd5UlU5LTYwcXNENzJwdVNYek4xd1BUd0tmeUhFeWUtaFp0ZENHbHBvV2FzTDlRVUg4YmQtM2FjSHBFc1VSd1RFbTdrX2FjTQ?oc=5",
-      "published": "2026-08-21T08:18:16+00:00"
+      "title": "Garmin just priced me out of the Fenix 9 — Here’s what you can get for less - TechRadar",
+      "summary": "Garmin just priced me out of the Fenix 9 — Here’s what you can get for less TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY1pKTEtWTzRyRWFxSDdvVU9CS3NMUjFHNXkwS1BvdHE3RGNpcWdKeW1KQ2JNQk92amtnTWt6aFFyaFh6WUdjUDU1UFlnaUh0UERPNHVoU1VSYXNUakFLZHFwRW1yNW9aN2lGdkpRZ01DRlNNc3hQbkRFRnFnLWpmRXJxWkFLbGFsMVU2M2l5d0hvU0VjQklrQk9NbHd1Z2ZVR2dJVjU5MjFHSzhUNWQwd0toNnlkOTlyMDNrTXlhVUktQjlsMUc1RWdicEhwZw?oc=5",
+      "published": "2026-08-28T05:02:53+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
+      "title": "I just hiked and ran 12k in the Alps with the Garmin Fenix 9 Pro – there are 3 epic features I can’t wait to spend more time with - TechRadar",
+      "summary": "I just hiked and ran 12k in the Alps with the Garmin Fenix 9 Pro – there are 3 epic features I can’t wait to spend more time with TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZllOTU1PTENBSW94SG1FQ3ZPektJWllaV2dxYXdndVZYODlFRm5EQ0VIZEhRTWpLYzlPb3Z2aFdtdlNMUDFwblFxRW15T19nMWx5RHZlMDRCLUhUdWJMcmRCZjVqVlJ1cUJnUDB0MERfNnprZ1BnRk12dWtDX3UtdnhoeWIzdzZjcWJsbnBuT3lQaDdacjBKY0dpWQ?oc=5",
+      "published": "2026-08-26T11:26:28+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
+      "title": "Garmin just scheduled a YouTube live event for 25 August — and it's got to be the Fenix 9 reveal - TechRadar",
+      "summary": "Garmin just scheduled a YouTube live event for 25 August — and it's got to be the Fenix 9 reveal TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUVQzT0tBTXFrUEpfbS1rWUdGWlV4UlZYSmdVQ1F4Qk1sSWlqaVBUVTVEdmkxamhjT3RSaFlSTmRPWkRsVmpXMW1NTEpmVVdFdGJ6YlI0dGFmSHNiUy13bGhORnpyTFVmNG5wWldmMFJ6OFNoeEY3aHJLZjZyRjcwaTZPVEFYRC1IYTB0NmxpcEhVeDg1RFhQWHZPNFFnZm40RHVtT0Z4bGVLX2EtbXFvUmgxOWZGS0tQVmpDQlYycEswLUtGU0JZZkppUFByZEZneUpKZVM2RnJnUWoyN255QmlJWnBkdkd5WlZNci0zMjVtTHdMTm5CcWJkMzdtMmtvUzM2VnprUGthajdMcy1zS0otUQ?oc=5",
+      "published": "2026-08-25T11:43:15+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
+      "title": "The Garmin Venu 3 is a 'near-perfect balance of smartwatch and health tracker' — and it just dropped to its lowest price yet - TechRadar",
+      "summary": "The Garmin Venu 3 is a 'near-perfect balance of smartwatch and health tracker' — and it just dropped to its lowest price yet TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdzlxTU1FT2d2T1RrYThQRFNXSlY1eVJVUTlVX1ZjS2JHOG5VbHoxTEs5MXpmRjVpX1E4d1BaRVV4aEVhZ0kxRWFCSVU5OHR4QmhyM3lDdUpLZjRUdUs0b2pnTEp1aFVNbXFvTHlVclRGMndwMEJsYXlMWlgwRXNmNzFxR0Y4Zm1qUUk5Nnh0NXBMbTNVSzF3d3NwVGNJbjFvWWVGSDJNQmNqSTZ5d2JtTEc1Q2RLd3pvNXlMZWx0Mm1pX01zY2czaEF1dkl4V1NMdkItbDh1T0JkdUVBS0ZfS3drOGl6SDVBSjFjRDNPZHdGTzdlTFk3bFctNTFqdlZXb2paVg?oc=5",
+      "published": "2026-08-23T20:01:13+00:00"
     },
     {
       "brand": "Garmin",
@@ -1998,10 +1958,10 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
-      "title": "Garmin Cirqa vs Fitbit Air vs Whoop 5.0 vs Oura Ring 5: Which fitness tracker should you buy? - Yahoo Tech",
-      "summary": "Garmin Cirqa vs Fitbit Air vs Whoop 5.0 vs Oura Ring 5: Which fitness tracker should you buy? Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRjRWNVFESXdrLVB2Y3psZTdCTEpteDcwVkRhQ0UteVpCdXhYUWZabDdHWEZqaHp5LVlmT3IzSkQ3bmhQVmFkQnN4Z2V0a240b01hLWx4RnRHWVR6NW9Kam9jTVNDbGlrUS1GbGJyZXhHSl9kd3JVTTg3YXlUNG1lOXQ2YXp2d0ZCaEhR?oc=5",
-      "published": "2026-08-21T06:00:00+00:00"
+      "title": "Best Garmin deal: Save $155.99 on Garmin Venu 3S - Mashable",
+      "summary": "Best Garmin deal: Save $155.99 on Garmin Venu 3S Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aeTA0b1pZbWNsZmRXQWk4Z0dvZU1fMHpNQVhNcmtCbUV6VERiU0RvN0l2YzVTTkFQWVJHODRtQWh4bVRwbEE1ZmFXeVY1QXIzQ25QWjRXY0F6alpzRzNWVld3?oc=5",
+      "published": "2026-08-28T21:17:05+00:00"
     },
     {
       "brand": "Garmin",
@@ -2021,7 +1981,7 @@
       "title": "These Garmin Watches Are Up to 40% Off Right Now - Lifehacker",
       "summary": "These Garmin Watches Are Up to 40% Off Right Now Lifehacker",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iMjU1cDN6Q2lUUHNrZG5lZWpha0lsSDlHek5YVUxRWUFROEVXN2YwM0dDVGUyamdtQ2lTV2syb0lGcFlmcS1JV29tUTJ6Y1RCVV9hVUV4bEY0clNkWlBSMFNYN1ZFRzNWRTA3U0cxaFVZQQ?oc=5",
-      "published": "2026-08-20T16:00:39+00:00"
+      "published": "2026-08-20T07:00:00+00:00"
     },
     {
       "brand": "Garmin",
@@ -2048,10 +2008,60 @@
       "market": "Global",
       "source_kind": "Discovery",
       "content_type": "Wearable Content",
+      "title": "The Garmin Venu 3 is finally affordable with battery life that puts Wear OS watches to shame - Android Police",
+      "summary": "The Garmin Venu 3 is finally affordable with battery life that puts Wear OS watches to shame Android Police",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqX3V2dDg0dzRuS1BEZXRrOENsSm8yeDJxcGVIN3ZiZW41Z3ozTXo5dnBCZFFTZEI2RmdudEI5WndOYmpLM1hUTU8wRThSdjhiZEZlOVZuYWtrcG01TW93OExPMHBQa1BxSjNHOV93NU5UR0JPT2pGYkdSeHB6QQ?oc=5",
+      "published": "2026-08-17T07:00:00+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
       "title": "Garmin Venu 4, Venu 3, and Venu 3S fitness smartwatches drop to great prices - Neowin",
       "summary": "Garmin Venu 4, Venu 3, and Venu 3S fitness smartwatches drop to great prices Neowin",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSU4tRWZwY1NZMVBwNUNMZC1vR3ZGY1luZTJDNTlBUXB0Ukh2REhkcDVGM3hzbEJsVDNDT0w1VTBTSUNaODNDYVZVSGFfZVl3dGFjcHdTQ0gzMllfdlM4X3FJNi1HSFd5bmlZNFc1Y1RZcW84bDBSSlJvMS1pUUVDaWRxOF9KTGRLYlpEZGhEZk4weWZmcDR1ZWthaE1OMVZNQm1hWEk1d9IBpAFBVV95cUxObjdXeTc3Vi1Ya1BHQ1lOWDk0ZlVTMVR5WXlXOGh6eG9WZUJGWWhvRDU1Z1JHVzZsdEQwRlp6YTJocXF6WDVEblJ4Um1mRXZ5aTBkUFpxZ1NBSXZfQzFCT3BOaFRySng0Q3c4QVF6a2FyaEgwQUdacHBHa3VWT0l3SEFXX3Vqa2lXdDh4UkZGTE9ibWFPekJGMTdCMXU5UnIxb045RA?oc=5",
       "published": "2026-08-20T11:00:00+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
+      "title": "The 'excellent' Garmin Venu 3 just crashed to a record low price — but is the 2023 smartwatch still worth it? - Android Central",
+      "summary": "The 'excellent' Garmin Venu 3 just crashed to a record low price — but is the 2023 smartwatch still worth it? Android Central",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWFF5WGltNzYzMkV0ODlMX3l1OW1ETU1mcHR6R0JJbERJNEIzZEFvZVpjOTRrTHQzMnhIdDgxbHlzdHBKWDZpSjdTdFBNUDhSS19jSjdSNmdHQ1NOdV82WDlvSG1CS1BBMDhUSlVYdVdfTGhmZWFKckN3VEpWaXVacld5Qmo4Q3VOaWdGYmxSbndjajFVODBHc1RxTFFRdV9vSGtucHRGVzhUTW5aM3FTWUdjTkZLM1pjQktkYWF1TFUzNGpENGFGaHZpcExJNlpDWDNfOVdRTnlWcTVVZnJrazNLMlhWRnc?oc=5",
+      "published": "2026-08-24T15:57:15+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Global",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
+      "title": "Where to buy the Garmin Fenix 9 and Fenix 9 Pro: New features, release date, and launch price - Mashable SEA",
+      "summary": "Where to buy the Garmin Fenix 9 and Fenix 9 Pro: New features, release date, and launch price Mashable SEA",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUhLbEh3QVh6X2NkdjNqWVZqdGFQWE9sVTRnZXFLUV90eHlwRVhiSFVVUHA3R1FXV1oyaHAyUWRUMW5GMUFlSzVEQlNPdUtOLThOanlCd18wNGdmUEM4NnotZmxscVBIR1djQWR1d1ZZdzJPVXJOTTlIRC1VcVFQTDFRb3RtVlg5OF91RG5lSEZVekFfT0xXdHowWEJ5V210ejNOXzI1clBmbXN3cDlxa3dpcGZCeUVKbmFvajBBOWtXX21Q?oc=5",
+      "published": "2026-08-25T15:10:54+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Malaysia",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
+      "title": "Garmin’s new fēnix 9 and fēnix 9 Pro combines training journey with story sharing - My Everyday Tech",
+      "summary": "Garmin’s new fēnix 9 and fēnix 9 Pro combines training journey with story sharing My Everyday Tech",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SZ0ppMG1PZzhlaGlvSXlrS0FjNjFIQnlPbTloYmhFOE1DakVnVzdiaVFGYnoxSGxhSkhXa3BNajljTXBzUEVMX2VZc29qTE1wM2RxME9idFNmVlNRZkwtMXZqYVpua2tVZmVhZG5ZbzVQUjhxalVvazZId05LMjg?oc=5",
+      "published": "2026-08-28T11:54:43+00:00"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Malaysia",
+      "source_kind": "Discovery",
+      "content_type": "Wearable Content",
+      "title": "Garmin Malaysia showcases all-new fēnix 9 and fēnix 9 Pro flagship smartwatches - Nasi Lemak Tech",
+      "summary": "Garmin Malaysia showcases all-new fēnix 9 and fēnix 9 Pro flagship smartwatches Nasi Lemak Tech",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4dzZ6YkppUF9fdnFBNmNvQnI2ZXlvSk93TC1GTWlFOWRHeDNHOTdYOE9FYVo1WWZBRXJpSERFODh4OWJ4aHd3eVpSbnlMUXpFR3ZiZy1XSWNVendVQllUT0RGcVI5VHU1SEVBOGxPOFNKTTlnN000eHZ3?oc=5",
+      "published": "2026-08-26T12:58:31+00:00"
     }
   ],
   "pageSnapshots": [
@@ -2097,7 +2107,7 @@
       "title": "Explore Samsung Watches | Galaxy Smartwatches | Samsung US",
       "h1": "",
       "headings": "global navigation bar | | | | | What's new | Galaxy Watch Ultra2 | Galaxy Watch9 | Galaxy Watch8 Classic | Compare the models | Galaxy Connected Experience | Audio with Buds | Call and text | Remote Camera Controller | Footer Navigation | SHOP | PRODUCT | SUPPORT | ACCOUNT | SUSTAINABILITY",
-      "text_hash": "3d5b3afb4f09a9765bbd0d7223ce53f60f26db323cb69529d216a600560539c5"
+      "text_hash": "ebc706e910e7798a6852abe1496d2f16ea1685747403b06b9ac919091a6ab2a3"
     },
     {
       "brand": "Samsung",
@@ -2108,7 +2118,7 @@
       "title": "Buy Samsung Smart Watches Online at Best Price | Samsung Malaysia",
       "h1": "Galaxy Watch",
       "headings": "global navigation bar | | | | What's New | Explore Samsung Galaxy Watch series | Galaxy Watch Ultra2 | Galaxy Watch9 | Galaxy Watch8 Classic | Galaxy Fit3 | Compare the models | Footer Navigation | Shop | Product | Support | Account | Sustainability | About Us",
-      "text_hash": "25c6c1bbecf26f285a9af2bd00ca547949479f88f4af7ca23d4137dcb304c5a7"
+      "text_hash": "40615b5860c451cd71c379bf23090766d81df31292e2eda5a803b7b342d518ea"
     },
     {
       "brand": "Samsung",
@@ -2119,7 +2129,7 @@
       "title": "Latest Watches | Full Watch Range & Deals | Samsung UK",
       "h1": "Galaxy Watch | Compare the models",
       "headings": "global navigation bar | | | | What's New | Explore Samsung Galaxy Watch series | Galaxy Watch Ultra2 | Galaxy Watch9 | Galaxy Watch8 Classic | Galaxy Fit3 | Footer Navigation | Shop | Product | Support | Account | Sustainability | About Us",
-      "text_hash": "3a8d634e416334af57b83f5c2ad3566a3ecebb5807dcc0b5842a26d21c3a3301"
+      "text_hash": "6824b9420da728af3168d0a6b87f531935456ec3eaac33f8863fbb65408ddc94"
     },
     {
       "brand": "Garmin",
