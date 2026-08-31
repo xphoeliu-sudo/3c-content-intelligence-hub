@@ -1,0 +1,220 @@
+{
+  "rss_sources": [
+    {
+      "brand": "Apple",
+      "market": "Global",
+      "source_type": "Official",
+      "url": "https://www.apple.com/newsroom/rss-feed.rss",
+      "allow_nonwearable": true
+    },
+    {
+      "brand": "Samsung",
+      "market": "Global",
+      "source_type": "Discovery",
+      "url": "https://news.google.com/rss/search?q=site%3Anews.samsung.com%2Fglobal%20%28Galaxy%20Watch%20OR%20Galaxy%20Buds%20OR%20wearable%29%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "allow_nonwearable": true
+    },
+    {
+      "brand": "Garmin",
+      "market": "Global",
+      "source_type": "Discovery",
+      "url": "https://news.google.com/rss/search?q=site%3Agarmin.com%20%28smartwatch%20OR%20wearable%20OR%20fitness%29%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "allow_nonwearable": true
+    }
+  ],
+  "official_hubs": [
+    {
+      "brand": "Apple",
+      "market": "Global",
+      "url": "https://www.apple.com/watch/"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Global",
+      "url": "https://news.samsung.com/global/",
+      "allow_nonwearable": true
+    },
+    {
+      "brand": "Apple",
+      "market": "China",
+      "url": "https://www.apple.com.cn/watch/"
+    },
+    {
+      "brand": "Samsung",
+      "market": "China",
+      "url": "https://www.samsung.com.cn/watches/"
+    },
+    {
+      "brand": "Apple",
+      "market": "Malaysia",
+      "url": "https://www.apple.com/my/watch/"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Malaysia",
+      "url": "https://www.samsung.com/my/watches/"
+    },
+    {
+      "brand": "Apple",
+      "market": "UK",
+      "url": "https://www.apple.com/uk/watch/"
+    },
+    {
+      "brand": "Samsung",
+      "market": "UK",
+      "url": "https://www.samsung.com/uk/watches/"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Global",
+      "url": "https://www.garmin.com/en-US/c/wearables-smartwatches/"
+    },
+    {
+      "brand": "Garmin",
+      "market": "China",
+      "url": "https://www.garmin.com.cn/products/wearables/"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Malaysia",
+      "url": "https://www.garmin.com.my/products/wearables/"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "url": "https://www.garmin.com/en-GB/c/wearables-smartwatches/"
+    }
+  ],
+  "discovery_queries": [
+    {
+      "brand": "Apple",
+      "market": "Global",
+      "query": "Apple Watch OR AirPods OR wearable launch campaign video how-to when:7d"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Global",
+      "query": "Galaxy Watch OR Galaxy Buds OR Samsung wearable launch campaign video when:7d"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Global",
+      "query": "Garmin smartwatch OR fitness wearable launch campaign athlete video when:7d"
+    },
+    {
+      "brand": "Apple",
+      "market": "Global",
+      "query": "Apple new product launch event marketing campaign wearable when:7d"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Global",
+      "query": "Samsung Galaxy launch event campaign wearable when:7d"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Global",
+      "query": "Garmin launch event campaign partnership wearable when:7d"
+    }
+  ],
+  "amazon_queries": [
+    {
+      "query": "Amazon smartwatch bestseller new wearable trending Apple Watch Garmin Samsung when:7d"
+    },
+    {
+      "query": "Amazon wearable bestseller smart ring fitness tracker earbuds trending when:7d"
+    },
+    {
+      "query": "Apple Amazon store Apple Watch AirPods A+ content strategy when:14d"
+    },
+    {
+      "query": "Amazon wearable deals new product launch trending tech when:7d"
+    }
+  ],
+  "pages": [
+    {
+      "brand": "Apple",
+      "market": "Global",
+      "page_type": "PCP",
+      "product": "Apple Watch",
+      "url": "https://www.apple.com/watch/"
+    },
+    {
+      "brand": "Apple",
+      "market": "China",
+      "page_type": "PCP",
+      "product": "Apple Watch",
+      "url": "https://www.apple.com.cn/watch/"
+    },
+    {
+      "brand": "Apple",
+      "market": "Malaysia",
+      "page_type": "PCP",
+      "product": "Apple Watch",
+      "url": "https://www.apple.com/my/watch/"
+    },
+    {
+      "brand": "Apple",
+      "market": "UK",
+      "page_type": "PCP",
+      "product": "Apple Watch",
+      "url": "https://www.apple.com/uk/watch/"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Global",
+      "page_type": "PCP",
+      "product": "Galaxy Watch",
+      "url": "https://www.samsung.com/us/watches/"
+    },
+    {
+      "brand": "Samsung",
+      "market": "China",
+      "page_type": "PCP",
+      "product": "Galaxy Watch",
+      "url": "https://www.samsung.com.cn/watches/"
+    },
+    {
+      "brand": "Samsung",
+      "market": "Malaysia",
+      "page_type": "PCP",
+      "product": "Galaxy Watch",
+      "url": "https://www.samsung.com/my/watches/"
+    },
+    {
+      "brand": "Samsung",
+      "market": "UK",
+      "page_type": "PCP",
+      "product": "Galaxy Watch",
+      "url": "https://www.samsung.com/uk/watches/"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Global",
+      "page_type": "PCP",
+      "product": "Smartwatches",
+      "url": "https://www.garmin.com/en-US/c/wearables-smartwatches/"
+    },
+    {
+      "brand": "Garmin",
+      "market": "China",
+      "page_type": "PCP",
+      "product": "Smartwatches",
+      "url": "https://www.garmin.com.cn/products/wearables/"
+    },
+    {
+      "brand": "Garmin",
+      "market": "Malaysia",
+      "page_type": "PCP",
+      "product": "Smartwatches",
+      "url": "https://www.garmin.com.my/products/wearables/"
+    },
+    {
+      "brand": "Garmin",
+      "market": "UK",
+      "page_type": "PCP",
+      "product": "Smartwatches",
+      "url": "https://www.garmin.com/en-GB/c/wearables-smartwatches/"
+    }
+  ]
+}
