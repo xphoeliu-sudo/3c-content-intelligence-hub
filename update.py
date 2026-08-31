@@ -59,27 +59,55 @@ def official(src):
             out.append({"brand":src["brand"],"market":src["market"],"source_type":"Official","title":t,"summary":"","url":u,"date":iso(),"format":classify(t,"",u)})
     except Exception as ex: print("[OFFICIAL ERROR]",src["brand"],src["market"],ex)
     return out
-def youtube(q,brand,market,n=8):
+def youtube_channel(url,brand,market,n=12):
+    """Read videos from a known official channel URL. This is deliberately NOT a keyword search."""
     out=[]
     try:
         import yt_dlp
         opts={"quiet":True,"skip_download":True,"extract_flat":True,"playlistend":n,"ignoreerrors":True}
         with yt_dlp.YoutubeDL(opts) as y:
-            info=y.extract_info("ytsearch"+str(n)+":"+q,download=False)
-        for e in (info.get("entries") or []):
+            info=y.extract_info(url.rstrip('/')+"/videos",download=False)
+        entries=info.get("entries") or []
+        for e in entries[:n]:
             if not e or not e.get("id"): continue
-            t=clean(e.get("title",""));u="https://www.youtube.com/watch?v="+e["id"]
+            t=clean(e.get("title","")); u=e.get("webpage_url") or ("https://www.youtube.com/watch?v="+e["id"])
+            # Channel is already constrained by the URL; keyword filtering is only used to prioritise wearables.
             if not relevant(t,True): continue
-            out.append({"brand":brand,"market":market,"source_type":"YouTube","platform":"YouTube","title":t,"summary":"","url":u,"thumbnail":f"https://i.ytimg.com/vi/{e['id']}/hqdefault.jpg","date":e.get("upload_date","") or iso(),"format":classify(t,"",u),"embed":u})
-    except Exception as ex: print("[YOUTUBE ERROR]",brand,market,ex)
+            d=e.get("upload_date","") or iso()
+            out.append({"brand":brand,"market":market,"source_type":"Official Social","platform":"YouTube","account":url,
+                        "title":t,"summary":clean(e.get("description",""))[:500],"url":u,
+                        "thumbnail":f"https://i.ytimg.com/vi/{e['id']}/hqdefault.jpg","date":d,
+                        "format":classify(t,e.get("description",""),u),"embed":u,"official":True,"contentSource":"Official"})
+    except Exception as ex: print("[YOUTUBE OFFICIAL ERROR]",brand,market,ex)
     return out
-def social():
+
+def official_social():
+    # These are known official channels, not search results. This prevents third-party reviewers from entering Official Social.
+    channels=[
+        ("Apple","Global","https://www.youtube.com/@Apple"),
+        ("Samsung","Global","https://www.youtube.com/@Samsung"),
+        ("Garmin","Global","https://www.youtube.com/@Garmin"),
+        ("Apple","Malaysia","https://www.youtube.com/@AppleMalaysia"),
+        ("Samsung","Malaysia","https://www.youtube.com/@SamsungMalaysia"),
+        ("Garmin","Malaysia","https://www.youtube.com/@GarminMalaysiaAsia"),
+    ]
     out=[]
-    for b,m,q in [("Apple","Global","Apple official Apple Watch"),("Samsung","Global","Samsung official Galaxy Watch"),("Garmin","Global","Garmin official smartwatch fitness"),("Apple","Malaysia","Apple Malaysia Apple Watch"),("Samsung","Malaysia","Samsung Malaysia Galaxy Watch"),("Garmin","Malaysia","Garmin Malaysia smartwatch")]:
-        out+=youtube(q,b,m,8)
+    for b,m,u in channels: out+=youtube_channel(u,b,m,12)
+    return dedupe(out)
+
+def creator_discovery():
+    # Third-party content is kept separate so it can never contaminate Official Social.
+    out=[]
     for b,m in [("Apple","Global"),("Samsung","Global"),("Garmin","Global"),("Apple","Malaysia"),("Samsung","Malaysia"),("Garmin","Malaysia")]:
-        out+=gnews(f'"{b}" Instagram OR TikTok watch OR wearable OR earbuds when:7d',b,m)
+        out+=gnews(f'"{b}" (review OR unboxing OR hands-on OR how-to OR tutorial) (watch OR wearable OR earbuds) when:7d',b,m)
+    for b,m in [("Apple","Global"),("Samsung","Global"),("Garmin","Global")]:
+        out+=gnews(f'"{b}" Instagram OR TikTok (watch OR wearable OR earbuds) when:7d',b,m)
     return dedupe(out)[:80]
+
+def social():
+    official=official_social(); creators=creator_discovery()
+    print(f"Official social items: {len(official)}; creator/media discovery items: {len(creators)}")
+    return official+creators
 def page(url,brand,market,ptype,product):
     try:
         r=fetch(url,30);s=BeautifulSoup(r.text,"html.parser");text=clean(s.get_text(" ",strip=True))
@@ -120,15 +148,18 @@ def collect_market(c):
     for q in c["discovery_queries"]: a+=gnews(q["query"],q["brand"],q["market"])
     return dedupe(a)
 def filter_evidence(items):
+    # Keep a wider evidence pool. The previous V6 hard cap made Market & Product too sparse.
     scored=[]
     for x in items:
-        t=(x["title"]+" "+x["summary"]).lower();score=0
-        if any(k in t for k in ["launch","new","introducing","unveiled"]):score+=3
+        t=(x.get("title","")+" "+x.get("summary","")).lower();score=0
+        if any(k in t for k in ["launch","new","introducing","unveiled","announced","reveal","available"]):score+=3
         if any(k in t for k in WATCH):score+=3
-        if any(k in t for k in ["campaign","commercial","advert","athlete","ambassador","event"]):score+=2
-        if x["source_type"] in ["Official","YouTube"]:score+=2
-        if score>=3:scored.append((score,x))
-    scored.sort(key=lambda z:z[0],reverse=True);return [x for _,x in scored[:60]]
+        if any(k in t for k in ["campaign","commercial","advert","athlete","ambassador","event","partnership","collaboration","film","video"]):score+=2
+        if x.get("source_type") in ["Official","Official Social","YouTube"]:score+=2
+        # Keep all plausible competitor signals; AI does the final editorial selection.
+        if score>=2: scored.append((score,x))
+    scored.sort(key=lambda z:(z[0],z[1].get("date", "")),reverse=True)
+    return [x for _,x in scored[:120]]
 def ai(evidence,changes,socialx,amazon):
     key=os.getenv("DASHSCOPE_API_KEY")
     if not key:return None
@@ -140,18 +171,21 @@ Primary competitors: Apple, Samsung, Garmin. Wearables are the core.
 Market/product: Global. Product pages: Global, China, Malaysia, UK.
 Amazon/social: wearables first, but include clearly high-interest new/trending tech.
 Do not score anything. Do not invent facts, dates, people, engagement or rankings. Source facts must be traceable to URLs.
+For marketMoves, prefer breadth: include every clearly relevant Apple/Samsung/Garmin global product, technology, launch-event or marketing action found in the evidence. Do not arbitrarily cap the list at 6 or 10 items. Merge duplicates only.
+For socialWatch, NEVER label a third-party video as Official. Items with source_type="Official Social" and official=true are Official; all discovery/search items are Creator/Media unless the evidence explicitly proves an official account. Keep the two groups separate.
+Wearables are the priority, but include major non-wearable launches/campaigns when they are clearly new or high-interest.
 Return ONLY JSON:
 {{
 "marketMoves":[{{"brand":"","type":"New Product|Technology Update|Launch Event|Marketing Action","title":"","summary":"","date":"","url":"","whyItMatters":""}}],
 "pageInsights":[{{"brand":"","market":"","pageType":"PCP|PDP","product":"","structure":[],"sellingCopy":[],"commerceContent":[],"videoContent":[],"changeSummary":"","url":"","screenshot":""}}],
 "pageChanges":[{{"brand":"","market":"","pageType":"","product":"","changeSummary":"","sellingImpact":"","url":"","screenshot":""}}],
 "amazonWatch":[{{"scope":"Wearables|Trending Tech|Apple on Amazon","title":"","summary":"","product":"","url":"","whyItMatters":""}}],
-"socialWatch":[{{"brand":"","market":"","platform":"YouTube|Instagram|TikTok","title":"","format":"","product":"","date":"","url":"","thumbnail":"","whyItMatters":""}}],
+"socialWatch":[{{"brand":"","market":"","platform":"YouTube|Instagram|TikTok","contentSource":"Official|Creator/Media","account":"","title":"","format":"","product":"","date":"","url":"","thumbnail":"","whyItMatters":""}}],
 "keyTakeaways":[]
 }}
 EVIDENCE:{json.dumps(evidence,ensure_ascii=False)}
 PAGE CHANGES:{json.dumps(changes,ensure_ascii=False)}
-SOCIAL:{json.dumps(socialx[:60],ensure_ascii=False)}
+SOCIAL:{json.dumps(socialx[:120],ensure_ascii=False)}
 AMAZON:{json.dumps(amazon[:30],ensure_ascii=False)}"""
         r=c.chat.completions.create(model="qwen3.5-plus",messages=[{"role":"user","content":prompt}],temperature=0.1)
         txt=re.sub(r"^```json\s*|\s*```$","",r.choices[0].message.content.strip(),flags=re.S)
@@ -169,6 +203,10 @@ def main():
     for q in c["amazon_queries"]: am+=gnews(q["query"],"Amazon","Global")
     am=dedupe(am)[:30];print(f"Collected {len(am)} Amazon/trending discovery items.")
     result=ai(evidence,changes,sx,am) or old
-    result.update({"updatedAt":iso(),"timezone":"Asia/Kuala_Lumpur","rawMarketItems":raw[:120],"pageSnapshots":ps,"pageChanges":changes,"socialRaw":sx[:80],"amazonRaw":am[:30]})
+    # Split official and third-party social for the dashboard.
+    official_social_items=[x for x in sx if x.get("official") is True]
+    creator_social_items=[x for x in sx if x.get("official") is not True]
+    result.update({"updatedAt":iso(),"timezone":"Asia/Kuala_Lumpur","rawMarketItems":raw[:160],"pageSnapshots":ps,"pageChanges":changes,
+                   "officialSocialRaw":official_social_items[:80],"creatorSocialRaw":creator_social_items[:80],"socialRaw":sx[:160],"amazonRaw":am[:30]})
     json.dump(result,open(DATA,"w",encoding="utf-8"),ensure_ascii=False,indent=2);print("V6 update completed.")
 if __name__=="__main__":main()
